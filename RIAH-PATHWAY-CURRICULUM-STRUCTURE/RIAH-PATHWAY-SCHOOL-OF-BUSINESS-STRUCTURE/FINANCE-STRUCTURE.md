@@ -1,0 +1,420 @@
+# 👑RIAH Pathway.
+
+**Contributor; Mariah Dominique Rucker**
+
+There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
+
+Beta team members will be hired with **equity participation and compensation during the beta cohort**, which launches in **Spring 2027**.
+
+The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
+
+Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
+
+- **GitHub:** https://github.com/mariahdominiquerucker
+- **LinkedIn:** https://linkedin.com/in/mariahrucker
+- **Facebook:** https://facebook.com/heymariahrucker
+- **Instagram:** https://instagram.com/heymariahrucker
+- **Linktree:** https://linktr.ee/mariahrucker
+
+---
+
+# RIAH PATHWAY — FINANCE CURRICULUM
+
+# 🎓 RIAH Pathway Course Assessments, Capstone Supervision, and Included Products
+
+## 🏛️ Curriculum Architecture and Ongoing Development
+
+The curriculum is structured and architected by the Founder and CEO. Once the Founder has hired PhD-qualified faculty and adjunct faculty within each applicable major, the curriculum will be continually developed, revised, and reviewed by those faculty members alongside experiential professionals.
+
+Faculty hiring for the beta phase will include equity participation and compensation during the beta cohort and subsequent operations until operations are stable and accreditation is awarded.
+
+Experiential programs are integrated throughout the education curriculum where applicable, together with the corresponding product collections.
+
+| Curriculum Component | Responsibility or Integration |
+|---|---|
+| 🏛️ Structure and architecture | Established by the Founder and CEO |
+| 👥 Faculty hiring | The Founder will hire PhD-qualified faculty and adjunct faculty within each applicable major |
+| 🎓 Ongoing development, revision, and review | Will begin once the applicable faculty are hired and will involve those faculty members alongside experiential professionals |
+| 💼 Beta faculty arrangements | Equity participation and compensation during the beta cohort and subsequent operations until operations are stable and accreditation is awarded |
+| 🤝 Experiential programs | Integrated throughout the education curriculum where applicable |
+| 📦 Product collections | Integrated with the applicable curriculum, courses, school, and major |
+
+## 📝 Proctored Course Assessments
+
+All courses are proctored through objective assessments, performance assessments, or both. This requirement applies to both the general track without certifications and applicable certification tracks.
+
+| Assessment Requirement | Standard |
+|---|---|
+| 📋 Objective assessment | 25 questions per assessment |
+| 🛠️ Performance assessment | One task-based performance assessment |
+| ✅ Passing score | At least 80% on every required objective assessment and performance assessment |
+| 🔄 Assessment attempts | Unlimited attempts to pass course assessments |
+| 🔒 Course progression | Where applicable, remaining courses stay locked until required assessments are passed |
+
+## 📈 Student Pacing, Acceleration, and Completion
+
+RIAH Pathway education programs support acceleration based on each student’s academic readiness and pace. The earliest completion timeframe is **one month**, provided the student completes all required coursework, passes the required assessments, satisfies applicable prerequisites and supervision requirements, and makes the required payments. Any applicable mandatory program-duration or credentialing requirements remain controlling.
+
+| Education Pathway | Typical Completion Timeframe |
+|---|---|
+| 🎓 Associate’s | Two years |
+| 🎒 Bachelor’s | Four years |
+| 🔬 Master’s | One year |
+| 📊 MBA | One year |
+| ⚖️ JD | Four years |
+| 🌱 Minor | One semester to one year |
+| 🏫 High School | Four years; academically gifted students may complete the required curriculum in one month when all completion requirements are satisfied |
+| 📘 GED/HSE Preparation | Based on the student’s readiness and pace; accelerated curriculum completion may occur in one month |
+| 📜 Other Education Pathways | Based on the applicable curriculum and student pace, with one month as the earliest completion timeframe where permitted |
+
+Typical timeframes describe the standard pace. Students may advance more quickly as they complete the required courses and satisfy the applicable payment requirements.
+
+All education pathways retain their required **proctored objective assessments, performance assessments, or both**, including during accelerated progression. Students must achieve at least **80% on every required assessment**. Applicable capstone projects retain their assigned industry-professional supervision.
+
+Course progression requires completion of the applicable prior coursework and assessments, together with satisfaction of the required payment for the next course to unlock.
+
+Payments follow the applicable **beta, pre-accreditation, or post-accreditation pricing stage** and payment rules established in the **RIAH Pathway Master Pricing Data Sheet** and **RIAH Pathway Pricing Engine** within the **Tuition-Pricing-and-Fees** folder. Acceleration changes progression and completion timing without automatically changing established total-program tuition.
+
+GED/HSE curriculum completion remains separate from official examinations and credential issuance.
+
+## 🎓 Admission and Prerequisite Requirements
+
+Students are not automatically admitted into Year 3 of a bachelor’s program. They must have completed the required general education and school core coursework.
+
+Master’s and MBA programs require completion of the applicable prerequisites, along with a bachelor’s degree in the corresponding major or an equivalent qualification.
+
+| Program | Requirement |
+|---|---|
+| 📘 Bachelor’s Year 3 | Admission is not automatic; students must have completed the required general education and school core coursework |
+| 🎓 Master’s | Applicable prerequisites and a bachelor’s degree in the corresponding major or equivalent |
+| 💼 MBA | Applicable prerequisites and a bachelor’s degree in the corresponding major or equivalent |
+
+## 🛤️ General and Certification Track Options
+
+Students may select a general track without certifications for bachelor’s Year 4, master’s, and MBA programs. Applicable certification tracks are also available. All courses require an objective assessment, performance assessment, or both, regardless of the selected track.
+
+| Track Option | Requirements |
+|---|---|
+| 📚 General track without certifications | Available for bachelor’s Year 4, master’s, and MBA programs; all courses retain their required proctored assessments |
+| 🏅 Applicable certification track | Includes certification review for the selected track where the certification is applicable; all courses retain their required proctored assessments |
+
+## 🏅 Certification Review Courses
+
+Certification review courses include proctored objective assessments and performance assessments conducted through task-based simulations. These requirements apply when certification review is selected within the student’s track and the certification is applicable.
+
+| Certification Review Requirement | Standard |
+|---|---|
+| 📋 Objective assessment | Proctored assessment consisting of 25 questions |
+| 🛠️ Performance assessment | One proctored task-based simulation |
+| ✅ Passing score | At least 80% on each required assessment |
+| 🔄 Assessment attempts | Unlimited attempts to pass course assessments |
+| 🔒 Course progression | Where applicable, remaining courses stay locked until required assessments are passed |
+
+## 🎯 Capstone Assessments and Project Supervision
+
+Capstones include proctored objective assessments and performance assessments based on concepts students should have learned through their course assessments. Cumulative project work is supervised by assigned industry professionals.
+
+**Industry-professional supervision applies only to Year 4 capstones for bachelor’s, master’s, and MBA programs and to courses 300A and 300B for minor-degree capstones.**
+
+| Capstone Component | Requirement |
+|---|---|
+| 📋 Objective assessment | Proctored assessment consisting of 25 questions |
+| 🛠️ Performance assessment | One proctored task-based performance assessment |
+| ✅ Passing score | At least 80% on each required assessment |
+| 🔄 Assessment attempts | Unlimited attempts to pass course assessments |
+| 📚 Assessment scope | Concepts students should have learned through the proctored objective and performance assessments |
+| 🧩 Cumulative projects | Not proctored; supervised by assigned industry professionals within the specified capstone courses |
+| 👔 Assigned supervision | Industry professionals assigned to supervise the applicable capstone projects |
+| 🎓 Bachelor’s, master’s, and MBA supervision | Year 4 capstones only |
+| 📘 Minor-degree supervision | Capstone courses 300A and 300B only |
+| ⏱️ Supervision hours | 20 hours of supervision across the capstone courses, with two hours of supervision per course |
+| 👥 Human review panel | Five people representing industry professionals, employers, community members, and peers |
+
+## 📦 Included Education Products and Collections
+
+Education programs include products aligned with the student’s school and major. Applicable collections support minor, associate’s, bachelor’s, master’s, and MBA programs.
+
+Collections include textbooks, workbooks, journals, planners, review guides, and study guides for their applicable courses.
+
+| Internal Collection | Alignment |
+|---|---|
+| 🌍 General Education | General education coursework |
+| 🏫 School Core | Core coursework within the student’s school |
+| 🎓 Major | Coursework within the student’s major |
+| 🎯 Capstone | Applicable capstone coursework and projects |
+
+## 🧾 Product Features and Access
+
+| Product Category | Availability and Reference |
+|---|---|
+| 🎒 Internal collections | Available only to enrolled students |
+| 🛍️ External collections | Products offered to external customers |
+| ⚙️ Included products and features | Listed in the pricing engine and data sheet |
+| 🏫 Program alignment | Based on the student’s school, major, and applicable program |
+
+
+| RIAH PATHWAY — FINANCE CURRICULUM Component | RIAH PATHWAY — FINANCE CURRICULUM Requirement |
+| --- | --- |
+| School | **School:** School of Business |
+| Curriculum | This standalone curriculum file combines the shared undergraduate foundation with the complete existing Finance curriculum. Existing course, track, certification-review, assessment, software, experiential, capstone, applied-build, and supervision details are retained from the controlling curriculum files. |
+
+## Year 1 — General Education — 30 Credit Hours
+
+| Year 1 — General Education — 30 Credit Hours Component | Year 1 — General Education — 30 Credit Hours Requirement |
+| --- | --- |
+| General Education | General Education provides the academic foundation for applicable RIAH Pathway degree pathways. |
+| General Education Total | General Education Total: 30 Credit Hours. |
+| Philosophy | General Education includes College English, College Algebra, Oral Communications, Foreign Language, History, Philosophy, Psychology, Sociology, Art, and Science. |
+| Curriculum | Detailed course tables remain in the controlling degree curriculum. |
+
+## ❤️ General Education — Edmentum Software Coverage
+
+| RIAH Course | Course Name | Edmentum |
+| --- | --- | --- |
+| ENG 1010 | College English | ✓ |
+| MAT 1010 | College Algebra | ✓ |
+| COM 1010 | Oral Communications | ✓ |
+| LAN 1010 | Foreign Language | ✓ |
+| HIS 1010 | History | ✓ |
+| PHI 1010 | Philosophy | X — RIAH Additional Curriculum |
+| PSY 1010 | Psychology | ✓ |
+| SOC 1010 | Sociology | ✓ |
+| ART 1010 | Art | ✓ |
+| SCI 1010 | Science | ✓ |
+
+| Instructional Component | Curriculum Mapping / Authority |
+| --- | --- |
+| Edmentum | Philosophy Note — PHI 1010 remains part of the RIAH General Education curriculum. RIAH will provide and/or integrate additional Philosophy curriculum because Edmentum does not provide the mapped Philosophy coverage used for this structure. |
+
+## Year 2 — IV.I. Business Core — 30 Credit Hours 📘
+
+| Curriculum Component | Software Stack |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · HubSpot · Microsoft Power Automate |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Cengage MindTap | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BUS 2101 | Business | Business Core | Principles of Financial Accounting | 3 | MAT 1010 — College Algebra | Microsoft Excel · Microsoft Power BI · Bloomberg | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2102 | Business | Business Core | Principles of Managerial Accounting | 3 | BUS 2101 — Principles of Financial Accounting | Same Business Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2103 | Business | Business Core | Microeconomics | 3 | MAT 1010 — College Algebra | Same Business Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2104 | Business | Business Core | Macroeconomics | 3 | MAT 1010 — College Algebra | Same Business Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2105 | Business | Business Core | Statistics | 3 | MAT 1010 — College Algebra | Same Business Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2106 | Business | Business Core | Marketing | 3 | ENG 1010 — College English | Same Business Core Stack · HubSpot | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2107 | Business | Business Core | Principles of Management | 3 | ENG 1010 — College English | Same Business Core Stack · HubSpot | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2108 | Business | Business Core | Operations Management | 3 | BUS 2107 — Principles of Management | Same Business Core Stack · HubSpot · Microsoft Power Automate | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2109 | Business | Business Core | Principles of Entrepreneurship | 3 | MAT 1010 — College Algebra | Same Business Core Stack · HubSpot · Microsoft Power Automate | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| BUS 2110 | Business | Business Core | Principles of Finance | 3 | MAT 1010 — College Algebra | Same Business Core Stack | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+## Finance — Minor through MBA
+
+| Curriculum Component | Software Stack |
+| --- | --- |
+| Full Software Stack | **Full Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+
+### Finance Minor — 15 Credit Hours
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| BUS 2103 | Business | Minor | Principles of Finance | 3 | Admission to Business Core | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3101 | Business | Minor | Intermediate Finance I | 3 | BUS 2103 — Principles of Finance | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3102 | Business | Minor | Intermediate Finance II | 3 | FIN 3101 — Intermediate Finance I | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 300A | Business | Minor | Finance Applied Learning | 3 | FIN 3102 — Intermediate Finance II | Microsoft Excel + Microsoft Power BI + Bloomberg + Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 300B | Business | Minor | Finance Applied Learning Capstone | 3 | FIN 300A — Finance Applied Learning | Microsoft Excel + Microsoft Power BI + Bloomberg + Microsoft Power Automate | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ |
+
+### Finance — Bachelor's Year 3 — 30 Credit Hours
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FIN 3101 | Business | Bachelor’s | Intermediate Finance I | 3 | FIN 3100 — Admission to Major Year 3 | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3102 | Business | Bachelor’s | Intermediate Finance II | 3 | FIN 3101 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3103 | Business | Bachelor’s | Corporate Finance | 3 | FIN 3102 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3104 | Business | Bachelor’s | Financial Investments | 3 | FIN 3103 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3105 | Business | Bachelor’s | Financial Planning and Analysis | 3 | FIN 3104 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3106 | Business | Bachelor’s | Financial Analytics | 3 | FIN 3105 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3107 | Business | Bachelor’s | Financial Markets | 3 | FIN 3106 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3108 | Business | Bachelor’s | Financial Strategy | 3 | FIN 3107 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3109 | Business | Bachelor’s | Business Valuation | 3 | FIN 3108 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| FIN 3110 | Business | Bachelor’s | Financial Modeling | 3 | FIN 3109 | Same Finance Stack | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
+
+### Finance — Bachelor’s Year 4 — 30 Credit Hours
+
+| Finance — Bachelor’s Year 4 — 30 Credit Hours Component | Finance — Bachelor’s Year 4 — 30 Credit Hours Requirement |
+| --- | --- |
+| General Bachelor’s Year 4 Software Stack | **General Bachelor’s Year 4 Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FIN 4101 | Business | Bachelor’s | General Principles of Financial Planning, Financial Statements and Cash Flow Systems | 3 | FIN 4100 — Admission to Major Year 4 | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4102 | Business | Bachelor’s | Financing Strategies, Debt Management and Financial Economics | 3 | FIN 4101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4103 | Business | Bachelor’s | Investment Planning, Asset Classes and Risk Analysis | 3 | FIN 4102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4104 | Business | Bachelor’s | Portfolio Development, Asset Allocation and Investment Strategy | 3 | FIN 4103 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4105 | Business | Bachelor’s | Risk Management, Insurance Planning and Financial Risk Systems | 3 | FIN 4104 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4106 | Business | Bachelor’s | Tax Planning, Financial Operations and Compliance Systems | 3 | FIN 4105 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4107 | Business | Bachelor’s | Retirement Savings, Income Planning and Decision Systems | 3 | FIN 4106 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4108 | Business | Bachelor’s | Estate Planning, Valuation and Financial Intelligence | 3 | FIN 4107 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4109 | Business | Bachelor’s | Professional Conduct, Behavioral Finance and Financial Planning Strategy | 3 | FIN 4108 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4110 | Business | Bachelor’s | Comprehensive Financial Planning Capstone | 3 | FIN 4109 | Same stack throughout | ✓ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — Bachelor’s Year 4 — CFP Track — 30 Credit Hours
+
+| Finance — Bachelor’s Year 4 — CFP Track — 30 Credit Hours Component | Finance — Bachelor’s Year 4 — CFP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Finance + CFP Software Stack | **Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+| CFP Learning Progression | **CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FIN 4101 | Business | Bachelor’s | General Principles of Financial Planning, Financial Statements and Cash Flow Systems — Professional conduct & regulation | 3 | FIN 4100 — Admission to Major Year 4 | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | CFP Review | Introduced — In Progress | Professional conduct & regulation | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4102 | Business | Bachelor’s | Financing Strategies, Debt Management and Financial Economics — General principles of financial planning | 3 | FIN 4101 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | General principles of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4103 | Business | Bachelor’s | Investment Planning, Asset Classes and Risk Analysis — Risk management & insurance | 3 | FIN 4102 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Risk management & insurance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4104 | Business | Bachelor’s | Portfolio Development, Asset Allocation and Investment Strategy — Investment planning | 3 | FIN 4103 | Same stack throughout | ❌ | CFP Review | Milestone 1 — Carry Forward | Investment planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4105 | Business | Bachelor’s | Risk Management, Insurance Planning and Financial Risk Systems — Tax planning | 3 | FIN 4104 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Tax planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4106 | Business | Bachelor’s | Tax Planning, Financial Operations and Compliance Systems — Retirement savings & income planning | 3 | FIN 4105 | Same stack throughout | ❌ | CFP Review | Milestone 2 — Carry Forward | Retirement savings & income planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4107 | Business | Bachelor’s | Retirement Savings, Income Planning and Decision Systems — Estate planning | 3 | FIN 4106 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Estate planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4108 | Business | Bachelor’s | Estate Planning, Valuation and Financial Intelligence | 3 | FIN 4107 | Same stack throughout | ❌ | CFP Review | Milestone 3 — Carry Forward | Psychology of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4109 | Business | Bachelor’s | Professional Conduct, Behavioral Finance and Financial Planning Strategy — Integrated financial plan development | 3 | FIN 4108 | Same stack throughout | ❌ | CFP Review | Final Review — Completion Deadline Approaching | Integrated financial plan development | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4110 | Business | Bachelor’s | Comprehensive Financial Planning Capstone — Exit — Comprehensive CFP review integration | 3 | FIN 4109 | Same stack throughout | ✓ | CFP Review | Certification Review Completion Deadline | Comprehensive CFP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — Bachelor’s Year 4 — CFA Track — 30 Credit Hours
+
+| Finance — Bachelor’s Year 4 — CFA Track — 30 Credit Hours Component | Finance — Bachelor’s Year 4 — CFA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Finance + CFA Software Stack | **Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+| CFA Learning Progression | **CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| FIN 4101 | Business | Bachelor’s | Venture Definition & Life-Cycle Planning — Ethical and professional standards | 3 | FIN 4100 — Admission to Major Year 4 | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | CFA Review | Introduced — In Progress | Ethical and professional standards | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4102 | Business | Bachelor’s | Requirements & Life-Cycle Analysis — Quantitative methods | 3 | FIN 4101 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Quantitative methods | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4103 | Business | Bachelor’s | Architecture & Design — Economics | 3 | FIN 4102 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Economics | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4104 | Business | Bachelor’s | Development & Implementation — Financial statement analysis | 3 | FIN 4103 | Same stack throughout | ❌ | CFA Review | Milestone 1 — Carry Forward | Financial statement analysis | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4105 | Business | Bachelor’s | Integration — Corporate issuers | 3 | FIN 4104 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Corporate issuers | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4106 | Business | Bachelor’s | Testing & Validation — Equity investments | 3 | FIN 4105 | Same stack throughout | ❌ | CFA Review | Milestone 2 — Carry Forward | Equity investments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4107 | Business | Bachelor’s | Deployment — Fixed income | 3 | FIN 4106 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Fixed income | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4108 | Business | Bachelor’s | Operations & Monitoring — Derivatives & alternative investments | 3 | FIN 4107 | Same stack throughout | ❌ | CFA Review | Milestone 3 — Carry Forward | Derivatives & alternative investments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4109 | Business | Bachelor’s | Optimization & Life-Cycle Integration — Portfolio management and wealth planning | 3 | FIN 4108 | Same stack throughout | ❌ | CFA Review | Final Review — Completion Deadline Approaching | Portfolio management and wealth planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| FIN 4110 | Business | Bachelor’s | Finance Venture Capstone — Comprehensive CFA review integration | 3 | FIN 4109 | Same stack throughout | ✓ | CFA Review | Certification Review Completion Deadline | Comprehensive CFA review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — Master’s — 30 Credit Hours
+
+| Finance — Master’s — 30 Credit Hours Component | Finance — Master’s — 30 Credit Hours Requirement |
+| --- | --- |
+| General Master’s Software Stack | **General Master’s Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MFIN 5101 | Business | Master’s | Quantitative Analysis | 3 | MFIN 5100 — Admission to Master’s Program | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5102 | Business | Master’s | Financial Statement Analysis | 3 | MFIN 5101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5103 | Business | Master’s | Corporate Finance & Valuation | 3 | MFIN 5102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5104 | Business | Master’s | Equity Analysis | 3 | MFIN 5103 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5105 | Business | Master’s | Fixed Income | 3 | MFIN 5104 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5106 | Business | Master’s | Derivatives & Risk Management | 3 | MFIN 5105 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5107 | Business | Master’s | Alternative Investments | 3 | MFIN 5106 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5108 | Business | Master’s | Portfolio Construction | 3 | MFIN 5107 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5109 | Business | Master’s | Investment Strategy | 3 | MFIN 5108 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5110 | Business | Master’s | CFA Finance Specialization Capstone | 3 | MFIN 5109 | Same stack throughout | ✓ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — Master’s — CFA Track — 30 Credit Hours
+
+| Finance — Master’s — CFA Track — 30 Credit Hours Component | Finance — Master’s — CFA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Finance + CFA Software Stack | **Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+| CFA Learning Progression | **CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MFIN 5101 | Business | Master’s | Quantitative Analysis — Ethical and professional standards | 3 | MFIN 5100 — Admission to Master’s Program | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | CFA Review | Introduced — In Progress | Ethical and professional standards | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5102 | Business | Master’s | Financial Statement Analysis — Quantitative methods | 3 | MFIN 5101 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Quantitative methods | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5103 | Business | Master’s | Corporate Finance & Valuation — Economics | 3 | MFIN 5102 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Economics | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5104 | Business | Master’s | Equity Analysis — Financial statement analysis | 3 | MFIN 5103 | Same stack throughout | ❌ | CFA Review | Milestone 1 — Carry Forward | Financial statement analysis | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5105 | Business | Master’s | Fixed Income — Corporate issuers | 3 | MFIN 5104 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Corporate issuers | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5106 | Business | Master’s | Derivatives & Risk Management — Equity investments | 3 | MFIN 5105 | Same stack throughout | ❌ | CFA Review | Milestone 2 — Carry Forward | Equity investments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5107 | Business | Master’s | Alternative Investments — Fixed income | 3 | MFIN 5106 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Fixed income | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5108 | Business | Master’s | Portfolio Construction — Derivatives & alternative investments | 3 | MFIN 5107 | Same stack throughout | ❌ | CFA Review | Milestone 3 — Carry Forward | Derivatives & alternative investments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5109 | Business | Master’s | Investment Strategy — Portfolio management and wealth planning | 3 | MFIN 5108 | Same stack throughout | ❌ | CFA Review | Final Review — Completion Deadline Approaching | Portfolio management and wealth planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MFIN 5110 | Business | Master’s | CFA Finance Specialization Capstone — Exit — Comprehensive CFA review integration | 3 | MFIN 5109 | Same stack throughout | ✓ | CFA Review | Certification Review Completion Deadline | Comprehensive CFA review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — Master’s — CFP Track — 30 Credit Hours
+
+| Finance — Master’s — CFP Track — 30 Credit Hours Component | Finance — Master’s — CFP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Finance + CFP Software Stack | **Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+| CFP Learning Progression | **CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MBA-FIN 5101 | Business | Master’s | Financial Planning Management Venture — Professional conduct & regulation | 3 | None 5100 — Admission to Master’s Program | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | CFP Review | Introduced — In Progress | Professional conduct & regulation | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5102 | Business | Master’s | Financial Planning Management — General principles of financial planning | 3 | MBA-FIN 5101 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | General principles of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5103 | Business | Master’s | Risk Management & Insurance Strategy | 3 | MBA-FIN 5102 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Risk management & insurance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5104 | Business | Master’s | Investment Planning Management | 3 | MBA-FIN 5103 | Same stack throughout | ❌ | CFP Review | Milestone 1 — Carry Forward | Investment planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5105 | Business | Master’s | Tax Planning Management | 3 | MBA-FIN 5104 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Tax planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5106 | Business | Master’s | Retirement Planning Management — Retirement savings & income planning | 3 | MBA-FIN 5105 | Same stack throughout | ❌ | CFP Review | Milestone 2 — Carry Forward | Retirement savings & income planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5107 | Business | Master’s | Estate Planning Management | 3 | MBA-FIN 5106 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Estate planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5108 | Business | Master’s | Behavioral Finance Management — Psychology of financial planning | 3 | MBA-FIN 5107 | Same stack throughout | ❌ | CFP Review | Milestone 3 — Carry Forward | Psychology of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5109 | Business | Master’s | Wealth Management Strategy — Integrated financial plan development | 3 | MBA-FIN 5108 | Same stack throughout | ❌ | CFP Review | Final Review — Completion Deadline Approaching | Integrated financial plan development | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 5110 | Business | Master’s | CFP Finance Management Venture Capstone — Exit — Comprehensive CFP review integration | 3 | MBA-FIN 5109 | Same stack throughout | ✓ | CFP Review | Certification Review Completion Deadline | Comprehensive CFP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — MBA — 30 Credit Hours
+
+| Finance — MBA — 30 Credit Hours Component | Finance — MBA — 30 Credit Hours Requirement |
+| --- | --- |
+| General MBA Software Stack | **General MBA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MBA-FIN 6101 | Business | MBA | Finance Management Venture | 3 | None 6100 — Admission to MBA Program | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6102 | Business | MBA | Financial Analysis Management | 3 | MBA-FIN 6101 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6103 | Business | MBA | Corporate Finance Management | 3 | MBA-FIN 6102 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6104 | Business | MBA | Equity Management | 3 | MBA-FIN 6103 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6105 | Business | MBA | Fixed Income Management | 3 | MBA-FIN 6104 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6106 | Business | MBA | Risk Management | 3 | MBA-FIN 6105 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6107 | Business | MBA | Alternative Investment Management | 3 | MBA-FIN 6106 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6108 | Business | MBA | Portfolio Strategy | 3 | MBA-FIN 6107 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6109 | Business | MBA | Investment Management Strategy | 3 | MBA-FIN 6108 | Same stack throughout | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6110 | Business | MBA | CFA Finance Management Venture Capstone | 3 | MBA-FIN 6109 | Same stack throughout | ✓ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — MBA — CFA Track — 30 Credit Hours
+
+| Finance — MBA — CFA Track — 30 Credit Hours Component | Finance — MBA — CFA Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Finance + CFA Software Stack | **Combined Finance + CFA Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+| CFA Learning Progression | **CFA Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MBA-FIN 6101 | Business | MBA | Finance Management Venture — Ethical and professional standards | 3 | None 6100 — Admission to MBA Program | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | CFA Review | Introduced — In Progress | Ethical and professional standards | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6102 | Business | MBA | Financial Analysis Management — Quantitative methods | 3 | MBA-FIN 6101 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Quantitative methods | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6103 | Business | MBA | Corporate Finance Management — Economics | 3 | MBA-FIN 6102 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Economics | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6104 | Business | MBA | Equity Management — Financial statement analysis | 3 | MBA-FIN 6103 | Same stack throughout | ❌ | CFA Review | Milestone 1 — Carry Forward | Financial statement analysis | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6105 | Business | MBA | Fixed Income Management — Corporate issuers | 3 | MBA-FIN 6104 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Corporate issuers | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6106 | Business | MBA | Risk Management — Equity investments | 3 | MBA-FIN 6105 | Same stack throughout | ❌ | CFA Review | Milestone 2 — Carry Forward | Equity investments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6107 | Business | MBA | Alternative Investment Management — Fixed income | 3 | MBA-FIN 6106 | Same stack throughout | ❌ | CFA Review | In Progress — Carry Forward | Fixed income | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6108 | Business | MBA | Portfolio Strategy — Derivatives & alternative investments | 3 | MBA-FIN 6107 | Same stack throughout | ❌ | CFA Review | Milestone 3 — Carry Forward | Derivatives & alternative investments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6109 | Business | MBA | Investment Management Strategy — Portfolio management and wealth planning | 3 | MBA-FIN 6108 | Same stack throughout | ❌ | CFA Review | Final Review — Completion Deadline Approaching | Portfolio management and wealth planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6110 | Business | MBA | CFA Finance Management Venture Capstone — Exit — Comprehensive CFA review integration | 3 | MBA-FIN 6109 | Same stack throughout | ✓ | CFA Review | Certification Review Completion Deadline | Comprehensive CFA review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Finance — MBA — CFP Track — 30 Credit Hours
+
+| Finance — MBA — CFP Track — 30 Credit Hours Component | Finance — MBA — CFP Track — 30 Credit Hours Requirement |
+| --- | --- |
+| Combined Finance + CFP Software Stack | **Combined Finance + CFP Software Stack:** Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate |
+| CFP Learning Progression | **CFP Learning Progression:** Introduced — In Progress → In Progress — Carry Forward → Milestone 1 — Carry Forward → Milestone 2 — Carry Forward → Milestone 3 — Carry Forward → Final Review — Completion Deadline Approaching → Certification Review Completion Deadline |
+
+| Course | School | Type | Course Name | Credit Hours | Prerequisite | Software Stack | PebblePad | Certification Review | Certification Progression  and  Learning | Exam Modules | Project | OA | PA | Experiential if Selected | Experiential — 1 Month Internal | Capstone | Applied Build | Supervision |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| MBA-FIN 6101 | Business | MBA | Financial Planning Management Venture — Professional conduct & regulation | 3 | None 6100 — Admission to MBA Program | Microsoft Excel · Microsoft Power BI · Bloomberg · Microsoft Power Automate | ❌ | CFP Review | Introduced — In Progress | Professional conduct & regulation | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6102 | Business | MBA | Financial Planning Management — General principles of financial planning | 3 | MBA-FIN 6101 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | General principles of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6103 | Business | MBA | Risk Management & Insurance Strategy | 3 | MBA-FIN 6102 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Risk management & insurance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6104 | Business | MBA | Investment Planning Management | 3 | MBA-FIN 6103 | Same stack throughout | ❌ | CFP Review | Milestone 1 — Carry Forward | Investment planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6105 | Business | MBA | Tax Planning Management | 3 | MBA-FIN 6104 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Tax planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6106 | Business | MBA | Retirement Planning Management — Retirement savings & income planning | 3 | MBA-FIN 6105 | Same stack throughout | ❌ | CFP Review | Milestone 2 — Carry Forward | Retirement savings & income planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6107 | Business | MBA | Estate Planning Management | 3 | MBA-FIN 6106 | Same stack throughout | ❌ | CFP Review | In Progress — Carry Forward | Estate planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6108 | Business | MBA | Behavioral Finance Management — Psychology of financial planning | 3 | MBA-FIN 6107 | Same stack throughout | ❌ | CFP Review | Milestone 3 — Carry Forward | Psychology of financial planning | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6109 | Business | MBA | Wealth Management Strategy — Integrated financial plan development | 3 | MBA-FIN 6108 | Same stack throughout | ❌ | CFP Review | Final Review — Completion Deadline Approaching | Integrated financial plan development | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| MBA-FIN 6110 | Business | MBA | CFP Finance Management Venture Capstone — Exit — Comprehensive CFP review integration | 3 | MBA-FIN 6109 | Same stack throughout | ✓ | CFP Review | Certification Review Completion Deadline | Comprehensive CFP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+RIAH Pathway
+
+---
+
+# 👑RIAH Pathway.
