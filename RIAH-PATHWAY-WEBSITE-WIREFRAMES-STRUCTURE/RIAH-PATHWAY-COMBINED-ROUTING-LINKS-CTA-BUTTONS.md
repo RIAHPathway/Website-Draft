@@ -231,7 +231,6 @@ flowchart LR
 | 10 | Become a Partner | Partnerships | 16.3 |
 | 11 | Join Our Team | Team | 16.4 |
 | 12 | Become an Ambassador | Ambassadors | 16.5 |
-| 13–14 | Learn More / Overview | Overview | 16.1 |
 | 15 / 25 / 65 / 70 | Apply Now | Application | 11.3 |
 | 16 | Degree Pathway | Degree | 4.2 |
 | 17 | Law Pathway | Law | 4.4 |
