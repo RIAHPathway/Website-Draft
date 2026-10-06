@@ -343,15 +343,17 @@ Each week, students work with their **Manager, Supervisor, and Reviewer** to dev
 
 | Internal Placement Entity | Placement Entity |
 |---|---|
-| RIAH Pathway | **RIAH Pathway** |
-| RIAH Pathway Holdings Corporation | **RIAH Pathway Holdings Corporation** |
-| RIAH Pathway Corporation | **RIAH Pathway Corporation** |
-| RIAH Pathway Professional Services LLP | Student-Centered • Not External Client Services |
-| RIAH Pathway School of Business, | **RIAH Pathway School of Business, Homeland Security, Law, and Technology LLC** |
-| RIAH Pathway Technology LLC | **RIAH Pathway Technology LLC** |
-| RIAH Pathway Programs LLC | **RIAH Pathway Programs LLC** |
-| RIAH Pathway Products LLC | **RIAH Pathway Products LLC** |
-| RIAH Pathway 501(c)(3) Foundation | **RIAH Pathway 501(c)(3) Foundation** |
+| RIAH Pathway | **Ecosystem-wide placement and coordination:** Work spanning the RIAH Pathway education, Experiential, certification, contributor, economic-benefit, career, admissions, student-support, operations, and community ecosystem where applicable. |
+| RIAH Pathway Holdings Corporation | **Ownership, intellectual property, investments, and equity:** Work supporting the holding structure, ownership interests across applicable RIAH entities, intellectual-property administration and protection, investments, equity records, governance support, and related holding-company functions. |
+| RIAH Pathway Corporation | **Centralized operations and shared resources:** Work supporting centralized administration and shared operational resources across applicable RIAH entities, including business operations, finance, human resources, administration, marketing, communications, systems coordination, project support, and other shared-services functions. |
+| RIAH Pathway Professional Services LLP | **Student-centered internal professional services — not external client services:** Internal accounting, audit support, compliance, cybersecurity, technology, consulting, business-process, and related professional work performed for the RIAH Pathway ecosystem with applicable professional supervision. |
+| RIAH Pathway School of Business, | **Schools, academic pathways, and majors:** Work supporting the RIAH Pathway schools and their applicable academic programs, including the School of Business, School of Technology, School of Law, School of Homeland Security, School of Foundations, and Experiential School, together with applicable majors such as business, financial accounting, cybersecurity, software engineering, government, and other approved RIAH majors and pathways. |
+| RIAH Pathway Technology LLC | **Applications, software, infrastructure, AI, and technology systems:** Work involving RIAH applications and software, websites, APIs, integrations, automation, AI systems and agents, databases, servers, cloud and private infrastructure, cybersecurity-supporting technology, internal tools, and other approved technology development and operations. |
+| RIAH Pathway Programs LLC | **Experiential and professional-development programs:** Work supporting Experiential programs and placements, certification-aligned and professional-development programs, review-course operations where applicable, program administration, participant coordination, supervision workflows, program materials, and related pathway operations. |
+| RIAH Pathway Products LLC | **Physical and selected digital education products and collections:** Work involving General Education, school core, major, capstone, High School, GED, certification-review, Bar Review, and other applicable collections and products, including textbooks, workbooks, journals, planners, review guides, study guides, flashcards, product development, publishing coordination, inventory, fulfillment, shipping, and approved digital previews or products. |
+| RIAH Pathway 501(c)(3) Foundation | **Nonprofit donations, accreditation and state-authorization support, and student funding:** Work supporting charitable donations and transparent donation administration; applicable accreditation and state-authorization support activities; and donations or funding designated for student scholarships, grants, stipends, and other approved charitable student-support purposes. |
+
+The descriptions above define the primary internal work areas available through each listed entity. Actual assignments, including Single-Area, Rotational Experience, and Progressive Experience placements, are matched to the student's field, major, Experiential level, qualifications, approved scope, organizational needs, supervision availability, placement capacity, and the real operational functions of the applicable entity. Students may work across more than one defined entity or function only when the approved placement structure, capacity, resources, and supervision support that assignment.
 
 
 ## **RIAH Pathway Professional Services LLP**
