@@ -10,16 +10,11 @@ The website will launch in **October 2026** as I continue to build, develop, rev
 
 Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
 
-### **Contributor Professional and Social Links**
-
-| Platform | Contributor Link |
-|---|---|
-| GitHub: https://githubcom/mariahdominiquerucker | **GitHub:** https://github.com/mariahdominiquerucker |
-| LinkedIn: https://linkedincom/in/mariahrucker | **LinkedIn:** https://linkedin.com/in/mariahrucker |
-| Facebook: https://facebookcom/heymariahrucker | **Facebook:** https://facebook.com/heymariahrucker |
-| Instagram: https://instagramcom/heymariahrucker | **Instagram:** https://instagram.com/heymariahrucker |
-| Linktree: https://linktree/mariahrucker | **Linktree:** https://linktr.ee/mariahrucker |
-
+- **GitHub:** https://github.com/mariahdominiquerucker
+- **LinkedIn:** https://linkedin.com/in/mariahrucker
+- **Facebook:** https://facebook.com/heymariahrucker
+- **Instagram:** https://instagram.com/heymariahrucker
+- **Linktree:** https://linktr.ee/mariahrucker
 
 ---
 
