@@ -197,7 +197,7 @@ flowchart LR
 | 👔 | **Manager — defined 1-year Experiential level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 👑 | **Executive — defined 1-year Experiential level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🪜 | **Unified six-level Apprentice → Executive Experiential structure** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| ⏫ | **Verified prior experience can permit advanced entry** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ⏫ | **Verified prior experience can permit placement at a higher Experiential level** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🎓 | **Bachelor's Year-4 one-month Experiential guarantee for eligible students** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🎓 | **Master's/MBA eligible one-month guarantee framework** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | ⚖️ | **JD/Non-JD eligible one-month guarantee framework subject to applicable rules** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -384,7 +384,7 @@ External Experiential placements must involve **actual work rather than simulati
 
 ## **Scalable External Partner Placement Structure**
 
-External placement capacity is designed to be **scalable and not limited to the internal Experiential staffing model**. RIAH may work with numerous approved partner employers and integrate Experiential placements into the partner employer's actual workplace and operations. Examples include law firms, CPA firms, MSSPs, development firms, security firms, corporations, government agencies, and other approved professional organizations.
+External placement capacity is designed to be **scalable and not limited to the internal Experiential staffing model**. RIAH leverages numerous approved external partners and integrates their applicable people and professional environments into the RIAH Experiential ecosystem so students can be deployed into **actual real-work environments with real people, real professional teams, and real entities**. Examples include law firms, CPA firms, MSSPs, development firms, security firms, corporations, government agencies, and other approved professional organizations.
 
 Approved external partners integrate their **actual employees and professionals into the RIAH Experiential ecosystem** for applicable external placements. This allows RIAH to deploy students into **actual work environments with real people, real professional teams, and real entities**. External placements must include **real people, real professional supervision, real assignments, and actual work** within the partner employer's business.
 
