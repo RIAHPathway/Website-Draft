@@ -779,16 +779,16 @@ The standard Experiential Collection may include:
 
 | Curriculum Component | Experiential Education Component |
 |---|---|
-| Experiential Textbook | Experiential Textbook |
-| Experiential Workbook | Experiential Workbook |
-| Experiential Journal | Experiential Journal |
-| Experiential Planner | Experiential Planner |
-| LMS Learning Courses | LMS Learning Courses |
-| Weekly Objectives | Weekly Objectives |
-| Weekly Assignments | Weekly Assignments |
-| Weekly Performance Assessments | Weekly Performance Assessments |
-| Real-World Consequential Work Experience | Real-World Consequential Work Experience |
-| Applicable supporting educational resources | Applicable supporting educational resources |
+| Experiential Textbook | The primary Experiential instructional text containing applicable concepts, professional context, guidance, examples, and learning content aligned to the participant's field and Experiential level. |
+| Experiential Workbook | The applied workbook used to complete structured exercises, reflections, activities, documentation, and learning tasks that connect Experiential instruction to the participant's real placement work. |
+| Experiential Journal | The structured record used to document observations, professional development, reflections, challenges, decisions, lessons learned, and growth throughout the Experiential experience. |
+| Experiential Planner | The planning resource used to organize objectives, assignments, deadlines, meetings, placement responsibilities, assessments, deliverables, supervision activities, and Experiential milestones. |
+| LMS Learning Courses | Online Experiential learning modules delivered through the applicable learning-management system to provide structured instruction, resources, assignments, assessments, and progress tracking alongside real work. |
+| Weekly Objectives | Defined weekly learning and work goals that identify the competencies, assignments, professional responsibilities, and measurable outcomes the participant is expected to address during that week. |
+| Weekly Assignments | Structured weekly educational or applied tasks that reinforce the Experiential curriculum and connect learning objectives to the participant's approved real-world placement responsibilities. |
+| Weekly Performance Assessments | Recurring evaluations used to measure the participant's understanding, applied performance, development, competencies, and progress against the applicable weekly Experiential objectives. |
+| Real-World Consequential Work Experience | Actual authorized work performed for legitimate operational, professional, organizational, project, product, service, or partner purposes rather than simulated, disposable, or hypothetical academic work. |
+| Applicable supporting educational resources | Additional approved readings, references, guides, tools, templates, media, professional resources, or instructional materials used when needed to support the participant's Experiential learning and work. |
 
 
 The education component is attached directly to the participant's real-world Experiential work. Participants learn the applicable concepts, standards, methods, governance, risk, compliance, and professional practices while applying them to actual work.
@@ -841,14 +841,14 @@ The deposit supports the applicable collection components established for the pa
 
 | Collection Component | Included Education Material |
 |---|---|
-| Experiential Textbook | Experiential Textbook |
-| Experiential Workbook | Experiential Workbook |
-| Experiential Journal | Experiential Journal |
-| Experiential Planner | Experiential Planner |
-| Review materials where applicable | Review materials where applicable |
-| Study materials where applicable | Study materials where applicable |
-| Flashcards where applicable | Flashcards where applicable |
-| LMS learning materials | LMS learning materials |
+| Experiential Textbook | The primary Experiential instructional text containing applicable concepts, professional context, guidance, examples, and learning content aligned to the participant's field and Experiential level. |
+| Experiential Workbook | The applied workbook used to complete structured exercises, reflections, activities, documentation, and learning tasks that connect Experiential instruction to the participant's real placement work. |
+| Experiential Journal | The structured record used to document observations, professional development, reflections, challenges, decisions, lessons learned, and growth throughout the Experiential experience. |
+| Experiential Planner | The planning resource used to organize objectives, assignments, deadlines, meetings, placement responsibilities, assessments, deliverables, supervision activities, and Experiential milestones. |
+| Review materials where applicable | Applicable materials designed to reinforce, revisit, and organize key Experiential concepts, competencies, professional standards, or assessment content for review. |
+| Study materials where applicable | Applicable supplementary resources used to help participants learn, practice, retain, and apply concepts or competencies connected to their Experiential curriculum and placement. |
+| Flashcards where applicable | Applicable concise study prompts and answers used to reinforce terminology, concepts, standards, procedures, competencies, or other knowledge relevant to the Experiential pathway. |
+| LMS learning materials | Digital instructional content, resources, assignments, assessments, and supporting materials made available through the applicable learning-management system for the Experiential curriculum. |
 | Other applicable Experiential education collection | Other applicable Experiential education collection components |
 
 
@@ -864,12 +864,12 @@ Experiential may operate as:
 
 | Integration Format | Experiential Pathway Application |
 |---|---|
-| A standalone Experiential pathway | A standalone Experiential pathway |
+| A standalone Experiential pathway | An Experiential enrollment completed as its own professional-learning pathway rather than as a required component of a separate RIAH degree or academic program. |
 | An integrated Education and Experiential | An integrated Education and Experiential pathway |
 | A final-year one-month guaranteed Experiential | A final-year one-month guaranteed Experiential opportunity |
 | An applicable component of a | An applicable component of a law pathway |
-| A partner placement | A partner placement |
-| An internal RIAH ecosystem placement | An internal RIAH ecosystem placement |
+| A partner placement | An approved external Experiential assignment with a vetted employer or professional partner that provides real work, qualified supervision, review, and responsibilities aligned with the participant's field and level. |
+| An internal RIAH ecosystem placement | An approved Experiential assignment within a RIAH Pathway entity where the participant performs legitimate work tied to actual ecosystem operations, projects, products, programs, services, or organizational needs. |
 
 
 Academic curriculum and Experiential work remain separately documented where applicable.
@@ -930,12 +930,12 @@ Law Experiential may use approved:
 
 | Legal Professional or Placement | Supervision Resource |
 |---|---|
-| Attorneys | Attorneys |
-| Judges | Judges |
-| Law firms | Law firms |
-| Courts | Courts |
-| Legal departments | Legal departments |
-| Legal organizations | Legal organizations |
+| Attorneys | Licensed attorneys who provide legally appropriate supervision, professional guidance, and review for approved law-related Experiential work within the participant's permitted scope. |
+| Judges | Judicial professionals who, where permitted through an approved placement, provide exposure, guidance, or oversight connected to court operations, judicial processes, legal research, documentation, or other appropriate activities. |
+| Law firms | Approved legal workplaces that provide eligible participants with real, legally permitted assignments and professional supervision by attorneys or other qualified legal professionals. |
+| Courts | Approved judicial environments that may provide eligible participants with legally permitted assignments involving court operations, legal research, documentation, administration, or other appropriate court-related work. |
+| Legal departments | Approved in-house, governmental, nonprofit, or organizational legal functions that provide legally permitted work, professional supervision, and exposure to legal operations, compliance, research, contracts, or related responsibilities. |
+| Legal organizations | Approved legal-service, professional, public-interest, bar-related, advocacy, or other legal organizations that provide appropriate real work, professional exposure, supervision, or review within their lawful scope. |
 | Other qualified legal professionals or | Other qualified legal professionals or approved legal placements |
 
 
@@ -953,8 +953,8 @@ United States students may receive:
 
 | Compensation Status | Placement Option |
 |---|---|
-| Paid placement | Paid placement |
-| Unpaid placement | Unpaid placement |
+| Paid placement | An Experiential placement in which compensation is provided under the applicable employer or placement terms and governing law; paid status depends on the specific placement and is not guaranteed. |
+| Unpaid placement | An Experiential placement for which the participant does not receive wages or compensation, subject to applicable law, RIAH policy, placement terms, and the educational and professional structure of the experience. |
 
 
 The applicable placement agreement controls compensation subject to applicable law.
@@ -967,12 +967,12 @@ International Online Students residing outside the United States receive:
 
 | International Requirement | Placement Standard |
 |---|---|
-| Remote placement only | Remote placement only |
-| Unpaid placement under RIAH policy | Unpaid placement under RIAH policy |
-| Professional supervision | Professional supervision |
-| Real-world work | Real-world work |
-| Performance review | Performance review |
-| Completion documentation | Completion documentation |
+| Remote placement only | Requires the International Online Experiential participant to complete approved placement activities remotely from their country of residence rather than through a U.S. on-site placement. |
+| Unpaid placement under RIAH policy | Requires International Online Experiential participation to remain unpaid under the applicable RIAH pathway policy and does not create a promise of U.S. employment or compensation. |
+| Professional supervision | Requires qualified human professional oversight appropriate to the participant's field, assignments, level, placement type, and applicable professional or legal requirements. |
+| Real-world work | Requires legitimate approved assignments connected to actual organizational, professional, operational, project, product, service, or partner needs rather than simulated or hypothetical work. |
+| Performance review | Requires documented evaluation of the participant's work quality, competencies, progress, professional conduct, deliverables, and satisfaction of applicable Experiential expectations. |
+| Completion documentation | Requires records showing the participant's placement, applicable work, supervision, performance, requirements, and completion status for the approved Experiential experience. |
 
 
 International Online Experiential is not represented as U.S. employment, U.S. work authorization, or visa sponsorship.
@@ -993,33 +993,33 @@ RIAH Experiential records may include:
 
 | Documentation Field | Recorded Information |
 |---|---|
-| Participant | Participant |
-| Student ID | Student ID |
-| School | School |
-| Major | Major |
-| Experiential level | Experiential level |
-| Placement | Placement |
-| Internal or partner placement | Internal or partner placement |
-| Supervisor | Supervisor |
-| Manager | Manager |
-| Reviewer | Reviewer |
-| Start date | Start date |
-| End date | End date |
-| Delivery format | Delivery format |
-| Paid or unpaid status | Paid or unpaid status |
-| Assignments | Assignments |
-| Consequential work responsibilities | Consequential work responsibilities |
-| Operational deliverables | Operational deliverables |
-| Weekly objectives | Weekly objectives |
-| Weekly activity | Weekly activity |
-| Weekly performance assessments | Weekly performance assessments |
-| Educational content completed | Educational content completed |
-| Professional competencies | Professional competencies |
-| Performance reviews | Performance reviews |
-| Supervisor feedback | Supervisor feedback |
-| Completion status | Completion status |
-| Applicable badge or achievement | Applicable badge or achievement |
-| Applicable graduate benefit record | Applicable graduate benefit record |
+| Participant | Identifies the student or Experiential participant whose placement, work, supervision, performance, and completion information is contained in the record. |
+| Student ID | Records the participant's assigned student identification number so Experiential records can be accurately associated with the correct student record. |
+| School | Records the applicable RIAH school connected to the participant's academic or Experiential pathway and placement alignment. |
+| Major | Records the participant's applicable major or field of study used to align curriculum, placement responsibilities, competencies, and professional experience. |
+| Experiential level | Records whether the participant is assigned as an Apprentice, Intern, Associate, Senior Associate, Manager, or Executive and therefore the expected scope and level of responsibility. |
+| Placement | Identifies the specific approved entity, employer, professional environment, function, department, project, or assignment in which the participant performs Experiential work. |
+| Internal or partner placement | Records whether the participant's approved placement occurs within the RIAH ecosystem or through a vetted external employer or professional partner. |
+| Supervisor | Identifies the qualified human professional responsible for direct oversight, guidance, monitoring, and applicable documentation of the participant's assigned work. |
+| Manager | Identifies the person responsible for managing the participant's placement operations, workload, priorities, team coordination, schedules, deliverables, and performance expectations. |
+| Reviewer | Identifies the person responsible for independently reviewing applicable work, performance evidence, competencies, deliverables, and Experiential outcomes. |
+| Start date | Records the official date on which the participant's approved Experiential placement and applicable responsibilities begin. |
+| End date | Records the official date on which the participant's approved Experiential placement period concludes, subject to applicable completion requirements. |
+| Delivery format | Records whether the approved placement is remote, hybrid, or on-site and the format under which the participant performs and receives supervision for the work. |
+| Paid or unpaid status | Records whether the specific Experiential placement is compensated or uncompensated under the applicable placement terms, policy, and law. |
+| Assignments | Documents the specific approved tasks, projects, responsibilities, activities, or work products assigned to the participant during the Experiential placement. |
+| Consequential work responsibilities | Documents the participant's authorized real-world responsibilities that contribute to actual organizational, professional, operational, project, product, service, or partner objectives. |
+| Operational deliverables | Records the actual work products, outputs, reports, analyses, systems, documents, projects, or other results the participant is responsible for producing or contributing to. |
+| Weekly objectives | Records the defined learning, competency, work, and performance goals established for each applicable week of the Experiential experience. |
+| Weekly activity | Records the participant's applicable work performed, assignments addressed, meetings, supervision, learning activities, progress, and other Experiential participation during each week. |
+| Weekly performance assessments | Records recurring assessment results used to measure the participant's understanding, applied performance, competency development, and progress toward weekly and overall Experiential objectives. |
+| Educational content completed | Records the applicable Experiential curriculum, LMS modules, readings, collections, assignments, assessments, or other educational components completed by the participant. |
+| Professional competencies | Records the professional, technical, analytical, communication, leadership, operational, field-specific, or other competencies demonstrated or developed through the Experiential experience. |
+| Performance reviews | Records formal evaluations of the participant's work quality, professional conduct, competencies, progress, strengths, development needs, deliverables, and overall placement performance. |
+| Supervisor feedback | Records guidance, observations, recommendations, corrections, strengths, development needs, and other professional feedback provided by the participant's Supervisor. |
+| Completion status | Records whether the participant has completed, is in progress, has not completed, or otherwise holds the applicable status for required Experiential components and placement obligations. |
+| Applicable badge or achievement | Records any approved badge, recognition, milestone, credential-related achievement, or other documented accomplishment earned through completion of applicable Experiential requirements. |
+| Applicable graduate benefit record | Records any applicable graduate-related Experiential benefit or eligibility information that must be documented under the governing RIAH terms and requirements. |
 
 
 # **XXIII. 📋 COMPLETION**
@@ -1048,15 +1048,15 @@ Experiential completion does not guarantee:
 
 | Career Outcome | Guarantee Status |
 |---|---|
-| Permanent employment | Permanent employment |
-| A job offer | A job offer |
-| A specific employer | A specific employer |
-| A specific salary | A specific salary |
-| Paid placement | Paid placement |
-| Professional licensure | Professional licensure |
-| Bar eligibility | Bar eligibility |
-| Immigration status | Immigration status |
-| Work authorization | Work authorization |
+| Permanent employment | Means a continuing job after the Experiential placement; participation does not guarantee that RIAH or any employer partner will offer or provide permanent employment. |
+| A job offer | Means a formal offer of employment from an employer; Experiential participation, completion, performance, or employer exposure does not guarantee that an offer will be made. |
+| A specific employer | Means placement or employment with a particular named organization; RIAH does not guarantee assignment to or employment by any specific employer. |
+| A specific salary | Means a particular wage, salary, compensation level, or earnings amount; Experiential participation does not guarantee any specific compensation in a current or future role. |
+| Paid placement | An Experiential placement in which compensation is provided under the applicable employer or placement terms and governing law; paid status depends on the specific placement and is not guaranteed. |
+| Professional licensure | Means authorization from the applicable licensing authority to practice a regulated profession; Experiential participation does not itself guarantee licensure or satisfaction of all licensing requirements. |
+| Bar eligibility | Means satisfaction of the applicable jurisdiction's requirements to seek admission to the bar or take a required bar examination; Experiential participation does not itself establish or guarantee eligibility. |
+| Immigration status | Means a participant's legal immigration classification or status under applicable law; participation in Experiential does not grant, change, extend, or guarantee immigration status. |
+| Work authorization | Means legal authorization to work in the applicable jurisdiction; Experiential participation does not grant, replace, extend, or guarantee required work authorization. |
 
 
 Employment decisions remain separate from Experiential completion.
