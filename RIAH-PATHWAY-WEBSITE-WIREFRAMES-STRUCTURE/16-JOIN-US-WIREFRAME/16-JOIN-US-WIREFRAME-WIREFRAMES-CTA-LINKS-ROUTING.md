@@ -4,7 +4,7 @@
 
 **[PARENT — 16 JOIN US]**
 
-## 16.1–16.5 WIREFRAME ROUTING DIRECTORY
+## 16.1–16.5 WIREFRAMES ROUTING DIRECTORY
 
 | Wireframe | Markdown | Primary Route |
 |---|---|---|
