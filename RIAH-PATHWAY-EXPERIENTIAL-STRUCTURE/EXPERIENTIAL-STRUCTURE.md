@@ -400,6 +400,20 @@ Experiential Professionals operate across:
 
 Supervisors, Managers, and Reviewers coordinate with **Experiential Leadership and Academic Faculty** to connect professional experience to education.
 
+## **Real-Person Experiential Staffing and Work Environment**
+
+At scale, the RIAH Pathway ecosystem is designed to include approximately **225 real people** across the entire ecosystem, including **Experiential Professionals, PhD-qualified faculty, adjunct faculty, the Executive Board of Governance, Experiential Leadership, and other ecosystem roles**.
+
+All Experiential placements include **real Managers, Supervisors, and Reviewers**. Experiential Managers, Supervisors, and Reviewers are **actual people and professionals, not AI or AI agents**.
+
+Students interact directly with **actual people and actual professionals** applicable to their placement and field, including attorneys, judges, CPAs, engineers, and other qualified professionals. Students do not interact with AI or AI agents as a substitute for the real professional supervision, management, review, team participation, and professional interaction required within Experiential.
+
+Students participate on **actual teams**, attend **actual meetings**, and perform **actual real-world work** in the same practical professional environment in which work is performed within other companies and professional organizations, subject to the student's level, authorization, supervision, placement, and applicable requirements.
+
+Experiential work is actual work being used or moved through **development, production, implementation, integration, operations, or other real organizational purposes** throughout the RIAH Pathway ecosystem or within an approved partner employer's actual business.
+
+
+
 # **XII. 🧭 EXPERIENTIAL LEVEL PROGRESSION**
 
 Experiential levels are separate pathways and are not automatic promotions.
