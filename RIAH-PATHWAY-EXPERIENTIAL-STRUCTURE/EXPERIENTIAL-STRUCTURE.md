@@ -186,21 +186,21 @@ RIAH's vetting requirement for external partners requires that the placement pro
 
 | Partner or Employer Type | External Placement Opportunity |
 |---|---|
-| Professional Partners | Professional Partners |
-| Educational Partners | Educational Partners |
-| Law Firms | Law Firms |
-| Courts | Courts |
-| CPA Firms | CPA Firms |
-| MSSPs | MSSPs |
-| Development Firms | Development Firms |
-| Security Firms | Security Firms |
-| Nonprofits | Nonprofits |
-| Startups | Startups |
-| Small Businesses | Small Businesses |
-| Entrepreneurial Organizations | Entrepreneurial Organizations |
-| Corporations | Corporations |
-| Government Agencies | Government Agencies |
-| Other approved employers and professional | Other approved employers and professional organizations |
+| Professional Partners | Vetted professional employers and organizations where students perform real work with real professionals, real assignments, supervision, meetings, teams, deliverables, and placement responsibilities aligned to the student's field and Experiential level. |
+| Educational Partners | Vetted educational institutions and education-related organizations where students may support real academic, administrative, technology, business, legal, research, program, project, or operational work under qualified professional supervision. |
+| Law Firms | Vetted law firms where eligible students may perform legally permitted supervised work involving real matters, legal research, documentation, case support, law-office operations, compliance, and other assignments within the student's permitted scope under attorneys and other qualified legal professionals. |
+| Courts | Vetted court environments where eligible students may complete legally permitted supervised assignments involving court operations, legal research, documentation, case-related support, administrative processes, and other approved work with judges, attorneys, court personnel, or other qualified professionals. |
+| CPA Firms | Vetted CPA and accounting firms where students may perform supervised real work involving accounting, audit support, tax support where permitted, reconciliations, financial analysis, internal controls, compliance, reporting, month-end processes, and other accounting assignments with CPAs and accounting professionals. |
+| MSSPs | Vetted Managed Security Service Providers where students may perform authorized supervised cybersecurity work such as red-team, blue-team, and purple-team activities; security monitoring; vulnerability and control work; governance, risk, and compliance activities; compliance audits and audit support; security documentation; incident-related support; and other real cybersecurity assignments within the student's authorized scope. |
+| Development Firms | Vetted software, application, and technology development firms where students may contribute to real development, testing, documentation, integrations, databases, applications, software, implementation, deployment preparation, maintenance, and other production-oriented technology work with professional development teams. |
+| Security Firms | Vetted cybersecurity, information-security, physical-security, or related firms where students may support real authorized security assessments, monitoring, controls, risk activities, compliance, documentation, investigations support where permitted, and other supervised security work. |
+| Nonprofits | Vetted nonprofit organizations where students may perform real operational, accounting, finance, technology, cybersecurity, legal, compliance, project, program, research, marketing, fundraising-support, or other mission-related assignments with actual nonprofit teams and professionals. |
+| Startups | Vetted startup employers where students may work on real business, technology, cybersecurity, finance, accounting, operations, project, program, legal, compliance, product, research, marketing, or implementation assignments as part of actual startup teams. |
+| Small Businesses | Vetted small-business employers where students may perform real assignments supporting business operations, accounting, finance, technology, cybersecurity, projects, programs, legal and compliance functions where permitted, marketing, process improvement, and other actual business needs. |
+| Entrepreneurial Organizations | Vetted entrepreneurial organizations where students may support real venture development, business operations, financial planning, technology, product development, project execution, research, market analysis, compliance, and other assignments tied to actual organizational objectives. |
+| Corporations | Vetted corporate employers where students may join actual teams and perform supervised real work within applicable departments such as accounting, finance, technology, cybersecurity, operations, project and program management, legal, compliance, research, and other aligned professional functions. |
+| Government Agencies | Vetted government agencies where eligible students may perform legally permitted and authorized supervised work involving administration, technology, cybersecurity, governance, risk, compliance, intelligence support where permitted, project and program work, financial functions, research, or other approved public-sector assignments. |
+| Other approved employers and professional organizations | Other RIAH-vetted employers and professional organizations that can provide real work, real people, real professional supervision, real assignments, actual team participation, and an appropriate placement environment aligned to the student's field, level, qualifications, and applicable requirements. |
 
 
 Students may work directly with professionals and employers including **CPAs, attorneys, judges, cybersecurity and technology professionals, nonprofits, startups, professional firms, corporations, and other vetted organizations**.
