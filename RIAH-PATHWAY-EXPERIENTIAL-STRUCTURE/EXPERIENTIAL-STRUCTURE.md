@@ -70,7 +70,7 @@ Students perform actual work under the guidance, supervision, management, and re
 - **RIAH Pathway Holdings Corporation**
 - **RIAH Pathway Corporation**
 - **RIAH Pathway Professional Services LLP** — Student-Centered • Not External Client Services
-- **RIAH Pathway School of Business, Cybersecurity, and Technology LLC**
+- **RIAH Pathway School of Business, Homeland Security, Law, and Technology LLC**
 - **RIAH Pathway Technology LLC**
 - **RIAH Pathway Programs LLC**
 - **RIAH Pathway Products LLC**
@@ -440,8 +440,6 @@ Experiential opportunities may align to:
 | School of Technology | Cybersecurity, computer science, data analytics, data science, software development, software engineering, project management, program management, and related technology areas |
 | School of Law | JD, Non-JD, criminal justice, legal research, law-office experience, and other legally permitted supervised legal work |
 | School of Homeland Security | Governance, risk and compliance, intelligence, physical security, private investigations, and other legally permitted homeland-security areas |
-| School of Foundations | Applicable age-appropriate experiential and capstone activity where authorized by the student's program |
-| Experiential School | Apprentice, Intern, Associate, Senior Associate, Manager, and Executive pathways |
 
 # **XVIII. NON-JD LAW EXPERIENTIAL STRUCTURE**
 
