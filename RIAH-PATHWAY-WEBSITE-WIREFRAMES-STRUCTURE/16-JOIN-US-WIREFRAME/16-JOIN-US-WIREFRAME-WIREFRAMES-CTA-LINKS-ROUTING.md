@@ -14,6 +14,63 @@
 | 16.4 Join Our Team | `16.4-JOIN-OUR-TEAM-WIREFRAME.md` | 16.4 |
 | 16.5 Ambassadors | `16.5-AMBASSADORS-WIREFRAME.md` | 16.5 |
 
+
+# **16.2 STUDENT LIFE ROUTING DIRECTORY**
+
+| Route | Student Life Section |
+|---|---|
+| 16.2.1 | Institutional Identity |
+| 16.2.2 | RIAH Pathway Goat |
+| 16.2.3 | Perseverance + POWER |
+| 16.2.4 | Your RIAH Pathway Experience |
+| 16.2.5 | Student Organizations |
+| 16.2.6 | Student Governance |
+| 16.2.7 | Student Leadership |
+| 16.2.8 | Honor Societies |
+| 16.2.9 | Greek Life |
+| 16.2.10 | Community + Ambassadors |
+| 16.2.11 | Student Benefits |
+| 16.2.12 | Student Recognition |
+| 16.2.13 | Student Career Services |
+| 16.2.14 | RIAH Pathway Student ID |
+| 16.2.15 | Student Milestones |
+| 16.2.16 | Virtual Institution • Real Connection |
+| 16.2.17 | Six Schools • One Dynasty |
+| 16.2.18 | Careers & Opportunities |
+| 16.2.19 | Career Opportunities at a Glance |
+| 16.2.20 | Career Services |
+| 16.2.21 | Career Opportunities + Employer Engagement |
+| 16.2.22 | Jobs & Opportunities Newsletter |
+| 16.2.23 | RIAH Pathway Career Fairs |
+| 16.2.24 | Tailored Career Fairs |
+| 16.2.25 | Meet the Accountants Night |
+| 16.2.26 | Career Development |
+| 16.2.27 | RIAH Pathway Conference |
+| 16.2.28 | RIAH Pathway Podcast |
+| 16.2.29 | Career + Academic Resources |
+| 16.2.30 | Career Opportunity Flow |
+| 16.2.31 | Career Events Calendar |
+| 16.2.32 | Student Life Events Connection |
+| 16.2.33 | Student Life + Career Resources and Downloads |
+| 16.2.34 | Build Your Career |
+
+### **STUDENT LIFE PRIMARY CTAS**
+
+**[BUTTON — EXPLORE STUDENT ORGANIZATIONS → 16.2.5]**
+**[BUTTON — EXPLORE HONOR SOCIETIES → 16.2.8]**
+**[BUTTON — EXPLORE GREEK LIFE → 16.2.9]**
+**[BUTTON — COMMUNITY + AMBASSADORS → 16.2.10]**
+**[BUTTON — STUDENT BENEFITS → 16.2.11]**
+**[BUTTON — CAREER SERVICES → 16.2.20]**
+**[BUTTON — CAREER OPPORTUNITIES → 16.2.21]**
+**[BUTTON — CAREER EVENTS CALENDAR → 16.2.31]**
+**[BUTTON — BECOME AN AMBASSADOR → 16.5]**
+**[BUTTON — EVENTS → 17.2]**
+**[BUTTON — PODCASTS → 17.4]**
+**[BUTTON — CONFERENCES → 17.5]**
+**[BUTTON — WORKSHOPS → 17.6]**
+**[BUTTON — WEBINARS → 17.7]**
+
 # **XXIV. JOIN US ECOSYSTEM ROUTING**
 
 **[IMAGE — EDUCATION → EXPERIENCE → CERTIFICATION → OPPORTUNITY → CAREER → ALUMNI / PROFESSIONAL / PARTNER → JOIN US → CONTRIBUTE TO RIAH PATHWAY]**
