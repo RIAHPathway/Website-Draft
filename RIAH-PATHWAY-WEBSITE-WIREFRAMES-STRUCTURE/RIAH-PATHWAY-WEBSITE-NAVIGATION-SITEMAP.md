@@ -368,10 +368,9 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 16.4.4 — Academic Faculty
   - 16.4.5 — Experiential Faculty
   - 16.4.6 — Non-JD Legal Professional Opportunities
-  - 16.4.7 — External Professional Pillars
-  - 16.4.8 — Career Resources
-  - 16.4.9 — Find Your Fit
-  - 16.4.10 — Apply to Join RIAH Pathway
+  - 16.4.7 — Career Resources
+  - 16.4.8 — Find Your Fit
+  - 16.4.9 — Apply to Join RIAH Pathway
 - 16.5 — Ambassadors — `16.5-Ambassadors-Wireframe.md`
   - 16.5.1 — Substitute Teachers
   - 16.5.2 — Rideshare
