@@ -22,7 +22,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ## 🔑 Emoji Key
 
-| Emoji | Meaning |
+| Emoji | Purpose |
 |---|---|
 | 🎯 | Purpose and architecture |
 | 🌐 | Delivery, access, and placement format |
