@@ -156,6 +156,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | 16.3 Partnerships | `16.3-PARTNERSHIPS-WIREFRAME.md` | 16 |
 | 16.4 Join Our Team | `16.4-JOIN-OUR-TEAM-WIREFRAME.md` | 16 |
 | 16.5 Ambassadors | `16.5-AMBASSADORS-WIREFRAME.md` | 16 |
+| 16 Join Us CTA / Links / Routing | `JOIN-US-WIREFRAME-WIREFRAMES-CTA-LINKS-ROUTING.md` | 16 |
 
 ### ⚙️ Routing Logic — Mermaid 1
 
@@ -364,6 +365,24 @@ flowchart LR
 | Partnership | SuiteDash — Partner Form / Partner Portal |
 | Ambassador | SuiteDash — Ambassador Form / Ambassador Portal |
 
+### 📌 Experiential Placement Routing
+
+| Placement / Resource | Destination |
+|---|---|
+| Experiential Main | 5 |
+| Experiential by Level | 5.2 |
+| Experiential Learning Process | 5.4 |
+| Internal Placement | 5.5 |
+| External Placement | 5.6 |
+| Experiential Curriculum | 10.9 |
+| Partnerships | 16.3 |
+| Experiential Faculty | 16.4.5 |
+| Experiential Guide | D13 |
+| Actual Work + Professional Review Standards | D14 |
+| Experiential Supervision, Management & Review Guide | D15 |
+| Experiential Placement Process | D16 |
+| Experiential Collections Guide | D17 |
+
 ### 📌 Join Us Implementation Directory
 
 | Component | Implementation |
@@ -374,6 +393,7 @@ flowchart LR
 | Join Our Team | `RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.4-JOIN-OUR-TEAM-WIREFRAME.md` |
 | Ambassadors | `RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.5-AMBASSADORS-WIREFRAME.md` |
 | Website Sitemap | `RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/RIAH-PATHWAY-WEBSITE-NAVIGATION-SITEMAP.md` |
+| Join Us CTA / Links / Routing | `RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/JOIN-US-WIREFRAME-WIREFRAMES-CTA-LINKS-ROUTING.md` |
 | Combined Routing / CTA Directory | `RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/RIAH-PATHWAY-COMBINED-ROUTING-LINKS-CTA-BUTTONS.md` |
 | Experiential Structure | `RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE` |
 
