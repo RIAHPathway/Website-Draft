@@ -474,4 +474,41 @@ flowchart LR
 **[BUTTON — WORKSHOPS → 17.6]**
 **[BUTTON — WEBINARS → 17.7]**
 
+<!-- JOIN-US-16-SYNCHRONIZED-ROUTING -->
+# 16 JOIN US — SYNCHRONIZED ROUTING
 
+This routing block is synchronized with the 16.1–16.5 wireframes and the website sitemap.
+
+| Route | Destination |
+|---|---|
+| 16 | Join Us |
+| 16.2 | Student Life |
+| 16.3 | Partnerships |
+| 16.4 | Join Our Team |
+| 16.4.1 | Executive |
+| 16.4.2 | Board of Governance |
+| 16.4.3 | Backend Core Team |
+| 16.4.4 | Academic Faculty |
+| 16.4.5 | Experiential Faculty |
+| 16.4.6 | Non-JD Legal Professional Opportunities |
+| 16.4.7 | Career Resources |
+| 16.4.8 | Find Your Fit |
+| 16.4.9 | Apply to Join RIAH Pathway |
+| 16.5 | Ambassadors |
+
+**[BUTTON — EDUCATION PATHWAYS → 3]**
+**[BUTTON — EXPERIENTIAL → 5]**
+**[BUTTON — PARTNERSHIPS → 16.3]**
+**[BUTTON — JOIN OUR TEAM → 16.4]**
+**[BUTTON — AMBASSADORS → 16.5]**
+**[BUTTON — CURRICULUM → 10]**
+**[BUTTON — ADMISSIONS → 11]**
+**[BUTTON — TUITION → 12]**
+**[BUTTON — PRODUCTS → 14]**
+**[BUTTON — ACCREDITATION & AUTHORIZATION → 15]**
+**[BUTTON — RESOURCES → 17]**
+**[BUTTON — FAQ → 18]**
+**[BUTTON — CONTACT → 19]**
+**[BUTTON — HUMAN RESOURCES → 19.3]**
+**[BUTTON — APPLY NOW → BREEZY HR]**
+**[BUTTON — EXPRESS INTEREST → RIAH PATHWAY CAREERS JOTFORM]**
