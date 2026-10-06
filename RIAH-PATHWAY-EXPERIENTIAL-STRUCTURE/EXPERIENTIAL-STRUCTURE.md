@@ -10,15 +10,13 @@ The website will launch in **October 2026** as I continue to build, develop, rev
 
 Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
 
-👑 **GitHub:** https://github.com/mariahdominiquerucker
-
-👑 **LinkedIn:** https://linkedin.com/in/mariahrucker
-
-👑 **Facebook:** https://facebook.com/heymariahrucker
-
-👑 **Instagram:** https://instagram.com/heymariahrucker
-
-👑 **Linktree:** https://linktr.ee/mariahrucker
+| RIAH Pathway Item |
+|---|
+| 👑 **GitHub:** https://github.com/mariahdominiquerucker |
+| 👑 **LinkedIn:** https://linkedin.com/in/mariahrucker |
+| 👑 **Facebook:** https://facebook.com/heymariahrucker |
+| 👑 **Instagram:** https://instagram.com/heymariahrucker |
+| 👑 **Linktree:** https://linktr.ee/mariahrucker |
 
 ---
 
@@ -148,15 +146,17 @@ Students perform actual work under the guidance, supervision, management, and re
 
 ## **Internal Placement Entities**
 
-👑 **RIAH Pathway**
-👑 **RIAH Pathway Holdings Corporation**
-👑 **RIAH Pathway Corporation**
-👑 **RIAH Pathway Professional Services LLP** — Student-Centered • Not External Client Services
-👑 **RIAH Pathway School of Business, Homeland Security, Law, and Technology LLC**
-👑 **RIAH Pathway Technology LLC**
-👑 **RIAH Pathway Programs LLC**
-👑 **RIAH Pathway Products LLC**
-👑 **RIAH Pathway 501(c)(3) Foundation**
+| Internal Placement Entity |
+|---|
+| 👑 **RIAH Pathway** |
+| 👑 **RIAH Pathway Holdings Corporation** |
+| 👑 **RIAH Pathway Corporation** |
+| 👑 **RIAH Pathway Professional Services LLP** — Student-Centered • Not External Client Services |
+| 👑 **RIAH Pathway School of Business, Homeland Security, Law, and Technology LLC** |
+| 👑 **RIAH Pathway Technology LLC** |
+| 👑 **RIAH Pathway Programs LLC** |
+| 👑 **RIAH Pathway Products LLC** |
+| 👑 **RIAH Pathway 501(c)(3) Foundation** |
 
 ## **RIAH Pathway Professional Services LLP**
 
@@ -200,21 +200,23 @@ External Experiential placements must involve **actual work rather than simulati
 
 ## **External Placement Opportunities**
 
-👑 Professional Partners
-👑 Educational Partners
-👑 Law Firms
-👑 Courts
-👑 CPA Firms
-👑 MSSPs
-👑 Development Firms
-👑 Security Firms
-👑 Nonprofits
-👑 Startups
-👑 Small Businesses
-👑 Entrepreneurial Organizations
-👑 Corporations
-👑 Government Agencies
-👑 Other approved employers and professional organizations
+| External Placement Opportunity |
+|---|
+| 👑 Professional Partners |
+| 👑 Educational Partners |
+| 👑 Law Firms |
+| 👑 Courts |
+| 👑 CPA Firms |
+| 👑 MSSPs |
+| 👑 Development Firms |
+| 👑 Security Firms |
+| 👑 Nonprofits |
+| 👑 Startups |
+| 👑 Small Businesses |
+| 👑 Entrepreneurial Organizations |
+| 👑 Corporations |
+| 👑 Government Agencies |
+| 👑 Other approved employers and professional organizations |
 
 | External Professionals and Employers |
 |---|
@@ -253,14 +255,16 @@ Requirements:
 
 Examples include:
 
-👑 Accounting participants performing work supporting actual month-end close, budgeting, financial analysis, audit support, internal controls, compliance, reconciliations, reporting, or other accounting functions.
-👑 Technology participants developing, testing, documenting, securing, maintaining, or supporting actual applications, software, systems, infrastructure, databases, integrations, automations, or technology used by RIAH or an approved partner.
-👑 Cybersecurity participants performing authorized security, governance, risk, compliance, monitoring, documentation, control, or related work on actual organizational systems and processes within their permitted scope.
-👑 Business participants performing actual operations, finance, management, entrepreneurship, research, analysis, process improvement, marketing, or business-development work.
-👑 Project and program management participants coordinating actual initiatives, schedules, requirements, deliverables, risks, dependencies, resources, and implementation.
-👑 Legal participants performing actual legally permitted supervised legal work for real matters, operations, research, documentation, or qualifying placements within the limits of applicable law and professional supervision.
-👑 Homeland Security participants performing legally permitted governance, risk, compliance, intelligence, physical-security, investigative-support, or related operational work within their authorized scope.
-👑 Other participants performing actual work aligned to their approved field, major, pathway, placement, and Experiential level.
+| Field or Area | Consequential Real-World Work Example |
+|---|---|
+| 👑 |  Accounting participants performing work supporting actual month-end close, budgeting, financial analysis, audit support, internal controls, compliance, reconciliations, reporting, or other accounting functions. |
+| 👑 |  Technology participants developing, testing, documenting, securing, maintaining, or supporting actual applications, software, systems, infrastructure, databases, integrations, automations, or technology used by RIAH or an approved partner. |
+| 👑 |  Cybersecurity participants performing authorized security, governance, risk, compliance, monitoring, documentation, control, or related work on actual organizational systems and processes within their permitted scope. |
+| 👑 |  Business participants performing actual operations, finance, management, entrepreneurship, research, analysis, process improvement, marketing, or business-development work. |
+| 👑 |  Project and program management participants coordinating actual initiatives, schedules, requirements, deliverables, risks, dependencies, resources, and implementation. |
+| 👑 |  Legal participants performing actual legally permitted supervised legal work for real matters, operations, research, documentation, or qualifying placements within the limits of applicable law and professional supervision. |
+| 👑 |  Homeland Security participants performing legally permitted governance, risk, compliance, intelligence, physical-security, investigative-support, or related operational work within their authorized scope. |
+| 👑 |  Other participants performing actual work aligned to their approved field, major, pathway, placement, and Experiential level. |
 
 | Learning, Review, and Quality Control |
 |---|
@@ -380,19 +384,21 @@ Where capacity is available, placements may use first-come, first-served process
 
 Placement decisions may consider:
 
-👑 Experiential level
-👑 Major and field
-👑 Completed prerequisites
-👑 Prior experience
-👑 Applicable coursework
-👑 Skills
-👑 Placement requirements
-👑 Delivery format
-👑 Schedule
-👑 Professional supervision
-👑 Internal ecosystem needs
-👑 Partner needs
-👑 Available capacity
+| Placement Selection Consideration |
+|---|
+| 👑 Experiential level |
+| 👑 Major and field |
+| 👑 Completed prerequisites |
+| 👑 Prior experience |
+| 👑 Applicable coursework |
+| 👑 Skills |
+| 👑 Placement requirements |
+| 👑 Delivery format |
+| 👑 Schedule |
+| 👑 Professional supervision |
+| 👑 Internal ecosystem needs |
+| 👑 Partner needs |
+| 👑 Available capacity |
 
 Identity characteristics unrelated to placement qualifications are not used as placement-selection criteria.
 
@@ -400,22 +406,24 @@ Identity characteristics unrelated to placement qualifications are not used as p
 
 Experiential may use:
 
-👑 Experiential Supervisors
-👑 Experiential Managers
-👑 Experiential Reviewers
-👑 Faculty
-👑 Adjunct Faculty
-👑 Industry Professionals
-👑 Attorneys
-👑 Judges
-👑 Law Firms
-👑 Courts
-👑 CPA Firms
-👑 Cybersecurity Firms
-👑 Technology Firms
-👑 Business Professionals
-👑 Employer Partners
-👑 Other approved professional partners
+| Experiential Supervision and Review Professional |
+|---|
+| 👑 Experiential Supervisors |
+| 👑 Experiential Managers |
+| 👑 Experiential Reviewers |
+| 👑 Faculty |
+| 👑 Adjunct Faculty |
+| 👑 Industry Professionals |
+| 👑 Attorneys |
+| 👑 Judges |
+| 👑 Law Firms |
+| 👑 Courts |
+| 👑 CPA Firms |
+| 👑 Cybersecurity Firms |
+| 👑 Technology Firms |
+| 👑 Business Professionals |
+| 👑 Employer Partners |
+| 👑 Other approved professional partners |
 
 The applicable professional supervises work within their permitted professional scope.
 
@@ -426,9 +434,11 @@ RIAH maintains applicable placement, assignment, performance, review, and comple
 
 Experiential Leadership includes:
 
-👑 **Directors — 4**
-👑 **Project Managers — 4**
-👑 **Program Managers — 4**
+| Experiential Supervision and Review Professional |
+|---|
+| 👑 **Directors — 4** |
+| 👑 **Project Managers — 4** |
+| 👑 **Program Managers — 4** |
 
 Experiential Leadership is structured across:
 
@@ -453,9 +463,11 @@ Experiential Leadership is structured across:
 
 Experiential Professionals include:
 
-👑 **Supervisors — 40**
-👑 **Managers — 40**
-👑 **Reviewers — 40**
+| Experiential Supervision and Review Professional |
+|---|
+| 👑 **Supervisors — 40** |
+| 👑 **Managers — 40** |
+| 👑 **Reviewers — 40** |
 
 Experiential Professionals operate across:
 
@@ -502,16 +514,18 @@ Each level maintains its own Experiential curriculum and collection.
 
 The standard Experiential Collection may include:
 
-👑 Experiential Textbook
-👑 Experiential Workbook
-👑 Experiential Journal
-👑 Experiential Planner
-👑 LMS Learning Courses
-👑 Weekly Objectives
-👑 Weekly Assignments
-👑 Weekly Performance Assessments
-👑 Real-World Consequential Work Experience
-👑 Applicable supporting educational resources
+| Experiential Collection Component |
+|---|
+| 👑 Experiential Textbook |
+| 👑 Experiential Workbook |
+| 👑 Experiential Journal |
+| 👑 Experiential Planner |
+| 👑 LMS Learning Courses |
+| 👑 Weekly Objectives |
+| 👑 Weekly Assignments |
+| 👑 Weekly Performance Assessments |
+| 👑 Real-World Consequential Work Experience |
+| 👑 Applicable supporting educational resources |
 
 | Experiential Education and Real-World Work Integration |
 |---|
@@ -555,15 +569,17 @@ Each Experiential level also has its applicable deposit associated with the Expe
 
 The deposit supports the applicable collection components established for the participant's level, which may include:
 
-👑 Experiential Textbook
-👑 Experiential Workbook
-👑 Experiential Journal
-👑 Experiential Planner
-👑 Review materials where applicable
-👑 Study materials where applicable
-👑 Flashcards where applicable
-👑 LMS learning materials
-👑 Other applicable Experiential education collection components
+| Experiential Education Collection Component |
+|---|
+| 👑 Experiential Textbook |
+| 👑 Experiential Workbook |
+| 👑 Experiential Journal |
+| 👑 Experiential Planner |
+| 👑 Review materials where applicable |
+| 👑 Study materials where applicable |
+| 👑 Flashcards where applicable |
+| 👑 LMS learning materials |
+| 👑 Other applicable Experiential education collection components |
 
 | Experiential Education Collection Deposit Control |
 |---|
@@ -575,12 +591,14 @@ Current Experiential tuition, deposits, and pricing remain controlled by the RIA
 
 Experiential may operate as:
 
-👑 A standalone Experiential pathway
-👑 An integrated Education and Experiential pathway
-👑 A final-year one-month guaranteed Experiential opportunity
-👑 An applicable component of a law pathway
-👑 A partner placement
-👑 An internal RIAH ecosystem placement
+| Experiential and Education Integration Structure |
+|---|
+| 👑 A standalone Experiential pathway |
+| 👑 An integrated Education and Experiential pathway |
+| 👑 A final-year one-month guaranteed Experiential opportunity |
+| 👑 An applicable component of a law pathway |
+| 👑 A partner placement |
+| 👑 An internal RIAH ecosystem placement |
 
 Academic curriculum and Experiential work remain separately documented where applicable.
 
@@ -648,13 +666,15 @@ RIAH's current Non-JD structure contains seven state pathways.
 
 Law Experiential may use approved:
 
-👑 Attorneys
-👑 Judges
-👑 Law firms
-👑 Courts
-👑 Legal departments
-👑 Legal organizations
-👑 Other qualified legal professionals or approved legal placements
+| Approved Law Experiential Supervisor or Placement |
+|---|
+| 👑 Attorneys |
+| 👑 Judges |
+| 👑 Law firms |
+| 👑 Courts |
+| 👑 Legal departments |
+| 👑 Legal organizations |
+| 👑 Other qualified legal professionals or approved legal placements |
 
 Students may perform only work permitted for their status, training, jurisdiction, and supervision level.
 
@@ -666,8 +686,10 @@ Students may not represent themselves as licensed attorneys unless independently
 
 United States students may receive:
 
-👑 Paid placement
-👑 Unpaid placement
+| United States Placement Compensation Option |
+|---|
+| 👑 Paid placement |
+| 👑 Unpaid placement |
 
 The applicable placement agreement controls compensation subject to applicable law.
 
@@ -675,12 +697,14 @@ The applicable placement agreement controls compensation subject to applicable l
 
 International Online Students residing outside the United States receive:
 
-👑 Remote placement only
-👑 Unpaid placement under RIAH policy
-👑 Professional supervision
-👑 Real-world work
-👑 Performance review
-👑 Completion documentation
+| International Online Placement Standard |
+|---|
+| 👑 Remote placement only |
+| 👑 Unpaid placement under RIAH policy |
+| 👑 Professional supervision |
+| 👑 Real-world work |
+| 👑 Performance review |
+| 👑 Completion documentation |
 
 International Online Experiential is not represented as U.S. employment, U.S. work authorization, or visa sponsorship.
 
@@ -698,33 +722,35 @@ International Online Students remain remote under the International Online Exper
 
 RIAH Experiential records may include:
 
-👑 Participant
-👑 Student ID
-👑 School
-👑 Major
-👑 Experiential level
-👑 Placement
-👑 Internal or partner placement
-👑 Supervisor
-👑 Manager
-👑 Reviewer
-👑 Start date
-👑 End date
-👑 Delivery format
-👑 Paid or unpaid status
-👑 Assignments
-👑 Consequential work responsibilities
-👑 Operational deliverables
-👑 Weekly objectives
-👑 Weekly activity
-👑 Weekly performance assessments
-👑 Educational content completed
-👑 Professional competencies
-👑 Performance reviews
-👑 Supervisor feedback
-👑 Completion status
-👑 Applicable badge or achievement
-👑 Applicable graduate benefit record
+| Experiential Record Field |
+|---|
+| 👑 Participant |
+| 👑 Student ID |
+| 👑 School |
+| 👑 Major |
+| 👑 Experiential level |
+| 👑 Placement |
+| 👑 Internal or partner placement |
+| 👑 Supervisor |
+| 👑 Manager |
+| 👑 Reviewer |
+| 👑 Start date |
+| 👑 End date |
+| 👑 Delivery format |
+| 👑 Paid or unpaid status |
+| 👑 Assignments |
+| 👑 Consequential work responsibilities |
+| 👑 Operational deliverables |
+| 👑 Weekly objectives |
+| 👑 Weekly activity |
+| 👑 Weekly performance assessments |
+| 👑 Educational content completed |
+| 👑 Professional competencies |
+| 👑 Performance reviews |
+| 👑 Supervisor feedback |
+| 👑 Completion status |
+| 👑 Applicable badge or achievement |
+| 👑 Applicable graduate benefit record |
 
 # **XXIII. 📋 COMPLETION**
 
@@ -748,15 +774,17 @@ Experiential is designed to create documented professional experience and exposu
 
 Experiential completion does not guarantee:
 
-👑 Permanent employment
-👑 A job offer
-👑 A specific employer
-👑 A specific salary
-👑 Paid placement
-👑 Professional licensure
-👑 Bar eligibility
-👑 Immigration status
-👑 Work authorization
+| Experiential Completion Does Not Guarantee |
+|---|
+| 👑 Permanent employment |
+| 👑 A job offer |
+| 👑 A specific employer |
+| 👑 A specific salary |
+| 👑 Paid placement |
+| 👑 Professional licensure |
+| 👑 Bar eligibility |
+| 👑 Immigration status |
+| 👑 Work authorization |
 
 Employment decisions remain separate from Experiential completion.
 
@@ -768,18 +796,20 @@ Applicable faculty and Experiential professionals support curriculum development
 
 Experiential placements must:
 
-👑 Align to the participant's approved pathway or professional-development objective.
-👑 Use appropriate professional supervision.
-👑 Define responsibilities, consequential work, and operational deliverables.
-👑 Require appropriate review before consequential work is approved, relied upon, released, implemented, filed, published, deployed, or moved into production.
-👑 Maintain governance, risk, compliance, quality-control, and escalation procedures appropriate to the placement.
-👑 Protect confidential and restricted information.
-👑 Follow applicable law and professional requirements.
-👑 Maintain appropriate records.
-👑 Complete performance review.
-👑 Avoid assigning work outside the participant's permitted scope.
-👑 Follow applicable partner agreements.
-👑 Follow RIAH policies and governance.
+| Experiential Governance Requirement |
+|---|
+| 👑 Align to the participant's approved pathway or professional-development objective. |
+| 👑 Use appropriate professional supervision. |
+| 👑 Define responsibilities, consequential work, and operational deliverables. |
+| 👑 Require appropriate review before consequential work is approved, relied upon, released, implemented, filed, published, deployed, or moved into production. |
+| 👑 Maintain governance, risk, compliance, quality-control, and escalation procedures appropriate to the placement. |
+| 👑 Protect confidential and restricted information. |
+| 👑 Follow applicable law and professional requirements. |
+| 👑 Maintain appropriate records. |
+| 👑 Complete performance review. |
+| 👑 Avoid assigning work outside the participant's permitted scope. |
+| 👑 Follow applicable partner agreements. |
+| 👑 Follow RIAH policies and governance. |
 
 # **XXVI. 🛡️ INTERNATIONAL COMPLIANCE CONTROL**
 
