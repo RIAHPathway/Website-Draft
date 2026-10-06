@@ -262,6 +262,52 @@ The applicable professional supervises work within their permitted professional 
 
 RIAH maintains applicable placement, assignment, performance, review, and completion records.
 
+
+## **Experiential Leadership — 12 People**
+
+Experiential Leadership includes:
+
+- **Directors — 4**
+- **Project Managers — 4**
+- **Program Managers — 4**
+
+Experiential Leadership is structured across:
+
+| School | Director | Project Manager | Program Manager |
+|---|---:|---:|---:|
+| **School of Business** | 1 | 1 | 1 |
+| **School of Technology** | 1 | 1 | 1 |
+| **School of Homeland Security** | 1 | 1 | 1 |
+| **School of Law** | 1 | 1 | 1 |
+
+**Directors** oversee the school's Experiential operations and connection to its academic programs.
+
+**Project Managers** manage Experiential projects, assignments, schedules, deliverables, Supervisors, Reviewers, faculty coordination, and student project execution.
+
+**Program Managers** manage Experiential programs, placements, participants, schedules, Supervisors, Reviewers, faculty coordination, and program delivery.
+
+Directors, Project Managers, and Program Managers work directly with **Academic Faculty** so Experiential programs, projects, placements, assignments, supervision, evaluations, and professional experiences connect with the educational programs and curriculum.
+
+## **Experiential Professionals — 120 People**
+
+Experiential Professionals include:
+
+- **Supervisors — 40**
+- **Managers — 40**
+- **Reviewers — 40**
+
+Experiential Professionals operate across:
+
+**Business • Technology • Homeland Security • Law**
+
+**Supervisors** oversee students' applied work.
+
+**Managers** manage Experiential operations, assignments, teams, and deliverables.
+
+**Reviewers** independently evaluate student work, performance, competencies, projects, and outcomes.
+
+Supervisors, Managers, and Reviewers coordinate with **Experiential Leadership and Academic Faculty** to connect professional experience to education.
+
 # **XII. EXPERIENTIAL LEVEL PROGRESSION**
 
 Experiential levels are separate pathways and are not automatic promotions.
