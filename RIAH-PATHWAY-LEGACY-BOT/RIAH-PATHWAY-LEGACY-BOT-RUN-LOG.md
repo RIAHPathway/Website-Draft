@@ -22,7 +22,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ## I. KEY
 
-| Symbol | Meaning |
+| Symbol | Purpose |
 |---|---|
 | 👑 | RIAH Pathway baseline |
 | 🟢 | Market baseline or no material comparable combination identified |
