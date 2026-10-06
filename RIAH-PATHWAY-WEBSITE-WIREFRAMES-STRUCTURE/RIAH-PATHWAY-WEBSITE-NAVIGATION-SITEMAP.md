@@ -45,7 +45,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 ## Sitemap Classification
 
 - **MAIN PAGE WIREFRAME** = one of the 19 primary website pages.
-- Numbered items beneath each main page are sections and page details within that page hierarchy.
+- Numbered items beneath each main page are suboages and page details within that page hierarchy.
 - **Home 1.1–1.19** = content sections inside the Home wireframe, not separate page folders.
 - **3 Pathway** remains the combined pathway hub while Degree Programs, Experiential, High School, GED/HSE, Certification Review, and Bar Review also have their own main pages.
 
