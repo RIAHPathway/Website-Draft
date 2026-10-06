@@ -4,75 +4,66 @@
 
 **[PARENT — 16 JOIN US]**
 
-# XXIV. JOIN US ECOSYSTEM ROUTING
+## **16.1–16.5 WIREFRAME ROUTING DIRECTORY**
+
+| Wireframe | Markdown | Primary Route |
+|---|---|---|
+| 16.1 Join Us Main | `16.1 Join-Us-Wireframe-Main.md` | 16 |
+| 16.2 Student Life | `16.2-STUDENT-LIFE-WIREFRAME.md` | 16.2 |
+| 16.3 Partnerships | `16.3-PARTNERSHIPS-WIREFRAME.md` | 16.3 |
+| 16.4 Join Our Team | `16.4-JOIN-OUR-TEAM-WIREFRAME.md` | 16.4 |
+| 16.5 Ambassadors | `16.5-AMBASSADORS-WIREFRAME.md` | 16.5 |
+
+# **XXIV. JOIN US ECOSYSTEM ROUTING**
 
 **[IMAGE — EDUCATION → EXPERIENCE → CERTIFICATION → OPPORTUNITY → CAREER → ALUMNI / PROFESSIONAL / PARTNER → JOIN US → CONTRIBUTE TO RIAH PATHWAY]**
 
 Education → Experience → Certification → Opportunity → Career → Alumni / Professional / Partner → Join Us → Contribute to RIAH Pathway
 
-### PRIMARY ROUTING
+### **PRIMARY ROUTING**
 
 **[BUTTON 66 — EDUCATION PATHWAYS → 3]**
-
 **[BUTTON 73 — EXPERIENTIAL → 5]**
-
 **[BUTTON 74 — PARTNERSHIPS → 16.3]**
-
 **[BUTTON 75 — JOIN OUR TEAM → 16.4]**
-
 **[BUTTON 76 — AMBASSADORS → 16.5]**
-
 **[BUTTON 77 — CURRICULUM → 10]**
-
 **[BUTTON 78 — ADMISSIONS → 11]**
-
 **[BUTTON 79 — TUITION → 12]**
-
 **[BUTTON 80 — PRODUCTS → 14]**
-
 **[BUTTON 81 — ACCREDITATION & AUTHORIZATION → 15]**
-
 **[BUTTON 82 — RESOURCES → 17]**
-
 **[BUTTON 83 — FAQ → 18]**
-
 **[BUTTON 84 — CONTACT → 19]**
 
-# XXV. JOIN US INQUIRY ROUTING
+# **XXV. JOIN US INQUIRY ROUTING**
 
-### ADMISSIONS / EDUCATION
+### **ADMISSIONS / EDUCATION**
 
 **[FORM ROUTE — CLASSE365 — APPLICATIONS • ADMISSIONS • ENROLLMENT]**
-
-### STUDENT
+### **STUDENT**
 
 **[FORM ROUTE — SUITEDASH — STUDENT PORTAL / STUDENT SUPPORT]**
-
-### FACULTY / TEAM
-
-**[FORM ROUTE — BREEZY HR — CAREERS • RECRUITING • APPLICANT TRACKING]**
-
-### EXECUTIVE
+### **FACULTY / TEAM**
 
 **[FORM ROUTE — BREEZY HR — CAREERS • RECRUITING • APPLICANT TRACKING]**
-
-### GOVERNANCE
+### **EXECUTIVE**
 
 **[FORM ROUTE — BREEZY HR — CAREERS • RECRUITING • APPLICANT TRACKING]**
+### **GOVERNANCE**
 
-### PARTNERSHIP
+**[FORM ROUTE — BREEZY HR — CAREERS • RECRUITING • APPLICANT TRACKING]**
+### **PARTNERSHIP**
 
 **[FORM ROUTE — SUITEDASH — PARTNER FORM / PARTNER PORTAL]**
-
-### AMBASSADOR
+### **AMBASSADOR**
 
 **[FORM ROUTE — SUITEDASH — AMBASSADOR FORM / AMBASSADOR PORTAL]**
-
 **Ambassador Types:** Substitute Teachers • Rideshare • Delivery • Content Creators • GitHub Contributors
 
 **[BUTTON 69 — SUBMIT JOIN US INQUIRY → ROUTE BY SELECTION]**
 
-# XXVI. JOIN US DOWNLOADS
+# **XXVI. JOIN US DOWNLOADS**
 
 | Download ID | Download / Resource | Destination |
 |---|---|---|
@@ -109,7 +100,7 @@ Education → Experience → Certification → Opportunity → Career → Alumni
 | D31 | Honor Societies + Greek Life Guide | FILE TO ATTACH |
 | D32 | Student Events Guide | FILE TO ATTACH |
 
-# XXVII. FINAL JOIN US CTA
+# **XXVII. FINAL JOIN US CTA**
 
 **[IMAGE — FINAL RIAH PATHWAY DYNASTY / EDUCATION • EXPERIENCE • CAREER • COMMUNITY • PARTNERSHIP • LEADERSHIP]**
 
@@ -118,19 +109,12 @@ Education → Experience → Certification → Opportunity → Career → Alumni
 Learn. Experience. Contribute. Partner. Lead.
 
 **[BUTTON 15 — APPLY NOW → 11.3]**
-
 **[BUTTON 66 — EXPLORE EDUCATION PATHWAYS → 3]**
-
 **[BUTTON 73 — EXPLORE EXPERIENTIAL → 5]**
-
 **[BUTTON 74 — BECOME A PARTNER → 16.3]**
-
 **[BUTTON 75 — JOIN OUR TEAM → 16.4]**
-
 **[BUTTON 76 — BECOME AN AMBASSADOR → 16.5]**
-
 **[BUTTON 82 — EXPLORE RESOURCES → 17]**
-
 **[BUTTON 84 — CONTACT RIAH PATHWAY → 19]**
 
 ---
