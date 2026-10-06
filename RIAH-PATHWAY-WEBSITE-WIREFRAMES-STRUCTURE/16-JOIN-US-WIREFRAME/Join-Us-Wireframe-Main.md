@@ -1,4 +1,4 @@
-# 👑 RIAH Pathway
+# 👑 RIAH Pathway.
 
 # 16. JOIN US — MAIN PAGE WIREFRAME
 
