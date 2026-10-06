@@ -224,7 +224,7 @@ Requirements:
 
 # **VII. 🛡️ CONSEQUENTIAL REAL-WORLD WORK STANDARD**
 
-All RIAH Experiential placements are based on **actual consequential work**. Experiential is not a simulation, artificial exercise, mock workplace, practice company, or disposable academic project.
+All RIAH Experiential placements are based on real and **actual consequential work**. Experiential is not a simulation, artificial exercise, mock workplace, practice company, or disposable academic project.
 
 Consequential work means the participant performs real work for an actual operational purpose within the RIAH Pathway ecosystem or for an approved employer or professional partner. The work is intended to be used, implemented, reviewed, relied upon, moved into development or production, incorporated into operations, or otherwise contribute to a real organizational objective.
 
