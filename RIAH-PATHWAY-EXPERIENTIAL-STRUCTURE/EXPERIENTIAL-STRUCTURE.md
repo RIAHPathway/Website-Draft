@@ -82,11 +82,11 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 RIAH Pathway Experiential provides supervised, real-world professional learning through actual work, projects, assignments, deliverables, and professional review within the RIAH Pathway ecosystem or with approved employer and professional partners.
 
-Experiential connects academic learning to applied professional experience while maintaining separate eligibility, placement, supervision, performance, completion, and recordkeeping standards.
+Experiential connects academic learning to applied professional experience while maintaining separate eligibility, placement, supervision, performance, legitimate, and recordkeeping standards.
 
 Experiential includes **two placement types: Internal Placement and External Placement**.
 
-These experiences are **not simulations, practice projects, hypothetical assignments, simulated workplaces, or disposable academic projects**. Students perform legitimate work for actual operational purposes within the RIAH Pathway ecosystem or with approved employer and professional partners.
+These experiences are **not simulations, practice projects, hypothetical assignments, simulated workplaces, or disposable academic projects**. Students perform legitimate work for actual operational purposes within the RIAH Pathway ecosystem or with vetted and approved employer and professional partners.
 
 Placement is based on the participant's **Experiential pathway, field, major, level, qualifications, placement type, placement availability, organizational needs, partner needs, capacity, supervision availability, and applicable placement requirements**.
 
