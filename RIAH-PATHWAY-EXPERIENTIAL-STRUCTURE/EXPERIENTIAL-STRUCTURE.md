@@ -90,7 +90,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 👑 **Assessment + Development:** Weekly proctored assessments connected to student development, assignments, and performance.
 
-👑 **Experiential Levels:** Apprentice → Intern → Associate → Senior Associate → Manager → Executive. Students are placed at the applicable level based on RIAH requirements and verified eligibility.
+👑 **Experiential Levels:** Apprentice → Intern → Associate → Senior Associate → Manager → Executive. Students are placed at the applicable level based on RIAH requirements and verified eligibility. Students may also apply for **Progressive Experience** to progress from their approved starting level through subsequent eligible Experiential levels, subject to placement capacity, supervision, resources, eligibility, and applicable requirements.
 
 👑 **Education Integration:** Experiential connects with applicable Bachelor's, Master's, MBA, JD, Non-JD, and college-credit structures.
 
@@ -371,6 +371,8 @@ Students work within one professional or functional area and develop experience 
 ### **Rotational Placements**
 
 Selected students may rotate through applicable functions, departments, professional areas, or ecosystem entities to develop broader experience.
+
+Students may apply for a **Rotational Experience** option. Rotational Experience adds **$5,000** to the standard tuition for the selected Experiential level because RIAH must maintain the additional placement capacity, supervision, coordination, and resources required to support rotation. For example, Associate Experiential is $10,000; Associate with Rotational Experience is $15,000. Approval remains subject to capacity, resources, supervision availability, placement availability, and applicable requirements.
 
 Internal placements involve **actual work that contributes directly to the operations and needs of the RIAH Pathway ecosystem**.
 
@@ -812,6 +814,20 @@ Experiential participants have two tuition payment options:
 | Executive | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
 
 *Monthly amounts are the total tuition divided by the Experiential duration. Where division creates a rounding difference, the final payment is adjusted so total payments equal the stated Experiential tuition.
+
+### Progressive and Rotational Experience Options
+
+Students may apply for **Progressive Experience** or **Rotational Experience** in addition to their selected Experiential level. These options are subject to RIAH capacity, resources, supervision availability, placement availability, eligibility, and applicable requirements.
+
+| Experiential Option | Pricing Rule | Example |
+|---|---:|---|
+| **Progressive Experience** | **Selected Experiential Level Tuition + $10,000** | Apprentice $2,500 + Progressive Experience $10,000 = **$12,500** |
+| **Rotational Experience** | **Selected Experiential Level Tuition + $5,000** | Associate $10,000 + Rotational Experience $5,000 = **$15,000** |
+
+**Progressive Experience** allows an approved participant to begin at the applicable Experiential level and progress through subsequent eligible levels within the RIAH Experiential structure. The additional **$10,000** supports the added placement capacity, supervision, coordination, progression planning, and resources required for the progressive structure. The $10,000 is added to the tuition of the student's approved starting Experiential level.
+
+**Rotational Experience** allows an approved participant to rotate through applicable placements, functions, departments, professional areas, or ecosystem entities during the Experiential experience. The additional **$5,000** supports the added capacity, supervision, coordination, placement management, and resources required for rotation. The $5,000 is added to the standard tuition of the selected Experiential level.
+
 
 ### Experiential Education Collection Deposit
 
