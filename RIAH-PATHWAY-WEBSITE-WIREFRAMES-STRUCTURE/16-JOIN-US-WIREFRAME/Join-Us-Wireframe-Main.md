@@ -272,4 +272,62 @@ RIAH Pathway curriculum is 100% online with assessment and academic requirements
 
 ---
 
+# VI. JOIN US CHILD WIREFRAME ROUTING DIRECTORY
+
+**[SITEMAP — 16 JOIN US]**
+
+### 16.2 STUDENT LIFE
+**[WIREFRAME MD — 16.2-STUDENT-LIFE-WIREFRAME.md]**
+**[BUTTON 08 / 30 — STUDENT LIFE → 16.2]**
+Subpages: **16.2.1 Student Organizations • 16.2.2 Honor Societies • 16.2.3 Greek Life • 16.2.4 Community • 16.2.5 Student Benefits**
+Downloads: **D04 • D07 • D11 • D30 • D31 • D32**
+Images/Icons: **Student Life • Student Organizations • Honor Societies • Greek Life • Community + Ambassadors • Annual Conference • Podcast • Workshops • Webinars**
+
+### 16.3 PARTNERSHIPS
+**[WIREFRAME MD — 16.3-PARTNERSHIPS-WIREFRAME.md]**
+**[BUTTON 10 / 33 / 40 / 67 / 74 — PARTNERSHIPS → 16.3]**
+Subpages: **16.3.1–16.3.17**
+Downloads: **D05 • D06**
+Image: **Educational + Professional Partners**
+External inquiry route: **19.7 Partnerships & Organizations**
+
+### 16.4 JOIN OUR TEAM
+**[WIREFRAME MD — 16.4-JOIN-OUR-TEAM-WIREFRAME.md]**
+**[BUTTON 11 / 47 / 75 — JOIN OUR TEAM → 16.4]**
+Subpages: **16.4.1 Executive • 16.4.2 Board of Governance • 16.4.3 Backend Core Team • 16.4.4 Academic Faculty • 16.4.5 Experiential Faculty**
+Downloads: **D15 • D18 • D19 • D20 • D21 • D22 • D23**
+Images: **Team • Experiential Leadership + Professionals • Executive Leadership • Governance**
+External/cross routes: **19.3 Human Resources • 2.4 Leadership • 2.5 Board & Governance • 5 Experiential • 10 Curriculum • 10.10 Certification & Review • 14.2.1 Certification Review Products • 14.2.2 Bar Review Products • 15 Accreditation & Authorization**
+
+### 16.5 AMBASSADORS
+**[WIREFRAME MD — 16.5-AMBASSADORS-WIREFRAME.md]**
+**[BUTTON 12 / 60 / 76 — AMBASSADORS → 16.5]**
+Subpages: **16.5.1 Substitute Teachers • 16.5.2 Rideshare • 16.5.3 Delivery • 16.5.4 Content Creators • 16.5.5 GitHub Contributors**
+Downloads: **D07 • D08 • D09 • D10 • D12 • D25**
+Image/Icons: **Ambassadors • Substitute Teacher • Rideshare • Delivery • Content Creator • GitHub Contributor**
+Cross routes: **17 Resources • 19 Contact**
+
+### EXPERIENTIAL CROSS-ROUTING
+**[BUTTON 09 / 42 / 73 — EXPERIENTIAL → 5]**
+**[BUTTON 43 — EXPERIENTIAL CURRICULUM → 10.9]**
+**[BUTTON 44 — EXPERIENTIAL BY LEVEL → 5.2]**
+**[BUTTON 45 / 46 — EXPERIENTIAL LEARNING PROCESS → 5.4]**
+**[ROUTE — INTERNAL PLACEMENT → 5.5]**
+**[ROUTE — EXTERNAL PLACEMENT → 5.6]**
+Downloads: **D13 • D14 • D15 • D16 • D17**
+
+### GLOBAL JOIN US ROUTING
+**[BUTTON 06 / 15 / 25 / 65 / 70 — APPLY NOW → 11.3]**
+**[BUTTON 07 / 66 / 71 — EDUCATION PATHWAYS → 3]**
+**[BUTTON 21 / 50 / 64 / 77 — CURRICULUM → 10]**
+**[BUTTON 22 / 78 — ADMISSIONS → 11]**
+**[BUTTON 23 / 79 — TUITION → 12]**
+**[BUTTON 59 / 81 — ACCREDITATION & AUTHORIZATION → 15]**
+**[BUTTON 68 / 82 — RESOURCES → 17]**
+**[BUTTON 83 — FAQ → 18]**
+**[BUTTON 84 — CONTACT → 19]**
+
+
+---
+
 👑 RIAH Pathway.
