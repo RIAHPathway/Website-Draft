@@ -33,7 +33,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | 🤝 | External placement and partners |
 | 🌍 | International Online Experiential |
 | 🛡️ | Standards, controls, and compliance |
-| 🧭 | Application, selection, progression, and placement flow |
+| 🧭 | Application, selection, Experiential levels, and placement flow |
 | 👥 | Supervision, leadership, professionals, and review |
 | 📚 | Curriculum, education, collections, and college credit |
 | 💰 | Pricing, payment, paid, and unpaid standards |
@@ -56,7 +56,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | IX | EXPERIENTIAL APPLICATION AND PLACEMENT PROCEDURE | 🧭 |
 | X | PLACEMENT SELECTION | 🧭 |
 | XI | SUPERVISION AND REVIEW | 👥 |
-| XII | EXPERIENTIAL LEVEL PROGRESSION | 🧭 |
+| XII | EXPERIENTIAL LEVELS | 🧭 |
 | XIII | EXPERIENTIAL CURRICULUM AND COLLECTIONS | 📚 |
 | XIV | EXPERIENTIAL PRICING | 💰 |
 | XV | EXPERIENTIAL AND EDUCATION INTEGRATION | 📚 |
@@ -90,7 +90,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 👑 **Assessment + Development:** Weekly proctored assessments connected to student development, assignments, and performance.
 
-👑 **Professional Progression:** Apprentice → Intern → Associate → Senior Associate → Manager → Executive.
+👑 **Experiential Levels:** Apprentice → Intern → Associate → Senior Associate → Manager → Executive. Students are placed at the applicable level based on RIAH requirements and verified eligibility.
 
 👑 **Education Integration:** Experiential connects with applicable Bachelor's, Master's, MBA, JD, Non-JD, and college-credit structures.
 
@@ -196,7 +196,7 @@ flowchart LR
 | 📈 | **Senior Associate — defined 1-year Experiential level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 👔 | **Manager — defined 1-year Experiential level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 👑 | **Executive — defined 1-year Experiential level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🪜 | **Unified six-level Apprentice → Executive Experiential ladder** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🪜 | **Unified six-level Apprentice → Executive Experiential structure** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | ⏫ | **Verified prior experience can permit advanced entry** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 🎓 | **Bachelor's Year-4 one-month Experiential guarantee for eligible students** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🎓 | **Master's/MBA eligible one-month guarantee framework** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -386,9 +386,9 @@ External Experiential placements must involve **actual work rather than simulati
 
 External placement capacity is designed to be **scalable and not limited to the internal Experiential staffing model**. RIAH may work with numerous approved partner employers and integrate Experiential placements into the partner employer's actual workplace and operations. Examples include law firms, CPA firms, MSSPs, development firms, security firms, corporations, government agencies, and other approved professional organizations.
 
-Approved external partners may integrate their **actual employees and professionals** into the Experiential structure to support students who require external placement within those professional environments. External placements must include **real people, real professional supervision, real assignments, and actual work** within the partner employer's business.
+Approved external partners integrate their **actual employees and professionals into the RIAH Experiential ecosystem** for applicable external placements. This allows RIAH to deploy students into **actual work environments with real people, real professional teams, and real entities**. External placements must include **real people, real professional supervision, real assignments, and actual work** within the partner employer's business.
 
-RIAH's vetting requirement for external partners requires that the placement provide actual professional personnel, actual work, appropriate assignments, and applicable supervision for students. External students therefore work with real professionals in the partner employer environment just as internal students work with real RIAH Experiential Managers, Supervisors, Reviewers, and other qualified professionals.
+RIAH's vetting requirement for external partners requires that the placement provide actual professional personnel, actual work, appropriate assignments, and applicable supervision for students. The partner's applicable people and professional environment become part of the student's external RIAH Experiential placement structure, allowing students to work with real professionals, real teams, and real entities just as internal students work with real RIAH Experiential Managers, Supervisors, Reviewers, and other qualified professionals.
 
 ## **External Placement Opportunities**
 
@@ -727,23 +727,19 @@ Experiential work is actual work being used or moved through **development, prod
 
 
 
-# **XII. 🧭 EXPERIENTIAL LEVEL PROGRESSION**
+# **XII. 🧭 EXPERIENTIAL LEVELS**
 
-Experiential levels are separate pathways and are not automatic promotions.
+Experiential levels are separate placement levels and are not automatic promotions or progression levels.
 
-A participant must satisfy the applicable prerequisites for the requested level.
+Students may be placed at **Apprentice, Intern, Associate, Senior Associate, Manager, or Executive** based on the applicable RIAH requirements, prerequisites, verified experience, qualifications, readiness, placement fit, supervision availability, and other applicable eligibility requirements.
 
-| From | To | Progression Requirement |
-|---|---|---|
-| Apprentice | Intern | Applicable coursework, readiness, and Intern eligibility |
-| Intern | Associate | Some applicable experience and Associate prerequisites |
-| Associate | Senior Associate | At least one year applicable experience and prerequisites |
-| Senior Associate | Manager | Senior Associate-level experience and Manager prerequisites |
-| Manager | Executive | At least one year Manager-level experience and Executive prerequisites |
+A student does not have to begin at Apprentice when the student already qualifies for a higher level. Placement at one Experiential level does not automatically move the student to another level.
 
-Prior professional experience may support placement at an advanced level after verification. A student does not have to begin at Apprentice when the student already qualifies for a higher level.
+A student who completes an Experiential level may choose to apply and pay for an additional Experiential level. The student must independently satisfy the applicable requirements for that additional level before placement.
 
-## **Experiential Level Progression Flow — Entry**
+The flow below shows how the Experiential levels connect within the overall structure. It does not represent automatic progression.
+
+## **Experiential Level Flow — Entry**
 
 ```mermaid
 flowchart TD
@@ -751,7 +747,7 @@ flowchart TD
     B --> C["Associate"]
 ```
 
-## **Experiential Level Progression Flow — Advanced**
+## **Experiential Level Flow — Advanced**
 
 ```mermaid
 flowchart TD
