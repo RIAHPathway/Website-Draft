@@ -222,6 +222,20 @@ Experiential Pricing establishes the standard amount and duration for each level
 | Senior Associate | 1 Year | \$10,000 |
 | Manager | 1 Year | \$10,000 |
 | Executive | 1 Year | \$10,000 |
+| Progressive Experience Add-On | Progression from approved starting level through subsequent eligible levels | **+\$10,000** on top of selected starting-level tuition |
+| Rotational Experience Add-On | Rotation through applicable placements, functions, departments, professional areas, or ecosystem entities | **+\$5,000** on top of selected Experiential tuition |
+
+### Progressive Experience
+
+Students may apply for **Progressive Experience** to begin at their approved Experiential level and progress through subsequent eligible Experiential levels. Progressive Experience is an additional **\$10,000** on top of the standard tuition for the student's approved starting level and is subject to capacity, resources, supervision availability, placement availability, eligibility, and applicable requirements.
+
+**Example:** Apprentice Experiential is \$2,500. Apprentice with Progressive Experience is **\$12,500**.
+
+### Rotational Experience
+
+Students may apply for **Rotational Experience** to rotate through applicable placements, functions, departments, professional areas, or ecosystem entities. Rotational Experience is an additional **\$5,000** on top of the standard tuition for the selected Experiential level and is subject to capacity, resources, supervision availability, placement availability, and applicable requirements.
+
+**Example:** Associate Experiential is \$10,000. Associate with Rotational Experience is **\$15,000**.
 
 # VII. 🔄 Integrated Education and Experiential Adjustment
 
