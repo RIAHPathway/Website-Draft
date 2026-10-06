@@ -684,8 +684,6 @@ Eligible final-year education students receive the RIAH one-month Experiential g
 
 All Experiential is based on **consequential real-world professional work**, attached education, weekly objectives, weekly performance assessment, professional supervision, governance, review, and documented performance. RIAH Experiential does not substitute simulations or artificial workplace exercises for the actual work experience.
 
-RIAH Pathway
-
 ---
 
 # 👑RIAH Pathway.
