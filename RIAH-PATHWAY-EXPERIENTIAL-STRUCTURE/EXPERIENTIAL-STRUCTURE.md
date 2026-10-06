@@ -115,7 +115,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | ✅ | Feature is structurally included or supported |
 | ❌ | Feature is not structurally included or required |
 
-## 🔄 RIAH Pathway Whole-System Connection
+## 🔄 RIAH Pathway Whole System Connection
 
 ```mermaid
 flowchart LR
