@@ -113,7 +113,7 @@
 **[BUTTON — FIND YOUR FIT → 16.4.8]**
 **[BUTTON — APPLY TO JOIN RIAH PATHWAY → 16.4.9]**
 **[BUTTON — APPLY NOW → BREEZY HR]**
-**[BUTTON — EXPRESS INTEREST → RIAH PATHWAY CAREERS JOTFORM]**
+**[BUTTON — EXPRESS INTEREST → SUITEDASH]**
 **[BUTTON — HUMAN RESOURCES → 19.3]**
 
 ## 16.5 AMBASSADORS PRIMARY ROUTES
@@ -150,7 +150,7 @@
 | Faculty / Team formal application | Breezy HR |
 | Executive formal application | Breezy HR |
 | Governance formal application | Breezy HR |
-| General careers interest | RIAH Pathway Careers Jotform |
+| General careers interest | SuiteDash |
 | Partnership | SuiteDash |
 | Ambassador | SuiteDash |
 
