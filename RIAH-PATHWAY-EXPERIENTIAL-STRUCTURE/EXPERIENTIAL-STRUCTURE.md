@@ -232,42 +232,76 @@ RIAH guarantees eligible education pathway students in the **Bachelor's, Master'
 | **Master's and MBA Eligibility Period** | **Throughout the program, depending on when the student is placed; eligible students retain the one-month guarantee if they are not otherwise placed, subject to applicable rules and eligibility requirements** |
 | **JD and Non-JD Eligibility Period** | **Subject to applicable program rules, placement timing, and eligibility requirements** |
 | **Application** | Required |
-| **Eligibility** | Subject to applicable rules and eligibility requirements; not automatic based solely on participation in an eligible education pathway |
+| **Eligibility** | Subject to applicable rules and eligibility requirements, including completion of the applicable milestone identified in the Milestones Guide for the one-month Experiential guarantee; not automatic based solely on participation in an eligible education pathway |
 | **Placement Source** | RIAH ecosystem or approved employer or professional partner |
 | **Placement Basis** | Current needs, available work, student qualifications, field alignment, supervision, and placement capacity |
 | **Work Type** | Real-world supervised work |
 | **Compensation** | Paid or unpaid for eligible U.S. placements depending on placement terms and applicable law |
 | **International Online Student** | Remote and unpaid under RIAH policy |
-| **Guaranteed Item** | One-month Experiential opportunity for an eligible student who satisfies the applicable rules and eligibility requirements |
+| **Guaranteed Item** | One-month Experiential opportunity for an eligible student who satisfies the applicable rules and eligibility requirements and completes the applicable milestone identified in the Milestones Guide for the one-month Experiential guarantee |
 | **Not Guaranteed** | Specific employer, specific job, specific project, paid status, location, or permanent employment |
 
 The one-month guarantee does not guarantee employment after completion.
 
 # **IX. 🧭 EXPERIENTIAL APPLICATION AND PLACEMENT PROCEDURE**
 
-1. Student identifies the requested Experiential level.
-2. Student submits the Experiential application.
-3. RIAH verifies student status, pathway, major, coursework, prerequisites, and experience.
-4. RIAH determines the highest level for which the student qualifies.
-5. RIAH reviews internal ecosystem needs and approved external partner opportunities.
-6. RIAH determines whether the applicable opportunity is an Internal Placement or External Placement.
-7. RIAH matches the student by field, qualifications, experience, availability, delivery format, supervision, organizational needs, partner needs, placement requirements, and capacity.
-8. Placement terms identify duration, paid or unpaid status where applicable, delivery format, supervisor, responsibilities, and expected deliverables.
-9. Student completes Experiential orientation and applicable training.
-10. Student begins supervised real-world work.
-11. Supervisor and applicable Experiential Manager or Reviewer document progress and performance.
-12. Student completes required assignments, deliverables, reviews, and placement requirements.
-13. RIAH records completion and applicable Experiential achievement.
+## **Flow 1 — Application and Eligibility**
+
+```mermaid
+flowchart LR
+    A[Student identifies requested Experiential level] --> B[Student submits Experiential application]
+    B --> C[RIAH verifies student status, pathway, major, coursework, prerequisites, and experience]
+    C --> D[RIAH determines highest qualified level]
+```
+
+## **Flow 2 — Placement Review and Matching**
+
+```mermaid
+flowchart LR
+    A[RIAH reviews internal ecosystem needs and approved external partner opportunities] --> B{Internal or External Placement}
+    B --> C[RIAH matches student by applicable placement factors and capacity]
+    C --> D[Placement terms identify duration, status, format, supervisor, responsibilities, and deliverables]
+```
+
+## **Flow 3 — Orientation, Work, Review, and Completion**
+
+```mermaid
+flowchart LR
+    A[Experiential orientation and applicable training] --> B[Supervised real-world work]
+    B --> C[Progress and performance documented]
+    C --> D[Required assignments, deliverables, reviews, and placement requirements completed]
+    D --> E[RIAH records completion and applicable Experiential achievement]
+```
 
 ## **Placement Flow**
 
-**Application → Eligibility → Level → Placement Review → Placement Type**
+```mermaid
+flowchart LR
+    A[Application] --> B[Eligibility] --> C[Level] --> D[Placement Review] --> E{Placement Type}
+    E --> F[Internal Placement]
+    E --> G[External Placement]
+```
 
-**Internal Placement → RIAH Pathway Entities**
+## **Placement Source Flow**
 
-**External Placement → Approved Partners / Organizations**
+```mermaid
+flowchart LR
+    A[Internal Placement] --> B[RIAH Pathway Entities]
+    C[External Placement] --> D[Approved Partners or Organizations]
+```
 
-**RIAH Pathway Entities or Approved Partners / Organizations → Terms → Orientation → Real Work → Supervision → Review → Completion → Record**
+## **Placement Completion Flow**
+
+```mermaid
+flowchart LR
+    A[RIAH Pathway Entities or Approved Partners or Organizations] --> B[Terms]
+    B --> C[Orientation]
+    C --> D[Real Work]
+    D --> E[Supervision]
+    E --> F[Review]
+    F --> G[Completion]
+    G --> H[Record]
+```
 
 # **X. 🧭 PLACEMENT SELECTION**
 
@@ -381,6 +415,13 @@ A participant must satisfy the applicable prerequisites for the requested level.
 | Manager | Executive | At least one year Manager-level experience and Executive prerequisites |
 
 Prior professional experience may support placement at an advanced level after verification. A student does not have to begin at Apprentice when the student already qualifies for a higher level.
+
+## **Experiential Level Progression Flow**
+
+```mermaid
+flowchart LR
+    A[Apprentice] --> B[Intern] --> C[Associate] --> D[Senior Associate] --> E[Manager] --> F[Executive]
+```
 
 # **XIII. 📚 EXPERIENTIAL CURRICULUM AND COLLECTIONS**
 
@@ -662,17 +703,14 @@ A student physically present in the United States under F-1 or another immigrati
 
 The Experiential pathway is:
 
-**Apprentice — 1 Month**
-
-→ **Intern — 3 Months**
-
-→ **Associate — 1 Year**
-
-→ **Senior Associate — 1 Year**
-
-→ **Manager — 1 Year**
-
-→ **Executive — 1 Year**
+```mermaid
+flowchart LR
+    A[Apprentice — 1 Month] --> B[Intern — 3 Months]
+    B --> C[Associate — 1 Year]
+    C --> D[Senior Associate — 1 Year]
+    D --> E[Manager — 1 Year]
+    E --> F[Executive — 1 Year]
+```
 
 Placement may be internal to RIAH or through approved employer and professional partners.
 
@@ -680,7 +718,7 @@ United States participants may be remote, hybrid, or on-site and may be paid or 
 
 International Online Students residing outside the United States participate remotely and unpaid under RIAH policy.
 
-Eligible final-year education students receive the RIAH one-month Experiential guarantee subject to application, eligibility, available qualifying work, supervision, and placement procedures.
+Eligible education pathway students who qualify for the RIAH one-month Experiential guarantee receive the guarantee subject to application, eligibility, completion of the applicable milestone identified in the Milestones Guide for the one-month Experiential guarantee, available qualifying work, supervision, and placement procedures.
 
 All Experiential is based on **consequential real-world professional work**, attached education, weekly objectives, weekly performance assessment, professional supervision, governance, review, and documented performance. RIAH Experiential does not substitute simulations or artificial workplace exercises for the actual work experience.
 
