@@ -245,41 +245,85 @@ The one-month guarantee does not guarantee employment after completion.
 
 # **IX. 🧭 EXPERIENTIAL APPLICATION AND PLACEMENT PROCEDURE**
 
-## **Flow 1 — Application and Eligibility**
+## **Flow 1A — Student Request and Application**
 
 ```mermaid
-flowchart LR
-    A[Student identifies requested Experiential level] --> B[Student submits Experiential application]
-    B --> C[RIAH verifies student status, pathway, major, coursework, prerequisites, and experience]
-    C --> D[RIAH determines highest qualified level]
+flowchart TD
+    A[Student identifies requested<br/>Experiential level] --> B[Student submits<br/>Experiential application]
 ```
 
-## **Flow 2 — Placement Review and Matching**
+## **Flow 1B — Eligibility Verification**
 
 ```mermaid
-flowchart LR
-    A[RIAH reviews internal ecosystem needs and approved external partner opportunities] --> B{Internal or External Placement}
-    B --> C[RIAH matches student by applicable placement factors and capacity]
-    C --> D[Placement terms identify duration, status, format, supervisor, responsibilities, and deliverables]
+flowchart TD
+    A[RIAH verifies student status,<br/>pathway, and major] --> B[RIAH verifies coursework,<br/>prerequisites, and experience]
+    B --> C[RIAH determines<br/>highest qualified level]
 ```
 
-## **Flow 3 — Orientation, Work, Review, and Completion**
+## **Flow 2A — Placement Review**
 
 ```mermaid
-flowchart LR
-    A[Experiential orientation and applicable training] --> B[Supervised real-world work]
-    B --> C[Progress and performance documented]
-    C --> D[Required assignments, deliverables, reviews, and placement requirements completed]
-    D --> E[RIAH records completion and applicable Experiential achievement]
+flowchart TD
+    A[RIAH reviews internal<br/>ecosystem needs] --> C{Internal or<br/>External Placement}
+    B[RIAH reviews approved external<br/>partner opportunities] --> C
 ```
 
-## **Placement Flow**
+## **Flow 2B — Placement Matching**
 
 ```mermaid
-flowchart LR
-    A[Application] --> B[Eligibility] --> C[Level] --> D[Placement Review] --> E{Placement Type}
-    E --> F[Internal Placement]
-    E --> G[External Placement]
+flowchart TD
+    A[Match student by applicable<br/>placement factors] --> B[Confirm placement<br/>capacity]
+```
+
+## **Flow 2C — Placement Terms**
+
+```mermaid
+flowchart TD
+    A[Duration and status] --> B[Format and supervisor]
+    B --> C[Responsibilities<br/>and deliverables]
+```
+
+## **Flow 3A — Orientation and Real-World Work**
+
+```mermaid
+flowchart TD
+    A[Experiential orientation] --> B[Applicable training]
+    B --> C[Supervised<br/>real-world work]
+```
+
+## **Flow 3B — Performance and Requirements**
+
+```mermaid
+flowchart TD
+    A[Progress documented] --> B[Performance documented]
+    B --> C[Assignments and<br/>deliverables completed]
+    C --> D[Reviews and placement<br/>requirements completed]
+```
+
+## **Flow 3C — Completion Record**
+
+```mermaid
+flowchart TD
+    A[Requirements completed] --> B[RIAH records completion]
+    B --> C[Applicable Experiential<br/>achievement recorded]
+```
+
+## **Placement Flow — Qualification**
+
+```mermaid
+flowchart TD
+    A[Application] --> B[Eligibility]
+    B --> C[Level]
+    C --> D[Placement Review]
+```
+
+## **Placement Flow — Placement Type**
+
+```mermaid
+flowchart TD
+    A[Placement Review] --> B{Placement Type}
+    B --> C[Internal Placement]
+    B --> D[External Placement]
 ```
 
 ## **Placement Source Flow**
@@ -290,17 +334,23 @@ flowchart LR
     C[External Placement] --> D[Approved Partners or Organizations]
 ```
 
-## **Placement Completion Flow**
+## **Placement Completion Flow — Start**
 
 ```mermaid
-flowchart LR
-    A[RIAH Pathway Entities or Approved Partners or Organizations] --> B[Terms]
+flowchart TD
+    A[RIAH Pathway Entities<br/>or Approved Partners<br/>or Organizations] --> B[Terms]
     B --> C[Orientation]
     C --> D[Real Work]
-    D --> E[Supervision]
-    E --> F[Review]
-    F --> G[Completion]
-    G --> H[Record]
+```
+
+## **Placement Completion Flow — Review**
+
+```mermaid
+flowchart TD
+    A[Real Work] --> B[Supervision]
+    B --> C[Review]
+    C --> D[Completion]
+    D --> E[Record]
 ```
 
 # **X. 🧭 PLACEMENT SELECTION**
@@ -430,11 +480,21 @@ A participant must satisfy the applicable prerequisites for the requested level.
 
 Prior professional experience may support placement at an advanced level after verification. A student does not have to begin at Apprentice when the student already qualifies for a higher level.
 
-## **Experiential Level Progression Flow**
+## **Experiential Level Progression Flow — Entry**
 
 ```mermaid
-flowchart LR
-    A[Apprentice] --> B[Intern] --> C[Associate] --> D[Senior Associate] --> E[Manager] --> F[Executive]
+flowchart TD
+    A[Apprentice] --> B[Intern]
+    B --> C[Associate]
+```
+
+## **Experiential Level Progression Flow — Advanced**
+
+```mermaid
+flowchart TD
+    A[Associate] --> B[Senior Associate]
+    B --> C[Manager]
+    C --> D[Executive]
 ```
 
 # **XIII. 📚 EXPERIENTIAL CURRICULUM AND COLLECTIONS**
@@ -717,13 +777,21 @@ A student physically present in the United States under F-1 or another immigrati
 
 The Experiential pathway is:
 
+### **Experiential Pathway Flow — Entry**
+
 ```mermaid
-flowchart LR
-    A[Apprentice — 1 Month] --> B[Intern — 3 Months]
-    B --> C[Associate — 1 Year]
-    C --> D[Senior Associate — 1 Year]
-    D --> E[Manager — 1 Year]
-    E --> F[Executive — 1 Year]
+flowchart TD
+    A[Apprentice<br/>1 Month] --> B[Intern<br/>3 Months]
+    B --> C[Associate<br/>1 Year]
+```
+
+### **Experiential Pathway Flow — Advanced**
+
+```mermaid
+flowchart TD
+    A[Associate<br/>1 Year] --> B[Senior Associate<br/>1 Year]
+    B --> C[Manager<br/>1 Year]
+    C --> D[Executive<br/>1 Year]
 ```
 
 Placement may be internal to RIAH or through approved employer and professional partners.
