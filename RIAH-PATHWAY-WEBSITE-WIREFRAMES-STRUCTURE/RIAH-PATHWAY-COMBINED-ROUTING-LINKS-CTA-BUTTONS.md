@@ -418,3 +418,60 @@ flowchart LR
 ---
 
 # 👑RIAH Pathway.
+## XVI-A — 16.2 Student Life Expanded Routing, CTAs & Assets
+
+| Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
+|---|---|---|---|---|---|---|---|
+| 16.2.1 — Institutional Identity | 16.2.1 | — | — | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.2 — RIAH Pathway Goat | 16.2.2 | — | — | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.3 — Perseverance + POWER | 16.2.3 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.4 — Your RIAH Pathway Experience | 16.2.4 | — | — | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.5 — Student Organizations | 16.2.5 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+| 16.2.6 — Student Governance | 16.2.6 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.7 — Student Leadership | 16.2.7 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.8 — Honor Societies | 16.2.8 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+| 16.2.9 — Greek Life | 16.2.9 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+| 16.2.10 — Community + Ambassadors | 16.2.10 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+| 16.2.11 — Student Benefits | 16.2.11 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+| 16.2.12 — Student Recognition | 16.2.12 | Merit Pages / Applicable Certification Bodies | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.13 — Student Career Services | 16.2.13 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.14 — RIAH Pathway Student ID | 16.2.14 | — | — | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.15 — Student Milestones | 16.2.15 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.16 — Virtual Institution • Real Connection | 16.2.16 | — | — | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.17 — Six Schools • One Dynasty | 16.2.17 | — | — | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.18 — Careers & Opportunities | 16.2.18 | — | — | — | Applicable section image/icon | One hero/banner video | Student Life expanded sitemap route |
+| 16.2.19 — Career Opportunities at a Glance | 16.2.19 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.20 — Career Services | 16.2.20 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.21 — Career Opportunities + Employer Engagement | 16.2.21 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.22 — Jobs & Opportunities Newsletter | 16.2.22 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.23 — RIAH Pathway Career Fairs | 16.2.23 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.24 — Tailored Career Fairs | 16.2.24 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.25 — Meet the Accountants Night | 16.2.25 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.26 — Career Development | 16.2.26 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.27 — RIAH Pathway Conference | 16.2.27 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.28 — RIAH Pathway Podcast | 16.2.28 | — | Applicable section CTA | — | Applicable section image/icon | — | Student Life expanded sitemap route |
+| 16.2.29 — Career + Academic Resources | 16.2.29 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.30 — Career Opportunity Flow | 16.2.30 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.31 — Career Events Calendar | 16.2.31 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+| 16.2.32 — Student Life Events Connection | 16.2.32 | — | — | — | — | — | Student Life expanded sitemap route |
+| 16.2.33 — Student Life + Career Resources and Downloads | 16.2.33 | — | — | D04 • D07 • D11 • D30 • D31 • D32 | — | — | Student Life expanded sitemap route |
+| 16.2.34 — Build Your Career | 16.2.34 | — | Applicable section CTA | — | — | — | Student Life expanded sitemap route |
+
+### 16.2 Student Life Cross-Routing
+
+**[BUTTON — STUDENT ORGANIZATIONS → 16.2.5]**
+**[BUTTON — HONOR SOCIETIES → 16.2.8]**
+**[BUTTON — GREEK LIFE → 16.2.9]**
+**[BUTTON — COMMUNITY + AMBASSADORS → 16.2.10]**
+**[BUTTON — STUDENT BENEFITS → 16.2.11]**
+**[BUTTON — CAREER SERVICES → 16.2.20]**
+**[BUTTON — CAREER OPPORTUNITIES → 16.2.21]**
+**[BUTTON — CAREER EVENTS CALENDAR → 16.2.31]**
+**[BUTTON — AMBASSADORS → 16.5]**
+**[BUTTON — EVENTS → 17.2]**
+**[BUTTON — PODCASTS → 17.4]**
+**[BUTTON — CONFERENCES → 17.5]**
+**[BUTTON — WORKSHOPS → 17.6]**
+**[BUTTON — WEBINARS → 17.7]**
+
+
