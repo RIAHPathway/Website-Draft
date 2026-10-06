@@ -24,7 +24,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 | Emoji | Purpose |
 |---|---|
-| 🎯 | Purpose and architecture |
+| 🧩 | Purpose |
+| 🏗️ | Experiential architecture |
+| ✅ | One-month Experiential guarantee |
+| 🏫 | School alignment |
 | 🌐 | Delivery, access, and placement format |
 | 🏢 | Internal placement |
 | 🤝 | External placement and partners |
@@ -42,14 +45,14 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 | Roman Numeral | Section | Emoji |
 |---|---|---|
-| I | PURPOSE | 🎯 |
-| II | EXPERIENTIAL ARCHITECTURE | 🎯 |
+| I | PURPOSE | 🧩 |
+| II | EXPERIENTIAL ARCHITECTURE | 🏗️ |
 | III | EXPERIENTIAL DELIVERY | 🌐 |
 | IV | INTERNAL PLACEMENT | 🏢 |
 | V | EXTERNAL PLACEMENT | 🤝 |
 | VI | INTERNATIONAL ONLINE EXPERIENTIAL | 🌍 |
 | VII | CONSEQUENTIAL REAL-WORLD WORK STANDARD | 🛡️ |
-| VIII | ONE-MONTH EXPERIENTIAL GUARANTEE | 🎯 |
+| VIII | ONE-MONTH EXPERIENTIAL GUARANTEE | ✅ |
 | IX | EXPERIENTIAL APPLICATION AND PLACEMENT PROCEDURE | 🧭 |
 | X | PLACEMENT SELECTION | 🧭 |
 | XI | SUPERVISION AND REVIEW | 👥 |
@@ -58,7 +61,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | XIV | EXPERIENTIAL PRICING | 💰 |
 | XV | EXPERIENTIAL AND EDUCATION INTEGRATION | 📚 |
 | XVI | EXPERIENTIAL COLLEGE CREDIT STRUCTURE | 📚 |
-| XVII | SCHOOL ALIGNMENT | 🎯 |
+| XVII | SCHOOL ALIGNMENT | 🏫 |
 | XVIII | NON-JD LAW EXPERIENTIAL STRUCTURE | ⚖️ |
 | XIX | LAW EXPERIENTIAL SUPERVISION | ⚖️ |
 | XX | PAID AND UNPAID PLACEMENT STANDARD | 💰 |
@@ -70,7 +73,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | XXVI | INTERNATIONAL COMPLIANCE CONTROL | 🛡️ |
 | XXVII | CONTROLLING EXPERIENTIAL STRUCTURE | 🛡️ |
 
-# **I. 🎯 PURPOSE**
+# **I. 🧩 PURPOSE**
 
 RIAH Pathway Experiential provides supervised, real-world professional learning through actual work, projects, assignments, deliverables, and professional review within the RIAH Pathway ecosystem or with approved employer and professional partners.
 
@@ -82,7 +85,7 @@ These experiences are **not simulations, practice projects, hypothetical assignm
 
 Placement is based on the participant's **Experiential pathway, field, major, level, qualifications, placement type, placement availability, organizational needs, partner needs, capacity, supervision availability, and applicable placement requirements**.
 
-# **II. 🎯 EXPERIENTIAL ARCHITECTURE**
+# **II. 🏗️ EXPERIENTIAL ARCHITECTURE**
 
 | Level | Duration | Baseline Eligibility | Placement Focus |
 |---|---:|---|---|
@@ -216,7 +219,7 @@ Experiential Supervisors, Managers, Reviewers, faculty, industry professionals, 
 
 Students may not perform work requiring a professional license, legal authorization, security clearance, or other credential unless the work and supervision comply with the applicable requirements.
 
-# **VIII. 🎯 ONE-MONTH EXPERIENTIAL GUARANTEE**
+# **VIII. ✅ ONE-MONTH EXPERIENTIAL GUARANTEE**
 
 RIAH guarantees eligible education pathway students in the **Bachelor's, Master's, MBA, JD, or Non-JD programs only** the opportunity to apply for and receive one month of Experiential, subject to applicable rules and eligibility requirements. Participation in an eligible education pathway does not automatically qualify a student for the guarantee.
 
@@ -485,7 +488,7 @@ RIAH Pathway documents the applicable Experiential level, duration, supervised w
 
 The receiving college or university retains authority over whether and how RIAH Pathway Experiential credit is accepted, transferred, converted, or applied to the student's academic program. RIAH Pathway does not guarantee acceptance by another institution unless acceptance is established through an applicable written articulation, coursework, cost-of-attendance, transfer, or institutional agreement.
 
-# **XVII. 🎯 SCHOOL ALIGNMENT**
+# **XVII. 🏫 SCHOOL ALIGNMENT**
 
 Experiential opportunities may align to:
 
