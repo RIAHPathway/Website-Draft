@@ -614,19 +614,19 @@ Placement decisions may consider:
 
 | Selection Factor | Placement Consideration |
 |---|---|
-| Experiential level | Experiential level |
-| Major and field | Major and field |
-| Completed prerequisites | Completed prerequisites |
-| Prior experience | Prior experience |
-| Applicable coursework | Applicable coursework |
-| Skills | Skills |
-| Placement requirements | Placement requirements |
-| Delivery format | Delivery format |
-| Schedule | Schedule |
-| Professional supervision | Professional supervision |
-| Internal ecosystem needs | Internal ecosystem needs |
-| Partner needs | Partner needs |
-| Available capacity | Available capacity |
+| Experiential level | Determines the scope, complexity, independence, responsibility, leadership expectations, and type of work appropriate for the participant's approved Apprentice, Intern, Associate, Senior Associate, Manager, or Executive level. |
+| Major and field | Matches the placement and assignments to the participant's academic major, professional field, intended career area, and the type of real-world work that provides relevant applied experience. |
+| Completed prerequisites | Confirms that required courses, training, credentials, prior Experiential levels, assessments, or other stated requirements have been completed before the participant receives work requiring that preparation. |
+| Prior experience | Reviews verified previous employment, internships, apprenticeships, projects, professional practice, or other applicable experience to determine appropriate placement level, responsibilities, and whether higher-level work is suitable. |
+| Applicable coursework | Identifies completed or concurrent courses that relate directly to the placement so assigned work reinforces and applies the knowledge, concepts, methods, and competencies being learned. |
+| Skills | Evaluates demonstrated technical, professional, communication, analytical, leadership, software, research, writing, operational, or other field-specific skills required to perform the proposed assignments successfully. |
+| Placement requirements | Confirms all requirements specific to the placement, which may include eligibility standards, documentation, background or access requirements where lawful and applicable, confidentiality obligations, technology access, professional rules, training, or employer-specific conditions. |
+| Delivery format | Determines whether the approved work can be completed remotely, hybrid, or on-site based on the participant's location, placement duties, employer or entity requirements, legal limitations, technology needs, and supervision structure. |
+| Schedule | Matches participant availability with required work hours, meetings, deadlines, supervision sessions, team schedules, operational needs, and the duration of the selected Experiential level. |
+| Professional supervision | Confirms that qualified Managers, Supervisors, Reviewers, faculty, licensed professionals, employer professionals, or other approved professionals are available to provide the level and type of oversight required for the actual work. |
+| Internal ecosystem needs | Matches internal placements to legitimate current work within RIAH Pathway entities, including operational projects, academic support, technology, products, programs, professional services, nonprofit functions, and other approved ecosystem needs. |
+| Partner needs | Matches external placements to actual work, projects, staffing needs, professional functions, deliverables, and supervision capacity identified by vetted employer or professional partners. |
+| Available capacity | Confirms that sufficient placement space, real assignments, professional supervision, management, review resources, technology, coordination, and other required resources are available before a participant is assigned. |
 
 
 Identity characteristics unrelated to placement qualifications are not used as placement-selection criteria.
@@ -639,22 +639,22 @@ Experiential may use:
 
 | Professional Resource | Supervision and Review Resource |
 |---|---|
-| Experiential Supervisors | Experiential Supervisors |
-| Experiential Managers | Experiential Managers |
-| Experiential Reviewers | Experiential Reviewers |
-| Faculty | Faculty |
-| Adjunct Faculty | Adjunct Faculty |
-| Industry Professionals | Industry Professionals |
-| Attorneys | Attorneys |
-| Judges | Judges |
-| Law Firms | Law Firms |
-| Courts | Courts |
-| CPA Firms | CPA Firms |
-| Cybersecurity Firms | Cybersecurity Firms |
-| Technology Firms | Technology Firms |
-| Business Professionals | Business Professionals |
-| Employer Partners | Employer Partners |
-| Other approved professional partners | Other approved professional partners |
+| Experiential Supervisors | Directly oversee the participant's assigned real-world work, provide day-to-day professional guidance, monitor work quality and progress, answer work-related questions, reinforce applicable standards, and document supervision within the approved placement scope. |
+| Experiential Managers | Manage the participant's placement operations, workload, assignments, priorities, teams, schedules, deliverables, performance expectations, escalation needs, and coordination among Supervisors, Reviewers, faculty, leadership, and applicable placement entities or partners. |
+| Experiential Reviewers | Independently review completed work, deliverables, competencies, performance evidence, projects, documentation, and outcomes to determine whether applicable Experiential requirements and professional expectations have been satisfied. |
+| Faculty | Connect applied Experiential work to the applicable curriculum and academic learning outcomes, provide subject-matter guidance, review educational progress where applicable, and help ensure that professional assignments reinforce the student's program and major. |
+| Adjunct Faculty | Provide specialized academic and professional subject-matter support based on their field expertise, connecting specific applied assignments, professional practices, and Experiential learning to relevant course or program expectations. |
+| Industry Professionals | Provide field-specific supervision, mentoring, technical guidance, professional feedback, and review for assignments requiring current industry knowledge, practices, tools, standards, workflows, or specialized expertise. |
+| Attorneys | Supervise and review legally permitted law-related work within the participant's authorized scope, including applicable legal research, writing, documentation, matter support, compliance, law-office operations, and professional-development activities requiring attorney oversight. |
+| Judges | Where an approved placement permits, provide professional exposure, guidance, or supervision connected to court operations, judicial processes, legal research, documentation, court administration, and other legally permitted experiential activities within the applicable judicial environment. |
+| Law Firms | Provide approved legal-work environments in which eligible participants perform legally permitted real assignments under attorneys and other qualified legal professionals, with supervision and review tied to actual law-firm operations and professional standards. |
+| Courts | Provide approved judicial or court environments in which eligible participants complete legally permitted work involving court operations, research, documentation, administrative processes, case-related support, and other approved assignments under qualified court or legal professionals. |
+| CPA Firms | Provide accounting and financial-work environments where participants may complete supervised real assignments involving accounting, audit support, tax support where permitted, reconciliations, financial analysis, internal controls, compliance, reporting, and related professional work under qualified accounting professionals. |
+| Cybersecurity Firms | Provide supervised cybersecurity environments involving authorized security operations, governance, risk and compliance, monitoring, assessment, defensive security, authorized testing, documentation, incident-support activities, and other lawful field-specific assignments within the participant's approved scope. |
+| Technology Firms | Provide supervised real technology work involving software development, systems, cloud infrastructure, databases, automation, APIs, applications, project delivery, technology operations, cybersecurity-supporting systems, and other approved technical assignments. |
+| Business Professionals | Provide supervision and professional review for real work in business functions such as accounting, finance, operations, management, marketing, human resources, project or program management, administration, analysis, consulting, and other applicable business areas. |
+| Employer Partners | Provide actual external work environments, assignments, professional teams, Managers or Supervisors, feedback, performance review, and operational responsibilities aligned with the participant's field, Experiential level, approved scope, and placement agreement. |
+| Other approved professional partners | Provide specialized supervision, professional expertise, real assignments, review, mentoring, or work environments not otherwise listed when the partner has been vetted and the work is appropriate to the participant's field, level, qualifications, approved scope, and Experiential requirements. |
 
 
 The applicable professional supervises work within their permitted professional scope.
