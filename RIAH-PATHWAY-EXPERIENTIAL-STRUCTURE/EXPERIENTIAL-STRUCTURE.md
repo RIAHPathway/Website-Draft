@@ -20,13 +20,19 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 # RIAH Pathway — Experiential Structure
 
-## I. Purpose
+# **I. PURPOSE**
 
 RIAH Pathway Experiential provides supervised, real-world professional learning through actual work, projects, assignments, deliverables, and professional review within the RIAH Pathway ecosystem or with approved employer and professional partners.
 
 Experiential connects academic learning to applied professional experience while maintaining separate eligibility, placement, supervision, performance, completion, and recordkeeping standards.
 
-## II. Experiential Architecture
+Experiential includes **two placement types: Internal Placement and External Placement**.
+
+These experiences are **not simulations, practice projects, hypothetical assignments, simulated workplaces, or disposable academic projects**. Students perform legitimate work for actual operational purposes within the RIAH Pathway ecosystem or with approved employer and professional partners.
+
+Placement is based on the participant's **Experiential pathway, field, major, level, qualifications, placement type, placement availability, organizational needs, partner needs, capacity, supervision availability, and applicable placement requirements**.
+
+# **II. EXPERIENTIAL ARCHITECTURE**
 
 | Level | Duration | Baseline Eligibility | Placement Focus |
 |---|---:|---|---|
@@ -39,7 +45,7 @@ Experiential connects academic learning to applied professional experience while
 
 Eligibility for a level does not guarantee a particular placement. RIAH verifies prerequisites, experience, capacity, placement fit, supervision availability, and partner requirements before assignment.
 
-## III. Experiential Delivery
+# **III. EXPERIENTIAL DELIVERY**
 
 | Student or Participant | Delivery |
 |---|---|
@@ -52,7 +58,73 @@ United States students may participate in paid or unpaid Experiential placements
 
 International Online Students residing outside the United States participate remotely and are limited by RIAH policy to unpaid Experiential placements. RIAH does not use the International Online Experiential pathway as U.S. employment or U.S. visa sponsorship. The student's country-of-residence requirements and the legal classification of the activity must still be reviewed before placement.
 
-## IV. International Online Experiential
+# **IV. INTERNAL PLACEMENT**
+
+Internal Placement provides opportunities throughout eligible **RIAH Pathway ecosystem entities** where legitimate work opportunities are available.
+
+Students perform actual work under the guidance, supervision, management, and review of **internal professionals and Experiential professionals**.
+
+## **Internal Placement Entities**
+
+- **RIAH Pathway**
+- **RIAH Pathway Holdings Corporation**
+- **RIAH Pathway Corporation**
+- **RIAH Pathway Professional Services LLP** — Student-Centered • Not External Client Services
+- **RIAH Pathway School of Business, Cybersecurity, and Technology LLC**
+- **RIAH Pathway Technology LLC**
+- **RIAH Pathway Programs LLC**
+- **RIAH Pathway Products LLC**
+- **RIAH Pathway 501(c)(3) Foundation**
+
+## **RIAH Pathway Professional Services LLP**
+
+The **RIAH Pathway Professional Services LLP is student-centered and serves the RIAH Pathway ecosystem**. It does **not provide professional services to external clients**.
+
+Services are provided internally throughout the RIAH Pathway ecosystem by students working with **internal professionals and Experiential professionals** through internal placements. Students may also complete external placements with **vetted employer partners**.
+
+Students preparing for careers in public accounting, accounting, consulting, cybersecurity, technology, and other professional-service fields may gain applicable real-work experience internally before or alongside opportunities with external employers or client-serving firms.
+
+## **Internal Placement Types**
+
+### **Single-Area Assignments**
+
+Students work within one professional or functional area and develop experience throughout that area. For example, a student assigned to accounting may perform work across audit, compliance, and other applicable accounting functions and responsibilities.
+
+### **Rotational Placements**
+
+Selected students may rotate through applicable functions, departments, professional areas, or ecosystem entities to develop broader experience.
+
+Internal placements involve **actual work that contributes directly to the operations and needs of the RIAH Pathway ecosystem**.
+
+# **V. EXTERNAL PLACEMENT**
+
+External Placement provides opportunities with **vetted employers, partners, and organizations** aligned with the participant's field, major, Experiential pathway, Experiential level, qualifications, and placement requirements.
+
+RIAH vets external employers and Experiential partners to help verify that participating organizations are legitimate and provide legitimate real-work experiences where participants can **learn, contribute, perform actual work, and see the results of their contributions**.
+
+External Experiential placements must involve **actual work rather than simulations, practice projects, or hypothetical assignments**.
+
+## **External Placement Opportunities**
+
+- Professional Partners
+- Educational Partners
+- Law Firms
+- Courts
+- CPA Firms
+- MSSPs
+- Development Firms
+- Security Firms
+- Nonprofits
+- Startups
+- Small Businesses
+- Entrepreneurial Organizations
+- Corporations
+- Government Agencies
+- Other approved employers and professional organizations
+
+Students may work directly with professionals and employers including **CPAs, attorneys, judges, cybersecurity and technology professionals, nonprofits, startups, professional firms, corporations, and other vetted organizations**.
+
+# **VI. INTERNATIONAL ONLINE EXPERIENTIAL**
 
 International Online Students are eligible to apply for RIAH Experiential.
 
@@ -69,7 +141,7 @@ Requirements:
 9. Participation does not constitute U.S. visa sponsorship.
 10. If a student is physically present in the United States, RIAH must separately review the student's immigration and work-authorization status before any work-based placement.
 
-## V. Consequential Real-World Work Standard
+# **VII. CONSEQUENTIAL REAL-WORLD WORK STANDARD**
 
 All RIAH Experiential placements are based on **actual consequential work**. Experiential is not a simulation, artificial exercise, mock workplace, practice company, or disposable academic project.
 
@@ -94,7 +166,7 @@ Experiential Supervisors, Managers, Reviewers, faculty, industry professionals, 
 
 Students may not perform work requiring a professional license, legal authorization, security clearance, or other credential unless the work and supervision comply with the applicable requirements.
 
-## VI. One-Month Experiential Guarantee
+# **VIII. ONE-MONTH EXPERIENTIAL GUARANTEE**
 
 RIAH guarantees eligible education students the opportunity to apply for and receive one month of Experiential during the student's final year, subject to the rules below.
 
@@ -113,22 +185,33 @@ RIAH guarantees eligible education students the opportunity to apply for and rec
 
 The one-month guarantee does not guarantee employment after completion.
 
-## VII. General Experiential Application and Placement Procedure
+# **IX. EXPERIENTIAL APPLICATION AND PLACEMENT PROCEDURE**
 
 1. Student identifies the requested Experiential level.
 2. Student submits the Experiential application.
 3. RIAH verifies student status, pathway, major, coursework, prerequisites, and experience.
 4. RIAH determines the highest level for which the student qualifies.
-5. RIAH reviews internal ecosystem needs and approved partner opportunities.
-6. RIAH matches the student by field, qualifications, experience, availability, delivery format, supervision, and capacity.
-7. Placement terms identify duration, paid or unpaid status where applicable, delivery format, supervisor, responsibilities, and expected deliverables.
-8. Student completes Experiential orientation and applicable training.
-9. Student begins supervised real-world work.
-10. Supervisor and applicable Experiential Manager or Reviewer document progress and performance.
-11. Student completes required assignments, deliverables, reviews, and placement requirements.
-12. RIAH records completion and applicable Experiential achievement.
+5. RIAH reviews internal ecosystem needs and approved external partner opportunities.
+6. RIAH determines whether the applicable opportunity is an Internal Placement or External Placement.
+7. RIAH matches the student by field, qualifications, experience, availability, delivery format, supervision, organizational needs, partner needs, placement requirements, and capacity.
+8. Placement terms identify duration, paid or unpaid status where applicable, delivery format, supervisor, responsibilities, and expected deliverables.
+9. Student completes Experiential orientation and applicable training.
+10. Student begins supervised real-world work.
+11. Supervisor and applicable Experiential Manager or Reviewer document progress and performance.
+12. Student completes required assignments, deliverables, reviews, and placement requirements.
+13. RIAH records completion and applicable Experiential achievement.
 
-## VIII. Placement Selection
+## **Placement Flow**
+
+**Application → Eligibility → Level → Placement Review → Placement Type**
+
+**Internal Placement → RIAH Pathway Entities**
+
+**External Placement → Approved Partners / Organizations**
+
+**RIAH Pathway Entities or Approved Partners / Organizations → Terms → Orientation → Real Work → Supervision → Review → Completion → Record**
+
+# **X. PLACEMENT SELECTION**
 
 Experiential placement is capacity-based.
 
@@ -154,7 +237,7 @@ Placement decisions may consider:
 
 Identity characteristics unrelated to placement qualifications are not used as placement-selection criteria.
 
-## IX. Supervision and Review
+# **XI. SUPERVISION AND REVIEW**
 
 Experiential may use:
 
@@ -179,7 +262,7 @@ The applicable professional supervises work within their permitted professional 
 
 RIAH maintains applicable placement, assignment, performance, review, and completion records.
 
-## X. Experiential Level Progression
+# **XII. EXPERIENTIAL LEVEL PROGRESSION**
 
 Experiential levels are separate pathways and are not automatic promotions.
 
@@ -195,7 +278,7 @@ A participant must satisfy the applicable prerequisites for the requested level.
 
 Prior professional experience may support placement at an advanced level after verification. A student does not have to begin at Apprentice when the student already qualifies for a higher level.
 
-## XI. Experiential Curriculum and Collections
+# **XIII. EXPERIENTIAL CURRICULUM AND COLLECTIONS**
 
 Each level maintains its own Experiential curriculum and collection.
 
@@ -229,7 +312,7 @@ The educational collection supports the work; it does not replace the work with 
 
 The standard Experiential Collection follows the applicable product and curriculum structure established for the participant's level. Additional textbooks, workbooks, journals, planners, review materials, study materials, flashcards, learning resources, or other collection components may be included where established for the applicable Experiential curriculum.
 
-## XII. Experiential Pricing
+# **XIV. EXPERIENTIAL PRICING**
 
 Experiential participants have two tuition payment options:
 
@@ -267,7 +350,7 @@ The applicable deposit amount is controlled by the RIAH Pathway Master Pricing D
 
 Current Experiential tuition, deposits, and pricing remain controlled by the RIAH Pathway Master Pricing Data Sheet and Pricing Engine.
 
-## XIII. Experiential and Education Integration
+# **XV. EXPERIENTIAL AND EDUCATION INTEGRATION**
 
 Experiential may operate as:
 
@@ -280,13 +363,13 @@ Experiential may operate as:
 
 Academic curriculum and Experiential work remain separately documented where applicable.
 
-## XIV. Experiential College Credit Structure
+# **XVI. EXPERIENTIAL COLLEGE CREDIT STRUCTURE**
 
 RIAH Pathway assigns the following experiential credit-hour values to the Experiential levels for applicable college-enrollment, cost-of-attendance, and coursework-agreement purposes:
 
 | Experiential Level | Experiential Credit Hours |
 |---|---:|
-| **Apprentice** | **3 Credit Hours** |
+| **Apprentice** | **1 Credit Hour** |
 | **Intern** | **3 Credit Hours** |
 | **Associate** | **6 Credit Hours** |
 | **Senior Associate** | **6 Credit Hours** |
@@ -301,7 +384,7 @@ RIAH Pathway documents the applicable Experiential level, duration, supervised w
 
 The receiving college or university retains authority over whether and how RIAH Pathway Experiential credit is accepted, transferred, converted, or applied to the student's academic program. RIAH Pathway does not guarantee acceptance by another institution unless acceptance is established through an applicable written articulation, coursework, cost-of-attendance, transfer, or institutional agreement.
 
-## XV. School Alignment
+# **XVII. SCHOOL ALIGNMENT**
 
 Experiential opportunities may align to:
 
@@ -314,7 +397,7 @@ Experiential opportunities may align to:
 | School of Foundations | Applicable age-appropriate experiential and capstone activity where authorized by the student's program |
 | Experiential School | Apprentice, Intern, Associate, Senior Associate, Manager, and Executive pathways |
 
-## XVI. Non-JD Law Experiential Structure
+# **XVIII. NON-JD LAW EXPERIENTIAL STRUCTURE**
 
 RIAH's current Non-JD structure contains seven state pathways.
 
@@ -330,7 +413,7 @@ RIAH's current Non-JD structure contains seven state pathways.
 
 The applicable Non-JD state rules control qualifying legal study, employment, supervision, law-office study, and bar-eligibility requirements. RIAH Experiential does not replace a state-mandated legal apprenticeship, law-reader, law-clerk, law-office-study, employment, or supervision requirement.
 
-## XVII. Law Experiential Supervision
+# **XIX. LAW EXPERIENTIAL SUPERVISION**
 
 Law Experiential may use approved:
 
@@ -346,7 +429,7 @@ Students may perform only work permitted for their status, training, jurisdictio
 
 Students may not represent themselves as licensed attorneys unless independently licensed.
 
-## XVIII. Paid and Unpaid Placement Standard
+# **XX. PAID AND UNPAID PLACEMENT STANDARD**
 
 ### United States Students
 
@@ -370,7 +453,7 @@ International Online Students residing outside the United States receive:
 
 International Online Experiential is not represented as U.S. employment, U.S. work authorization, or visa sponsorship.
 
-## XIX. Accessibility and Placement Flexibility
+# **XXI. ACCESSIBILITY AND PLACEMENT FLEXIBILITY**
 
 RIAH uses remote, hybrid, and on-site placement options to expand access for students who may experience geographic, transportation, scheduling, disability-access, family, employment, or other participation barriers.
 
@@ -378,7 +461,7 @@ Placement format depends on the participant, work, partner, supervision, applica
 
 International Online Students remain remote under the International Online Experiential policy.
 
-## XX. Performance and Documentation
+# **XXII. PERFORMANCE AND DOCUMENTATION**
 
 RIAH Experiential records may include:
 
@@ -410,7 +493,7 @@ RIAH Experiential records may include:
 - Applicable badge or achievement
 - Applicable graduate benefit record
 
-## XXI. Completion
+# **XXIII. COMPLETION**
 
 Experiential completion requires:
 
@@ -426,7 +509,7 @@ Experiential completion requires:
 
 Completion of an eligible Experiential pathway may qualify for applicable RIAH Graduate benefits under the controlling Contributor Benefits documentation.
 
-## XXII. Employment and Career Connection
+# **XXIV. EMPLOYMENT AND CAREER CONNECTION**
 
 Experiential is designed to create documented professional experience and exposure to RIAH and employer partners.
 
@@ -444,7 +527,7 @@ Experiential completion does not guarantee:
 
 Employment decisions remain separate from Experiential completion.
 
-## XXIII. Experiential Governance
+# **XXV. EXPERIENTIAL GOVERNANCE**
 
 RIAH Pathway maintains the Experiential architecture.
 
@@ -465,7 +548,7 @@ Experiential placements must:
 - Follow applicable partner agreements.
 - Follow RIAH policies and governance.
 
-## XXIV. International Compliance Control
+# **XXVI. INTERNATIONAL COMPLIANCE CONTROL**
 
 RIAH's International Online Experiential policy is designed for students who remain outside the United States and participate remotely.
 
@@ -473,7 +556,7 @@ Unpaid status alone does not determine whether an activity is legally permissibl
 
 A student physically present in the United States under F-1 or another immigration status is not processed under the outside-the-United-States International Online Experiential rule. Any practical training or work-based activity for such a student requires separate status and work-authorization review.
 
-## XXV. Controlling Structure
+# **XXVII. CONTROLLING EXPERIENTIAL STRUCTURE**
 
 The Experiential pathway is:
 
