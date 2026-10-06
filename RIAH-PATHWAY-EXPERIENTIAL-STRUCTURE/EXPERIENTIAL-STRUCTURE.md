@@ -858,7 +858,7 @@ Academic curriculum and Experiential work remain separately documented where app
 
 # **XVI. 📚 EXPERIENTIAL COLLEGE CREDIT STRUCTURE**
 
-RIAH Pathway assigns the following experiential credit-hour values to the Experiential levels for applicable college-enrollment, cost-of-attendance, and coursework-agreement purposes:
+RIAH Pathway assigns the experiential credit-hour values to the Experiential levels for applicable college-enrollment, cost-of-attendance, and coursework-agreement purposes:
 
 | Experiential Level | Experiential Credit Hours |
 |---|---:|
