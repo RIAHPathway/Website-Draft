@@ -218,19 +218,24 @@ Students may not perform work requiring a professional license, legal authorizat
 
 # **VIII. 🎯 ONE-MONTH EXPERIENTIAL GUARANTEE**
 
-RIAH guarantees eligible education students the opportunity to apply for and receive one month of Experiential during the student's final year, subject to the rules below.
+RIAH guarantees eligible education pathway students in the **Bachelor's, Master's, MBA, JD, or Non-JD programs only** the opportunity to apply for and receive one month of Experiential, subject to applicable rules and eligibility requirements. Participation in an eligible education pathway does not automatically qualify a student for the guarantee.
 
 | Rule | Standard |
 |---|---|
 | **Length** | **1 Month** |
-| **Eligibility Period** | **Student's final year** |
+| **Eligible Education Pathways** | **Bachelor's, Master's, MBA, JD, and Non-JD programs only** |
+| **Not Eligible for Guarantee** | **Minor, High School, and GED programs** |
+| **Bachelor's Eligibility Period** | **Year 4 only** |
+| **Master's and MBA Eligibility Period** | **Throughout the program, depending on when the student is placed; eligible students retain the one-month guarantee if they are not otherwise placed, subject to applicable rules and eligibility requirements** |
+| **JD and Non-JD Eligibility Period** | **Subject to applicable program rules, placement timing, and eligibility requirements** |
 | **Application** | Required |
+| **Eligibility** | Subject to applicable rules and eligibility requirements; not automatic based solely on participation in an eligible education pathway |
 | **Placement Source** | RIAH ecosystem or approved employer or professional partner |
 | **Placement Basis** | Current needs, available work, student qualifications, field alignment, supervision, and placement capacity |
 | **Work Type** | Real-world supervised work |
 | **Compensation** | Paid or unpaid for eligible U.S. placements depending on placement terms and applicable law |
 | **International Online Student** | Remote and unpaid under RIAH policy |
-| **Guaranteed Item** | One-month Experiential opportunity for an eligible final-year student |
+| **Guaranteed Item** | One-month Experiential opportunity for an eligible student who satisfies the applicable rules and eligibility requirements |
 | **Not Guaranteed** | Specific employer, specific job, specific project, paid status, location, or permanent employment |
 
 The one-month guarantee does not guarantee employment after completion.
