@@ -1,8 +1,9 @@
 # PhD ACADEMIC FACULTY
 
 **Category:** Academic Faculty  
-**Standard Equity:** **0.1416%**  
-**Designated PhD Dual-Role Equity:** **0.2832%**
+**Individual Role Equity:** **0.1416%**  
+**Dual-Role Add-On Equity:** **+0.1416%**  
+**Combined Dual-Role Equity:** **0.2832%**
 
 ### Work Model
 **100% remote.**
@@ -69,7 +70,20 @@ No separate professional-experience requirement applies to the standard PhD Acad
 School of Business, School of Technology, School of Law, School of Homeland Security, School of Diploma, School of GED/HSE.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Vesting:** Four years with one-year cliff. **25% each year through Year 4**.
+**Individual Role Equity:** **0.1416%**  
+**Dual-Role Add-On Equity:** **+0.1416%**  
+**Combined Dual-Role Equity:** **0.2832%**
+
+**Vesting Individual Equity:** The 0.1416% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0354% vests at the completion of each vesting year, and the full 0.1416% individual-role equity is vested at the completion of Year 4.**
+
+**Vesting Dual-Role Equity:** The 0.2832% combined dual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0708% combined equity vests at the completion of each vesting year, and the full 0.2832% combined dual-role equity is vested at the completion of Year 4.**
+
+| Vesting Year | Individual Role Equity Vested | Cumulative Individual Equity | Dual-Role Add-On Vested | Combined Equity Vested That Year | Cumulative Combined Equity |
+|---|---:|---:|---:|---:|---:|
+| Year 1 | **0.0354%** | **0.0354%** | **0.0354%** | **0.0708%** | **0.0708%** |
+| Year 2 | **0.0354%** | **0.0708%** | **0.0354%** | **0.0708%** | **0.1416%** |
+| Year 3 | **0.0354%** | **0.1062%** | **0.0354%** | **0.0708%** | **0.2124%** |
+| Year 4 | **0.0354%** | **0.1416% — Fully Vested** | **0.0354%** | **0.0708%** | **0.2832% — Fully Vested** |
 
 **Contribution Pool:**
 - Pre-Beta: **$520.83 monthly**

@@ -1,7 +1,7 @@
 # CHIEF INFORMATION SECURITY OFFICER
 
 **Category:** Executive Leadership  
-**Equity:** **1.68%**
+**Individual Role Equity:** **1.68%**
 
 ### Work Model
 **100% remote during the first year of operations**, including Executive Leadership and Board of Governance meetings.
@@ -26,9 +26,16 @@ The CISO leads cybersecurity, information security, infrastructure protection, n
 Cybersecurity architecture, security operations, infrastructure security, risk, network security, incident response, or cybersecurity leadership experience.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **1.68%**
+**Individual Role Equity:** **1.68%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The 1.68% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.42% vests at the completion of each vesting year, and the full 1.68% is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.42%** | **0.42%** |
+| Year 2 | **0.42%** | **0.84%** |
+| Year 3 | **0.42%** | **1.26%** |
+| Year 4 | **0.42%** | **1.68% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

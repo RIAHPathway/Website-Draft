@@ -1,7 +1,7 @@
 # JD & NON-JD ATTORNEY / JUDGE SUPERVISOR
 
 **Category:** Capacity-Based Law Curriculum Supervision  
-**Individual Equity:** **0.0025%**  
+**Individual Role Equity:** **0.0025% per approved supervisor**  
 **Capacity:** Up to 2,000 supervisors
 
 ### Work Model
@@ -20,9 +20,16 @@ Provide attorney or judge supervision for JD and Non-JD law curriculum, supervis
 California, Maine, New York, Vermont, Virginia, Washington, West Virginia.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **0.0025% per approved supervisor**
+**Individual Role Equity:** **0.0025% per approved supervisor**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.000625% vests at the completion of each vesting year, and the full individual-role equity is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.000625%** | **0.000625%** |
+| Year 2 | **0.000625%** | **0.00125%** |
+| Year 3 | **0.000625%** | **0.001875%** |
+| Year 4 | **0.000625%** | **0.0025% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

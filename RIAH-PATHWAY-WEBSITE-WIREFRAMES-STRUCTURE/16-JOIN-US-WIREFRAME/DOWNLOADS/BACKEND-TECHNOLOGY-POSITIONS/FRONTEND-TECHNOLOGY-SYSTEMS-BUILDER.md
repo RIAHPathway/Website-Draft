@@ -1,7 +1,7 @@
 # FRONTEND TECHNOLOGY SYSTEMS BUILDER
 
 **Category:** Backend Technology Team  
-**Equity:** **0.20%**
+**Individual Role Equity:** **0.25%**
 
 ### Work Model
 **100% remote.**
@@ -17,9 +17,16 @@ Build and maintain RIAH Pathway websites, applications, dashboards, portals, int
 Responsive interfaces, applications, dashboards, APIs, user experience, and frontend frameworks.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **0.20%**
+**Individual Role Equity:** **0.25%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The 0.25% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0625% vests at the completion of each vesting year, and the full 0.25% is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.0625%** | **0.0625%** |
+| Year 2 | **0.0625%** | **0.125%** |
+| Year 3 | **0.0625%** | **0.1875%** |
+| Year 4 | **0.0625%** | **0.25% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

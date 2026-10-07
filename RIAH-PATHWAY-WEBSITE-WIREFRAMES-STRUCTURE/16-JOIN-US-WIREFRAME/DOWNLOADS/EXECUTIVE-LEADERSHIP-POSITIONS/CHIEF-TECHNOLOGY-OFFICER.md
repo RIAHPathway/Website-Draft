@@ -1,7 +1,7 @@
 # CHIEF TECHNOLOGY OFFICER
 
 **Category:** Executive Leadership  
-**Equity:** **1.60%**
+**Individual Role Equity:** **1.60%**
 
 ### Work Model
 **100% remote during the first year of operations**, including Executive Leadership and Board of Governance meetings.
@@ -26,9 +26,16 @@ The CTO leads RIAH Pathway technology strategy, architecture, applications, AI, 
 Hands-on technology building, architecture, AI, automation, systems, software, applications, infrastructure, or technology-team leadership experience.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **1.60%**
+**Individual Role Equity:** **1.60%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The 1.60% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.40% vests at the completion of each vesting year, and the full 1.60% is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.40%** | **0.40%** |
+| Year 2 | **0.40%** | **0.80%** |
+| Year 3 | **0.40%** | **1.20%** |
+| Year 4 | **0.40%** | **1.60% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

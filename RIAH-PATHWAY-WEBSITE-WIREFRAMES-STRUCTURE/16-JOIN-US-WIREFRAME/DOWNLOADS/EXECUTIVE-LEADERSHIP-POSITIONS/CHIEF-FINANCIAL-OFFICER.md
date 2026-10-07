@@ -1,7 +1,7 @@
 # CHIEF FINANCIAL OFFICER
 
 **Category:** Executive Leadership  
-**Equity:** **1.52%**
+**Individual Role Equity:** **1.52%**
 
 ### Work Model
 **100% remote during the first year of operations**, including Executive Leadership and Board of Governance meetings.
@@ -25,9 +25,16 @@ The CFO leads finance, accounting, budgets, financial controls, reporting, forec
 Accounting, finance, budgeting, audit, controls, forecasting, financial operations, or accounting leadership experience.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **1.52%**
+**Individual Role Equity:** **1.52%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The 1.52% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.38% vests at the completion of each vesting year, and the full 1.52% is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.38%** | **0.38%** |
+| Year 2 | **0.38%** | **0.76%** |
+| Year 3 | **0.38%** | **1.14%** |
+| Year 4 | **0.38%** | **1.52% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

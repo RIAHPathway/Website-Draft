@@ -1,7 +1,7 @@
 # PROGRAM DIRECTOR — SCHOOL OF LAW
 
 **Category:** Program Director  
-**Equity:** **0.26%**
+**Individual Role Equity:** **0.325%**
 
 ### Work Model
 **100% remote.**
@@ -16,9 +16,16 @@ Coordinate School of LAW programs across academic curriculum, Experiential pathw
 Law, criminal justice, education, legal programs, compliance, or professional-program operations.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **0.26%**
+**Individual Role Equity:** **0.325%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.08125% vests at the completion of each vesting year, and the full individual-role equity is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.08125%** | **0.08125%** |
+| Year 2 | **0.08125%** | **0.1625%** |
+| Year 3 | **0.08125%** | **0.24375%** |
+| Year 4 | **0.08125%** | **0.325% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

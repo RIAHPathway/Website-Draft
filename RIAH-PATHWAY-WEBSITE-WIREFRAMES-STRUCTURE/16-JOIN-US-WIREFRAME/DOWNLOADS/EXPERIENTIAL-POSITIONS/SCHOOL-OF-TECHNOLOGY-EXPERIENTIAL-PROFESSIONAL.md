@@ -1,7 +1,9 @@
 # SCHOOL OF TECHNOLOGY EXPERIENTIAL PROFESSIONAL — MANAGER, SUPERVISOR OR REVIEWER
 
 **Core Positions:** 30  
-**Individual Equity:** **0.0280%**
+**Individual Role Equity:** **0.0140%**  
+**Dual-Role Add-On Equity:** **+0.0140%**  
+**Combined Dual-Role Equity:** **0.0280%**
 
 ### Work Model
 **100% remote.**
@@ -30,12 +32,25 @@ Professionals performing Certification Review must:
 - Have **experience in the professional area connected to that certification**.
 
 ### Equity
-- Experiential role: **0.0140%**
-- Certification Review dual role: **+0.0140%**
-- **Total individual equity: 0.0280%**
+- **Individual Role Equity:** **0.0140%**
+- **Dual-Role Add-On Equity:** **+0.0140%**
+- **Combined Dual-Role Equity:** **0.0280%**
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Vesting:** Four years, one-year cliff, **25% annually**.
+**Individual Role Equity:** **0.0140%**  
+**Dual-Role Add-On Equity:** **+0.0140%**  
+**Combined Dual-Role Equity:** **0.0280%**
+
+**Vesting Individual Equity:** The 0.0140% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0035% vests at the completion of each vesting year, and the full 0.0140% individual-role equity is vested at the completion of Year 4.**
+
+**Vesting Dual-Role Equity:** The 0.0280% combined dual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0070% combined equity vests at the completion of each vesting year, and the full 0.0280% combined dual-role equity is vested at the completion of Year 4.**
+
+| Vesting Year | Individual Role Equity Vested | Cumulative Individual Equity | Dual-Role Add-On Vested | Combined Equity Vested That Year | Cumulative Combined Equity |
+|---|---:|---:|---:|---:|---:|
+| Year 1 | **0.0035%** | **0.0035%** | **0.0035%** | **0.0070%** | **0.0070%** |
+| Year 2 | **0.0035%** | **0.0070%** | **0.0035%** | **0.0070%** | **0.0140%** |
+| Year 3 | **0.0035%** | **0.0105%** | **0.0035%** | **0.0070%** | **0.0210%** |
+| Year 4 | **0.0035%** | **0.0140% — Fully Vested** | **0.0035%** | **0.0070%** | **0.0280% — Fully Vested** |
 
 **Contribution:** Pre-Beta **$520.83 monthly**; Beta **varies as Experiential Professionals are hired**; Post-Accreditation / At Scale **$595.24 monthly**; due **15th of each month**.
 

@@ -1,7 +1,7 @@
 # CHIEF OPERATING OFFICER
 
 **Category:** Executive Leadership  
-**Equity:** **1.36%**
+**Individual Role Equity:** **1.36%**
 
 ### Work Model
 **100% remote during the first year of operations**, including Executive Leadership and Board of Governance meetings.
@@ -19,9 +19,16 @@ The COO leads RIAH Pathway operations across programs, projects, workflows, team
 Operations, program leadership, organizational management, workflows, growth, marketing, partnerships, or business operations.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **1.36%**
+**Individual Role Equity:** **1.36%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The 1.36% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.34% vests at the completion of each vesting year, and the full 1.36% is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **0.34%** | **0.34%** |
+| Year 2 | **0.34%** | **0.68%** |
+| Year 3 | **0.34%** | **1.02%** |
+| Year 4 | **0.34%** | **1.36% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**

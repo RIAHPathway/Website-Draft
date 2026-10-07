@@ -1,8 +1,9 @@
 # ADJUNCT ACADEMIC FACULTY
 
 **Category:** Academic Faculty  
-**Standard Equity:** **≈0.100444%**  
-**Designated Adjunct Dual-Role Equity:** **≈0.200889%**
+**Individual Role Equity:** **0.10044%**  
+**Dual-Role Add-On Equity:** **+0.10044%**  
+**Combined Dual-Role Equity:** **0.20088%**
 
 ### Work Model
 **100% remote.**
@@ -54,16 +55,29 @@ School of Law Adjunct Academic Faculty performing Bar Review must:
 - Have **experience as an attorney**.
 
 Approved Adjunct dual-role equity reference:
-- **Base Adjunct Academic Faculty Equity:** **≈0.100444%**
-- **Additional Approved Dual-Role Equity:** **+≈0.100444%**
-- **Total Designated Dual-Role Equity:** **≈0.200889%**
+- **Base Adjunct Academic Faculty Equity:** **0.10044%**
+- **Additional Approved Dual-Role Equity:** **+0.10044%**
+- **Total Designated Dual-Role Equity:** **0.20088%**
 
 ### Requirements
 - **Must have education in the assigned major or an equivalent discipline.**
 - Must have **experience in the major, discipline, or professional area for which they are applying**.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Vesting:** Four-year vesting with one-year cliff. **25% each year through Year 4**.
+**Individual Role Equity:** **0.10044%**  
+**Dual-Role Add-On Equity:** **+0.10044%**  
+**Combined Dual-Role Equity:** **0.20088%**
+
+**Vesting Individual Equity:** The 0.10044% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.02511% vests at the completion of each vesting year, and the full 0.10044% individual-role equity is vested at the completion of Year 4.**
+
+**Vesting Dual-Role Equity:** The 0.20088% combined dual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.05022% combined equity vests at the completion of each vesting year, and the full 0.20088% combined dual-role equity is vested at the completion of Year 4.**
+
+| Vesting Year | Individual Role Equity Vested | Cumulative Individual Equity | Dual-Role Add-On Vested | Combined Equity Vested That Year | Cumulative Combined Equity |
+|---|---:|---:|---:|---:|---:|
+| Year 1 | **0.02511%** | **0.02511%** | **0.02511%** | **0.05022%** | **0.05022%** |
+| Year 2 | **0.02511%** | **0.05022%** | **0.02511%** | **0.05022%** | **0.10044%** |
+| Year 3 | **0.02511%** | **0.07533%** | **0.02511%** | **0.05022%** | **0.15066%** |
+| Year 4 | **0.02511%** | **0.10044% — Fully Vested** | **0.02511%** | **0.05022%** | **0.20088% — Fully Vested** |
 
 **Contribution Pool:** Pre-Beta **$520.83 monthly**; Beta **varies**; Post-Accreditation / At Scale **$595.24 monthly**; due **15th of each month**.
 

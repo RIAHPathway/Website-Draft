@@ -1,7 +1,7 @@
 # PURPLE TEAM SPECIALIST
 
 **Category:** Cybersecurity  
-**Equity:** **≈0.373333%**
+**Individual Role Equity:** **≈0.373333%**
 
 ### Work Model
 **100% remote.**
@@ -16,9 +16,16 @@ Coordinate Red and Blue Team security functions, validation, testing feedback, c
 Red/Blue coordination, security testing, detection engineering, control validation, remediation, or security operations.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Equity:** **≈0.373333%**
+**Individual Role Equity:** **≈0.373333%**
 
-**Vesting:** Four-year vesting with a one-year cliff. **25% after Year 1, 25% after Year 2, 25% after Year 3, and 25% after Year 4**, subject to continued participation, responsibilities, performance, contribution requirements, and signed agreements.
+**Vesting Individual Equity:** The ≈0.373333% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **≈0.09333325% vests at the completion of each vesting year, and the full ≈0.373333% is vested at the completion of Year 4.**
+
+| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
+|---|---:|---:|
+| Year 1 | **≈0.09333325%** | **≈0.09333325%** |
+| Year 2 | **≈0.09333325%** | **≈0.1866665%** |
+| Year 3 | **≈0.09333325%** | **≈0.27999975%** |
+| Year 4 | **≈0.09333325%** | **≈0.373333% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
