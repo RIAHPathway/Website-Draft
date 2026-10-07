@@ -338,7 +338,7 @@ Products are non-refundable. For applicable course or product programs, completi
 
 ### 🔗 Documentation
 
-[README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
+See the canonical routing table below.
 
 ## 🧮 Unified Three-Ledger Benefit Logic
 
@@ -399,10 +399,22 @@ Eligible Experiential participants who complete the program receive **10% guaran
 **Experiential maximum: 10% completion + 25% contributor benefit + 15% additional reimbursement = 50%.**
 
 Existing approved role-specific point activities remain in effect unless expressly changed elsewhere.
-## 🔗 Canonical Routing
 
-[README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md)
+## 🔗 Canonical Contributor-Benefit Routing
 
+| Category | Description | Markdown |
+|---|---|---|
+| 👑 Contributor Benefits README | Master benefit rules, shared logic and category routing | [README.md](./README.md) |
+| 👥 Ambassador Master | Roman-numeral master view of ambassador categories, role requirements and shared rules | [AMBASSADORS.md](./AMBASSADORS.md) |
+| 🤝 Partner & Partner Employee Ambassadors | Approved partner relationships, Partner Employee eligibility, partner activity and written partnership terms | [PARTNER-EMPLOYEES.md](./PARTNER-EMPLOYEES.md) |
+| 🎓 Student Ambassadors & Graduates | Education / Experiential completion, graduate milestones and eligible Ambassador participation | [STUDENTS.md](./STUDENTS.md) |
+| 🔗 Partner Affiliates | Partner-affiliate referrals, attribution and conversion activity | [AFFILIATES.md](./AFFILIATES.md) |
+| 🎥 Content Creator Ambassadors | Approved content activity, campaigns, referrals and conversions | [CONTENT-CREATORS.md](./CONTENT-CREATORS.md) |
+| 💻 GitHub Contributor Ambassadors | Verified GitHub contributions and contribution-specific milestones | [GITHUB-CONTRIBUTORS.md](./GITHUB-CONTRIBUTORS.md) |
+| 🌎 Community Ambassadors | Community outreach, booths, tables, workshops, events, referrals and conversions | [COMMUNITY-AMBASSADORS.md](./COMMUNITY-AMBASSADORS.md) |
+| 🚗📦 Rideshare & Delivery Ambassadors | Combined vehicle / delivery marketing, booths, tables, events, referrals and conversions | [RIDESHARE-DELIVERY.md](./RIDESHARE-DELIVERY.md) |
+| 🍎 Substitute Teacher Ambassadors | Approved education / community outreach, booths, tables, events, referrals and conversions | [SUBSTITUTE-TEACHERS.md](./SUBSTITUTE-TEACHERS.md) |
+| 👥 Team Members | Team-only $0 tuition and 50% product benefit maintained through daily, weekly and monthly performance / contribution requirements and applicable equity terms | [TEAM-MEMBERS.md](./TEAM-MEMBERS.md) |
 
 ---
 
