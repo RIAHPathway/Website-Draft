@@ -125,6 +125,7 @@ IX. 🔄 Contributor Workflow
 X. 🛡️ Verification and Anti-Abuse  
 XI. 👥 Contributor Levels  
 XII. 📋 Contributor Ledger
+XIII. 👑 Shared Ambassador Program
 
 ## I. 🔑 Key
 
@@ -163,7 +164,7 @@ XII. 📋 Contributor Ledger
 
 ## III. 🧮 Benefit Formula
 
-**100 approved points = 1% eligible tuition + 1% eligible products.** Only complete 100-point milestones increase the percentage; remainders carry forward. Example: 760 points = 7% tuition + 7% products + 60 points toward the next milestone. Maximum: **2,500 points = 25% tuition + 25% products**.
+**100 approved Ambassador points = 1% eligible tuition / program benefit. 100 approved Product Benefit points = 1% eligible product benefit. Only complete 100-point milestones increase the applicable percentage; remainders carry forward. Maximum: 2,500 points = 25% in each applicable benefit ledger. GitHub participation may combine with other Ambassador activities for points, but categories do not stack beyond 25%.**
 
 ## IV. 🏆 1%–25% Milestones
 
@@ -297,6 +298,50 @@ Only accepted or verified deliverables count. Issues receive points only when su
 Record Contributor GitHub Username, Participant ID, Contribution ID, Category, GitHub Record such as issue/PR/commit/review/deliverable, Description, Level, Points, Approval Date, Approved By, Previous Total, Added Points, Running Total, Milestone, Tuition Benefit, Product Benefit, Next Milestone, Points Remaining and Status.
 
 Benefits cannot be exchanged for cash or ordinarily transferred and remain subject to applicable RIAH Pathway tuition, product, eligibility and discount-stacking rules.
+
+
+## XIII. 👑 SHARED AMBASSADOR PROGRAM
+
+| Rule | Structure |
+|---|---|
+| Ambassador Benefit | **Up to 25%** |
+| Product Benefit | **Up to 25%** through separate product milestones |
+| Multiple Ambassador categories | **Do not stack beyond 25%** |
+| Education / Experiential completion | **10% guaranteed** |
+| Education / Experiential total reimbursement | **Up to 50%** |
+
+| Conversion / Purchase Milestone | Point Treatment |
+|---|---|
+| Paying Education Pathway student conversion | Conversion recorded |
+| Paying Experiential Pathway student conversion | Conversion recorded |
+| Converted student reaches 50% program completion | **50 points** |
+| Converted student completes / graduates | **+50 points** |
+| Certification Review Program purchase | **25 points** |
+| Bar Review Program purchase | **25 points** |
+| Service purchase | **25 points** |
+| Verified product purchases totaling $500 | **25 points** |
+| Verified product purchases totaling $1,000 | **50 points** |
+| Verified product purchases totaling $1,500 | **75 points** |
+
+| Material | Physical | Digital |
+|---|:---:|:---:|
+| One apparel selection | ✅ | ❌ |
+| Vehicle vinyl | ✅ | ❌ |
+| Vehicle rooftop sign / billboard | ✅ | ❌ |
+| Retractable banner | ✅ | ❌ |
+| Tablecloth | ✅ | ❌ |
+| Business card | ❌ | ✅ |
+| Flyer | ❌ | ✅ |
+| Brochure | ❌ | ✅ |
+| Referral link | ❌ | ✅ |
+| Products / Services / Pathways link | ❌ | ✅ |
+| Individual QR code | ✅ | ✅ |
+
+Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
+
+### 🔗 Related Documentation
+
+[README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
 
 RIAH Pathway
 
