@@ -348,7 +348,7 @@ Existing approved role-specific point activities remain in effect unless express
 
 ## 🔗 Canonical Contributor-Benefit Routing
 
-| Category | Description | Markdown |
+| Category | Summary | Markdown |
 |---|---|---|
 | 👑 Contributor Benefits README | Master benefit rules, shared logic and category routing | [README.md](./README.md) |
 | 👥 Ambassador Master | Roman-numeral master view of ambassador categories, role requirements and shared rules | [AMBASSADORS.md](./AMBASSADORS.md) |
