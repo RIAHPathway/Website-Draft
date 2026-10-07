@@ -105,6 +105,16 @@ XIII. 📋 Master Record Fields
 
 ## III. 🧮 Master Benefit Structure
 
+### 🎓 Core Reimbursement Rules
+
+| Component | Maximum |
+|---|---:|
+| Education / Experiential Program Completion | **10% guaranteed** |
+| Ambassador Milestones | **Up to 25%** |
+| Additional Reimbursement Milestones | **Up to 15%** |
+| Education / Experiential Total | **Up to 50%** |
+| Product Benefit | **Up to 25%** |
+
 | Category | Up to 25% Ambassador Benefit | Completion / Tuition Benefit | Up to 25% Product Benefit |
 |---|:---:|---|:---:|
 | 👥 Team Members | — | **$0 tuition** | **50% discount** |
