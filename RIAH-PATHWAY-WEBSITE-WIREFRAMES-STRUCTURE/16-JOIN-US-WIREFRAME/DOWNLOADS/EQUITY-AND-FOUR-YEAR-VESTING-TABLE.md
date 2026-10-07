@@ -15,7 +15,7 @@
 | Chief Financial Officer | **1.52%** | **0.38% per year** | — | — | — |
 | Chief Learning Officer | **1.44%** | **0.36% per year** | — | — | — |
 | Chief Operating Officer | **1.36%** | **0.34% per year** | — | — | — |
-| Backend Technology Architect | **0.40%** | **0.10% per year** | — | — | — |
+| Full Stack Technology Architect | **0.40%** | **0.10% per year** | — | — | — |
 | Backend Technology Systems Builder | **0.25%** | **0.0625% per year** | — | — | — |
 | Frontend Technology Systems Builder | **0.25%** | **0.0625% per year** | — | — | — |
 | Full-Stack Technology Systems Builder | **0.30%** | **0.075% per year** | — | — | — |
@@ -84,7 +84,7 @@
 
 # BACKEND TECHNOLOGY
 
-### Backend Technology Architect
+### Full Stack Technology Architect
 
 **Individual Role Equity: 0.40%.**
 

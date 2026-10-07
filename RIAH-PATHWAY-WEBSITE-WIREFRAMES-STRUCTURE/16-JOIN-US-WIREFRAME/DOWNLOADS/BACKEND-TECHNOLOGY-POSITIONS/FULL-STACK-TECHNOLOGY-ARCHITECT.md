@@ -1,4 +1,4 @@
-# BACKEND TECHNOLOGY ARCHITECT
+# FULL STACK TECHNOLOGY ARCHITECT
 
 **Category:** Backend Technology Team  
 **Individual Role Equity:** **0.40%**
@@ -7,20 +7,20 @@
 **100% remote.**
 
 ### Description
-The Backend Technology Architect leads the architecture for RIAH Pathway's operations backend, applications, software, AI, automation, systems, databases, APIs, integrations, workflows, and customized technology infrastructure.
+The Full Stack Technology Architect leads end-to-end architecture for RIAH Pathway's frontend and backend technology, including user interfaces, websites, applications, software, AI, automation, systems, databases, APIs, integrations, workflows, and customized technology infrastructure.
 
 ### Responsibilities
-- Architect applications, APIs, databases, automation, AI agents, workflows, websites, and integrations.
+- Architect end-to-end frontend and backend applications, APIs, databases, user interfaces, automation, AI agents, workflows, websites, and integrations.
 - Lead Backend, Frontend, and Full-Stack Builders.
 - Establish technical architecture with the CTO.
 - Coordinate security requirements with the CISO.
 
 ### Requirements
-- **Must have experience in technology architecture and technology systems.**
+- **Must have experience in full-stack technology architecture and technology systems.**
 - Must have **manager-level or higher technology experience**.
 
 ### Preferences
-Architecture, AI, automation, software, APIs, databases, cloud, infrastructure, systems integration, and technical-team leadership.
+Full-stack architecture, frontend and backend development, AI, automation, software, APIs, databases, cloud, infrastructure, systems integration, and technical-team leadership.
 
 ### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
 **Individual Role Equity:** **0.40%**

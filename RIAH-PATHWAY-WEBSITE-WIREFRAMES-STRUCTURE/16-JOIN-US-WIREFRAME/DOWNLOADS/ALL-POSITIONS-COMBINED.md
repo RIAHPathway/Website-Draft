@@ -21,7 +21,7 @@ Equity-bearing positions **accrue equity monthly throughout each vesting year**.
 | Chief Financial Officer | Individual Role | **1.52%** | **0.38%** | **0.38%** | **0.38%** | **0.38%** |
 | Chief Learning Officer | Individual Role | **1.44%** | **0.36%** | **0.36%** | **0.36%** | **0.36%** |
 | Chief Operating Officer | Individual Role | **1.36%** | **0.34%** | **0.34%** | **0.34%** | **0.34%** |
-| Backend Technology Architect | Individual Role | **0.40%** | **0.10%** | **0.10%** | **0.10%** | **0.10%** |
+| Full Stack Technology Architect | Individual Role | **0.40%** | **0.10%** | **0.10%** | **0.10%** | **0.10%** |
 | Backend Technology Systems Builder | Individual Role | **0.25%** | **0.0625%** | **0.0625%** | **0.0625%** | **0.0625%** |
 | Frontend Technology Systems Builder | Individual Role | **0.25%** | **0.0625%** | **0.0625%** | **0.0625%** | **0.0625%** |
 | Full-Stack Technology Systems Builder | Individual Role | **0.30%** | **0.075%** | **0.075%** | **0.075%** | **0.075%** |
@@ -83,7 +83,7 @@ The Backend Technology Team architects, builds, integrates, and maintains RIAH P
 
 | Position | Equity | Markdown |
 |---|---:|---|
-| Backend Technology Architect | 0.40% | [BACKEND-TECHNOLOGY-ARCHITECT.md](./BACKEND-TECHNOLOGY-POSITIONS/BACKEND-TECHNOLOGY-ARCHITECT.md) |
+| Full Stack Technology Architect | 0.40% | [FULL-STACK-TECHNOLOGY-ARCHITECT.md](./BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-ARCHITECT.md) |
 | Backend Technology Systems Builder | 0.25% | [BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md](./BACKEND-TECHNOLOGY-POSITIONS/BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md) |
 | Frontend Technology Systems Builder | 0.25% | [FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md](./BACKEND-TECHNOLOGY-POSITIONS/FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md) |
 | Full-Stack Technology Systems Builder | 0.30% | [FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md](./BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md) |
