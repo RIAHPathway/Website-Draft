@@ -302,7 +302,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **SCI 1101** | Geology | Earth Science | 3 | None | None | None | Earth Materials, Minerals, Rocks, Earth's Structure, Plate Tectonics, Geological Processes, Geological Time, Earth's Surface, Natural Resources, Geological Hazards | — | First science course. |
 | **GEO 1101** | World Geography | Social Studies / Geography | 3 | None | None | None | Physical Geography, Human Geography, World Regions, Population, Culture, Political Geography, Economic Geography, Geographic Systems, Maps and Spatial Analysis, Human-Environment Relationships | — | First history/social-science course. |
 | **TEC 1101** | Digital Literacy | Technology | 3 | None | None | None | Digital Literacy, Information Literacy, Media Literacy, Digital Citizenship, Internet Safety, Responsible Technology Use, Online Research, Digital Communication, Digital Productivity | State modules where applicable | State-specific digital/media-literacy content is mapped here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -316,7 +316,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 
 **Fire Prevention:** Specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).
 
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 9 Total: **30 Credit Hours**
 
@@ -333,7 +333,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **SCI 2101** | Earth Science | Earth Science | 3 | SCI 1102 | Astronomy | Earth / Space Science | Earth Systems, Atmosphere, Hydrosphere, Weather, Climate, Oceans, Earth's Resources, Earth-System Interactions | — | Third science course. |
 | **HIS 2101 🔵🟢** | Holocaust & Genocide Studies | History / Social Studies | 3 | HIS 1101 | World History | History | Holocaust Studies, Antisemitism, Nazi Germany, Holocaust History, Genocide Studies, Comparative Genocide, Human Rights, Prevention of Genocide, Historical Memory | 🔵 Illinois, 🟢 California | Applicable Holocaust/genocide components are mapped here. |
 | **PED 2101 🔴🟤** | Physical Education | Physical Education | 3 | None | None | None | Physical Fitness, Cardiovascular Fitness, Strength, Flexibility, Movement, Wellness, Personal Fitness Planning, Lifetime Physical Activity | 🔴 Ohio, 🟤 Minnesota | Applicable physical-education requirements are covered here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -344,7 +344,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **SCI 2102** | Environmental Science | Environmental Science | 3 | SCI 2101 | Earth Science | Earth Science | Ecosystems, Natural Resources, Biodiversity, Pollution, Climate, Sustainability, Human Environmental Impact, Conservation | — | Fourth science course. |
 | **GOV 2101 🔴🟡🔷🔺🔻** | Government | Government / Civics | 3 | HIS 2101 | Holocaust & Genocide Studies | History / Social Studies | United States Government, American Government, Civics, Citizenship, Constitutional Government, Federal Government, State Government, Local Government, Founding Principles, Rights and Responsibilities | 🔴 Ohio, 🟡 Oklahoma, 🔷 Florida, 🔺 Texas, 🔻 Arizona | Applicable government and civics components are mapped here. |
 | **ART 2101 🔴🟤** | Fine Arts | Fine Arts | 3 | None | None | None | Visual Art, Music, Theatre, Fine Arts Appreciation, Artistic Expression, Arts History | 🔴 Ohio, 🟤 Minnesota | Applicable state fine-arts content is covered here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 10 Total: **30 Credit Hours**
 
@@ -361,7 +361,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
 | **FIN 3101 🔴🟠🔷🔺** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state financial-literacy content is mapped here. |
 | **LAN 3101** | World Language I | World Language | 3 | None | None | None | Spanish, French, German, or Italian Level I; Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student selects one language. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -372,7 +372,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **HIS 3102 🟡🟠🔷** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas, 🔷 Florida | Every student studies the history of their own state; identified state-specific components are mapped here. |
 | **LAN 3102** | World Language II | World Language | 3 | LAN 3101 | World Language I | World Language | Continuation of selected language; Intermediate Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student continues the same language. |
 | **PFI 3101 🔴🟠🔷🔺** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state personal-finance components are mapped here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 11 Total: **30 Credit Hours**
 
@@ -393,7 +393,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **ECO 4101 🔷** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | 🔷 Florida | Florida economics content is mapped here; Economics follows the core history/government sequence. |
 | **CSC 4101 🟠** | Computer Science | Computer Science | 3 | TEC 1101 | Digital Literacy | Technology | Computer Science Principles, Algorithms, Programming Fundamentals, Data, Computing Systems, Networks, Cybersecurity Fundamentals, Responsible Computing | 🟠 Arkansas | Applicable Arkansas computer-science content is mapped here. |
 | **ETH 4101** | Ethnic Studies | Social Studies | 3 | HIS 3101 | American History | American History | Ethnic Studies, Race and Ethnicity in the United States, Cultural History, Cultural Contributions, Historical Experiences of Diverse Communities, Civil Rights and Social Change, Comparative Cultural Studies | — | Fixed RIAH social-studies course. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -404,7 +404,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **SOC 4101** | Sociology | Social Science | 3 | ECO 4101 | Economics | Economics | Sociological Perspectives, Culture, Socialization, Social Institutions, Groups, Communities, Social Stratification, Social Change, Society and Human Interaction | — | Sociology follows Economics. |
 | **PSY 4101** | Psychology | Social Science | 3 | SOC 4101 | Sociology | Social Science | Foundations of Psychology, Human Development, Learning, Memory, Cognition, Motivation, Emotion, Personality, Social Psychology, Human Behavior | — | Psychology follows Sociology. |
 | **COM 4101** | Oral Communication | Communication | 3 | ENG 2102 | English IV / World Literature | English Language Arts | Oral Communication, Public Speaking, Presentation Skills, Audience Analysis, Speech Organization, Verbal Communication, Nonverbal Communication, Persuasive Speaking | — | Fixed RIAH oral-communication course. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 # STATE-SPECIFIC GRADUATION CONTROLS
 
@@ -566,7 +566,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **SCI 1101** | Geology | Earth Science | 3 | None | None | None | Earth Materials, Minerals, Rocks, Earth's Structure, Plate Tectonics, Geological Processes, Geological Time, Earth's Surface, Natural Resources, Geological Hazards | — | First science course. |
 | **GEO 1101** | World Geography | Social Studies / Geography | 3 | None | None | None | Physical Geography, Human Geography, World Regions, Population, Culture, Political Geography, Economic Geography, Geographic Systems, Maps and Spatial Analysis, Human-Environment Relationships | — | First history/social-science course. |
 | **TEC 1101** | Digital Literacy | Technology | 3 | None | None | None | Digital Literacy, Information Literacy, Media Literacy, Digital Citizenship, Internet Safety, Responsible Technology Use, Online Research, Digital Communication, Digital Productivity | State modules where applicable | State-specific digital/media-literacy content is mapped here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -580,7 +580,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 
 **Fire Prevention:** Specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).
 
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 9 Total: **30 Credit Hours**
 
@@ -597,7 +597,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **SCI 2101** | Earth Science | Earth Science | 3 | SCI 1102 | Astronomy | Earth / Space Science | Earth Systems, Atmosphere, Hydrosphere, Weather, Climate, Oceans, Earth's Resources, Earth-System Interactions | — | Third science course. |
 | **HIS 2101 🔵🟢** | Holocaust & Genocide Studies | History / Social Studies | 3 | HIS 1101 | World History | History | Holocaust Studies, Antisemitism, Nazi Germany, Holocaust History, Genocide Studies, Comparative Genocide, Human Rights, Prevention of Genocide, Historical Memory | 🔵 Illinois, 🟢 California | Applicable Holocaust/genocide components are mapped here. |
 | **PED 2101 🔴🟤** | Physical Education | Physical Education | 3 | None | None | None | Physical Fitness, Cardiovascular Fitness, Strength, Flexibility, Movement, Wellness, Personal Fitness Planning, Lifetime Physical Activity | 🔴 Ohio, 🟤 Minnesota | Applicable physical-education requirements are covered here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -608,7 +608,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **SCI 2102** | Environmental Science | Environmental Science | 3 | SCI 2101 | Earth Science | Earth Science | Ecosystems, Natural Resources, Biodiversity, Pollution, Climate, Sustainability, Human Environmental Impact, Conservation | — | Fourth science course. |
 | **GOV 2101 🔴🟡🔷🔺🔻** | Government | Government / Civics | 3 | HIS 2101 | Holocaust & Genocide Studies | History / Social Studies | United States Government, American Government, Civics, Citizenship, Constitutional Government, Federal Government, State Government, Local Government, Founding Principles, Rights and Responsibilities | 🔴 Ohio, 🟡 Oklahoma, 🔷 Florida, 🔺 Texas, 🔻 Arizona | Applicable government and civics components are mapped here. |
 | **ART 2101 🔴🟤** | Fine Arts | Fine Arts | 3 | None | None | None | Visual Art, Music, Theatre, Fine Arts Appreciation, Artistic Expression, Arts History | 🔴 Ohio, 🟤 Minnesota | Applicable state fine-arts content is covered here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 10 Total: **30 Credit Hours**
 
@@ -625,7 +625,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **HIS 3101** | American History | American History | 3 | GOV 2101 | Government | Government / Civics | United States History, Colonial America, American Revolution, Founding of the United States, Constitutional History, Civil War and Reconstruction, Industrialization, Modern U.S. History, Civil Rights History | State modules where applicable | American History remains separate from State History. |
 | **FIN 3101 🔴🟠🔷🔺** | Financial Literacy | Financial Literacy | 3 | None | None | None | Financial Decision-Making, Banking Fundamentals, Credit Fundamentals, Debt Literacy, Saving, Investing Fundamentals, Insurance Literacy, Consumer Financial Literacy | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state financial-literacy content is mapped here. |
 | **LAN 3101** | World Language I | World Language | 3 | None | None | None | Spanish, French, German, or Italian Level I; Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student selects one language. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -636,7 +636,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **HIS 3102 🟡🟠🔷** | State History | State History | 3 | HIS 3101 | American History | American History | State History, State Founding and Development, State Constitution, State Government History, State Geography, State Economy, State Cultural History, State Civil Rights History, Native American/Tribal/Indigenous History, Major State Events, State Historical Figures | 🟡 Oklahoma, 🟠 Arkansas, 🔷 Florida | Every student studies the history of their own state; identified state-specific components are mapped here. |
 | **LAN 3102** | World Language II | World Language | 3 | LAN 3101 | World Language I | World Language | Continuation of selected language; Intermediate Vocabulary, Grammar, Reading, Writing, Listening, Speaking, Culture | — | Student continues the same language. |
 | **PFI 3101 🔴🟠🔷🔺** | Personal Finance | Personal Finance | 3 | FIN 3101 | Financial Literacy | Financial Literacy | Personal Budgeting, Income, Banking, Credit Management, Debt Management, Saving, Investing, Insurance, Taxes, Housing, Consumer Decision-Making, Financial Responsibility | 🔴 Ohio, 🟠 Arkansas, 🔷 Florida, 🔺 Texas | Applicable state personal-finance components are mapped here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 11 Total: **30 Credit Hours**
 
@@ -659,7 +659,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **ECO 4101 🔷** | Economics | Economics | 3 | HIS 3102 | State History | State History | Economic Systems, Microeconomics, Macroeconomics, Supply and Demand, Markets, Labor, Banking, Fiscal Policy, Monetary Policy, International Economics, Consumer Economics | 🔷 Florida | Florida economics content is mapped here; Economics follows the core history/government sequence. |
 | **CSC 4101 🟠** | Computer Science | Computer Science | 3 | TEC 1101 | Digital Literacy | Technology | Computer Science Principles, Algorithms, Programming Fundamentals, Data, Computing Systems, Networks, Cybersecurity Fundamentals, Responsible Computing | 🟠 Arkansas | Applicable Arkansas computer-science content is mapped here. |
 | **ETH 4101 🟢** | Ethnic Studies | Social Studies | 3 | HIS 3101 | American History | American History | Ethnic Studies, Race and Ethnicity in the United States, Cultural History, Cultural Contributions, Historical Experiences of Diverse Communities, Civil Rights and Social Change, Comparative Cultural Studies | 🟢 California | Applicable California ethnic-studies content is mapped here. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ## Semester 2
 
@@ -670,7 +670,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **SOC 4101** | Sociology | Social Science | 3 | ECO 4101 | Economics | Economics | Sociological Perspectives, Culture, Socialization, Social Institutions, Groups, Communities, Social Stratification, Social Change, Society and Human Interaction | — | Sociology follows Economics. |
 | **PSY 4101** | Psychology | Social Science | 3 | SOC 4101 | Sociology | Social Science | Foundations of Psychology, Human Development, Learning, Memory, Cognition, Motivation, Emotion, Personality, Social Psychology, Human Behavior | — | Psychology follows Sociology. |
 | **COM 4101** | Oral Communication | Communication | 3 | ENG 2102 | English IV / World Literature | English Language Arts | Oral Communication, Public Speaking, Presentation Skills, Audience Analysis, Speech Organization, Verbal Communication, Nonverbal Communication, Persuasive Speaking | — | Fixed RIAH oral-communication course. |
-|  | **SEMESTER TOTAL** |  | **15** |  |  |  |  |  |  |
+| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 # STATE-SPECIFIC GRADUATION CONTROLS
 
