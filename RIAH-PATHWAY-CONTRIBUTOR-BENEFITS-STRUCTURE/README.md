@@ -20,8 +20,6 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 # 👑 RIAH Pathway Contributor, Ambassador, Graduate & Partner Benefits
 
-<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/cb9d7f92-3a0e-409d-805d-588900260ffa" />
-
 This README is the routing and master-summary page for the RIAH Pathway Contributor, Ambassador, Graduate and Partner Benefit framework. The complete eligibility rules, point systems, workflows, milestone tables, verification rules, examples, ledgers, YAML metadata and category diagrams are maintained in the individual category Markdown files.
 
 ## 💰 Tuition, Products & Pricing Resources
