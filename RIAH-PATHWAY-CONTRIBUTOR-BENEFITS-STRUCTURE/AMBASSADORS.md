@@ -20,7 +20,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 # 👥 RIAH Pathway Ambassador & Contributor Master
 
-This master page is the consolidated view of the Ambassador and contributor categories. The category Markdown files remain the detailed records. Redundant “detail” routes are removed: **Rideshare + Delivery are one combined category file, and Partners + Partner Employees are one combined category file.**
+This master page is the combined view of the Ambassador and contributor categories. The category Markdown files remain the detailed records. Redundant “detail” routes are removed: **Rideshare + Delivery are one combined category file, and Partners + Partner Employees are one combined category file.**
 
 ## 📑 MASTER INDEX
 
