@@ -1,5 +1,3 @@
-<a id="readme-overview"></a>
-
 # 👑 RIAH Pathway.
 
 <img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/f57087f9-44e0-41ae-ba57-2d00acc4c0f4" />
