@@ -1,14 +1,14 @@
-<a id="readme-i-overview"></a>
+<a id="readme-overview"></a>
 
-# I 👑 RIAH Pathway.
+# 👑 RIAH Pathway.
 
 <img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/f57087f9-44e0-41ae-ba57-2d00acc4c0f4" />
 
 **RIAH Pathway** is an education and workforce development ecosystem connecting academics, experiential development, professional preparation, technology, and career pathways.
 
-<a id="readme-ii-founder"></a>
+<a id="readme-founder"></a>
 
-**II 👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
+**👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
 
 <p align="left">
   <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
@@ -20,9 +20,9 @@ Beta team members will be hired with **equity participation and compensation dur
 
 The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
 
-<a id="readme-iii-links"></a>
+<a id="readme-links"></a>
 
-### III 🔗 GitHub, LinkedIn, Social Media & Linktree
+### 🔗 GitHub, LinkedIn, Social Media & Linktree
 
 Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
 
@@ -36,29 +36,21 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 # 🗂️ README INDEX & KEY
 
-This index provides a direct key to the major sections and routing resources maintained in the main RIAH Pathway Website Draft README. Each capitalized Roman numeral is paired with an emoji so the README can be scanned quickly while preserving direct navigation to the corresponding section.
+The Roman-numeral index begins with the Legacy monitoring section and continues through the repository's major routing resources. The introductory RIAH Pathway, Founder/CEO, public links, and accreditation disclosure sections remain above the numbered sequence.
 
 | KEY | README SECTION | DESCRIPTION |
 |---|---|---|
-| **I 👑** | [RIAH Pathway Overview](#readme-i-overview) | Main ecosystem introduction and purpose of the RIAH Pathway Website Draft repository. |
-| **II 👤** | [Contributor / Founder / CEO / Chairman](#readme-ii-founder) | Founder identity, profile, current build status, beta-team hiring direction, and launch context. |
-| **III 🔗** | [GitHub, LinkedIn, Social Media & Linktree](#readme-iii-links) | Direct public links for GitHub, LinkedIn, Facebook, Instagram, and Linktree. |
-| **IV 🛡️** | [Accreditation, Repository & Proprietary Information Disclosure](#readme-iv-disclosure) | Pre-accreditation disclosure, repository-development purpose, private-company notice, proprietary IP boundaries, and public GitHub development limitations. |
-| **V 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-v-legacy) | Public-source replica monitoring, evidence preservation, Tier 1–3 review structure, daily audit, and human-review routing. |
-| **VI ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-vi-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
-| **VII 👥** | [At-Scale Positions](#readme-vii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
-| **VIII 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-viii-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
-| **IX 🧭** | [Website Wireframes](#readme-ix-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
-| **X 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-x-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
-| **XI 🤝** | [Contributor Benefit Routing](#readme-xi-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
+| **I 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-i-legacy) | Public-source replica monitoring, evidence preservation, Tier 1–3 review structure, daily audit, and human-review routing. |
+| **II ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-ii-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
+| **III 👥** | [At-Scale Positions](#readme-iii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
+| **IV 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-iv-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
+| **V 🧭** | [Website Wireframes](#readme-v-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
+| **VI 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-vi-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
+| **VII 🤝** | [Contributor Benefit Routing](#readme-vii-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
 
 ### 🔑 KEY
 
-**I–XI** = Main README sections and routing areas.  
-**👑** = RIAH Pathway ecosystem overview.  
-**👤** = Founder and leadership profile.  
-**🔗** = Public profile and social links.  
-**🛡️** = Accreditation, repository, privacy, proprietary information, and IP disclosure.  
+**I–VII** = Numbered README sections beginning with Legacy.  
 **🤖** = Legacy monitoring and evidence-preservation system.  
 **⚖️** = Independent-build and enforcement notice.  
 **👥** = At-scale positions, staffing, and role structures.  
@@ -69,9 +61,9 @@ This index provides a direct key to the major sections and routing resources mai
 
 ---
 
-<a id="readme-iv-disclosure"></a>
+<a id="readme-disclosure"></a>
 
-> **IV 🛡️ Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
+> **🛡️ Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
 
 The repository is structured so contributors can work on individual deliverables without needing to build an entire website page or ecosystem component.
 
@@ -81,9 +73,9 @@ Public GitHub development does not make private curriculum, internal systems, co
 
 ---
 
-<a id="readme-v-legacy"></a>
+<a id="readme-i-legacy"></a>
 
-# V 🤖 Legacy — RIAH Pathway Replica Bot
+# I 🤖 Legacy — RIAH Pathway Replica Bot
 
 **Legacy** is the RIAH Pathway public-source replica monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
 
@@ -103,9 +95,9 @@ flowchart LR
 
 ---
 
-<a id="readme-vi-enforcement"></a>
+<a id="readme-ii-enforcement"></a>
 
-## VI ⚖️ RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
+## II ⚖️ RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
 
 RIAH welcomes lawful inspiration, independent development, competition, commentary, and the use of ideas, methods, standards, and other material that the law leaves free for everyone to use. **Inspiration is not authorization to copy, appropriate, or commercially exploit protected RIAH expression, source materials, confidential information, trademarks, code, designs, or other legally protected rights.**
 
@@ -119,9 +111,9 @@ RIAH does not assume that similarity proves copying or liability. Independent cr
 
 ---
 
-<a id="readme-vii-positions"></a>
+<a id="readme-iii-positions"></a>
 
-# VII 👥 At-Scale Positions
+# III 👥 At-Scale Positions
 
 The Join Us Downloads structure contains the current RIAH Pathway at-scale position, governance, affiliate, partnership, equity, vesting, staffing, and assignment resources. The table below routes directly to each Markdown file so individual roles and the combined at-scale structures can be accessed from the main repository README.
 
@@ -168,9 +160,9 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 
 ---
 
-<a id="readme-viii-curriculum"></a>
+<a id="readme-iv-curriculum"></a>
 
-# VIII 📚 Tuition, Faculty, Experiential & Curriculum Routing
+# IV 📚 Tuition, Faculty, Experiential & Curriculum Routing
 
 RIAH Pathway's tuition and pricing reference, human-led faculty curriculum framework, experiential structure, and academic curriculum structures are maintained in dedicated repository sections. The routing table below provides direct access to the core pricing, faculty, experiential, GED, high school, general education, school-core, and major curriculum Markdown files.
 
@@ -208,9 +200,9 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 
 ---
 
-<a id="readme-ix-wireframes"></a>
+<a id="readme-v-wireframes"></a>
 
-# IX 🧭 Website Wireframes
+# V 🧭 Website Wireframes
 
 The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigation defined in the repository sitemap. Each row below identifies the numbered main-page wireframe, briefly describes the page purpose, and links directly to its working folder. Placeholder folders contain a `.gitkeep` file so the structure remains available in Git while individual wireframes are developed; **16. JOIN US** routes to the existing completed Join Us wireframe folder.
 
@@ -238,9 +230,9 @@ The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigat
 
 ---
 
-<a id="readme-x-example-wireframe"></a>
+<a id="readme-vi-example-wireframe"></a>
 
-# X 🖼️ Example Wireframe — Join Us 16.1–16.5
+# VI 🖼️ Example Wireframe — Join Us 16.1–16.5
 
 The completed **Join Us** wireframe family provides a visual example of how RIAH Pathway main-page and subpage wireframes are structured in the repository. Each example below links directly to its source Markdown file, summarizes the purpose of that wireframe, and displays the corresponding design image maintained in the Join Us `IMAGES` folder.
 
@@ -286,9 +278,9 @@ The Ambassadors wireframe presents the RIAH Pathway Ambassador structure for Sub
 
 ---
 
-<a id="readme-xi-contributor-benefits"></a>
+<a id="readme-vii-contributor-benefits"></a>
 
-# XI 🤝 Contributor Benefit Routing
+# VII 🤝 Contributor Benefit Routing
 
 The contributor-benefit structure is maintained in the repository's Contributor Benefits folder. Rideshare + Delivery are combined, Partners + Partner Employees are combined, Partner Affiliates remain a distinct partner category, and Team Members use the separate Team Member performance / equity structure.
 
