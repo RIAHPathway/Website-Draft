@@ -1,6 +1,6 @@
 <a id="readme-i-overview"></a>
 
-# 👑RIAH Pathway.
+# I 👑 RIAH Pathway.
 
 <img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/f57087f9-44e0-41ae-ba57-2d00acc4c0f4" />
 
@@ -8,7 +8,7 @@
 
 <a id="readme-ii-founder"></a>
 
-**Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
+**II 👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
 
 <p align="left">
   <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
@@ -21,6 +21,8 @@ Beta team members will be hired with **equity participation and compensation dur
 The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
 
 <a id="readme-iii-links"></a>
+
+### III 🔗 GitHub, LinkedIn, Social Media & Linktree
 
 Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
 
@@ -46,11 +48,12 @@ This index provides a direct key to the major sections and routing resources mai
 | **VI ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-vi-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
 | **VII 👥** | [At-Scale Positions](#readme-vii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
 | **VIII 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-viii-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
-| **IX 🤝** | [Contributor Benefit Routing](#readme-ix-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
+| **IX 🧭** | [Website Wireframes](#readme-ix-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
+| **X 🤝** | [Contributor Benefit Routing](#readme-x-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
 
 ### 🔑 KEY
 
-**I–IX** = Main README sections and routing areas.  
+**I–X** = Main README sections and routing areas.  
 **👑** = RIAH Pathway ecosystem overview.  
 **👤** = Founder and leadership profile.  
 **🔗** = Public profile and social links.  
@@ -59,16 +62,14 @@ This index provides a direct key to the major sections and routing resources mai
 **⚖️** = Independent-build and enforcement notice.  
 **👥** = At-scale positions, staffing, and role structures.  
 **📚** = Tuition, faculty, experiential, and curriculum structures.  
+**🧭** = Website sitemap and 1–19 wireframe folder routing.  
 **🤝** = Contributor benefits and participation routing.
-
----
-
 
 ---
 
 <a id="readme-iv-disclosure"></a>
 
-> **Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
+> **IV 🛡️ Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
 
 The repository is structured so contributors can work on individual deliverables without needing to build an entire website page or ecosystem component.
 
@@ -80,7 +81,7 @@ Public GitHub development does not make private curriculum, internal systems, co
 
 <a id="readme-v-legacy"></a>
 
-# 🤖 Legacy — RIAH Pathway Replica Bot
+# V 🤖 Legacy — RIAH Pathway Replica Bot
 
 **Legacy** is the RIAH Pathway public-source replica monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
 
@@ -102,7 +103,7 @@ flowchart LR
 
 <a id="readme-vi-enforcement"></a>
 
-## RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
+## VI ⚖️ RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
 
 RIAH welcomes lawful inspiration, independent development, competition, commentary, and the use of ideas, methods, standards, and other material that the law leaves free for everyone to use. **Inspiration is not authorization to copy, appropriate, or commercially exploit protected RIAH expression, source materials, confidential information, trademarks, code, designs, or other legally protected rights.**
 
@@ -118,7 +119,7 @@ RIAH does not assume that similarity proves copying or liability. Independent cr
 
 <a id="readme-vii-positions"></a>
 
-# 👥 At-Scale Positions
+# VII 👥 At-Scale Positions
 
 The Join Us Downloads structure contains the current RIAH Pathway at-scale position, governance, affiliate, partnership, equity, vesting, staffing, and assignment resources. The table below routes directly to each Markdown file so individual roles and the combined at-scale structures can be accessed from the main repository README.
 
@@ -167,7 +168,7 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 
 <a id="readme-viii-curriculum"></a>
 
-# 📚 Tuition, Faculty, Experiential & Curriculum Routing
+# VIII 📚 Tuition, Faculty, Experiential & Curriculum Routing
 
 RIAH Pathway's tuition and pricing reference, human-led faculty curriculum framework, experiential structure, and academic curriculum structures are maintained in dedicated repository sections. The routing table below provides direct access to the core pricing, faculty, experiential, GED, high school, general education, school-core, and major curriculum Markdown files.
 
@@ -205,9 +206,39 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 
 ---
 
-<a id="readme-ix-contributor-benefits"></a>
+<a id="readme-ix-wireframes"></a>
 
-# 👥 Contributor Benefit Routing
+# IX 🧭 Website Wireframes
+
+The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigation defined in the repository sitemap. Each row below identifies the numbered main-page wireframe, briefly describes the page purpose, and links directly to its working folder. Placeholder folders contain a `.gitkeep` file so the structure remains available in Git while individual wireframes are developed; **16. JOIN US** routes to the existing completed Join Us wireframe folder.
+
+| WIREFRAME | DESCRIPTION | FOLDER |
+|---|---|---|
+| **1. HOME** | Main website landing page and ecosystem entry point, routing visitors across the full RIAH Pathway experience. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/1.%20HOME/) |
+| **2. ABOUT** | RIAH Pathway ecosystem, schools, leadership, governance, brand, mascot, and institutional identity. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/2.%20ABOUT/) |
+| **3. PATHWAY** | Combined pathway hub connecting degree programs, experiential, high school, GED/HSE, certification review, bar review, and schools. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/3.%20PATHWAY/) |
+| **4. DEGREE PROGRAMS** | Degree pathways, schools, associate's, bachelor's, master's, MBA, minor, J.D., and non-J.D. options. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/4.%20DEGREE%20PROGRAMS/) |
+| **5. EXPERIENTIAL** | Experiential levels, durations, schools, learning process, and internal and external placements. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/5.%20EXPERIENTIAL/) |
+| **6. HIGH SCHOOL** | High school diploma program, pathway, curriculum, admissions, authorization, and recognition. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/6.%20HIGH%20SCHOOL/) |
+| **7. GED-HSE** | GED/HSE program, pathway, curriculum and preparation, and admissions. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/7.%20GED-HSE/) |
+| **8. CERTIFICATION REVIEW** | Certification review, certification mapping, school-aligned reviews, and Basic, Standard, and Premium tiers. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/8.%20CERTIFICATION%20REVIEW/) |
+| **9. BAR REVIEW** | Bar review, 50-state coverage, state modules, California Baby Bar, and Basic, Standard, and Premium tiers. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/9.%20BAR%20REVIEW/) |
+| **10. CURRICULUM** | Academic structures, school curriculum, majors, degree-level curriculum, experiential curriculum, review curriculum, and curriculum architecture. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/10.%20CURRICULUM/) |
+| **11. ADMISSIONS** | Pre-admissions, application, acceptance, enrollment, onboarding, student experience, graduation, alumni, and transfer routing. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20ADMISSIONS/) |
+| **12. TUITION** | Tuition, fees, payment options, funding, reimbursement, costs, and the pricing calculator engine. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/12.%20TUITION/) |
+| **13. DONATIONS** | Donations routing for the Foundation, accreditation support, and state authorization support. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/13.%20DONATIONS/) |
+| **14. PRODUCTS** | Product catalog, certification and bar review products, collections, bundles, and pricing. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/14.%20PRODUCTS/) |
+| **15. ACCREDITATION & AUTHORIZATION** | Accreditation and authorization status across experiential, academic, high school, GED/HSE, and state authorization pathways. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/15.%20ACCREDITATION%20%26%20AUTHORIZATION/) |
+| **16. JOIN US** | Student Life, partnerships, Join Our Team opportunities, ambassadors, career resources, and contributor-facing Join Us routing. | [Open Existing Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/) |
+| **17. RESOURCES** | Events, blog, podcasts, conferences, workshops, webinars, policies, procedures, and guidelines. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17.%20RESOURCES/) |
+| **18. FAQ** | Frequently asked questions across pathways, curriculum, admissions, tuition, accreditation, student experience, products, and technical support. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/18.%20FAQ/) |
+| **19. CONTACT** | Contact routing for admissions, human resources, technical support, student support, products, partnerships, and general inquiries. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/19.%20CONTACT/) |
+
+---
+
+<a id="readme-x-contributor-benefits"></a>
+
+# X 🤝 Contributor Benefit Routing
 
 The contributor-benefit structure is maintained in the repository's Contributor Benefits folder. Rideshare + Delivery are combined, Partners + Partner Employees are combined, Partner Affiliates remain a distinct partner category, and Team Members use the separate Team Member performance / equity structure.
 
