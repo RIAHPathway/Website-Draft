@@ -1,6 +1,6 @@
 # 👑 RIAH PATHWAY — FACULTY CURRICULUM
 
-**Contributor: Mariah Dominique Rucker — Founder, CEO & Chairman.**
+**Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
 
 > **Current-stage disclosure:** RIAH Pathway is in its pre-accreditation and beta-development stage. Mariah Dominique Rucker has established and continues to develop the curriculum architecture, structure, ecosystem connections, and foundational academic framework. PhD-qualified faculty, adjunct faculty, experiential professionals, and other beta-team members are being recruited for the human-led development, validation, revision, delivery, assessment, and continuous improvement model described in this document.
 

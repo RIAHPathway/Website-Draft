@@ -1,6 +1,6 @@
 # 👑RIAH Pathway.
 
-**Contributor; Mariah Dominique Rucker**
+**Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
 
 There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
 
@@ -161,7 +161,7 @@ Public evidence reviewed for Day II continues to show that individual components
 
 The October 4 scan did not identify another public organization operating the same broad monitored combination of **Education + Experience + Certification + Contribution + Economic Benefit + Career** represented by the RIAH Pathway baseline.
 
-For this bot's dated public-footprint record, **RIAH Pathway remains the originating documented organization and ecosystem baseline created and developed by contributor Mariah Dominique Rucker.** No separate organization was identified in this run operating the same complete monitored ecosystem architecture.
+For this bot's dated public-footprint record, **RIAH Pathway remains the originating documented organization and ecosystem baseline created and developed by Contributor/Founder/CEO/Chairman Mariah Dominique Rucker.** No separate organization was identified in this run operating the same complete monitored ecosystem architecture.
 
 ### III.D — DAY II CONCLUSION
 
@@ -237,7 +237,7 @@ Public evidence reviewed for Day III continues to show market development around
 
 The October 5 scan did not identify another public organization operating the same broad monitored combination of **Education + Experience + Certification + Contribution + Economic Benefit + Career** represented by the RIAH Pathway baseline.
 
-For this bot's dated public-footprint record, **RIAH Pathway remains the originating documented organization and ecosystem baseline created and developed by contributor Mariah Dominique Rucker.** No separate organization was identified in this run operating the same complete monitored ecosystem architecture.
+For this bot's dated public-footprint record, **RIAH Pathway remains the originating documented organization and ecosystem baseline created and developed by Contributor/Founder/CEO/Chairman Mariah Dominique Rucker.** No separate organization was identified in this run operating the same complete monitored ecosystem architecture.
 
 ### IV.D — DAY III CONCLUSION
 
@@ -316,7 +316,7 @@ Public evidence reviewed for Day IV continues to show established individual com
 
 The October 6 scan did not identify another public organization operating the same broad monitored combination of **Education + Experience + Certification + Contribution + Economic Benefit + Career** represented by the RIAH Pathway baseline.
 
-For this bot's dated public-footprint record, **RIAH Pathway remains the originating documented organization and ecosystem baseline created and developed by contributor Mariah Dominique Rucker.** No separate organization was identified in this run operating the same complete monitored ecosystem architecture.
+For this bot's dated public-footprint record, **RIAH Pathway remains the originating documented organization and ecosystem baseline created and developed by Contributor/Founder/CEO/Chairman Mariah Dominique Rucker.** No separate organization was identified in this run operating the same complete monitored ecosystem architecture.
 
 ### V.D — DAY IV CONCLUSION
 

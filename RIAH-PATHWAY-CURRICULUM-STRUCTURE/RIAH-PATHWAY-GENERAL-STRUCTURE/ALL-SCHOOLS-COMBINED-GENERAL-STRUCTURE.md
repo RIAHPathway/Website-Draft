@@ -1,6 +1,6 @@
 # 👑 RIAH PATHWAY.# 👑RIAH Pathway.
 
-**Contributor; Mariah Dominique Rucker.**
+**Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
 
 There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
 
