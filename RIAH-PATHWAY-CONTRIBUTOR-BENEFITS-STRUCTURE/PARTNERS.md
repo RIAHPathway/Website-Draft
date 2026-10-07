@@ -208,12 +208,11 @@ flowchart LR
 | Example | Result |
 |---|---|
 | 🤝 Verified eligible Partner Employee | up to 25% eligible tuition / program benefit + up to 25% eligible products under applicable terms |
-| 🤝 Partner with separately authorized Pillar Product Benefit | Up to 25% eligible products where the written terms authorize it |
 | ⭐ Partner completes orientation + event + booth | 25 + 25 + 50 = 100 recorded Partner Activity Points |
 | 👑 Partner coordinates event + major initiative | 75 + applicable 100–250 points after verification |
 | 🔄 Affiliation changes | Benefit and activity record require re-verification |
 
-Partner Activity Points document engagement and do not independently rewrite or supersede the written partnership benefit.
+Partner Activity Points document engagement and contribute toward the applicable milestone structure without exceeding the 25% maximum.
 
 ## IV. 🛡️ Verification
 
