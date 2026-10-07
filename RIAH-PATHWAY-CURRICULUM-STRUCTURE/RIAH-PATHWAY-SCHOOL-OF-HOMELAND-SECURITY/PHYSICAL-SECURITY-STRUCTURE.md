@@ -276,7 +276,6 @@ Students are admitted into the Physical Security major after completing Year 1 G
 | PHS 6109 | Homeland Security | MBA | PSP Management Certification Review | 3 | PHS 6108 | Same stack throughout | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PHS 6110 | Homeland Security | MBA | Physical Security Management Venture Capstone — Exit | 3 | PHS 6109 | Same stack throughout | ✓ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-RIAH Pathway
 
 ---
 

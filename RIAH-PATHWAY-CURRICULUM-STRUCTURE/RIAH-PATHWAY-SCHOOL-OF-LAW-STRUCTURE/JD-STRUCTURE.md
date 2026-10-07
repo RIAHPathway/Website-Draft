@@ -244,7 +244,6 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **Curriculum Total** | **96 Credit Hours** |
 | **Type** | **JD** |
 
-RIAH Pathway
 
 ---
 

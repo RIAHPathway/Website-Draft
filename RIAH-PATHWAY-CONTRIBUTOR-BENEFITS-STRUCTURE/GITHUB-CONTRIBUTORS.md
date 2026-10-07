@@ -242,7 +242,7 @@ XIII. 👑 Shared Ambassador Program
 |---|---:|---|
 | 🟢 Micro | 5 | Valid minor correction or verified small improvement |
 | 🟢 Small | 10 | Useful contained contribution |
-| 🟢 Enhanced | 15 | Multiple related corrections or meaningful small deliverable |
+| 🟢 Enhanced | 15 | Multiple associated corrections or meaningful small deliverable |
 | 🔵 Standard | 25 | Complete standard contribution |
 | 🔵 Substantial | 50 | Significant accepted deliverable |
 | 🟣 Advanced | 75 | Complex substantial component |
@@ -339,11 +339,10 @@ Benefits cannot be exchanged for cash or ordinarily transferred and remain subje
 
 Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
 
-### 🔗 Related Documentation
+### 🔗 Documentation
 
 [README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
 
-RIAH Pathway
 
 ---
 

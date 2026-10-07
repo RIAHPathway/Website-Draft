@@ -172,7 +172,6 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | TEC 2113 | Technology | Core | Statistics | 3 | MAT 1010 — College Algebra | — | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | TOTAL | Technology | Core | Technology Core | 39 | — | — | — | — | — | — | — | — | — | — | — | — | — |  |
 
-RIAH Pathway
 
 ---
 

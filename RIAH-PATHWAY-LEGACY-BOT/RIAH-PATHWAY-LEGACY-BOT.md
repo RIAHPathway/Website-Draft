@@ -267,7 +267,6 @@ Legacy exists to keep the RIAH Pathway replica-monitoring record organized, curr
 
 🍜 **LEGACY CHECKPOINT:** Evidence organized. Sources preserved. Conclusions reserved for supported review.
 
-RIAH Pathway
 
 ---
 

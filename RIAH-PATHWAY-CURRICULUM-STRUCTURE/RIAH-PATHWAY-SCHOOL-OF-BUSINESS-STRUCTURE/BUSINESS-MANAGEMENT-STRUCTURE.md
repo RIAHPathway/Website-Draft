@@ -413,7 +413,6 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | MGMT 6209 | Business | MBA | Organizational Transformation & Program Transition — Integrated PgMP practice review | 3 | MGMT 6208 | Same stack throughout | ❌ | PgMP Review | Final Review — Completion Deadline Approaching | Integrated PgMP practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | MGMT 6210 | Business | MBA | Business Management Executive Venture Program Capstone — Exit — Comprehensive PgMP review integration | 3 | MGMT 6209 | Same stack throughout | ❌ | PgMP Review | Certification Review Completion Deadline | Comprehensive PgMP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-RIAH Pathway
 
 ---
 

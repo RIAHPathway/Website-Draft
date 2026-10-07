@@ -50,7 +50,7 @@ Learn more about Mariah Dominique Rucker on GitHub and LinkedIn, or connect with
 | 📊 | MBA |
 | ⚖️ | JD / Law |
 | 🏛️⚖️ | Non-JD Law Pathway |
-| 📜 | Certificate / credential-related curriculum |
+| 📜 | Certificate / credential-associated curriculum |
 | 📘 | GED/HSE Preparation |
 | 🏅 | High School Diploma |
 | 🌐 | Virtual delivery |
@@ -262,7 +262,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | Curriculum Model | RIAH Pathway uses structured academic pathways with established General Education, School Core, major, minor, graduate, law, secondary-school, and GED/HSE preparation structures. |
 | Fixed Curriculum | Academic pathways use established curriculum sequences rather than unrestricted student-selected coursework. |
 | Course Identity | Established course numbers, names, credits, prerequisites, software, assessments, certification-review mappings, projects, experiential eligibility, capstone status, applied-build requirements, and supervision requirements remain attached to the applicable course unless the controlling curriculum expressly establishes a different structure. |
-| Curriculum Integration | RIAH coursework may integrate academic education, professional software, certification-review curriculum, projects, experiential learning, applied builds, supervision, capstones, career preparation, and law/bar-related preparation where applicable. |
+| Curriculum Integration | RIAH coursework may integrate academic education, professional software, certification-review curriculum, projects, experiential learning, applied builds, supervision, capstones, career preparation, and law/bar-associated preparation where applicable. |
 
 
 | Academic Architecture Component | Governing Structure |
@@ -907,7 +907,7 @@ MBA Management Life Cycle:
 | 5 | Program / Resource Management |
 | 6 | Operations & Integration |
 | 7 | Risk & Performance |
-| 8 | Leadership & Execution |
+| 8 | Leadership & Implementation |
 | 9 | Analytics & Control |
 | 10 | Strategic Optimization |
 | 11 | 6110 Management Capstone. |
@@ -1443,7 +1443,6 @@ flowchart TD
 | General Curriculum Architecture | Updated from the Final Curriculum Structure |
 Displaying RIAH Pathway General Curriculum Architecture Rules and Standards.md.
 
-RIAH Pathway
 
 ---
 

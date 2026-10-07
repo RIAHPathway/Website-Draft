@@ -251,7 +251,6 @@ The October 5 scan identified continued market development in degree apprentices
 **Tier II:** 0  
 **Tier III:** 0
 
-RIAH Pathway
 
 ---
 
@@ -331,7 +330,6 @@ The October 6 scan identified continued market activity across education pathway
 **Tier II:** 0  
 **Tier III:** 0
 
-RIAH Pathway
 
 
 ---
@@ -797,7 +795,6 @@ or its complete experiential progression:
 
 **Market Movement:** 🟡 Continue monitoring
 
-RIAH Pathway
 
 ---
 

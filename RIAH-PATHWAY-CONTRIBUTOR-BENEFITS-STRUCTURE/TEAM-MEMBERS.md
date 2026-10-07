@@ -13,7 +13,7 @@ VI. 📦 AMBASSADOR KIT
 VII. 🔗 QR CODE & DIGITAL LINK  
 VIII. 🛡️ NON-STACKING & VERIFICATION  
 IX. 📋 RECORD  
-X. 🔗 RELATED DOCUMENTATION
+X. 🔗 DOCUMENTATION
 
 ## I. 👥 KEY
 
@@ -115,11 +115,10 @@ Products are non-refundable except eligible damaged physical products. For appli
 
 Record Participant, Participant ID, Category, Activity, QR / Referral Attribution, Verification, Points, Ambassador Benefit, Product Benefit, Next Milestone and Status.
 
-## X. 🔗 RELATED DOCUMENTATION
+## X. 🔗 DOCUMENTATION
 
 [README](./README.md) · [AMBASSADORS](./AMBASSADORS.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md) · [PARTNERS](./PARTNERS.md)
 
-RIAH Pathway
 
 ---
 

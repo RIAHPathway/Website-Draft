@@ -437,7 +437,6 @@ Students are admitted into the Project Management major after completing Year 1 
 | PM 6109 | Technology | MBA | Project Optimization, Scale & Venture Performance — Integrated PMP practice review | 3 | PM 6108 | Same stack throughout | ❌ | PMP Review | Final Review — Completion Deadline Approaching | Integrated PMP practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PM 6110 | Technology | MBA | Project Management Venture Capstone — Comprehensive PMP review integration | 3 | PM 6109 | Same stack throughout | ✓ | PMP Review | Certification Review Completion Deadline | Comprehensive PMP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-RIAH Pathway
 
 ---
 

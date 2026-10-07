@@ -25,7 +25,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 Copyright © 2026 [LEGAL OWNER NAME].  
 All Rights Reserved.
 
-RIAH Pathway, the RIAH Pathway ecosystem, associated website materials, software, source code, architecture, content, documentation, designs, workflows, systems, and related intellectual property are proprietary materials.
+RIAH Pathway, the RIAH Pathway ecosystem, associated website materials, software, source code, architecture, content, documentation, designs, workflows, systems, and associated intellectual property are proprietary materials.
 
 This repository is publicly accessible for transparency, review, collaboration, authorized contribution, recruitment, development, demonstration, and other purposes expressly authorized by the intellectual-property owner.
 
@@ -51,7 +51,7 @@ and, where applicable, its authorized affiliates, successors, assigns, brands, a
 
 ### "Repository"
 
-"Repository" means the GitHub repository in which this License appears, including its branches, forks, releases, documentation, issues, discussions, pull requests, and related repository materials.
+"Repository" means the GitHub repository in which this License appears, including its branches, forks, releases, documentation, issues, discussions, pull requests, and associated repository materials.
 
 ### "Covered Materials"
 
@@ -190,7 +190,7 @@ Unless a separate written contributor agreement states otherwise, by intentional
 - Sublicensable
 - Royalty-free
 
-license to use, reproduce, modify, adapt, combine, publish, distribute, display, perform, commercialize, sublicense, and otherwise exploit the submitted contribution as part of or in connection with RIAH Pathway and its related products, services, software, websites, documentation, and ecosystem.
+license to use, reproduce, modify, adapt, combine, publish, distribute, display, perform, commercialize, sublicense, and otherwise exploit the submitted contribution as part of or in connection with RIAH Pathway and its associated products, services, software, websites, documentation, and ecosystem.
 
 The contributor represents that they have the authority to submit the contribution under these terms.
 
@@ -395,7 +395,7 @@ The proprietary status of RIAH Pathway's original work does not change the licen
 
 Public repository content should not be treated as confidential merely because it belongs to RIAH Pathway.
 
-However, if confidential, private, security-sensitive, personally identifiable, credential-related, trade-secret, or accidentally disclosed information is mistakenly committed or published, public availability does not constitute intentional authorization for misuse.
+However, if confidential, private, security-sensitive, personally identifiable, credential-associated, trade-secret, or accidentally disclosed information is mistakenly committed or published, public availability does not constitute intentional authorization for misuse.
 
 Users who discover potentially sensitive information are encouraged to report it promptly through the appropriate RIAH Pathway security or contact channel.
 
@@ -631,7 +631,6 @@ You may not, without separate written authorization:
 
 **ONE DYNASTY. INFINITE LEGACIES.**
 
-RIAH Pathway
 
 ---
 

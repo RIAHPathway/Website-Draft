@@ -387,7 +387,6 @@ Students are admitted into the Program Management major after completing Year 1 
 | PGM 6109 | Technology | MBA | Program Management Venture Optimization & Value Realization — Integrated PgMP practice review | 3 | PGM 6108 | Same stack throughout | ❌ | PgMP Review | Final Review — Completion Deadline Approaching | Integrated PgMP practice review | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
 | PGM 6110 | Technology | MBA | Program Management Venture Capstone — Comprehensive PgMP review integration | 3 | PGM 6109 | Same stack throughout | ✓ | PgMP Review | Certification Review Completion Deadline | Comprehensive PgMP review integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
-RIAH Pathway
 
 ---
 

@@ -67,7 +67,7 @@ RIAH Pathway's faculty curriculum structure defines how qualified academic facul
 
 The Founder, CEO & Chairman, **Mariah Dominique Rucker**, establishes the overarching architecture, structure, pathway logic, ecosystem connections, and institutional design. The academic content model then brings qualified human faculty into the process so the curriculum is not dependent on one person, an AI system, a software vendor, or automated content generation.
 
-The intended academic faculty structure includes **PhD-qualified faculty and adjunct faculty aligned to schools and applicable majors or academic disciplines**, working with experiential professionals and other qualified reviewers. At planned scale, the faculty model includes **14 PhD/Core faculty positions and 14 Adjunct faculty positions**, with assignments aligned to the approved academic structure and consolidated where related repository curriculum structures sit within the same faculty discipline.
+The intended academic faculty structure includes **PhD-qualified faculty and adjunct faculty aligned to schools and applicable majors or academic disciplines**, working with experiential professionals and other qualified reviewers. At planned scale, the faculty model includes **14 PhD/Core faculty positions and 14 Adjunct faculty positions**, with assignments aligned to the approved academic structure and consolidated where associated repository curriculum structures sit within the same faculty discipline.
 
 | Curriculum Standard | RIAH Pathway Faculty Requirement |
 |---|---|
@@ -111,7 +111,7 @@ This human-led model applies across:
 - Major and discipline curriculum.
 - Objective and performance assessments.
 - Capstones and cumulative projects.
-- Textbooks, workbooks, journals, planners, study guides, review guides, and related products.
+- Textbooks, workbooks, journals, planners, study guides, review guides, and associated products.
 - Certification Review Courses and certification-aligned learning.
 - JD and Non-JD curriculum.
 - Bar Review and California Baby Bar Review.
@@ -146,13 +146,13 @@ RIAH Pathway's planned faculty model pairs advanced academic expertise with appl
 | 💼 Experiential Team | Approximately 120 planned Managers, Supervisors, and Reviewers at scale | Verified professional qualifications appropriate to placement and supervision | Real-work alignment, supervision, performance review, applied competencies, Experiential assignments, and capstone support |
 | 👥 Human Panels and Reviewers | Assigned by program and deliverable | Faculty, professionals, employers, community members, peers, and other approved reviewers as applicable | Multi-perspective review, capstone evaluation, quality assurance, and evidence-based feedback |
 
-Faculty assignments may cover more than one closely related curriculum structure when academically appropriate. Repository files represent curriculum structures and pathways; they do not automatically create a separate faculty headcount position for every file.
+Faculty assignments may cover more than one closely associated curriculum structure when academically appropriate. Repository files represent curriculum structures and pathways; they do not automatically create a separate faculty headcount position for every file.
 
 ---
 
 # V. 🏫 SCHOOL AND MAJOR FACULTY ALIGNMENT
 
-The current Website Draft curriculum repository organizes academic content through school, core, major, discipline, and pathway structures. Faculty assignments are made against the approved curriculum architecture, with related subjects consolidated under appropriately qualified faculty where needed.
+The current Website Draft curriculum repository organizes academic content through school, core, major, discipline, and pathway structures. Faculty assignments are made against the approved curriculum architecture, with associated subjects consolidated under appropriately qualified faculty where needed.
 
 ## V.I. SCHOOL OF BUSINESS
 
@@ -214,7 +214,7 @@ PhD-qualified faculty serve as the primary academic discipline reviewers and aca
 | 🎯 Capstones | Define or validate capstone expectations, cumulative outcomes, academic rigor, and faculty review criteria |
 | 🏅 Certification Review | Validate academic accuracy and alignment of applicable certification-preparation content without representing third-party endorsement unless formally authorized |
 | ⚖️ Legal review curriculum | Qualified law faculty support JD, Non-JD, Bar Review, and Baby Bar Review academic accuracy and current-law updates |
-| 📦 Products | Review discipline-specific textbooks, workbooks, study guides, review guides, and related academic products |
+| 📦 Products | Review discipline-specific textbooks, workbooks, study guides, review guides, and associated academic products |
 | 💼 Experiential | Align academic outcomes with Experiential competencies, assignments, assessments, and capstones |
 | 🛡️ Accreditation readiness | Produce and maintain curriculum evidence needed for institutional review, accreditation preparation, and applicable authorization processes |
 | 👥 Faculty coordination | Work with adjuncts, experiential professionals, reviewers, and institutional leadership to resolve curriculum issues |
@@ -234,10 +234,10 @@ Adjunct faculty bring applied expertise, instructional experience, certification
 | 🏅 Certification alignment | Contribute current certification-domain expertise and review-course development where appropriately credentialed |
 | 🧪 Applied assessment | Develop or review performance tasks, simulations, labs, projects, rubrics, and practical exercises |
 | 💼 Professional relevance | Ensure applied examples and assignments reflect current professional tools, workflows, expectations, and ethical practice |
-| 📦 Product development | Help create and revise textbooks, workbooks, journals, planners, study guides, review guides, flashcards, and related materials |
+| 📦 Product development | Help create and revise textbooks, workbooks, journals, planners, study guides, review guides, flashcards, and associated materials |
 | 🎯 Capstone support | Review capstone instructions, applied projects, rubrics, milestones, and learner guidance |
 | 👥 Student and faculty feedback | Surface recurring learning gaps, instructional issues, and improvement recommendations for formal curriculum revision |
-| 🔄 Continuous revision | Participate in scheduled and event-driven reviews when standards, tools, certifications, laws, or professional practices change |
+| 🔄 Continuous revision | Participate in scheduled and event-based reviews when standards, tools, certifications, laws, or professional practices change |
 
 ---
 
@@ -255,7 +255,7 @@ RIAH Pathway curriculum development is iterative. Content is not treated as fini
 | 6. Human quality review | 👥 Qualified reviewers | Accuracy, rigor, instructional quality, accessibility, consistency, and compliance findings |
 | 7. Approved revision | 👑 Authorized governance + 🎓 faculty | Versioned corrections, additions, removals, and approved changes |
 | 8. Delivery and evidence | 🏫 Faculty + authorized systems | Controlled release, LMS delivery, student evidence, assessment results, and feedback |
-| 9. Continuous improvement | 🎓 Faculty + 👤 adjuncts + 💼 professionals | Periodic and event-driven revision based on outcomes, field changes, certification changes, legal changes, and review findings |
+| 9. Continuous improvement | 🎓 Faculty + 👤 adjuncts + 💼 professionals | Periodic and event-based revision based on outcomes, field changes, certification changes, legal changes, and review findings |
 
 ---
 

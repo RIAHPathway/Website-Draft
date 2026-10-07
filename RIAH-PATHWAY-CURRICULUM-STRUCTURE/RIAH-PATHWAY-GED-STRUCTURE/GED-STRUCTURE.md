@@ -1113,7 +1113,6 @@ graph TD;
     GED19_25 --> GED19_26;
 ```
 
-RIAH Pathway
 
 ---
 

@@ -627,7 +627,6 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | --- | --- |
 | **Three-Year Curriculum** | **93 Credit Hours** |
 
-RIAH Pathway
 
 ---
 

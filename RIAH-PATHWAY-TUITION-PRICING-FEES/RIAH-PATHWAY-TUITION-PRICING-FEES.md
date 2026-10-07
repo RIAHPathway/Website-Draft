@@ -545,7 +545,7 @@ The Year 4, Master’s, and MBA levels each retain their own level-specific caps
 RIAH external educational products and professional-support services are **people-developed and people-delivered, supported by technology**.
 
 - The Founder and CEO establishes and directs the curriculum architecture, product structure, ecosystem alignment, and applicable content direction.
-- Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and related educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline.
+- Certification Review courses, Bar Review materials, textbooks, workbooks, review resources, practice resources, and associated educational content are developed and reviewed with qualified faculty, PhD-level subject-matter professionals, and professionals within the applicable discipline.
 - Depending on the school and subject, this includes professionals in accounting, business, technology, cybersecurity, homeland security, and other applicable disciplines.
 - Law and Bar Review content and support incorporate qualified legal professionals, including attorneys and judges where applicable.
 
@@ -1296,7 +1296,6 @@ return:
 
 rather than creating a value.
 
-RIAH Pathway
 
 ---
 

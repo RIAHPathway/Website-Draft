@@ -56,7 +56,7 @@ flowchart TD
 
 ## Rights Reserved
 
-RIAH reserves all rights not expressly granted. Where supported by the actual facts and applicable law, unauthorized conduct may implicate copyright, trademark, trade dress, trade-secret, contract, unfair-competition, patent, computer-access, or related legal protections.
+RIAH reserves all rights not expressly granted. Where supported by the actual facts and applicable law, unauthorized conduct may implicate copyright, trademark, trade dress, trade-secret, contract, unfair-competition, patent, computer-access, or associated legal protections.
 
 RIAH maintains development records, version history, source materials, repository history, documentation, and other evidence capable of establishing chronology and ownership.
 
@@ -72,7 +72,6 @@ RIAH maintains development records, version history, source materials, repositor
 
 *This README is a rights-reservation notice and is not legal advice. Any legal claim depends on the specific facts, protected material, applicable license or agreement, jurisdiction, and current law.*
 
-RIAH Pathway
 
 ---
 

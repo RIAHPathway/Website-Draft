@@ -169,7 +169,6 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | HS 2110 | Homeland Security | Core | Homeland Security Strategy and Coordination | 3 | HS 2109 | ServiceNow · OpenRMF · QGIS · Tableau · Maltego | ✓ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ |
 | TOTAL | Homeland Security | Core | Homeland Security School Core | 30 | — | — | — | — | — | — | — | — | — | — | — | — | — |  |
 
-RIAH Pathway
 
 ---
 

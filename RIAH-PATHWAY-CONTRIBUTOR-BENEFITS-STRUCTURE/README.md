@@ -297,7 +297,6 @@ Products are non-refundable except eligible damaged physical products. For appli
 | ⏳ Points Remaining | Points required to next threshold |
 | ✅ Status | Pending, review, revision, approved or credited |
 
-RIAH Pathway
 
 ---
 

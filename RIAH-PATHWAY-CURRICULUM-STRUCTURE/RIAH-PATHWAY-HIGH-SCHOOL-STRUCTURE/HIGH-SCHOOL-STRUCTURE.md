@@ -411,7 +411,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **🟠 Arkansas** | **Arkansas Civics Exam — passing score of at least 60%.** |
 | **🟠 Arkansas** | **CPR training.** |
 | **🟠 Arkansas** | **75 documented community-service hours in Grades 9–12 beginning with the graduating class of 2027 under the Arkansas public-school requirement.** |
-| **🟠 Arkansas** | **One credit of approved Computer Science or qualifying computer-science-related CTE beginning with 2026 graduates under the Arkansas public-school framework.** RIAH maps the academic component to **CSC 4101 — Computer Science**. |
+| **🟠 Arkansas** | **One credit of approved Computer Science or qualifying computer-science-associated CTE beginning with 2026 graduates under the Arkansas public-school framework.** RIAH maps the academic component to **CSC 4101 — Computer Science**. |
 | **🟠 Arkansas** | **Course credit incorporating Personal and Family Finance standards.** RIAH maps this through **FIN 3101 — Financial Literacy** and **PFI 3101 — Personal Finance**. |
 | **🔻 Arizona** | **Arizona Civics Test — 70/100 minimum for students graduating in 2026 and later.** |
 | **🔴 Ohio** | **Financial Literacy — ½ credit for students entering Grade 9 on or after July 1, 2022.** RIAH maps this through **FIN 3101 — Financial Literacy**. |
@@ -676,7 +676,7 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **🟠 Arkansas** | **Arkansas Civics Exam — passing score of at least 60%.** |
 | **🟠 Arkansas** | **CPR training.** |
 | **🟠 Arkansas** | **75 documented community-service hours in Grades 9–12 beginning with the graduating class of 2027 under the Arkansas public-school requirement.** |
-| **🟠 Arkansas** | **One credit of approved Computer Science or qualifying computer-science-related CTE beginning with 2026 graduates under the Arkansas public-school framework.** RIAH maps the academic component to **CSC 4101 — Computer Science**. |
+| **🟠 Arkansas** | **One credit of approved Computer Science or qualifying computer-science-associated CTE beginning with 2026 graduates under the Arkansas public-school framework.** RIAH maps the academic component to **CSC 4101 — Computer Science**. |
 | **🟠 Arkansas** | **Course credit incorporating Personal and Family Finance standards.** RIAH maps this through **FIN 3101 — Financial Literacy** and **PFI 3101 — Personal Finance**. |
 | **🔻 Arizona** | **Arizona Civics Test — 70/100 minimum for students graduating in 2026 and later.** |
 | **🔴 Ohio** | **Financial Literacy — ½ credit for students entering Grade 9 on or after July 1, 2022.** RIAH maps this through **FIN 3101 — Financial Literacy**. |
@@ -760,7 +760,6 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 
 # COMPLETE FOUR-YEAR FLOW
 
-RIAH Pathway
 
 ---
 
