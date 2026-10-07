@@ -30,7 +30,7 @@ Public GitHub development does not make private curriculum, internal systems, co
 
 # 🤖 Legacy — RIAH Pathway Replica Bot
 
-**Legacy** is the RIAH Pathway public-source replica-monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
+**Legacy** is the RIAH Pathway public-source replica monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
 
 | Resource | Purpose |
 |---|---|
