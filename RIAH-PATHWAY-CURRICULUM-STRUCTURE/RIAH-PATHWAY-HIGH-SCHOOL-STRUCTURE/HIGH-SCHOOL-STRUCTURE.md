@@ -577,12 +577,11 @@ Students enrolled in the **Dual Enrollment** pathway complete the High School cu
 | **SCI 1102** | Astronomy | Earth / Space Science | 3 | SCI 1101 | Geology | Earth Science | Solar System, Stars, Galaxies, Universe, Planetary Science, Space Observation, Earth-Space Relationships, Astronomical Measurement | — | Second science course. |
 | **HIS 1101** | World History | History | 3 | GEO 1101 | World Geography | Social Studies / Geography | World History, World Civilizations, Global Historical Development, Human Rights | State modules where applicable | Applicable state historical content is mapped here. |
 | **HLT 1101 (Fire Prevention)* 🔴🟣🟤🟦** | Health | Health | 3 | None | None | None | Health, Nutrition, Physical Wellness, Mental and Emotional Health, Disease Prevention, Substance-Abuse Prevention, Personal Health, Community Health, Safety, First Aid, CPR, AED | 🔴 Ohio, 🟣 Wisconsin, 🟤 Minnesota, 🟦 Connecticut | Applicable state health and safety content is mapped here. |
-
-**Fire Prevention:** Specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).
-
 | **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
 
 ### Grade 9 Total: **30 Credit Hours**
+
+**Fire Prevention:** Specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).
 
 ---
 
