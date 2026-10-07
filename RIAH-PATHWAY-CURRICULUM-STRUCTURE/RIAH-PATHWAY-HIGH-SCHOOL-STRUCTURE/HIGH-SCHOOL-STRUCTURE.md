@@ -90,28 +90,18 @@ Completion of the High School curriculum satisfies the High School academic comp
 | **Next Academic Stage** | After satisfying the applicable prerequisites, enter Year 3 of the student's selected major. |
 
 ```mermaid
-graph TD
-    A["RIAH Pathway High School"]
-    B["Regular High School"]
-    C["Dual Enrollment"]
-    D["High School Curriculum"]
-    E["High School Curriculum"]
-    F["College General Education"]
-    G["College School Core"]
-    H["High School Diploma"]
-    I["High School Diploma and Associates Degree"]
-    J["Year 3 of Applicable Major"]
-    A --> B
-    A --> C
-    B --> D
-    D --> H
-    C --> E
-    C --> F
-    C --> G
-    E --> I
-    F --> I
-    G --> I
-    I --> J
+graph TD;
+    A["RIAH Pathway High School"] --> B["Regular High School"];
+    A["RIAH Pathway High School"] --> C["Dual Enrollment"];
+    B["Regular High School"] --> D["High School Curriculum"];
+    D["High School Curriculum"] --> H["High School Diploma"];
+    C["Dual Enrollment"] --> E["High School Curriculum"];
+    C["Dual Enrollment"] --> F["College General Education"];
+    C["Dual Enrollment"] --> G["College School Core"];
+    E["High School Curriculum"] --> I["High School Diploma and Associates Degree"];
+    F["College General Education"] --> I["High School Diploma and Associates Degree"];
+    G["College School Core"] --> I["High School Diploma and Associates Degree"];
+    I["High School Diploma and Associates Degree"] --> J["Year 3 of Applicable Major"];
 ```
 
 ---
@@ -307,24 +297,15 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 # SCIENCE SEQUENCE
 
 ```mermaid
-graph TD
-    N0["Geology"]
-    N1["Astronomy"]
-    N2["Earth Science"]
-    N3["Environmental Science"]
-    N4["Biology"]
-    N5["Chemistry"]
-    N6["Anatomy"]
-    N7["Physiology"]
-    N8["Physics"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["Geology"] --> N1["Astronomy"];
+    N1["Astronomy"] --> N2["Earth Science"];
+    N2["Earth Science"] --> N3["Environmental Science"];
+    N3["Environmental Science"] --> N4["Biology"];
+    N4["Biology"] --> N5["Chemistry"];
+    N5["Chemistry"] --> N6["Anatomy"];
+    N6["Anatomy"] --> N7["Physiology"];
+    N7["Physiology"] --> N8["Physics"];
 ```
 
 ---
@@ -332,24 +313,15 @@ graph TD
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
 ```mermaid
-graph TD
-    N0["World Geography"]
-    N1["World History"]
-    N2["Holocaust and Genocide Studies"]
-    N3["Government"]
-    N4["American History"]
-    N5["State History"]
-    N6["Economics"]
-    N7["Sociology"]
-    N8["Psychology"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["World Geography"] --> N1["World History"];
+    N1["World History"] --> N2["Holocaust and Genocide Studies"];
+    N2["Holocaust and Genocide Studies"] --> N3["Government"];
+    N3["Government"] --> N4["American History"];
+    N4["American History"] --> N5["State History"];
+    N5["State History"] --> N6["Economics"];
+    N6["Economics"] --> N7["Sociology"];
+    N7["Sociology"] --> N8["Psychology"];
 ```
 
 | HISTORY / SOCIAL SCIENCE SEQUENCE Component | HISTORY / SOCIAL SCIENCE SEQUENCE Requirement |
@@ -387,16 +359,11 @@ graph TD
 ### Grade 9 Total: **30 Credit Hours**
 
 ```mermaid
-graph TD
-    N0["GRADE 9"]
-    N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
-    N2["English II and Composition II, Geometry, Astronomy, World History, Health"]
-    N3["30 CREDITS"]
-    N4["GRADE 10"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
+graph TD;
+    N0["GRADE 9"] --> N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"];
+    N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"] --> N2["English II and Composition II, Geometry, Astronomy, World History, Health"];
+    N2["English II and Composition II, Geometry, Astronomy, World History, Health"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["GRADE 10"];
 ```
 
 ---
@@ -428,16 +395,11 @@ graph TD
 ### Grade 10 Total: **30 Credit Hours**
 
 ```mermaid
-graph TD
-    N0["GRADE 10"]
-    N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
-    N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
-    N3["30 CREDITS"]
-    N4["GRADE 11"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
+graph TD;
+    N0["GRADE 10"] --> N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"];
+    N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"] --> N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"];
+    N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["GRADE 11"];
 ```
 
 ---
@@ -473,18 +435,12 @@ graph TD
 Students enrolled in the **Dual Enrollment** pathway complete the High School curriculum concurrently with the applicable RIAH Pathway college **General Education** and **School Core** curriculum as defined in the High School Student Pathways section above.
 
 ```mermaid
-graph TD
-    N0["GRADE 11"]
-    N1["Precalculus, Biology, American History, Financial Literacy, World Language I"]
-    N2["Calculus, Chemistry, State History, World Language II, Personal Finance"]
-    N3["30 CREDITS"]
-    N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"]
-    N5["GRADE 12"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
+graph TD;
+    N0["GRADE 11"] --> N1["Precalculus, Biology, American History, Financial Literacy, World Language I"];
+    N1["Precalculus, Biology, American History, Financial Literacy, World Language I"] --> N2["Calculus, Chemistry, State History, World Language II, Personal Finance"];
+    N2["Calculus, Chemistry, State History, World Language II, Personal Finance"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"];
+    N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"] --> N5["GRADE 12"];
 ```
 
 ---
@@ -535,20 +491,13 @@ graph TD
 ### Grade 12 Total: **30 Credit Hours**
 
 ```mermaid
-graph TD
-    N0["GRADE 12"]
-    N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"]
-    N2["Physiology, Physics, Sociology, Psychology, Oral Communication"]
-    N3["30 CREDITS"]
-    N4["STATE-SPECIFIC, GRADUATION CONTROLS"]
-    N5["GRADUATION AUDIT"]
-    N6["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
+graph TD;
+    N0["GRADE 12"] --> N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"];
+    N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"] --> N2["Physiology, Physics, Sociology, Psychology, Oral Communication"];
+    N2["Physiology, Physics, Sociology, Psychology, Oral Communication"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["STATE-SPECIFIC, GRADUATION CONTROLS"];
+    N4["STATE-SPECIFIC, GRADUATION CONTROLS"] --> N5["GRADUATION AUDIT"];
+    N5["GRADUATION AUDIT"] --> N6["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"];
 ```
 
 ---
@@ -577,106 +526,71 @@ graph TD
 ## English
 
 ```mermaid
-graph TD
-    N0["ENG 1101 - English I and Composition I"]
-    N1["ENG 1102 - English II and Composition II"]
-    N2["ENG 2101 - English III and American Literature"]
-    N3["ENG 2102 - English IV and World Literature"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
+graph TD;
+    N0["ENG 1101 - English I and Composition I"] --> N1["ENG 1102 - English II and Composition II"];
+    N1["ENG 1102 - English II and Composition II"] --> N2["ENG 2101 - English III and American Literature"];
+    N2["ENG 2101 - English III and American Literature"] --> N3["ENG 2102 - English IV and World Literature"];
 ```
 
 ## Mathematics
 
 ```mermaid
-graph TD
-    N0["MAT 1101 - Algebra I"]
-    N1["MAT 1102 - Geometry"]
-    N2["MAT 2101 - Algebra II"]
-    N3["MAT 2102 - Trigonometry"]
-    N4["MAT 3101 - Precalculus"]
-    N5["MAT 3102 - Calculus"]
-    N6["MAT 4101 - Statistics"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
+graph TD;
+    N0["MAT 1101 - Algebra I"] --> N1["MAT 1102 - Geometry"];
+    N1["MAT 1102 - Geometry"] --> N2["MAT 2101 - Algebra II"];
+    N2["MAT 2101 - Algebra II"] --> N3["MAT 2102 - Trigonometry"];
+    N3["MAT 2102 - Trigonometry"] --> N4["MAT 3101 - Precalculus"];
+    N4["MAT 3101 - Precalculus"] --> N5["MAT 3102 - Calculus"];
+    N5["MAT 3102 - Calculus"] --> N6["MAT 4101 - Statistics"];
 ```
 
 ## Science
 
 ```mermaid
-graph TD
-    N0["SCI 1101 - Geology"]
-    N1["SCI 1102 - Astronomy"]
-    N2["SCI 2101 - Earth Science"]
-    N3["SCI 2102 - Environmental Science"]
-    N4["SCI 3101 - Biology"]
-    N5["SCI 3102 - Chemistry"]
-    N6["SCI 4101 - Anatomy"]
-    N7["SCI 4102 - Physiology"]
-    N8["SCI 4103 - Physics"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["SCI 1101 - Geology"] --> N1["SCI 1102 - Astronomy"];
+    N1["SCI 1102 - Astronomy"] --> N2["SCI 2101 - Earth Science"];
+    N2["SCI 2101 - Earth Science"] --> N3["SCI 2102 - Environmental Science"];
+    N3["SCI 2102 - Environmental Science"] --> N4["SCI 3101 - Biology"];
+    N4["SCI 3101 - Biology"] --> N5["SCI 3102 - Chemistry"];
+    N5["SCI 3102 - Chemistry"] --> N6["SCI 4101 - Anatomy"];
+    N6["SCI 4101 - Anatomy"] --> N7["SCI 4102 - Physiology"];
+    N7["SCI 4102 - Physiology"] --> N8["SCI 4103 - Physics"];
 ```
 
 ## History / Social Sciences
 
 ```mermaid
-graph TD
-    N0["GEO 1101 - World Geography"]
-    N1["HIS 1101 - World History"]
-    N2["HIS 2101 - Holocaust and Genocide Studies"]
-    N3["GOV 2101 - Government"]
-    N4["HIS 3101 - American History"]
-    N5["HIS 3102 - State History"]
-    N6["ECO 4101 - Economics"]
-    N7["SOC 4101 - Sociology"]
-    N8["PSY 4101 - Psychology"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["GEO 1101 - World Geography"] --> N1["HIS 1101 - World History"];
+    N1["HIS 1101 - World History"] --> N2["HIS 2101 - Holocaust and Genocide Studies"];
+    N2["HIS 2101 - Holocaust and Genocide Studies"] --> N3["GOV 2101 - Government"];
+    N3["GOV 2101 - Government"] --> N4["HIS 3101 - American History"];
+    N4["HIS 3101 - American History"] --> N5["HIS 3102 - State History"];
+    N5["HIS 3102 - State History"] --> N6["ECO 4101 - Economics"];
+    N6["ECO 4101 - Economics"] --> N7["SOC 4101 - Sociology"];
+    N7["SOC 4101 - Sociology"] --> N8["PSY 4101 - Psychology"];
 ```
 
 ## Additional Social Studies
 
 ```mermaid
-graph TD
-    N0["ETH 4101 - Ethnic Studies"]
-    END["Course"]
-    N0 --> END
+graph TD;
+    N0["ETH 4101 - Ethnic Studies"] --> END["Course"];
 ```
 
 ## Financial Education
 
 ```mermaid
-graph TD
-    N0["FIN 3101 - Financial Literacy"]
-    N1["PFI 3101 - Personal Finance"]
-    N0 --> N1
+graph TD;
+    N0["FIN 3101 - Financial Literacy"] --> N1["PFI 3101 - Personal Finance"];
 ```
 
 ## Technology
 
 ```mermaid
-graph TD
-    N0["TEC 1101 - Digital Literacy"]
-    N1["CSC 4101 - Computer Science"]
-    N0 --> N1
+graph TD;
+    N0["TEC 1101 - Digital Literacy"] --> N1["CSC 4101 - Computer Science"];
 ```
 
 ---
@@ -724,46 +638,26 @@ graph TD
 # COMPLETE FOUR-YEAR FLOW
 
 ```mermaid
-graph TD
-    FLOW_0["RIAH PATHWAY, HIGH SCHOOL"]
-    FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"]
-    FLOW_2["GRADE 9, 30 CREDITS"]
-    FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
-    FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"]
-    FLOW_5["GRADE 10, 30 CREDITS"]
-    FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
-    FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
-    FLOW_8["GRADE 11, 30 CREDITS"]
-    FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"]
-    FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"]
-    FLOW_11["GRADE 12, 30 CREDITS"]
-    FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"]
-    FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"]
-    FLOW_14["40 FIXED COURSES"]
-    FLOW_15["120 RIAH CREDIT HOURS"]
-    FLOW_16["STATE CURRICULUM, COMPONENTS"]
-    FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"]
-    FLOW_18["GRADUATION AUDIT"]
-    FLOW_19["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"]
-    FLOW_0 --> FLOW_1
-    FLOW_1 --> FLOW_2
-    FLOW_2 --> FLOW_3
-    FLOW_3 --> FLOW_4
-    FLOW_4 --> FLOW_5
-    FLOW_5 --> FLOW_6
-    FLOW_6 --> FLOW_7
-    FLOW_7 --> FLOW_8
-    FLOW_8 --> FLOW_9
-    FLOW_9 --> FLOW_10
-    FLOW_10 --> FLOW_11
-    FLOW_11 --> FLOW_12
-    FLOW_12 --> FLOW_13
-    FLOW_13 --> FLOW_14
-    FLOW_14 --> FLOW_15
-    FLOW_15 --> FLOW_16
-    FLOW_16 --> FLOW_17
-    FLOW_17 --> FLOW_18
-    FLOW_18 --> FLOW_19
+graph TD;
+    FLOW_0["RIAH PATHWAY, HIGH SCHOOL"] --> FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"];
+    FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"] --> FLOW_2["GRADE 9, 30 CREDITS"];
+    FLOW_2["GRADE 9, 30 CREDITS"] --> FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"];
+    FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"] --> FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"];
+    FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"] --> FLOW_5["GRADE 10, 30 CREDITS"];
+    FLOW_5["GRADE 10, 30 CREDITS"] --> FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"];
+    FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"] --> FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"];
+    FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"] --> FLOW_8["GRADE 11, 30 CREDITS"];
+    FLOW_8["GRADE 11, 30 CREDITS"] --> FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"];
+    FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"] --> FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"];
+    FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"] --> FLOW_11["GRADE 12, 30 CREDITS"];
+    FLOW_11["GRADE 12, 30 CREDITS"] --> FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"];
+    FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"] --> FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"];
+    FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"] --> FLOW_14["40 FIXED COURSES"];
+    FLOW_14["40 FIXED COURSES"] --> FLOW_15["120 RIAH CREDIT HOURS"];
+    FLOW_15["120 RIAH CREDIT HOURS"] --> FLOW_16["STATE CURRICULUM, COMPONENTS"];
+    FLOW_16["STATE CURRICULUM, COMPONENTS"] --> FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"];
+    FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"] --> FLOW_18["GRADUATION AUDIT"];
+    FLOW_18["GRADUATION AUDIT"] --> FLOW_19["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"];
 ```
 
 
@@ -805,24 +699,15 @@ graph TD
 # SCIENCE SEQUENCE
 
 ```mermaid
-graph TD
-    N0["Geology"]
-    N1["Astronomy"]
-    N2["Earth Science"]
-    N3["Environmental Science"]
-    N4["Biology"]
-    N5["Chemistry"]
-    N6["Anatomy"]
-    N7["Physiology"]
-    N8["Physics"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["Geology"] --> N1["Astronomy"];
+    N1["Astronomy"] --> N2["Earth Science"];
+    N2["Earth Science"] --> N3["Environmental Science"];
+    N3["Environmental Science"] --> N4["Biology"];
+    N4["Biology"] --> N5["Chemistry"];
+    N5["Chemistry"] --> N6["Anatomy"];
+    N6["Anatomy"] --> N7["Physiology"];
+    N7["Physiology"] --> N8["Physics"];
 ```
 
 ---
@@ -830,24 +715,15 @@ graph TD
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
 ```mermaid
-graph TD
-    N0["World Geography"]
-    N1["World History"]
-    N2["Holocaust and Genocide Studies"]
-    N3["Government"]
-    N4["American History"]
-    N5["State History"]
-    N6["Economics"]
-    N7["Sociology"]
-    N8["Psychology"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["World Geography"] --> N1["World History"];
+    N1["World History"] --> N2["Holocaust and Genocide Studies"];
+    N2["Holocaust and Genocide Studies"] --> N3["Government"];
+    N3["Government"] --> N4["American History"];
+    N4["American History"] --> N5["State History"];
+    N5["State History"] --> N6["Economics"];
+    N6["Economics"] --> N7["Sociology"];
+    N7["Sociology"] --> N8["Psychology"];
 ```
 
 | HISTORY / SOCIAL SCIENCE SEQUENCE Component | HISTORY / SOCIAL SCIENCE SEQUENCE Requirement |
@@ -885,16 +761,11 @@ graph TD
 ### Grade 9 Total: **30 Credit Hours**
 
 ```mermaid
-graph TD
-    N0["GRADE 9"]
-    N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
-    N2["English II and Composition II, Geometry, Astronomy, World History, Health"]
-    N3["30 CREDITS"]
-    N4["GRADE 10"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
+graph TD;
+    N0["GRADE 9"] --> N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"];
+    N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"] --> N2["English II and Composition II, Geometry, Astronomy, World History, Health"];
+    N2["English II and Composition II, Geometry, Astronomy, World History, Health"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["GRADE 10"];
 ```
 
 ---
@@ -926,16 +797,11 @@ graph TD
 ### Grade 10 Total: **30 Credit Hours**
 
 ```mermaid
-graph TD
-    N0["GRADE 10"]
-    N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
-    N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
-    N3["30 CREDITS"]
-    N4["GRADE 11"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
+graph TD;
+    N0["GRADE 10"] --> N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"];
+    N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"] --> N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"];
+    N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["GRADE 11"];
 ```
 
 ---
@@ -973,18 +839,12 @@ graph TD
 | General Education | Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum. |
 
 ```mermaid
-graph TD
-    N0["GRADE 11"]
-    N1["Precalculus, Biology, American History, Financial Literacy, World Language I"]
-    N2["Calculus, Chemistry, State History, World Language II, Personal Finance"]
-    N3["30 CREDITS"]
-    N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"]
-    N5["GRADE 12"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
+graph TD;
+    N0["GRADE 11"] --> N1["Precalculus, Biology, American History, Financial Literacy, World Language I"];
+    N1["Precalculus, Biology, American History, Financial Literacy, World Language I"] --> N2["Calculus, Chemistry, State History, World Language II, Personal Finance"];
+    N2["Calculus, Chemistry, State History, World Language II, Personal Finance"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"];
+    N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"] --> N5["GRADE 12"];
 ```
 
 ---
@@ -1030,20 +890,13 @@ graph TD
 ### Grade 12 Total: **30 Credit Hours**
 
 ```mermaid
-graph TD
-    N0["GRADE 12"]
-    N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"]
-    N2["Physiology, Physics, Sociology, Psychology, Oral Communication"]
-    N3["30 CREDITS"]
-    N4["STATE-SPECIFIC, GRADUATION CONTROLS"]
-    N5["GRADUATION AUDIT"]
-    N6["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
+graph TD;
+    N0["GRADE 12"] --> N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"];
+    N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"] --> N2["Physiology, Physics, Sociology, Psychology, Oral Communication"];
+    N2["Physiology, Physics, Sociology, Psychology, Oral Communication"] --> N3["30 CREDITS"];
+    N3["30 CREDITS"] --> N4["STATE-SPECIFIC, GRADUATION CONTROLS"];
+    N4["STATE-SPECIFIC, GRADUATION CONTROLS"] --> N5["GRADUATION AUDIT"];
+    N5["GRADUATION AUDIT"] --> N6["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"];
 ```
 
 ---
@@ -1072,106 +925,71 @@ graph TD
 ## English
 
 ```mermaid
-graph TD
-    N0["ENG 1101 - English I and Composition I"]
-    N1["ENG 1102 - English II and Composition II"]
-    N2["ENG 2101 - English III and American Literature"]
-    N3["ENG 2102 - English IV and World Literature"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
+graph TD;
+    N0["ENG 1101 - English I and Composition I"] --> N1["ENG 1102 - English II and Composition II"];
+    N1["ENG 1102 - English II and Composition II"] --> N2["ENG 2101 - English III and American Literature"];
+    N2["ENG 2101 - English III and American Literature"] --> N3["ENG 2102 - English IV and World Literature"];
 ```
 
 ## Mathematics
 
 ```mermaid
-graph TD
-    N0["MAT 1101 - Algebra I"]
-    N1["MAT 1102 - Geometry"]
-    N2["MAT 2101 - Algebra II"]
-    N3["MAT 2102 - Trigonometry"]
-    N4["MAT 3101 - Precalculus"]
-    N5["MAT 3102 - Calculus"]
-    N6["MAT 4101 - Statistics"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
+graph TD;
+    N0["MAT 1101 - Algebra I"] --> N1["MAT 1102 - Geometry"];
+    N1["MAT 1102 - Geometry"] --> N2["MAT 2101 - Algebra II"];
+    N2["MAT 2101 - Algebra II"] --> N3["MAT 2102 - Trigonometry"];
+    N3["MAT 2102 - Trigonometry"] --> N4["MAT 3101 - Precalculus"];
+    N4["MAT 3101 - Precalculus"] --> N5["MAT 3102 - Calculus"];
+    N5["MAT 3102 - Calculus"] --> N6["MAT 4101 - Statistics"];
 ```
 
 ## Science
 
 ```mermaid
-graph TD
-    N0["SCI 1101 - Geology"]
-    N1["SCI 1102 - Astronomy"]
-    N2["SCI 2101 - Earth Science"]
-    N3["SCI 2102 - Environmental Science"]
-    N4["SCI 3101 - Biology"]
-    N5["SCI 3102 - Chemistry"]
-    N6["SCI 4101 - Anatomy"]
-    N7["SCI 4102 - Physiology"]
-    N8["SCI 4103 - Physics"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["SCI 1101 - Geology"] --> N1["SCI 1102 - Astronomy"];
+    N1["SCI 1102 - Astronomy"] --> N2["SCI 2101 - Earth Science"];
+    N2["SCI 2101 - Earth Science"] --> N3["SCI 2102 - Environmental Science"];
+    N3["SCI 2102 - Environmental Science"] --> N4["SCI 3101 - Biology"];
+    N4["SCI 3101 - Biology"] --> N5["SCI 3102 - Chemistry"];
+    N5["SCI 3102 - Chemistry"] --> N6["SCI 4101 - Anatomy"];
+    N6["SCI 4101 - Anatomy"] --> N7["SCI 4102 - Physiology"];
+    N7["SCI 4102 - Physiology"] --> N8["SCI 4103 - Physics"];
 ```
 
 ## History / Social Sciences
 
 ```mermaid
-graph TD
-    N0["GEO 1101 - World Geography"]
-    N1["HIS 1101 - World History"]
-    N2["HIS 2101 - Holocaust and Genocide Studies"]
-    N3["GOV 2101 - Government"]
-    N4["HIS 3101 - American History"]
-    N5["HIS 3102 - State History"]
-    N6["ECO 4101 - Economics"]
-    N7["SOC 4101 - Sociology"]
-    N8["PSY 4101 - Psychology"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
+graph TD;
+    N0["GEO 1101 - World Geography"] --> N1["HIS 1101 - World History"];
+    N1["HIS 1101 - World History"] --> N2["HIS 2101 - Holocaust and Genocide Studies"];
+    N2["HIS 2101 - Holocaust and Genocide Studies"] --> N3["GOV 2101 - Government"];
+    N3["GOV 2101 - Government"] --> N4["HIS 3101 - American History"];
+    N4["HIS 3101 - American History"] --> N5["HIS 3102 - State History"];
+    N5["HIS 3102 - State History"] --> N6["ECO 4101 - Economics"];
+    N6["ECO 4101 - Economics"] --> N7["SOC 4101 - Sociology"];
+    N7["SOC 4101 - Sociology"] --> N8["PSY 4101 - Psychology"];
 ```
 
 ## Additional Social Studies
 
 ```mermaid
-graph TD
-    N0["ETH 4101 - Ethnic Studies"]
-    END["Course"]
-    N0 --> END
+graph TD;
+    N0["ETH 4101 - Ethnic Studies"] --> END["Course"];
 ```
 
 ## Financial Education
 
 ```mermaid
-graph TD
-    N0["FIN 3101 - Financial Literacy"]
-    N1["PFI 3101 - Personal Finance"]
-    N0 --> N1
+graph TD;
+    N0["FIN 3101 - Financial Literacy"] --> N1["PFI 3101 - Personal Finance"];
 ```
 
 ## Technology
 
 ```mermaid
-graph TD
-    N0["TEC 1101 - Digital Literacy"]
-    N1["CSC 4101 - Computer Science"]
-    N0 --> N1
+graph TD;
+    N0["TEC 1101 - Digital Literacy"] --> N1["CSC 4101 - Computer Science"];
 ```
 
 ---
@@ -1213,46 +1031,26 @@ graph TD
 # COMPLETE FOUR-YEAR FLOW
 
 ```mermaid
-graph TD
-    FLOW_0["RIAH PATHWAY, HIGH SCHOOL"]
-    FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"]
-    FLOW_2["GRADE 9, 30 CREDITS"]
-    FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
-    FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"]
-    FLOW_5["GRADE 10, 30 CREDITS"]
-    FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
-    FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
-    FLOW_8["GRADE 11, 30 CREDITS"]
-    FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"]
-    FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"]
-    FLOW_11["GRADE 12, 30 CREDITS"]
-    FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"]
-    FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"]
-    FLOW_14["40 FIXED COURSES"]
-    FLOW_15["120 RIAH CREDIT HOURS"]
-    FLOW_16["STATE CURRICULUM, COMPONENTS"]
-    FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"]
-    FLOW_18["GRADUATION AUDIT"]
-    FLOW_19["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"]
-    FLOW_0 --> FLOW_1
-    FLOW_1 --> FLOW_2
-    FLOW_2 --> FLOW_3
-    FLOW_3 --> FLOW_4
-    FLOW_4 --> FLOW_5
-    FLOW_5 --> FLOW_6
-    FLOW_6 --> FLOW_7
-    FLOW_7 --> FLOW_8
-    FLOW_8 --> FLOW_9
-    FLOW_9 --> FLOW_10
-    FLOW_10 --> FLOW_11
-    FLOW_11 --> FLOW_12
-    FLOW_12 --> FLOW_13
-    FLOW_13 --> FLOW_14
-    FLOW_14 --> FLOW_15
-    FLOW_15 --> FLOW_16
-    FLOW_16 --> FLOW_17
-    FLOW_17 --> FLOW_18
-    FLOW_18 --> FLOW_19
+graph TD;
+    FLOW_0["RIAH PATHWAY, HIGH SCHOOL"] --> FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"];
+    FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"] --> FLOW_2["GRADE 9, 30 CREDITS"];
+    FLOW_2["GRADE 9, 30 CREDITS"] --> FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"];
+    FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"] --> FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"];
+    FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"] --> FLOW_5["GRADE 10, 30 CREDITS"];
+    FLOW_5["GRADE 10, 30 CREDITS"] --> FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"];
+    FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"] --> FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"];
+    FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"] --> FLOW_8["GRADE 11, 30 CREDITS"];
+    FLOW_8["GRADE 11, 30 CREDITS"] --> FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"];
+    FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"] --> FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"];
+    FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"] --> FLOW_11["GRADE 12, 30 CREDITS"];
+    FLOW_11["GRADE 12, 30 CREDITS"] --> FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"];
+    FLOW_12["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"] --> FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"];
+    FLOW_13["Physiology, Physics, Sociology, Psychology, Oral Communication"] --> FLOW_14["40 FIXED COURSES"];
+    FLOW_14["40 FIXED COURSES"] --> FLOW_15["120 RIAH CREDIT HOURS"];
+    FLOW_15["120 RIAH CREDIT HOURS"] --> FLOW_16["STATE CURRICULUM, COMPONENTS"];
+    FLOW_16["STATE CURRICULUM, COMPONENTS"] --> FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"];
+    FLOW_17["STATE-SPECIFIC, GRADUATION CONTROLS, WHERE APPLICABLE"] --> FLOW_18["GRADUATION AUDIT"];
+    FLOW_18["GRADUATION AUDIT"] --> FLOW_19["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"];
 ```
 
 RIAH Pathway
