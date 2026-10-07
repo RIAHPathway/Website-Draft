@@ -15,21 +15,7 @@ Learn more about Mariah Dominique Rucker on GitHub and LinkedIn, or connect with
 - **Facebook:** https://facebook.com/heymariahrucker
 - **Instagram:** https://instagram.com/heymariahrucker
 - **Linktree:** https://linktr.ee/mariahrucker
-
----
-
-## High School and GED Parameters
-
-For the **High School Diploma and GED pathways**, RIAH Pathway will establish clear eligibility parameters to ensure that the GED option does not encourage students to leave high school simply to pursue a GED instead.
-
-Students who **left school before RIAH Pathway officially launches its GED program** may enroll in the GED pathway, provided they otherwise meet applicable eligibility requirements. This includes individuals who previously dropped out of school and never completed their high school diploma.
-
-After RIAH Pathway’s GED program is officially launched, students who are still school-age and have not previously left school will be expected to complete the **High School Diploma Program** rather than dropping out and moving directly into the GED pathway.
-
-The purpose of this structure is to make sure students are **not encouraged to drop out of high school simply because RIAH Pathway offers a GED option**, while still providing an appropriate GED pathway for individuals who had already left school before the program was established.
-
-Individuals who were already out of school and did not complete their diploma will **not be forced into the High School Diploma Program**. They may proceed through the GED pathway.
-
+- 
 ---
 
 ## 🗝️ Curriculum Visual Key
@@ -180,6 +166,18 @@ Course progression requires completion of the applicable prior coursework and as
 Payments follow the applicable **beta, pre-accreditation, or post-accreditation pricing stage** and payment rules established in the **RIAH Pathway Master Pricing Data Sheet** and **RIAH Pathway Pricing Engine** within the **Tuition-Pricing-and-Fees** folder. Acceleration changes progression and completion timing without automatically changing established total-program tuition.
 
 GED/HSE curriculum completion remains separate from official examinations and credential issuance.
+
+## High School and GED Parameters
+
+For the **High School Diploma and GED pathways**, RIAH Pathway will establish clear eligibility parameters to ensure that the GED option does not encourage students to leave high school simply to pursue a GED instead.
+
+Students who **left school before RIAH Pathway officially launches its GED program** may enroll in the GED pathway, provided they otherwise meet applicable eligibility requirements. This includes individuals who previously dropped out of school and never completed their high school diploma.
+
+After RIAH Pathway’s GED program is officially launched, students who are still school-age and have not previously left school will be expected to complete the **High School Diploma Program** rather than dropping out and moving directly into the GED pathway.
+
+The purpose of this structure is to make sure students are **not encouraged to drop out of high school simply because RIAH Pathway offers a GED option**, while still providing an appropriate GED pathway for individuals who had already left school before the program was established.
+
+Individuals who were already out of school and did not complete their diploma will **not be forced into the High School Diploma Program**. They may proceed through the GED pathway.
 
 ## 🎓 Admission and Prerequisite Requirements
 
