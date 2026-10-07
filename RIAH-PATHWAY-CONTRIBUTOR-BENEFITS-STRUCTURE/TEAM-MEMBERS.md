@@ -44,7 +44,6 @@ Use an identifiable participant profile, assigned QR code / referral link, appro
 | Monthly Eligibility Condition | **Meet required monthly performance and contribution obligations under the applicable Team Member agreement** |
 
 
-
 ## IV. 📅 MONTHLY PERFORMANCE & CONTRIBUTION ELIGIBILITY
 
 Team Members do **not** use the 1%–25% contributor point ladder to keep Team Member benefits.
@@ -104,11 +103,11 @@ The personalized link connects people to RIAH Pathway **Education Pathways, Expe
 
 ## VIII. 🛡️ NON-STACKING & VERIFICATION
 
-Team Member tuition remains **$0** and the Team Member product benefit remains **50%** while the Team Member satisfies the applicable monthly performance and contribution requirements.
+Team Member tuition remains **$0** and the Team Member product benefit remains **50%** while the Team Member satisfies the applicable monthly performance and contribution requirements. The $0–$2,500 / 0%–25% Product Discount earning cycle applies to non-team contributor categories and does not replace the Team Member 50% product benefit.
 
 All point-bearing activity and conversions require verification.
 
-Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access** under the applicable guarantee.
+Products are non-refundable. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access** under the applicable guarantee.
 
 ## IX. 📋 RECORD
 

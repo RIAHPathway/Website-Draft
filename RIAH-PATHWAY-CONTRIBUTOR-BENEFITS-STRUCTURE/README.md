@@ -255,7 +255,7 @@ The personalized link connects people to RIAH Pathway **Education Pathways, Expe
 
 Product Benefit milestones are separate from tuition / program Ambassador milestones and may reach **up to 25%**.
 
-Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access** under the applicable guarantee.
+Products are non-refundable. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access** under the applicable guarantee.
 
 ## XII. 🔄 Program Flow
 
@@ -293,76 +293,63 @@ Products are non-refundable except eligible damaged physical products. For appli
 
 ## 🧮 Unified Three-Ledger Benefit Logic
 
-Every eligible non-team participant may maintain **three separate benefit ledgers**:
+For eligible non-team participants, Education, Experiential and Products remain separate benefit categories.
 
-| Ledger | Maximum | Point Scale |
-|---|---:|---:|
-| 🎓 Education Benefit | **25%** | **2,500 points** |
-| 🧭 Experiential Benefit | **25%** | **2,500 points** |
-| 🛍️ Product Benefit | **25%** | **2,500 points** |
+| Benefit Category | Base / Maximum |
+|---|---:|
+| 🎓 Education Completion | **10% guaranteed after eligible Education completion / graduation** |
+| 🧭 Experiential Completion | **10% guaranteed after eligible Experiential completion** |
+| ⭐ Education / Experiential Contributor Benefit | **0%–25% additional** |
+| ➕ Additional Tuition Reimbursement Milestones | **0%–15% additional** |
+| 🎓 Education / Experiential Maximum | **50% maximum: 10% + 25% + 15%** |
+| 🛍️ Product Discount | **0%–25% per product-discount earning cycle** |
 
-**100 verified points = 1% in one selected eligible ledger. 2,500 verified points = 25% maximum in that ledger.** Education, Experiential and Product percentages are tracked separately. Eligible points may come from approved role activities, student-conversion milestones, attributable purchase revenue and other approved contributor / Ambassador activity. **Each point award, activity, conversion or purchase dollar is credited only once to one ledger.**
+### 🛍️ Product Purchase Conversion — $0 to $2,500 Only
 
-### 💵 Purchase Conversion
-**$1 of verified eligible attributable net purchase value = 1 point.** Refunds, reversals, chargebacks, taxes, shipping, duplicate transactions and self-attributed purchases do not create benefit points.
+The Product Discount is based only on **verified eligible product purchases attributed to the participant's assigned link, QR code or approved referral attribution**.
 
-| Purchase Value | Points | Benefit if credited to one ledger |
+**Product purchase dollars = Product points.**  
+**Product Discount % = Product points ÷ 100.**  
+**Minimum = $0 / 0 points / 0%. Maximum per earning cycle = $2,500 / 2,500 points / 25%.**
+
+| Verified Attributable Product Purchases | Product Points | Earned Product Discount |
 |---:|---:|---:|
+| $0 | 0 | 0% |
 | $100 | 100 | 1% |
-| $500 | 500 | 5% |
+| $525 | 525 | 5.25% |
+| $1,000 | 1,000 | 10% |
 | $1,500 | 1,500 | 15% |
 | $2,500 | 2,500 | **25% MAX** |
-| $10,000 | 10,000 generated points | **25% MAX per ledger; no double-counting** |
 
-### 🎓 Education Conversion
-A verified paying Education Pathway conversion earns **50 points at 50% completion + 50 points at completion / graduation = 100 Education points = 1%**.
+The percentage may be a decimal because it follows the actual purchase amount. For example, **$525 = 525 points = 5.25%**.
 
-### 🧭 Experiential Conversion
-A verified paying Experiential Pathway conversion earns **50 points at 50% completion + 50 points at completion = 100 Experiential points = 1%**.
+**Products are non-refundable.** Only completed, verified and attributable product purchases count toward this Product Discount calculation.
 
-### 🏆 Exact 1%–25% Conversion Ladder
-The purchase and student columns show the equivalent if that percentage were earned entirely from that one source. Different approved activities may be combined.
+### 🔄 Product Discount Earning / Redemption Cycle
 
-| Benefit | Points Required | Purchase Value Equivalent | Fully Completed Student Conversion Equivalent |
-|---:|---:|---:|---:|
-| 1% | 100 | $100 | 1 |
-| 2% | 200 | $200 | 2 |
-| 3% | 300 | $300 | 3 |
-| 4% | 400 | $400 | 4 |
-| 5% | 500 | $500 | 5 |
-| 6% | 600 | $600 | 6 |
-| 7% | 700 | $700 | 7 |
-| 8% | 800 | $800 | 8 |
-| 9% | 900 | $900 | 9 |
-| 10% | 1,000 | $1,000 | 10 |
-| 11% | 1,100 | $1,100 | 11 |
-| 12% | 1,200 | $1,200 | 12 |
-| 13% | 1,300 | $1,300 | 13 |
-| 14% | 1,400 | $1,400 | 14 |
-| 15% | 1,500 | $1,500 | 15 |
-| 16% | 1,600 | $1,600 | 16 |
-| 17% | 1,700 | $1,700 | 17 |
-| 18% | 1,800 | $1,800 | 18 |
-| 19% | 1,900 | $1,900 | 19 |
-| 20% | 2,000 | $2,000 | 20 |
-| 21% | 2,100 | $2,100 | 21 |
-| 22% | 2,200 | $2,200 | 22 |
-| 23% | 2,300 | $2,300 | 23 |
-| 24% | 2,400 | $2,400 | 24 |
-| 25% MAX | 2,500 | $2,500 | 25 |
+1. The active Product Discount cycle begins at **0 points / 0%**.
+2. Verified attributable product purchases build the discount from **0% up to 25%**.
+3. The earned Product Discount **does not expire until it is used**.
+4. A participant may use the currently earned percentage, such as **1%, 5.25%, 10% or 25%**, on an eligible product purchase.
+5. When an earned Product Discount is redeemed, that redeemed discount is consumed.
+6. When the participant reaches **$2,500 / 2,500 points / 25%**, the 25% earning cycle is complete and the earning counter refreshes to **0** so a new Product Discount cycle can be built.
+7. An earned 25% Product Discount remains available until it is used.
 
-### 📊 Tiers
-| Tier | Points | Percentage |
-|---|---:|---:|
-| I | 100–400 | 1%–4% |
-| II | 500–900 | 5%–9% |
-| III | 1,000–1,400 | 10%–14% |
-| IV | 1,500–1,900 | 15%–19% |
-| V | 2,000–2,400 | 20%–24% |
-| Maximum | 2,500+ | **25% MAX** |
+The Product Discount earning range is **$0 through $2,500 only**. The cycle caps at **$2,500 = 2,500 points = 25%** and then refreshes under the rule above.
 
-Only complete 100-point thresholds increase the percentage. Points above 2,500 do not increase a single ledger beyond 25%. For Education or Experiential students / graduates, this contributor-benefit layer does not replace any separate completion or reimbursement benefit expressly provided under the applicable tuition policy.
+### 🎓 Education Tuition Reimbursement Structure
 
+Eligible Education participants who complete / graduate receive **10% guaranteed**. Approved contributor / Ambassador activity may add **up to 25%**, bringing the Education reimbursement to **up to 35%**. Additional approved reimbursement milestones may add **up to 15% more**, for a **50% maximum**.
+
+**Education maximum: 10% completion + 25% contributor benefit + 15% additional reimbursement = 50%.**
+
+### 🧭 Experiential Tuition Reimbursement Structure
+
+Eligible Experiential participants who complete the program receive **10% guaranteed**. Approved contributor / Ambassador activity may add **up to 25%**, bringing the Experiential reimbursement to **up to 35%**. Additional approved reimbursement milestones may add **up to 15% more**, for a **50% maximum**.
+
+**Experiential maximum: 10% completion + 25% contributor benefit + 15% additional reimbursement = 50%.**
+
+Existing approved role-specific point activities remain in effect unless expressly changed elsewhere.
 ## 🔗 Canonical Contributor-Benefit Routing
 
 [README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [CONTENT CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [RIDESHARE DETAIL](./RIDESHARE.md) · [DELIVERY DETAIL](./DELIVERY.md) · [SUBSTITUTE TEACHERS](./SUBSTITUTE-TEACHERS.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md) · [PARTNER EMPLOYEE DETAIL](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [PARTNERSHIP TERMS DETAIL](./PARTNERS.md) · [STUDENTS](./STUDENTS.md) · [TEAM MEMBERS](./TEAM-MEMBERS.md)

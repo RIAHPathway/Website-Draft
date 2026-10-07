@@ -284,7 +284,7 @@ Record Participant, Participant ID, Track, Activity or Contribution ID, Activity
 | Products / Services / Pathways link | ❌ | ✅ |
 | Individual QR code | ✅ | ✅ |
 
-Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
+Products are non-refundable. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
 
 ### 🔗 Documentation
 
@@ -292,58 +292,63 @@ Products are non-refundable except eligible damaged physical products. For appli
 
 ## 🧮 Unified Three-Ledger Benefit Logic
 
-Every eligible non-team participant may maintain **three separate benefit ledgers**: **Education**, **Experiential**, and **Products**. Each ledger is capped at **25% / 2,500 points**. **100 verified points = 1%** in the ledger to which the points are assigned.
+For eligible non-team participants, Education, Experiential and Products remain separate benefit categories.
 
-Approved role activities, verified student conversions, attributable purchases and other approved activities may combine. The same activity, conversion, transaction or dollar cannot be counted in more than one ledger.
+| Benefit Category | Base / Maximum |
+|---|---:|
+| 🎓 Education Completion | **10% guaranteed after eligible Education completion / graduation** |
+| 🧭 Experiential Completion | **10% guaranteed after eligible Experiential completion** |
+| ⭐ Education / Experiential Contributor Benefit | **0%–25% additional** |
+| ➕ Additional Tuition Reimbursement Milestones | **0%–15% additional** |
+| 🎓 Education / Experiential Maximum | **50% maximum: 10% + 25% + 15%** |
+| 🛍️ Product Discount | **0%–25% per product-discount earning cycle** |
 
-### 💵 Purchase Conversion
-**$1 verified eligible attributable net purchase value = 1 point.** Refunds, reversals, chargebacks, taxes, shipping, duplicate transactions and self-attributed purchases do not count.
+### 🛍️ Product Purchase Conversion — $0 to $2,500 Only
 
-| Purchase Value | Points | Benefit if credited to one ledger |
+The Product Discount is based only on **verified eligible product purchases attributed to the participant's assigned link, QR code or approved referral attribution**.
+
+**Product purchase dollars = Product points.**  
+**Product Discount % = Product points ÷ 100.**  
+**Minimum = $0 / 0 points / 0%. Maximum per earning cycle = $2,500 / 2,500 points / 25%.**
+
+| Verified Attributable Product Purchases | Product Points | Earned Product Discount |
 |---:|---:|---:|
+| $0 | 0 | 0% |
 | $100 | 100 | 1% |
-| $500 | 500 | 5% |
+| $525 | 525 | 5.25% |
+| $1,000 | 1,000 | 10% |
 | $1,500 | 1,500 | 15% |
 | $2,500 | 2,500 | **25% MAX** |
-| $10,000 | 10,000 generated points | **25% MAX per ledger; no double-counting** |
 
-### 🎓 Education Student Conversion
-50 Education points at 50% completion + 50 Education points at completion / graduation = **100 points = 1%**.
+The percentage may be a decimal because it follows the actual purchase amount. For example, **$525 = 525 points = 5.25%**.
 
-### 🧭 Experiential Student Conversion
-50 Experiential points at 50% completion + 50 Experiential points at completion = **100 points = 1%**.
+**Products are non-refundable.** Only completed, verified and attributable product purchases count toward this Product Discount calculation.
 
-### 🏆 Exact 1%–25% Conversion Ladder
-| Benefit | Points | Purchase Value Equivalent | Fully Completed Student Conversion Equivalent |
-|---:|---:|---:|---:|
-| 1% | 100 | $100 | 1 |
-| 2% | 200 | $200 | 2 |
-| 3% | 300 | $300 | 3 |
-| 4% | 400 | $400 | 4 |
-| 5% | 500 | $500 | 5 |
-| 6% | 600 | $600 | 6 |
-| 7% | 700 | $700 | 7 |
-| 8% | 800 | $800 | 8 |
-| 9% | 900 | $900 | 9 |
-| 10% | 1000 | $1,000 | 10 |
-| 11% | 1100 | $1,100 | 11 |
-| 12% | 1200 | $1,200 | 12 |
-| 13% | 1300 | $1,300 | 13 |
-| 14% | 1400 | $1,400 | 14 |
-| 15% | 1500 | $1,500 | 15 |
-| 16% | 1600 | $1,600 | 16 |
-| 17% | 1700 | $1,700 | 17 |
-| 18% | 1800 | $1,800 | 18 |
-| 19% | 1900 | $1,900 | 19 |
-| 20% | 2000 | $2,000 | 20 |
-| 21% | 2100 | $2,100 | 21 |
-| 22% | 2200 | $2,200 | 22 |
-| 23% | 2300 | $2,300 | 23 |
-| 24% | 2400 | $2,400 | 24 |
-| 25% MAX | 2500 | $2,500 | 25 |
+### 🔄 Product Discount Earning / Redemption Cycle
 
-Multiple approved sources may add together to reach a threshold. Only complete 100-point thresholds increase the percentage.
+1. The active Product Discount cycle begins at **0 points / 0%**.
+2. Verified attributable product purchases build the discount from **0% up to 25%**.
+3. The earned Product Discount **does not expire until it is used**.
+4. A participant may use the currently earned percentage, such as **1%, 5.25%, 10% or 25%**, on an eligible product purchase.
+5. When an earned Product Discount is redeemed, that redeemed discount is consumed.
+6. When the participant reaches **$2,500 / 2,500 points / 25%**, the 25% earning cycle is complete and the earning counter refreshes to **0** so a new Product Discount cycle can be built.
+7. An earned 25% Product Discount remains available until it is used.
 
+The Product Discount earning range is **$0 through $2,500 only**. The cycle caps at **$2,500 = 2,500 points = 25%** and then refreshes under the rule above.
+
+### 🎓 Education Tuition Reimbursement Structure
+
+Eligible Education participants who complete / graduate receive **10% guaranteed**. Approved contributor / Ambassador activity may add **up to 25%**, bringing the Education reimbursement to **up to 35%**. Additional approved reimbursement milestones may add **up to 15% more**, for a **50% maximum**.
+
+**Education maximum: 10% completion + 25% contributor benefit + 15% additional reimbursement = 50%.**
+
+### 🧭 Experiential Tuition Reimbursement Structure
+
+Eligible Experiential participants who complete the program receive **10% guaranteed**. Approved contributor / Ambassador activity may add **up to 25%**, bringing the Experiential reimbursement to **up to 35%**. Additional approved reimbursement milestones may add **up to 15% more**, for a **50% maximum**.
+
+**Experiential maximum: 10% completion + 25% contributor benefit + 15% additional reimbursement = 50%.**
+
+Existing approved role-specific point activities remain in effect unless expressly changed elsewhere.
 ## 🔗 Canonical Routing
 
 [README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md)
