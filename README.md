@@ -49,11 +49,12 @@ This index provides a direct key to the major sections and routing resources mai
 | **VII 👥** | [At-Scale Positions](#readme-vii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
 | **VIII 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-viii-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
 | **IX 🧭** | [Website Wireframes](#readme-ix-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
-| **X 🤝** | [Contributor Benefit Routing](#readme-x-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
+| **X 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-x-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
+| **XI 🤝** | [Contributor Benefit Routing](#readme-xi-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
 
 ### 🔑 KEY
 
-**I–X** = Main README sections and routing areas.  
+**I–XI** = Main README sections and routing areas.  
 **👑** = RIAH Pathway ecosystem overview.  
 **👤** = Founder and leadership profile.  
 **🔗** = Public profile and social links.  
@@ -63,6 +64,7 @@ This index provides a direct key to the major sections and routing resources mai
 **👥** = At-scale positions, staffing, and role structures.  
 **📚** = Tuition, faculty, experiential, and curriculum structures.  
 **🧭** = Website sitemap and 1–19 wireframe folder routing.  
+**🖼️** = Completed wireframe example with linked Markdown structure and repository design images.  
 **🤝** = Contributor benefits and participation routing.
 
 ---
@@ -236,9 +238,57 @@ The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigat
 
 ---
 
-<a id="readme-x-contributor-benefits"></a>
+<a id="readme-x-example-wireframe"></a>
 
-# X 🤝 Contributor Benefit Routing
+# X 🖼️ Example Wireframe — Join Us 16.1–16.5
+
+The completed **Join Us** wireframe family provides a visual example of how RIAH Pathway main-page and subpage wireframes are structured in the repository. Each example below links directly to its source Markdown file, summarizes the purpose of that wireframe, and displays the corresponding design image maintained in the Join Us `IMAGES` folder.
+
+## 16.1 — Join Us Wireframe Main
+
+**Wireframe:** [16.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.1-JOIN-US-WIREFRAME-MAIN.md)
+
+The main Join Us wireframe introduces the complete participation ecosystem and routes students, professionals, organizations, employers, partners, faculty, employees, governance participants, contributors, and Ambassadors into the appropriate RIAH Pathway experience. It connects education pathways, Student Life, Experiential, partnerships, Join Our Team, and Ambassadors from one central page.
+
+![16.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/IMAGES/16.1-I-WIREFRAME-DESIGN.png)
+
+## 16.2 — Student Life Wireframe
+
+**Wireframe:** [16.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.2-STUDENT-LIFE-WIREFRAME.md)
+
+The Student Life wireframe organizes the student-facing community experience around institutional identity, organizations, honor societies, Greek Life, community, Ambassadors, events, benefits, student recognition, career services, opportunities, and connection across the RIAH Pathway schools.
+
+![16.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/IMAGES/16.1-II-WIREFRAME-DESIGN.png)
+
+## 16.3 — Partnerships Wireframe
+
+**Wireframe:** [16.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.3-PARTNERSHIPS-WIREFRAME.md)
+
+The Partnerships wireframe routes educational and professional organizations into the RIAH Pathway partnership ecosystem, including law firms, courts, schools, colleges, universities, professional firms, training and certification providers, startups, small businesses, entrepreneurship ventures, and employers.
+
+![16.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/IMAGES/16.1-III-WIREFRAME-DESIGN.png)
+
+## 16.4 — Join Our Team Wireframe
+
+**Wireframe:** [16.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.4-JOIN-OUR-TEAM-WIREFRAME.md)
+
+The Join Our Team wireframe presents the phased team-building structure for executive leadership, governance, academic faculty, experiential professionals, technical professionals, credential professionals, legal professionals, career resources, and the Beta Core Team while routing candidates to the appropriate opportunities and application pathways.
+
+![16.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/IMAGES/16.1-IV-WIREFRAME-DESIGN.png)
+
+## 16.5 — Ambassadors Wireframe
+
+**Wireframe:** [16.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/16.5-AMBASSADORS-WIREFRAME.md)
+
+The Ambassadors wireframe presents the RIAH Pathway Ambassador structure for Substitute Teachers, Rideshare participants, Delivery participants, Content Creators, and GitHub Contributors, with routing to each Ambassador type and its applicable participation and benefits resources.
+
+![16.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/IMAGES/16.1-V-WIREFRAME-DESIGN.png)
+
+---
+
+<a id="readme-xi-contributor-benefits"></a>
+
+# XI 🤝 Contributor Benefit Routing
 
 The contributor-benefit structure is maintained in the repository's Contributor Benefits folder. Rideshare + Delivery are combined, Partners + Partner Employees are combined, Partner Affiliates remain a distinct partner category, and Team Members use the separate Team Member performance / equity structure.
 
