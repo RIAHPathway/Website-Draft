@@ -1,6 +1,14 @@
 # 👑RIAH Pathway.
 
+<img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/f57087f9-44e0-41ae-ba57-2d00acc4c0f4" />
+
+**RIAH Pathway** is an education and workforce development ecosystem connecting academics, experiential development, professional preparation, technology, and career pathways.
+
 **Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
+
+<p align="left">
+  <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
+</p>
 
 There is currently no team. I am building everything myself until I have hired the beta team. I am starting the hiring process this month, **October 2026**, for the CTO, CISO, experiential professionals, PhD-qualified faculty, and adjunct faculty for each school and major, with hiring continuing across the entire ecosystem as it scales.
 
