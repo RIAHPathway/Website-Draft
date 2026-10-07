@@ -204,27 +204,27 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 
 The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigation defined in the repository sitemap. Each row below identifies the numbered main-page wireframe, briefly describes the page purpose, and links directly to its working folder. Placeholder folders contain a `.gitkeep` file so the structure remains available in Git while individual wireframes are developed; **16. JOIN US** routes to the existing completed Join Us wireframe folder.
 
-| WIREFRAME | DESCRIPTION | FOLDER |
+| WIREFRAME | DESCRIPTION | WIREFRAME NAME |
 |---|---|---|
-| **1. HOME** | Main website landing page and ecosystem entry point, routing visitors across the full RIAH Pathway experience. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/1.%20HOME/) |
-| **2. ABOUT** | RIAH Pathway ecosystem, schools, leadership, governance, brand, mascot, and institutional identity. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/2.%20ABOUT/) |
-| **3. PATHWAY** | Combined pathway hub connecting degree programs, experiential, high school, GED/HSE, certification review, bar review, and schools. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/3.%20PATHWAY/) |
-| **4. DEGREE PROGRAMS** | Degree pathways, schools, associate's, bachelor's, master's, MBA, minor, J.D., and non-J.D. options. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/4.%20DEGREE%20PROGRAMS/) |
-| **5. EXPERIENTIAL** | Experiential levels, durations, schools, learning process, and internal and external placements. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/5.%20EXPERIENTIAL/) |
-| **6. HIGH SCHOOL** | High school diploma program, pathway, curriculum, admissions, authorization, and recognition. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/6.%20HIGH%20SCHOOL/) |
-| **7. GED-HSE** | GED/HSE program, pathway, curriculum and preparation, and admissions. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/7.%20GED-HSE/) |
-| **8. CERTIFICATION REVIEW** | Certification review, certification mapping, school-aligned reviews, and Basic, Standard, and Premium tiers. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/8.%20CERTIFICATION%20REVIEW/) |
-| **9. BAR REVIEW** | Bar review, 50-state coverage, state modules, California Baby Bar, and Basic, Standard, and Premium tiers. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/9.%20BAR%20REVIEW/) |
-| **10. CURRICULUM** | Academic structures, school curriculum, majors, degree-level curriculum, experiential curriculum, review curriculum, and curriculum architecture. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/10.%20CURRICULUM/) |
-| **11. ADMISSIONS** | Pre-admissions, application, acceptance, enrollment, onboarding, student experience, graduation, alumni, and transfer routing. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20ADMISSIONS/) |
-| **12. TUITION** | Tuition, fees, payment options, funding, reimbursement, costs, and the pricing calculator engine. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/12.%20TUITION/) |
-| **13. DONATIONS** | Donations routing for the Foundation, accreditation support, and state authorization support. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/13.%20DONATIONS/) |
-| **14. PRODUCTS** | Product catalog, certification and bar review products, collections, bundles, and pricing. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/14.%20PRODUCTS/) |
-| **15. ACCREDITATION & AUTHORIZATION** | Accreditation and authorization status across experiential, academic, high school, GED/HSE, and state authorization pathways. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/15.%20ACCREDITATION%20%26%20AUTHORIZATION/) |
-| **16. JOIN US** | Student Life, partnerships, Join Our Team opportunities, ambassadors, career resources, and contributor-facing Join Us routing. | [Open Existing Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/) |
-| **17. RESOURCES** | Events, blog, podcasts, conferences, workshops, webinars, policies, procedures, and guidelines. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17.%20RESOURCES/) |
-| **18. FAQ** | Frequently asked questions across pathways, curriculum, admissions, tuition, accreditation, student experience, products, and technical support. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/18.%20FAQ/) |
-| **19. CONTACT** | Contact routing for admissions, human resources, technical support, student support, products, partnerships, and general inquiries. | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/19.%20CONTACT/) |
+| **1. HOME** | Main website landing page and ecosystem entry point, routing visitors across the full RIAH Pathway experience. | [1. HOME](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/1.%20HOME/) |
+| **2. ABOUT** | RIAH Pathway ecosystem, schools, leadership, governance, brand, mascot, and institutional identity. | [2. ABOUT](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/2.%20ABOUT/) |
+| **3. PATHWAY** | Combined pathway hub connecting degree programs, experiential, high school, GED/HSE, certification review, bar review, and schools. | [3. PATHWAY](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/3.%20PATHWAY/) |
+| **4. DEGREE PROGRAMS** | Degree pathways, schools, associate's, bachelor's, master's, MBA, minor, J.D., and non-J.D. options. | [4. DEGREE PROGRAMS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/4.%20DEGREE%20PROGRAMS/) |
+| **5. EXPERIENTIAL** | Experiential levels, durations, schools, learning process, and internal and external placements. | [5. EXPERIENTIAL](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/5.%20EXPERIENTIAL/) |
+| **6. HIGH SCHOOL** | High school diploma program, pathway, curriculum, admissions, authorization, and recognition. | [6. HIGH SCHOOL](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/6.%20HIGH%20SCHOOL/) |
+| **7. GED-HSE** | GED/HSE program, pathway, curriculum and preparation, and admissions. | [7. GED-HSE](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/7.%20GED-HSE/) |
+| **8. CERTIFICATION REVIEW** | Certification review, certification mapping, school-aligned reviews, and Basic, Standard, and Premium tiers. | [8. CERTIFICATION REVIEW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/8.%20CERTIFICATION%20REVIEW/) |
+| **9. BAR REVIEW** | Bar review, 50-state coverage, state modules, California Baby Bar, and Basic, Standard, and Premium tiers. | [9. BAR REVIEW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/9.%20BAR%20REVIEW/) |
+| **10. CURRICULUM** | Academic structures, school curriculum, majors, degree-level curriculum, experiential curriculum, review curriculum, and curriculum architecture. | [10. CURRICULUM](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/10.%20CURRICULUM/) |
+| **11. ADMISSIONS** | Pre-admissions, application, acceptance, enrollment, onboarding, student experience, graduation, alumni, and transfer routing. | [11. ADMISSIONS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20ADMISSIONS/) |
+| **12. TUITION** | Tuition, fees, payment options, funding, reimbursement, costs, and the pricing calculator engine. | [12. TUITION](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/12.%20TUITION/) |
+| **13. DONATIONS** | Donations routing for the Foundation, accreditation support, and state authorization support. | [13. DONATIONS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/13.%20DONATIONS/) |
+| **14. PRODUCTS** | Product catalog, certification and bar review products, collections, bundles, and pricing. | [14. PRODUCTS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/14.%20PRODUCTS/) |
+| **15. ACCREDITATION & AUTHORIZATION** | Accreditation and authorization status across experiential, academic, high school, GED/HSE, and state authorization pathways. | [15. ACCREDITATION & AUTHORIZATION](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/15.%20ACCREDITATION%20%26%20AUTHORIZATION/) |
+| **16. JOIN US** | Student Life, partnerships, Join Our Team opportunities, ambassadors, career resources, and contributor-facing Join Us routing. | [16-JOIN-US-WIREFRAME](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US-WIREFRAME/) |
+| **17. RESOURCES** | Events, blog, podcasts, conferences, workshops, webinars, policies, procedures, and guidelines. | [17. RESOURCES](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17.%20RESOURCES/) |
+| **18. FAQ** | Frequently asked questions across pathways, curriculum, admissions, tuition, accreditation, student experience, products, and technical support. | [18. FAQ](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/18.%20FAQ/) |
+| **19. CONTACT** | Contact routing for admissions, human resources, technical support, student support, products, partnerships, and general inquiries. | [19. CONTACT](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/19.%20CONTACT/) |
 
 ---
 
