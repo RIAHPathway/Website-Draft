@@ -3,8 +3,8 @@
 **Repository:** RIAHPathway/Website-Draft  
 **Audit Scope:** All Markdown files on the default branch  
 **Markdown Files Audited:** 50  
-**Markdown Files Containing Mermaid:** 16  
-**Mermaid Blocks Audited:** 132  
+**Markdown Files Containing Mermaid:** 15  
+**Mermaid Blocks Audited:** 103  
 **Markdown Files Without Mermaid:** 34  
 **Audit Result:** PASS
 
@@ -36,7 +36,6 @@ The audit verified:
 | SUBSTITUTE-TEACHERS.md | [SUBSTITUTE-TEACHERS.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/SUBSTITUTE-TEACHERS.md) | 6 | PASS |
 | GED-STRUCTURE.md | [GED-STRUCTURE.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GED-STRUCTURE/GED-STRUCTURE.md) | 19 | PASS |
 | ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.md | [ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GENERAL-STRUCTURE/ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.md) | 8 | PASS |
-| HIGH-SCHOOL-STRUCTURE.md | [HIGH-SCHOOL-STRUCTURE.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-HIGH-SCHOOL-STRUCTURE/HIGH-SCHOOL-STRUCTURE.md) | 29 | PASS |
 | EXPERIENTIAL-STRUCTURE.md | [EXPERIENTIAL-STRUCTURE.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md) | 18 | PASS |
 | RIAH-PATHWAY-LEGACY-BOT.md | [RIAH-PATHWAY-LEGACY-BOT.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT.md) | 4 | PASS |
 | RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.md | [RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.md](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.md) | 1 | PASS |
