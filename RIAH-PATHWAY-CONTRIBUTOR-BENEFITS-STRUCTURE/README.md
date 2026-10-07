@@ -119,13 +119,12 @@ XIII. 📋 Master Record Fields
 | 🎓 Education Pathway Students | ✅ | **10% guaranteed at completion; up to 50% total reimbursement** | ✅ |
 | 🎓 Experiential Pathway Students | ✅ | **10% guaranteed at completion; up to 50% total reimbursement** | ✅ |
 | 🎥 Content Creators | ✅ | Ambassador milestones | ✅ |
-| 🔗 Affiliates | ✅ | Ambassador milestones | ✅ |
+| 🔗 Partner Affiliates | ✅ | Ambassador milestones | ✅ |
 | 💻 GitHub Contributors | ✅ | Ambassador milestones | ✅ |
 | 🌎 Community Ambassadors | ✅ | Ambassador milestones | ✅ |
-| 🚗 Rideshare Ambassadors | ✅ | Ambassador milestones | ✅ |
-| 📦 Delivery Ambassadors | ✅ | Ambassador milestones | ✅ |
+| 🚗📦 Rideshare & Delivery Ambassadors | ✅ | Ambassador milestones | ✅ |
 | 🍎 Substitute Teacher Ambassadors | ✅ | Ambassador milestones | ✅ |
-| 🤝 Partner Employees | ✅ | Ambassador milestones | ✅ |
+| 🤝 Partner Employee Ambassadors | ✅ | Ambassador milestones | ✅ |
 
 ## IV. 🏆 Master Classification
 
@@ -133,7 +132,7 @@ XIII. 📋 Master Record Fields
 
 **Education & Experiential:** 10% guaranteed at completion + up to 25% Ambassador milestones + up to 15% additional reimbursement milestones = up to 50% total reimbursement.
 
-**Non-Stacking / Allocation:** Approved activities across Content Creator, Affiliate, GitHub, Community, Rideshare, Delivery, Substitute Teacher and Partner Employee categories may be combined, but each point award is credited once to one selected ledger. Education, Experiential and Product ledgers are each independently capped at 25%.
+**Non-Stacking / Allocation:** Approved activities across Content Creator, Partner Affiliate, GitHub, Community, Rideshare & Delivery, Substitute Teacher and Partner Employee Ambassador categories may be combined, but each point award is credited once to one selected ledger. Education, Experiential and Product ledgers are each independently capped at 25%.
 
 ## V. 🔄 Master Participation Flow
 
@@ -181,7 +180,7 @@ One converted student does **not** automatically equal a 25% benefit.
 
 Approved activities may combine inside a selected ledger, but the same underlying activity, conversion or purchase dollar cannot be credited to more than one ledger.
 
-Team Members use a separate structure: **$0 tuition** and **50% off eligible products** continue based on meeting applicable monthly performance and contribution requirements under the Team Member agreement.
+Team Members use a separate structure: **$0 tuition** and **50% off eligible products** are part of eligible Team Member status and continue based on meeting applicable **daily, weekly and monthly responsibility, performance and contribution requirements**, including the applicable Team Member / equity agreement and assigned equity contribution-pool requirements. Team Members do not use the non-team Ambassador point or product-purchase thresholds to retain these Team Member benefits.
 
 ## VII. 🎓 Reimbursement & Non-Stacking Structure
 
@@ -201,7 +200,7 @@ Team Members use a separate structure: **$0 tuition** and **50% off eligible pro
 |---|---|
 | Student Conversion Milestones | Paying Education Pathway student; Paying Experiential Pathway student; 50% completion; completion / graduation |
 | Purchase Conversions | Certification Review Program; Bar Review Program; Product purchase; Service purchase |
-| Contributor Activities | Content creation; GitHub contribution; Affiliate / Partner referral |
+| Contributor Activities | Content creation; GitHub contribution; Partner Affiliate / Partner referral |
 | Ambassador Activities | Community event; Hosting a booth; Vehicle marketing; Community outreach |
 
 | Conversion / Purchase Milestone | Point Treatment |
@@ -276,7 +275,7 @@ Products are non-refundable. For applicable course or product programs, completi
 | 👤 Participant | Verified participant |
 | 🆔 Participant ID | Internal participant identifier |
 | 👥 Classification | Contributor, Ambassador, Graduate or Partner |
-| 🧩 Subcategory | Content Creator, Affiliate, GitHub, Community, Substitute Teacher, Rideshare, Delivery, Education, Experiential, Partner Employee, Team Member or Partner |
+| 🧩 Subcategory | Content Creator, Partner Affiliate, GitHub, Community, Substitute Teacher, Rideshare & Delivery, Education, Experiential, Partner Employee Ambassador, Team Member or Partner |
 | 📝 Activity ID | Unique contribution or activity record |
 | ⭐ Points | Approved points |
 | 🏆 Milestone | Current milestone |
