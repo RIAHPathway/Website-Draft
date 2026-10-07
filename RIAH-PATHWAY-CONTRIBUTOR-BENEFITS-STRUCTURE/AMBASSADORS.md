@@ -20,8 +20,6 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 # 🌎 Community Ambassadors
 
-<img width="562" height="317" alt="image" src="https://github.com/user-attachments/assets/5cc26bb2-530d-49c4-a9fb-2410befd05ca" />
-
 ## 💰 Tuition, Products & Pricing Resources
 
 Contributor benefits in this documentation apply to **eligible tuition and eligible products** according to the rules for the applicable participant category.
