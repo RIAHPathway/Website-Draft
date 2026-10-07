@@ -294,12 +294,6 @@ Maximum Experiential Graduate: **2,500 points = 25% eligible products maximum; t
 | Paying Experiential Pathway student conversion | Conversion recorded |
 | Converted student reaches 50% program completion | **50 points** |
 | Converted student completes / graduates | **+50 points** |
-| Certification Review Program purchase | **25 points** |
-| Bar Review Program purchase | **25 points** |
-| Service purchase | **25 points** |
-| Verified product purchases totaling $500 | **25 points** |
-| Verified product purchases totaling $1,000 | **50 points** |
-| Verified product purchases totaling $1,500 | **75 points** |
 
 | Material | Physical | Digital |
 |---|:---:|:---:|
@@ -320,6 +314,64 @@ Products are non-refundable except eligible damaged physical products. For appli
 ### 🔗 Documentation
 
 [README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
+
+## 🧮 Unified Three-Ledger Benefit Logic
+
+Every eligible non-team participant may maintain **three separate benefit ledgers**: **Education**, **Experiential**, and **Products**. Each ledger is capped at **25% / 2,500 points**. **100 verified points = 1%** in the ledger to which the points are assigned.
+
+Approved role activities, verified student conversions, attributable purchases and other approved activities may combine. The same activity, conversion, transaction or dollar cannot be counted in more than one ledger.
+
+### 💵 Purchase Conversion
+**$1 verified eligible attributable net purchase value = 1 point.** Refunds, reversals, chargebacks, taxes, shipping, duplicate transactions and self-attributed purchases do not count.
+
+| Purchase Value | Points | Benefit if credited to one ledger |
+|---:|---:|---:|
+| $100 | 100 | 1% |
+| $500 | 500 | 5% |
+| $1,500 | 1,500 | 15% |
+| $2,500 | 2,500 | **25% MAX** |
+| $10,000 | 10,000 generated points | **25% MAX per ledger; no double-counting** |
+
+### 🎓 Education Student Conversion
+50 Education points at 50% completion + 50 Education points at completion / graduation = **100 points = 1%**.
+
+### 🧭 Experiential Student Conversion
+50 Experiential points at 50% completion + 50 Experiential points at completion = **100 points = 1%**.
+
+### 🏆 Exact 1%–25% Conversion Ladder
+| Benefit | Points | Purchase Value Equivalent | Fully Completed Student Conversion Equivalent |
+|---:|---:|---:|---:|
+| 1% | 100 | $100 | 1 |
+| 2% | 200 | $200 | 2 |
+| 3% | 300 | $300 | 3 |
+| 4% | 400 | $400 | 4 |
+| 5% | 500 | $500 | 5 |
+| 6% | 600 | $600 | 6 |
+| 7% | 700 | $700 | 7 |
+| 8% | 800 | $800 | 8 |
+| 9% | 900 | $900 | 9 |
+| 10% | 1000 | $1,000 | 10 |
+| 11% | 1100 | $1,100 | 11 |
+| 12% | 1200 | $1,200 | 12 |
+| 13% | 1300 | $1,300 | 13 |
+| 14% | 1400 | $1,400 | 14 |
+| 15% | 1500 | $1,500 | 15 |
+| 16% | 1600 | $1,600 | 16 |
+| 17% | 1700 | $1,700 | 17 |
+| 18% | 1800 | $1,800 | 18 |
+| 19% | 1900 | $1,900 | 19 |
+| 20% | 2000 | $2,000 | 20 |
+| 21% | 2100 | $2,100 | 21 |
+| 22% | 2200 | $2,200 | 22 |
+| 23% | 2300 | $2,300 | 23 |
+| 24% | 2400 | $2,400 | 24 |
+| 25% MAX | 2500 | $2,500 | 25 |
+
+Multiple approved sources may add together to reach a threshold. Only complete 100-point thresholds increase the percentage. For students / graduates, this contributor-benefit layer does not replace any separate guaranteed completion or reimbursement benefit stated elsewhere in the tuition framework.
+
+## 🔗 Canonical Routing
+
+[README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md)
 
 
 ---

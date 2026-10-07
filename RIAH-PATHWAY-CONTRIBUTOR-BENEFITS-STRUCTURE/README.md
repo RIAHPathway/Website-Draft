@@ -95,13 +95,15 @@ XIII. 📋 Master Record Fields
 | 🔗 Affiliates | [AFFILIATES.md](./AFFILIATES.md) |
 | 💻 GitHub Contributors | [GITHUB-CONTRIBUTORS.md](./GITHUB-CONTRIBUTORS.md) |
 | 🌎 Community Ambassadors | [COMMUNITY-AMBASSADORS.md](./COMMUNITY-AMBASSADORS.md) |
-| 🚗 Rideshare Ambassadors | [RIDESHARE.md](./RIDESHARE.md) |
-| 📦 Delivery Ambassadors | [DELIVERY.md](./DELIVERY.md) |
+| 🚗📦 Rideshare & Delivery Ambassadors — Combined | [RIDESHARE-DELIVERY.md](./RIDESHARE-DELIVERY.md) |
+| 🚗 Rideshare Detail | [RIDESHARE.md](./RIDESHARE.md) |
+| 📦 Delivery Detail | [DELIVERY.md](./DELIVERY.md) |
 | 🍎 Substitute Teacher Ambassadors | [SUBSTITUTE-TEACHERS.md](./SUBSTITUTE-TEACHERS.md) |
-| 🤝 Eligible Partner Employees | [ELIGIBLE-PARTNER-EMPLOYEES.md](./ELIGIBLE-PARTNER-EMPLOYEES.md) |
+| 🤝 Partner Employees — Combined | [PARTNER-EMPLOYEES.md](./PARTNER-EMPLOYEES.md) |
+| 🤝 Partner Employee Detail | [ELIGIBLE-PARTNER-EMPLOYEES.md](./ELIGIBLE-PARTNER-EMPLOYEES.md) |
 | 🎓 Education & Experiential Pathway Students | [STUDENTS.md](./STUDENTS.md) |
 | 👥 Team Members | [TEAM-MEMBERS.md](./TEAM-MEMBERS.md) |
-| 🤝 Partners | [PARTNERS.md](./PARTNERS.md) |
+| 🤝 Partnership Terms Detail | [PARTNERS.md](./PARTNERS.md) |
 
 ## III. 🧮 Master Benefit Structure
 
@@ -127,17 +129,15 @@ XIII. 📋 Master Record Fields
 | 🚗 Rideshare Ambassadors | ✅ | Ambassador milestones | ✅ |
 | 📦 Delivery Ambassadors | ✅ | Ambassador milestones | ✅ |
 | 🍎 Substitute Teacher Ambassadors | ✅ | Ambassador milestones | ✅ |
-| 🤝 Eligible Partner Employees | ✅ | Ambassador milestones | ✅ |
+| 🤝 Partner Employees | ✅ | Ambassador milestones | ✅ |
 
 ## IV. 🏆 Master Classification
 
-**Ambassador Points:** 100 approved points = 1%; 2,500 points = 25% maximum.
-
-**Product Benefit Points:** separate product milestones; 100 approved Product Benefit points = 1%; 2,500 points = 25% maximum.
+**Three-Ledger Points:** Education, Experiential and Products are separate ledgers. In each ledger, 100 verified points = 1% and 2,500 verified points = 25% maximum.
 
 **Education & Experiential:** 10% guaranteed at completion + up to 25% Ambassador milestones + up to 15% additional reimbursement milestones = up to 50% total reimbursement.
 
-**Non-Stacking:** Content Creator, Affiliate, GitHub, Community, Rideshare, Delivery, Substitute Teacher and Eligible Partner Employee categories may all generate points, but the Ambassador Benefit does not exceed 25%.
+**Non-Stacking / Allocation:** Approved activities across Content Creator, Affiliate, GitHub, Community, Rideshare, Delivery, Substitute Teacher and Partner Employee categories may be combined, but each point award is credited once to one selected ledger. Education, Experiential and Product ledgers are each independently capped at 25%.
 
 ## V. 🔄 Master Participation Flow
 
@@ -183,9 +183,9 @@ A paying Education or Experiential student conversion is recorded first. The ass
 
 One converted student does **not** automatically equal a 25% benefit.
 
-Ambassador categories do not stack beyond 25%. Product benefits use separate milestones and do not stack beyond 25%.
+Approved activities may combine inside a selected ledger, but the same underlying activity, conversion or purchase dollar cannot be credited to more than one ledger.
 
-Team Members retain **$0 tuition** and **50% off eligible products**.
+Team Members use a separate structure: **$0 tuition** and **50% off eligible products** continue based on meeting applicable monthly performance and contribution requirements under the Team Member agreement.
 
 ## VII. 🎓 Reimbursement & Non-Stacking Structure
 
@@ -214,12 +214,6 @@ Team Members retain **$0 tuition** and **50% off eligible products**.
 | Paying Experiential Pathway student conversion | Conversion recorded |
 | Converted student reaches 50% completion | **50 points** |
 | Converted student completes / graduates | **+50 points** |
-| Certification Review Program purchase | **25 points** |
-| Bar Review Program purchase | **25 points** |
-| Service purchase | **25 points** |
-| Verified product purchases totaling $500 | **25 points** |
-| Verified product purchases totaling $1,000 | **50 points** |
-| Verified product purchases totaling $1,500 | **75 points** |
 
 ## IX. 📦 Ambassador Kit
 
@@ -274,8 +268,8 @@ Products are non-refundable except eligible damaged physical products. For appli
 | 5 | Paying student conversions, purchases, events and contributions generate milestone points |
 | 6 | Converted student reaches 50% completion and 50 student-conversion points are credited |
 | 7 | Converted student completes / graduates and the remaining 50 student-conversion points are credited |
-| 8 | Ambassador points accumulate toward **25%** |
-| 9 | Product points accumulate separately toward **25%** |
+| 8 | Approved points are allocated once to the applicable **Education, Experiential or Product** ledger |
+| 9 | Each ledger accumulates separately toward **25% maximum** |
 | 10 | Student's own Education / Experiential completion earns **10% guaranteed** |
 | 11 | Additional milestones may bring total Education / Experiential reimbursement to **50%** |
 
@@ -286,7 +280,7 @@ Products are non-refundable except eligible damaged physical products. For appli
 | 👤 Participant | Verified participant |
 | 🆔 Participant ID | Internal participant identifier |
 | 👥 Classification | Contributor, Ambassador, Graduate or Partner |
-| 🧩 Subcategory | Content Creator, Affiliate, GitHub, Community, Substitute Teacher, Rideshare, Delivery, Education, Experiential, Eligible Partner Employee, Team Member or Partner |
+| 🧩 Subcategory | Content Creator, Affiliate, GitHub, Community, Substitute Teacher, Rideshare, Delivery, Education, Experiential, Partner Employee, Team Member or Partner |
 | 📝 Activity ID | Unique contribution or activity record |
 | ⭐ Points | Approved points |
 | 🏆 Milestone | Current milestone |
@@ -296,6 +290,82 @@ Products are non-refundable except eligible damaged physical products. For appli
 | 🎯 Next Milestone | Next applicable threshold |
 | ⏳ Points Remaining | Points required to next threshold |
 | ✅ Status | Pending, review, revision, approved or credited |
+
+## 🧮 Unified Three-Ledger Benefit Logic
+
+Every eligible non-team participant may maintain **three separate benefit ledgers**:
+
+| Ledger | Maximum | Point Scale |
+|---|---:|---:|
+| 🎓 Education Benefit | **25%** | **2,500 points** |
+| 🧭 Experiential Benefit | **25%** | **2,500 points** |
+| 🛍️ Product Benefit | **25%** | **2,500 points** |
+
+**100 verified points = 1% in one selected eligible ledger. 2,500 verified points = 25% maximum in that ledger.** Education, Experiential and Product percentages are tracked separately. Eligible points may come from approved role activities, student-conversion milestones, attributable purchase revenue and other approved contributor / Ambassador activity. **Each point award, activity, conversion or purchase dollar is credited only once to one ledger.**
+
+### 💵 Purchase Conversion
+**$1 of verified eligible attributable net purchase value = 1 point.** Refunds, reversals, chargebacks, taxes, shipping, duplicate transactions and self-attributed purchases do not create benefit points.
+
+| Purchase Value | Points | Benefit if credited to one ledger |
+|---:|---:|---:|
+| $100 | 100 | 1% |
+| $500 | 500 | 5% |
+| $1,500 | 1,500 | 15% |
+| $2,500 | 2,500 | **25% MAX** |
+| $10,000 | 10,000 generated points | **25% MAX per ledger; no double-counting** |
+
+### 🎓 Education Conversion
+A verified paying Education Pathway conversion earns **50 points at 50% completion + 50 points at completion / graduation = 100 Education points = 1%**.
+
+### 🧭 Experiential Conversion
+A verified paying Experiential Pathway conversion earns **50 points at 50% completion + 50 points at completion = 100 Experiential points = 1%**.
+
+### 🏆 Exact 1%–25% Conversion Ladder
+The purchase and student columns show the equivalent if that percentage were earned entirely from that one source. Different approved activities may be combined.
+
+| Benefit | Points Required | Purchase Value Equivalent | Fully Completed Student Conversion Equivalent |
+|---:|---:|---:|---:|
+| 1% | 100 | $100 | 1 |
+| 2% | 200 | $200 | 2 |
+| 3% | 300 | $300 | 3 |
+| 4% | 400 | $400 | 4 |
+| 5% | 500 | $500 | 5 |
+| 6% | 600 | $600 | 6 |
+| 7% | 700 | $700 | 7 |
+| 8% | 800 | $800 | 8 |
+| 9% | 900 | $900 | 9 |
+| 10% | 1,000 | $1,000 | 10 |
+| 11% | 1,100 | $1,100 | 11 |
+| 12% | 1,200 | $1,200 | 12 |
+| 13% | 1,300 | $1,300 | 13 |
+| 14% | 1,400 | $1,400 | 14 |
+| 15% | 1,500 | $1,500 | 15 |
+| 16% | 1,600 | $1,600 | 16 |
+| 17% | 1,700 | $1,700 | 17 |
+| 18% | 1,800 | $1,800 | 18 |
+| 19% | 1,900 | $1,900 | 19 |
+| 20% | 2,000 | $2,000 | 20 |
+| 21% | 2,100 | $2,100 | 21 |
+| 22% | 2,200 | $2,200 | 22 |
+| 23% | 2,300 | $2,300 | 23 |
+| 24% | 2,400 | $2,400 | 24 |
+| 25% MAX | 2,500 | $2,500 | 25 |
+
+### 📊 Tiers
+| Tier | Points | Percentage |
+|---|---:|---:|
+| I | 100–400 | 1%–4% |
+| II | 500–900 | 5%–9% |
+| III | 1,000–1,400 | 10%–14% |
+| IV | 1,500–1,900 | 15%–19% |
+| V | 2,000–2,400 | 20%–24% |
+| Maximum | 2,500+ | **25% MAX** |
+
+Only complete 100-point thresholds increase the percentage. Points above 2,500 do not increase a single ledger beyond 25%. For Education or Experiential students / graduates, this contributor-benefit layer does not replace any separate completion or reimbursement benefit expressly provided under the applicable tuition policy.
+
+## 🔗 Canonical Contributor-Benefit Routing
+
+[README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [CONTENT CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [RIDESHARE DETAIL](./RIDESHARE.md) · [DELIVERY DETAIL](./DELIVERY.md) · [SUBSTITUTE TEACHERS](./SUBSTITUTE-TEACHERS.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md) · [PARTNER EMPLOYEE DETAIL](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [PARTNERSHIP TERMS DETAIL](./PARTNERS.md) · [STUDENTS](./STUDENTS.md) · [TEAM MEMBERS](./TEAM-MEMBERS.md)
 
 
 ---

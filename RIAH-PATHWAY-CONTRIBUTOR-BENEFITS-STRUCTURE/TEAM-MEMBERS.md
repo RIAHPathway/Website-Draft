@@ -20,7 +20,7 @@ X. 🔗 DOCUMENTATION
 | Emoji | Meaning |
 |---|---|
 | 👥 | Team Members |
-| ⭐ | Approved points |
+| ⭐ | Optional verified activity tracking; not a benefit threshold |
 | 🏆 | Milestone |
 | 🎓 | Tuition / program benefit |
 | 🛍️ | Product benefit |
@@ -41,31 +41,30 @@ Use an identifiable participant profile, assigned QR code / referral link, appro
 | Tuition | **$0** |
 | Product Benefit | **50% discount** |
 | Ambassador Kit / QR / Referral Participation | ✅ |
+| Monthly Eligibility Condition | **Meet required monthly performance and contribution obligations under the applicable Team Member agreement** |
 
 
 
-## IV. ⭐ POINT TIERS
+## IV. 📅 MONTHLY PERFORMANCE & CONTRIBUTION ELIGIBILITY
 
-Team Members may record verified Ambassador activity and conversions, but eligible tuition remains **$0** and the Team Member product benefit remains **50%**.
+Team Members do **not** use the 1%–25% contributor point ladder to keep Team Member benefits.
 
-Different activities are worth different point amounts.
-
-## V. 🔗 CONVERSION MILESTONES
-
-| Milestone | Point Treatment |
+| Team Member Benefit | Continuing Requirement |
 |---|---|
-| Paying Education Pathway student conversion | Conversion recorded |
-| Paying Experiential Pathway student conversion | Conversion recorded |
-| Converted student reaches 50% program completion | **50 points** |
-| Converted student completes / graduates | **+50 points** |
-| Certification Review Program purchase | **25 points** |
-| Bar Review Program purchase | **25 points** |
-| Service purchase | **25 points** |
-| Verified product purchases totaling $500 | **25 points** |
-| Verified product purchases totaling $1,000 | **50 points** |
-| Verified product purchases totaling $1,500 | **75 points** |
+| Tuition | **$0 tuition / 0% of eligible tuition due while eligible** |
+| Products | **50% discount on eligible products while eligible** |
+| Monthly Continuation | Meet applicable monthly performance, responsibility, participation and contribution requirements |
+| Point Threshold Required | **No** |
+| Purchase-Dollar Threshold Required | **No** |
+| Student-Conversion Threshold Required | **No** |
 
-A paying student conversion does **not** automatically create a 25% benefit.
+Eligibility is reviewed on the applicable monthly performance cycle.
+
+## V. 👥 TEAM MEMBER CONTRIBUTION & EQUITY TRACKING
+
+Team Member work, referrals, conversions, Ambassador activity and other verified contributions may be recorded for operational reporting and performance review, but those records do **not** create a separate 1%–25% benefit requirement.
+
+Any equity participation, equity-pool eligibility, vesting, compensation or ownership rights are governed by the applicable Team Member / equity agreement and its performance, contribution, vesting and other terms.
 
 ## VI. 📦 AMBASSADOR KIT
 
@@ -105,7 +104,7 @@ The personalized link connects people to RIAH Pathway **Education Pathways, Expe
 
 ## VIII. 🛡️ NON-STACKING & VERIFICATION
 
-Team Member tuition remains **$0** and the Team Member product benefit remains **50%**.
+Team Member tuition remains **$0** and the Team Member product benefit remains **50%** while the Team Member satisfies the applicable monthly performance and contribution requirements.
 
 All point-bearing activity and conversions require verification.
 
@@ -113,11 +112,15 @@ Products are non-refundable except eligible damaged physical products. For appli
 
 ## IX. 📋 RECORD
 
-Record Participant, Participant ID, Category, Activity, QR / Referral Attribution, Verification, Points, Ambassador Benefit, Product Benefit, Next Milestone and Status.
+Record Participant, Participant ID, Role, Monthly Review Period, Required Performance, Required Contribution, Verified Activity, QR / Referral Attribution if applicable, Performance Status, Contribution Status, Tuition Benefit Status, Product Benefit Status, Equity / Agreement Reference if applicable, Approved By and Status.
 
 ## X. 🔗 DOCUMENTATION
 
 [README](./README.md) · [AMBASSADORS](./AMBASSADORS.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md) · [PARTNERS](./PARTNERS.md)
+
+## 🔗 Canonical Contributor-Benefit Routing
+
+[README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [CONTENT CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [RIDESHARE DETAIL](./RIDESHARE.md) · [DELIVERY DETAIL](./DELIVERY.md) · [SUBSTITUTE TEACHERS](./SUBSTITUTE-TEACHERS.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md) · [PARTNER EMPLOYEE DETAIL](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [PARTNERSHIP TERMS DETAIL](./PARTNERS.md) · [STUDENTS](./STUDENTS.md) · [TEAM MEMBERS](./TEAM-MEMBERS.md)
 
 
 ---
