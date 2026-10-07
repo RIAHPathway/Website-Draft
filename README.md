@@ -1,8 +1,12 @@
+<a id="readme-i-overview"></a>
+
 # 👑RIAH Pathway.
 
 <img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/f57087f9-44e0-41ae-ba57-2d00acc4c0f4" />
 
 **RIAH Pathway** is an education and workforce development ecosystem connecting academics, experiential development, professional preparation, technology, and career pathways.
+
+<a id="readme-ii-founder"></a>
 
 **Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker**
 
@@ -16,6 +20,8 @@ Beta team members will be hired with **equity participation and compensation dur
 
 The website will launch in **October 2026** as I continue to build, develop, revise, and finalize aspects of the RIAH Pathway ecosystem.
 
+<a id="readme-iii-links"></a>
+
 Learn more about me on GitHub and LinkedIn, or connect with me through social media and Linktree.
 
 - **GitHub:** https://github.com/mariahdominiquerucker
@@ -24,7 +30,43 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Instagram:** https://instagram.com/heymariahrucker
 - **Linktree:** https://linktr.ee/mariahrucker
 
+<a id="readme-index"></a>
+
+# 🗂️ README INDEX & KEY
+
+This index provides a direct key to the major sections and routing resources maintained in the main RIAH Pathway Website Draft README. Each capitalized Roman numeral is paired with an emoji so the README can be scanned quickly while preserving direct navigation to the corresponding section.
+
+| KEY | README SECTION | DESCRIPTION |
+|---|---|---|
+| **I 👑** | [RIAH Pathway Overview](#readme-i-overview) | Main ecosystem introduction and purpose of the RIAH Pathway Website Draft repository. |
+| **II 👤** | [Contributor / Founder / CEO / Chairman](#readme-ii-founder) | Founder identity, profile, current build status, beta-team hiring direction, and launch context. |
+| **III 🔗** | [GitHub, LinkedIn, Social Media & Linktree](#readme-iii-links) | Direct public links for GitHub, LinkedIn, Facebook, Instagram, and Linktree. |
+| **IV 🛡️** | [Accreditation, Repository & Proprietary Information Disclosure](#readme-iv-disclosure) | Pre-accreditation disclosure, repository-development purpose, private-company notice, proprietary IP boundaries, and public GitHub development limitations. |
+| **V 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-v-legacy) | Public-source replica monitoring, evidence preservation, Tier 1–3 review structure, daily audit, and human-review routing. |
+| **VI ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-vi-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
+| **VII 👥** | [At-Scale Positions](#readme-vii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
+| **VIII 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-viii-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
+| **IX 🤝** | [Contributor Benefit Routing](#readme-ix-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
+
+### 🔑 KEY
+
+**I–IX** = Main README sections and routing areas.  
+**👑** = RIAH Pathway ecosystem overview.  
+**👤** = Founder and leadership profile.  
+**🔗** = Public profile and social links.  
+**🛡️** = Accreditation, repository, privacy, proprietary information, and IP disclosure.  
+**🤖** = Legacy monitoring and evidence-preservation system.  
+**⚖️** = Independent-build and enforcement notice.  
+**👥** = At-scale positions, staffing, and role structures.  
+**📚** = Tuition, faculty, experiential, and curriculum structures.  
+**🤝** = Contributor benefits and participation routing.
+
 ---
+
+
+---
+
+<a id="readme-iv-disclosure"></a>
 
 > **Accreditation Disclosure:** RIAH Pathway is currently pre accredited. Accreditation, approval, designation, endorsement, recognition, and state authorization are being pursued and should not be interpreted as already granted unless formally granted by the applicable organization or regulatory authority.
 
@@ -35,6 +77,8 @@ RIAH Pathway remains a **private company ecosystem with applicable proprietary i
 Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
 
 ---
+
+<a id="readme-v-legacy"></a>
 
 # 🤖 Legacy — RIAH Pathway Replica Bot
 
@@ -56,6 +100,8 @@ flowchart LR
 
 ---
 
+<a id="readme-vi-enforcement"></a>
+
 ## RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
 
 RIAH welcomes lawful inspiration, independent development, competition, commentary, and the use of ideas, methods, standards, and other material that the law leaves free for everyone to use. **Inspiration is not authorization to copy, appropriate, or commercially exploit protected RIAH expression, source materials, confidential information, trademarks, code, designs, or other legally protected rights.**
@@ -69,6 +115,8 @@ Legacy detections are investigative leads, not automatic legal conclusions. When
 RIAH does not assume that similarity proves copying or liability. Independent creation, prior art, licensed use, public-domain material, unprotectable ideas or methods, and other lawful explanations must be evaluated before any allegation is made. This notice is a statement of rights-preservation and enforcement posture, not an allegation against any particular person or entity.
 
 ---
+
+<a id="readme-vii-positions"></a>
 
 # 👥 At-Scale Positions
 
@@ -117,6 +165,8 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 
 ---
 
+<a id="readme-viii-curriculum"></a>
+
 # 📚 Tuition, Faculty, Experiential & Curriculum Routing
 
 RIAH Pathway's tuition and pricing reference, human-led faculty curriculum framework, experiential structure, and academic curriculum structures are maintained in dedicated repository sections. The routing table below provides direct access to the core pricing, faculty, experiential, GED, high school, general education, school-core, and major curriculum Markdown files.
@@ -154,6 +204,8 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 | School of Technology | Software Engineering Structure | [Software Engineering Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-TECHNOLOGY-STRUCTURE/SOFTWARE-ENGINEERING-STRUCTURE.md) |
 
 ---
+
+<a id="readme-ix-contributor-benefits"></a>
 
 # 👥 Contributor Benefit Routing
 
