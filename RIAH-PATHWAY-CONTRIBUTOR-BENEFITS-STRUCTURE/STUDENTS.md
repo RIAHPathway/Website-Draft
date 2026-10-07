@@ -122,14 +122,15 @@ VII. 🎓 Graduate Benefit Levels
 VIII. 🛡️ Verification  
 IX. 📋 Graduate Record  
 X. 🏆 Examples
+XI. 👑 Ambassador & Conversion Milestones
 
 ## I. 🎓 Graduate Benefit
 
 Students who successfully complete an eligible RIAH Pathway Education Pathway or Experiential Pathway receive a separate Graduate Tuition Benefit.
 
-**Complete the entire eligible pathway = guaranteed 10% eligible tuition reduction.**
+**Complete the entire eligible Education or Experiential Pathway = guaranteed 10% eligible tuition reimbursement.**
 
-The Graduate Tuition Benefit may increase to **50% maximum eligible tuition**. **Education Graduates and Experiential Graduates may qualify for up to 25% eligible products based on applicable approved Graduate Points and eligibility requirements. The product benefit is not guaranteed at pathway completion.**
+The Education and Experiential reimbursement structure may reach **50% maximum eligible tuition / program reimbursement**: **10% guaranteed at completion + up to 25% Ambassador milestones + up to 15% additional reimbursement milestones**. Eligible product benefits are separate and may reach **up to 25%**.
 
 ## II. 👑 Eligibility
 
@@ -158,7 +159,15 @@ Qualifying pathways may include High School, GED, Associate's, Bachelor's, MBA, 
 
 ## IV. 🧮 Graduate Point Formula
 
-After the guaranteed 10%, **each additional 100 approved Graduate Points = +1% eligible tuition**. Maximum: **5,000 total Graduate Points = 50% tuition**. This consists of 1,000 guaranteed completion points plus up to 4,000 additional approved Graduate Points. For Education and Experiential Graduates, eligible product benefits are **up to 25%** based on applicable approved Graduate Points and eligibility requirements. The guaranteed 10% completion milestone applies to tuition only.
+| Component | Points / Maximum |
+|---|---:|
+| Complete eligible Education or Experiential Pathway | **1,000 points = 10% guaranteed** |
+| Ambassador milestones | **Up to 2,500 points = 25%** |
+| Additional reimbursement milestones | **Up to 1,500 points = 15%** |
+| Total Education / Experiential reimbursement | **Up to 5,000 points = 50%** |
+| Product Benefit | **Separate Product Benefit points; up to 2,500 points = 25%** |
+
+Ambassador categories do not stack beyond the **25% Ambassador component**.
 
 ## V. 🏆 Graduate 10%–50% Milestones
 
@@ -267,6 +276,50 @@ Experiential Graduate: 1,000 completion + 50 Experiential support + 50 mentorshi
 Maximum Education Graduate: **2,500 points = 25% eligible products maximum; tuition may continue through 5,000 points = 50% tuition maximum**.
 
 Maximum Experiential Graduate: **2,500 points = 25% eligible products maximum; tuition may continue through 5,000 points = 50% tuition maximum**.
+
+
+## XI. 👑 AMBASSADOR & CONVERSION MILESTONES
+
+| Rule | Structure |
+|---|---|
+| Ambassador Benefit | **Up to 25%** |
+| Product Benefit | **Up to 25%** through separate product milestones |
+| Multiple Ambassador categories | **Do not stack beyond 25%** |
+| Education / Experiential completion | **10% guaranteed** |
+| Education / Experiential total reimbursement | **Up to 50%** |
+
+| Conversion / Purchase Milestone | Point Treatment |
+|---|---|
+| Paying Education Pathway student conversion | Conversion recorded |
+| Paying Experiential Pathway student conversion | Conversion recorded |
+| Converted student reaches 50% program completion | **50 points** |
+| Converted student completes / graduates | **+50 points** |
+| Certification Review Program purchase | **25 points** |
+| Bar Review Program purchase | **25 points** |
+| Service purchase | **25 points** |
+| Verified product purchases totaling $500 | **25 points** |
+| Verified product purchases totaling $1,000 | **50 points** |
+| Verified product purchases totaling $1,500 | **75 points** |
+
+| Material | Physical | Digital |
+|---|:---:|:---:|
+| One apparel selection | ✅ | ❌ |
+| Vehicle vinyl | ✅ | ❌ |
+| Vehicle rooftop sign / billboard | ✅ | ❌ |
+| Retractable banner | ✅ | ❌ |
+| Tablecloth | ✅ | ❌ |
+| Business card | ❌ | ✅ |
+| Flyer | ❌ | ✅ |
+| Brochure | ❌ | ✅ |
+| Referral link | ❌ | ✅ |
+| Products / Services / Pathways link | ❌ | ✅ |
+| Individual QR code | ✅ | ✅ |
+
+Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
+
+### 🔗 Related Documentation
+
+[README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
 
 RIAH Pathway
 
