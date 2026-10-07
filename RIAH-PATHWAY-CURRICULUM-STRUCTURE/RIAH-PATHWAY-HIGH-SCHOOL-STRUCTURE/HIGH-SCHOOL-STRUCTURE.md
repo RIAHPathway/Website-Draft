@@ -316,8 +316,6 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 
 **Fire Prevention:** Specifically required for Ohio students under Ohio Revised Code 3301.0732(E)(8).
 
-| **SEMESTER TOTAL** |  |  | **15** |  |  |  |  |  |  |
-
 ### Grade 9 Total: **30 Credit Hours**
 
 ---
