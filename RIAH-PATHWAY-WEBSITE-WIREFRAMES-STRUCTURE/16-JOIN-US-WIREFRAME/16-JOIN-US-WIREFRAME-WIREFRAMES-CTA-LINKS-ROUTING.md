@@ -14,6 +14,12 @@
 | 16.4 Join Our Team | `16.4-JOIN-OUR-TEAM-WIREFRAME.md` | 16.4 |
 | 16.5 Ambassadors | `16.5-AMBASSADORS-WIREFRAME.md` | 16.5 |
 
+## 16.1 ROMAN NUMERAL VI ROUTING
+
+| Source Section | Destination Route | Destination Markdown |
+|---|---|---|
+| 16.1 — VI. Student Life | 16.2 | `16.2-STUDENT-LIFE-WIREFRAME.md` |
+
 ## 16.4 JOIN OUR TEAM ROUTING DIRECTORY
 
 | Route | Section |
