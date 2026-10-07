@@ -90,7 +90,7 @@ Completion of the High School curriculum satisfies the High School academic comp
 | **Next Academic Stage** | After satisfying the applicable prerequisites, enter Year 3 of the student's selected major. |
 
 ```mermaid
-flowchart TD
+graph TD
     A["RIAH Pathway High School"]
     B["Regular High School"]
     C["Dual Enrollment"]
@@ -99,7 +99,7 @@ flowchart TD
     F["College General Education"]
     G["College School Core"]
     H["High School Diploma"]
-    I["High School Diploma and Associate's Degree"]
+    I["High School Diploma and Associates Degree"]
     J["Year 3 of Applicable Major"]
 
     A --> B
@@ -308,7 +308,7 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 # SCIENCE SEQUENCE
 
 ```mermaid
-flowchart TD
+graph TD
     N0["Geology"]
     N1["Astronomy"]
     N2["Earth Science"]
@@ -333,7 +333,7 @@ flowchart TD
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
 ```mermaid
-flowchart TD
+graph TD
     N0["World Geography"]
     N1["World History"]
     N2["Holocaust and Genocide Studies"]
@@ -388,10 +388,10 @@ flowchart TD
 ### Grade 9 Total: **30 Credit Hours**
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 9"]
-    N1["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
-    N2["English II / Composition II; Geometry; Astronomy; World History; Health"]
+    N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
+    N2["English II and Composition II, Geometry, Astronomy, World History, Health"]
     N3["30 CREDITS"]
     N4["GRADE 10"]
     N0 --> N1
@@ -429,10 +429,10 @@ flowchart TD
 ### Grade 10 Total: **30 Credit Hours**
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 10"]
-    N1["English III / American Literature; Algebra II; Earth Science; Holocaust and Genocide Studies; Physical Education"]
-    N2["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
+    N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
+    N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
     N3["30 CREDITS"]
     N4["GRADE 11"]
     N0 --> N1
@@ -474,12 +474,12 @@ flowchart TD
 Students enrolled in the **Dual Enrollment** pathway complete the High School curriculum concurrently with the applicable RIAH Pathway college **General Education** and **School Core** curriculum as defined in the High School Student Pathways section above.
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 11"]
-    N1["Precalculus; Biology; American History; Financial Literacy; World Language I"]
-    N2["Calculus; Chemistry; State History; World Language II; Personal Finance"]
+    N1["Precalculus, Biology, American History, Financial Literacy, World Language I"]
+    N2["Calculus, Chemistry, State History, World Language II, Personal Finance"]
     N3["30 CREDITS"]
-    N4["CONCURRENT ENROLLMENT; WHERE APPLICABLE"]
+    N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"]
     N5["GRADE 12"]
     N0 --> N1
     N1 --> N2
@@ -536,14 +536,14 @@ flowchart TD
 ### Grade 12 Total: **30 Credit Hours**
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 12"]
-    N1["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
-    N2["Physiology; Physics; Sociology; Psychology; Oral Communication"]
+    N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"]
+    N2["Physiology, Physics, Sociology, Psychology, Oral Communication"]
     N3["30 CREDITS"]
-    N4["STATE-SPECIFIC; GRADUATION CONTROLS"]
+    N4["STATE-SPECIFIC, GRADUATION CONTROLS"]
     N5["GRADUATION AUDIT"]
-    N6["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
+    N6["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -578,11 +578,11 @@ flowchart TD
 ## English
 
 ```mermaid
-flowchart TD
-    N0["ENG 1101 — English I / Composition I"]
-    N1["ENG 1102 — English II / Composition II"]
-    N2["ENG 2101 — English III / American Literature"]
-    N3["ENG 2102 — English IV / World Literature"]
+graph TD
+    N0["ENG 1101 - English I and Composition I"]
+    N1["ENG 1102 - English II and Composition II"]
+    N2["ENG 2101 - English III and American Literature"]
+    N3["ENG 2102 - English IV and World Literature"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -591,14 +591,14 @@ flowchart TD
 ## Mathematics
 
 ```mermaid
-flowchart TD
-    N0["MAT 1101 — Algebra I"]
-    N1["MAT 1102 — Geometry"]
-    N2["MAT 2101 — Algebra II"]
-    N3["MAT 2102 — Trigonometry"]
-    N4["MAT 3101 — Precalculus"]
-    N5["MAT 3102 — Calculus"]
-    N6["MAT 4101 — Statistics"]
+graph TD
+    N0["MAT 1101 - Algebra I"]
+    N1["MAT 1102 - Geometry"]
+    N2["MAT 2101 - Algebra II"]
+    N3["MAT 2102 - Trigonometry"]
+    N4["MAT 3101 - Precalculus"]
+    N5["MAT 3102 - Calculus"]
+    N6["MAT 4101 - Statistics"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -610,16 +610,16 @@ flowchart TD
 ## Science
 
 ```mermaid
-flowchart TD
-    N0["SCI 1101 — Geology"]
-    N1["SCI 1102 — Astronomy"]
-    N2["SCI 2101 — Earth Science"]
-    N3["SCI 2102 — Environmental Science"]
-    N4["SCI 3101 — Biology"]
-    N5["SCI 3102 — Chemistry"]
-    N6["SCI 4101 — Anatomy"]
-    N7["SCI 4102 — Physiology"]
-    N8["SCI 4103 — Physics"]
+graph TD
+    N0["SCI 1101 - Geology"]
+    N1["SCI 1102 - Astronomy"]
+    N2["SCI 2101 - Earth Science"]
+    N3["SCI 2102 - Environmental Science"]
+    N4["SCI 3101 - Biology"]
+    N5["SCI 3102 - Chemistry"]
+    N6["SCI 4101 - Anatomy"]
+    N7["SCI 4102 - Physiology"]
+    N8["SCI 4103 - Physics"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -633,16 +633,16 @@ flowchart TD
 ## History / Social Sciences
 
 ```mermaid
-flowchart TD
-    N0["GEO 1101 — World Geography"]
-    N1["HIS 1101 — World History"]
-    N2["HIS 2101 — Holocaust and Genocide Studies"]
-    N3["GOV 2101 — Government"]
-    N4["HIS 3101 — American History"]
-    N5["HIS 3102 — State History"]
-    N6["ECO 4101 — Economics"]
-    N7["SOC 4101 — Sociology"]
-    N8["PSY 4101 — Psychology"]
+graph TD
+    N0["GEO 1101 - World Geography"]
+    N1["HIS 1101 - World History"]
+    N2["HIS 2101 - Holocaust and Genocide Studies"]
+    N3["GOV 2101 - Government"]
+    N4["HIS 3101 - American History"]
+    N5["HIS 3102 - State History"]
+    N6["ECO 4101 - Economics"]
+    N7["SOC 4101 - Sociology"]
+    N8["PSY 4101 - Psychology"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -656,25 +656,25 @@ flowchart TD
 ## Additional Social Studies
 
 ```mermaid
-flowchart TD
-    N0["ETH 4101 — Ethnic Studies"]
+graph TD
+    N0["ETH 4101 - Ethnic Studies"]
 ```
 
 ## Financial Education
 
 ```mermaid
-flowchart TD
-    N0["FIN 3101 — Financial Literacy"]
-    N1["PFI 3101 — Personal Finance"]
+graph TD
+    N0["FIN 3101 - Financial Literacy"]
+    N1["PFI 3101 - Personal Finance"]
     N0 --> N1
 ```
 
 ## Technology
 
 ```mermaid
-flowchart TD
-    N0["TEC 1101 — Digital Literacy"]
-    N1["CSC 4101 — Computer Science"]
+graph TD
+    N0["TEC 1101 - Digital Literacy"]
+    N1["CSC 4101 - Computer Science"]
     N0 --> N1
 ```
 
@@ -723,15 +723,15 @@ flowchart TD
 # COMPLETE FOUR-YEAR FLOW
 
 ```mermaid
-flowchart TD
+graph TD
     FLOW_0["RIAH PATHWAY, HIGH SCHOOL"]
     FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"]
     FLOW_2["GRADE 9, 30 CREDITS"]
-    FLOW_3["English I / Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
-    FLOW_4["English II / Composition II, Geometry, Astronomy, World History, Health"]
+    FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
+    FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"]
     FLOW_5["GRADE 10, 30 CREDITS"]
-    FLOW_6["English III / American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
-    FLOW_7["English IV / World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
+    FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
+    FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
     FLOW_8["GRADE 11, 30 CREDITS"]
     FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"]
     FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"]
@@ -804,7 +804,7 @@ flowchart TD
 # SCIENCE SEQUENCE
 
 ```mermaid
-flowchart TD
+graph TD
     N0["Geology"]
     N1["Astronomy"]
     N2["Earth Science"]
@@ -829,7 +829,7 @@ flowchart TD
 # HISTORY / SOCIAL SCIENCE SEQUENCE
 
 ```mermaid
-flowchart TD
+graph TD
     N0["World Geography"]
     N1["World History"]
     N2["Holocaust and Genocide Studies"]
@@ -884,10 +884,10 @@ flowchart TD
 ### Grade 9 Total: **30 Credit Hours**
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 9"]
-    N1["English I / Composition I; Algebra I; Geology; World Geography; Digital Literacy"]
-    N2["English II / Composition II; Geometry; Astronomy; World History; Health"]
+    N1["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
+    N2["English II and Composition II, Geometry, Astronomy, World History, Health"]
     N3["30 CREDITS"]
     N4["GRADE 10"]
     N0 --> N1
@@ -925,10 +925,10 @@ flowchart TD
 ### Grade 10 Total: **30 Credit Hours**
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 10"]
-    N1["English III / American Literature; Algebra II; Earth Science; Holocaust and Genocide Studies; Physical Education"]
-    N2["English IV / World Literature; Trigonometry; Environmental Science; Government; Fine Arts"]
+    N1["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
+    N2["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
     N3["30 CREDITS"]
     N4["GRADE 11"]
     N0 --> N1
@@ -972,12 +972,12 @@ flowchart TD
 | General Education | Eligible Grade 11 students may begin applicable RIAH Pathway General Education coursework concurrently with the high-school curriculum. |
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 11"]
-    N1["Precalculus; Biology; American History; Financial Literacy; World Language I"]
-    N2["Calculus; Chemistry; State History; World Language II; Personal Finance"]
+    N1["Precalculus, Biology, American History, Financial Literacy, World Language I"]
+    N2["Calculus, Chemistry, State History, World Language II, Personal Finance"]
     N3["30 CREDITS"]
-    N4["CONCURRENT ENROLLMENT; WHERE APPLICABLE"]
+    N4["CONCURRENT ENROLLMENT, WHERE APPLICABLE"]
     N5["GRADE 12"]
     N0 --> N1
     N1 --> N2
@@ -1029,14 +1029,14 @@ flowchart TD
 ### Grade 12 Total: **30 Credit Hours**
 
 ```mermaid
-flowchart TD
+graph TD
     N0["GRADE 12"]
-    N1["Statistics; Anatomy; Economics; Computer Science; Ethnic Studies"]
-    N2["Physiology; Physics; Sociology; Psychology; Oral Communication"]
+    N1["Statistics, Anatomy, Economics, Computer Science, Ethnic Studies"]
+    N2["Physiology, Physics, Sociology, Psychology, Oral Communication"]
     N3["30 CREDITS"]
-    N4["STATE-SPECIFIC; GRADUATION CONTROLS"]
+    N4["STATE-SPECIFIC, GRADUATION CONTROLS"]
     N5["GRADUATION AUDIT"]
-    N6["RIAH PATHWAY; HIGH SCHOOL DIPLOMA"]
+    N6["RIAH PATHWAY, HIGH SCHOOL DIPLOMA"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -1071,11 +1071,11 @@ flowchart TD
 ## English
 
 ```mermaid
-flowchart TD
-    N0["ENG 1101 — English I / Composition I"]
-    N1["ENG 1102 — English II / Composition II"]
-    N2["ENG 2101 — English III / American Literature"]
-    N3["ENG 2102 — English IV / World Literature"]
+graph TD
+    N0["ENG 1101 - English I and Composition I"]
+    N1["ENG 1102 - English II and Composition II"]
+    N2["ENG 2101 - English III and American Literature"]
+    N3["ENG 2102 - English IV and World Literature"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -1084,14 +1084,14 @@ flowchart TD
 ## Mathematics
 
 ```mermaid
-flowchart TD
-    N0["MAT 1101 — Algebra I"]
-    N1["MAT 1102 — Geometry"]
-    N2["MAT 2101 — Algebra II"]
-    N3["MAT 2102 — Trigonometry"]
-    N4["MAT 3101 — Precalculus"]
-    N5["MAT 3102 — Calculus"]
-    N6["MAT 4101 — Statistics"]
+graph TD
+    N0["MAT 1101 - Algebra I"]
+    N1["MAT 1102 - Geometry"]
+    N2["MAT 2101 - Algebra II"]
+    N3["MAT 2102 - Trigonometry"]
+    N4["MAT 3101 - Precalculus"]
+    N5["MAT 3102 - Calculus"]
+    N6["MAT 4101 - Statistics"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -1103,16 +1103,16 @@ flowchart TD
 ## Science
 
 ```mermaid
-flowchart TD
-    N0["SCI 1101 — Geology"]
-    N1["SCI 1102 — Astronomy"]
-    N2["SCI 2101 — Earth Science"]
-    N3["SCI 2102 — Environmental Science"]
-    N4["SCI 3101 — Biology"]
-    N5["SCI 3102 — Chemistry"]
-    N6["SCI 4101 — Anatomy"]
-    N7["SCI 4102 — Physiology"]
-    N8["SCI 4103 — Physics"]
+graph TD
+    N0["SCI 1101 - Geology"]
+    N1["SCI 1102 - Astronomy"]
+    N2["SCI 2101 - Earth Science"]
+    N3["SCI 2102 - Environmental Science"]
+    N4["SCI 3101 - Biology"]
+    N5["SCI 3102 - Chemistry"]
+    N6["SCI 4101 - Anatomy"]
+    N7["SCI 4102 - Physiology"]
+    N8["SCI 4103 - Physics"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -1126,16 +1126,16 @@ flowchart TD
 ## History / Social Sciences
 
 ```mermaid
-flowchart TD
-    N0["GEO 1101 — World Geography"]
-    N1["HIS 1101 — World History"]
-    N2["HIS 2101 — Holocaust and Genocide Studies"]
-    N3["GOV 2101 — Government"]
-    N4["HIS 3101 — American History"]
-    N5["HIS 3102 — State History"]
-    N6["ECO 4101 — Economics"]
-    N7["SOC 4101 — Sociology"]
-    N8["PSY 4101 — Psychology"]
+graph TD
+    N0["GEO 1101 - World Geography"]
+    N1["HIS 1101 - World History"]
+    N2["HIS 2101 - Holocaust and Genocide Studies"]
+    N3["GOV 2101 - Government"]
+    N4["HIS 3101 - American History"]
+    N5["HIS 3102 - State History"]
+    N6["ECO 4101 - Economics"]
+    N7["SOC 4101 - Sociology"]
+    N8["PSY 4101 - Psychology"]
     N0 --> N1
     N1 --> N2
     N2 --> N3
@@ -1149,25 +1149,25 @@ flowchart TD
 ## Additional Social Studies
 
 ```mermaid
-flowchart TD
-    N0["ETH 4101 — Ethnic Studies"]
+graph TD
+    N0["ETH 4101 - Ethnic Studies"]
 ```
 
 ## Financial Education
 
 ```mermaid
-flowchart TD
-    N0["FIN 3101 — Financial Literacy"]
-    N1["PFI 3101 — Personal Finance"]
+graph TD
+    N0["FIN 3101 - Financial Literacy"]
+    N1["PFI 3101 - Personal Finance"]
     N0 --> N1
 ```
 
 ## Technology
 
 ```mermaid
-flowchart TD
-    N0["TEC 1101 — Digital Literacy"]
-    N1["CSC 4101 — Computer Science"]
+graph TD
+    N0["TEC 1101 - Digital Literacy"]
+    N1["CSC 4101 - Computer Science"]
     N0 --> N1
 ```
 
@@ -1210,15 +1210,15 @@ flowchart TD
 # COMPLETE FOUR-YEAR FLOW
 
 ```mermaid
-flowchart TD
+graph TD
     FLOW_0["RIAH PATHWAY, HIGH SCHOOL"]
     FLOW_1["VIRTUAL-ONLY, DELIVERY MODEL"]
     FLOW_2["GRADE 9, 30 CREDITS"]
-    FLOW_3["English I / Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
-    FLOW_4["English II / Composition II, Geometry, Astronomy, World History, Health"]
+    FLOW_3["English I and Composition I, Algebra I, Geology, World Geography, Digital Literacy"]
+    FLOW_4["English II and Composition II, Geometry, Astronomy, World History, Health"]
     FLOW_5["GRADE 10, 30 CREDITS"]
-    FLOW_6["English III / American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
-    FLOW_7["English IV / World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
+    FLOW_6["English III and American Literature, Algebra II, Earth Science, Holocaust and Genocide Studies, Physical Education"]
+    FLOW_7["English IV and World Literature, Trigonometry, Environmental Science, Government, Fine Arts"]
     FLOW_8["GRADE 11, 30 CREDITS"]
     FLOW_9["Precalculus, Biology, American History, Financial Literacy, World Language I"]
     FLOW_10["Calculus, Chemistry, State History, World Language II, Personal Finance"]
