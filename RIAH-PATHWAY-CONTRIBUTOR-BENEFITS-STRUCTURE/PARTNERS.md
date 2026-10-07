@@ -116,14 +116,13 @@ III. ⭐ Partner Points
 IV. 🛡️ Verification  
 V. 📋 Partner Record  
 VI. 🏆 Benefit Rules
+VII. 👑 Shared Ambassador Program
 
 ## I. 🤝 Partner Benefit Program
 
 RIAH Pathway partners may qualify for tuition and product benefits through an approved partnership relationship.
 
-Eligible Partner Employees: **15% eligible tuition + 15% eligible products** under applicable partner terms.
-
-A separate approved Partner or Pillar Product Benefit may reach **up to 25% eligible products** where specifically authorized by applicable written partnership terms.
+Eligible Partner Employees may earn **up to 25% eligible tuition / program benefit and up to 25% eligible product benefit** through applicable Partner / Ambassador milestones. These percentages do not stack beyond 25%.
 
 ## II. 👑 Partner Eligibility
 
@@ -208,7 +207,7 @@ flowchart LR
 
 | Example | Result |
 |---|---|
-| 🤝 Verified eligible Partner Employee | 15% eligible tuition + 15% eligible products under applicable terms |
+| 🤝 Verified eligible Partner Employee | up to 25% eligible tuition / program benefit + up to 25% eligible products under applicable terms |
 | 🤝 Partner with separately authorized Pillar Product Benefit | Up to 25% eligible products where the written terms authorize it |
 | ⭐ Partner completes orientation + event + booth | 25 + 25 + 50 = 100 recorded Partner Activity Points |
 | 👑 Partner coordinates event + major initiative | 75 + applicable 100–250 points after verification |
@@ -226,7 +225,51 @@ Record Participant, Participant ID, Partner Organization, Partner Classification
 
 ## VI. 🏆 Benefit Rules
 
-Partner benefits are tied to the applicable written partnership classification. Eligible Partner Employees receive **15% tuition and 15% products** under applicable terms. A separate Partner or Pillar Product Benefit may provide **up to 25% products where authorized**. Partner points do not independently override written partnership terms, eligibility periods, exclusions or benefit caps.
+Partner benefits are tied to the applicable written partnership classification. Eligible Partner Employees receive **up to 25% tuition / program benefit and up to 25% products** under applicable terms. The eligible product benefit is capped at **25%**. Partner points do not independently override written partnership terms, eligibility periods, exclusions or benefit caps.
+
+
+## VII. 👑 SHARED AMBASSADOR PROGRAM
+
+| Rule | Structure |
+|---|---|
+| Ambassador Benefit | **Up to 25%** |
+| Product Benefit | **Up to 25%** through separate product milestones |
+| Multiple Ambassador categories | **Do not stack beyond 25%** |
+| Education / Experiential completion | **10% guaranteed** |
+| Education / Experiential total reimbursement | **Up to 50%** |
+
+| Conversion / Purchase Milestone | Point Treatment |
+|---|---|
+| Paying Education Pathway student conversion | Conversion recorded |
+| Paying Experiential Pathway student conversion | Conversion recorded |
+| Converted student reaches 50% program completion | **50 points** |
+| Converted student completes / graduates | **+50 points** |
+| Certification Review Program purchase | **25 points** |
+| Bar Review Program purchase | **25 points** |
+| Service purchase | **25 points** |
+| Verified product purchases totaling $500 | **25 points** |
+| Verified product purchases totaling $1,000 | **50 points** |
+| Verified product purchases totaling $1,500 | **75 points** |
+
+| Material | Physical | Digital |
+|---|:---:|:---:|
+| One apparel selection | ✅ | ❌ |
+| Vehicle vinyl | ✅ | ❌ |
+| Vehicle rooftop sign / billboard | ✅ | ❌ |
+| Retractable banner | ✅ | ❌ |
+| Tablecloth | ✅ | ❌ |
+| Business card | ❌ | ✅ |
+| Flyer | ❌ | ✅ |
+| Brochure | ❌ | ✅ |
+| Referral link | ❌ | ✅ |
+| Products / Services / Pathways link | ❌ | ✅ |
+| Individual QR code | ✅ | ✅ |
+
+Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
+
+### 🔗 Related Documentation
+
+[README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
 
 RIAH Pathway
 
