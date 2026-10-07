@@ -2,124 +2,92 @@
 
 # 👥 Team Members
 
+Team Members are the internal RIAH Pathway team. Their Team Member benefits are part of team eligibility and are **not earned through the Ambassador 1%–25% point ladder, product-purchase conversion cycle, referral thresholds, Ambassador kit requirements or similar Ambassador mechanics**.
+
 ## 📑 INDEX
 
-I. 👥 KEY  
-II. 👑 ELIGIBILITY  
-III. 🧮 BENEFIT STRUCTURE  
-IV. ⭐ POINT TIERS  
-V. 🔗 CONVERSION MILESTONES  
-VI. 📦 AMBASSADOR KIT  
-VII. 🔗 QR CODE & DIGITAL LINK  
-VIII. 🛡️ NON-STACKING & VERIFICATION  
-IX. 📋 RECORD  
-X. 🔗 DOCUMENTATION
+I. 👑 TEAM ELIGIBILITY  
+II. 🧮 TEAM BENEFIT STRUCTURE  
+III. 📅 DAILY, WEEKLY & MONTHLY PERFORMANCE RESPONSIBILITIES  
+IV. 👥 CONTRIBUTION & EQUITY POOL TRACKING  
+V. 🛡️ BENEFIT CONTINUATION & REVIEW  
+VI. 📋 TEAM MEMBER RECORD  
+VII. 🔗 CANONICAL ROUTING
 
-## I. 👥 KEY
+## I. 👑 TEAM ELIGIBILITY
 
-| Emoji | Meaning |
+A Team Member receives the Team Member structure by being an active eligible member of the RIAH Pathway team under the applicable written Team Member, role, contribution, equity, vesting, compensation and performance terms.
+
+Team Member status is separate from the non-team Ambassador benefit structure.
+
+## II. 🧮 TEAM BENEFIT STRUCTURE
+
+| Team Member Benefit / Requirement | Structure |
 |---|---|
-| 👥 | Team Members |
-| ⭐ | Optional verified activity tracking; not a benefit threshold |
-| 🏆 | Milestone |
-| 🎓 | Tuition / program benefit |
-| 🛍️ | Product benefit |
-| 🔗 | QR code / referral attribution |
-| ✅ | Approved / verified |
-| ❌ | Rejected / ineligible |
+| Tuition | **$0 tuition while eligible** |
+| Eligible Products | **50% discount while eligible** |
+| Ambassador 1%–25% Point Ladder | **Not required** |
+| Product-Purchase Dollar Threshold | **Not required** |
+| Student-Conversion Threshold | **Not required** |
+| Equity Contribution Pool Amount | **Tracked according to the applicable Team Member / equity agreement** |
+| Benefit Continuation | **Meet applicable daily, weekly and monthly responsibility, performance and contribution requirements** |
 
-## II. 👑 ELIGIBILITY
+Team Members do not need to earn the $0 tuition or 50% product benefit through Ambassador points. Those benefits are attached to eligible Team Member status and continue only while the Team Member satisfies the applicable requirements.
 
-Team Members may participate in the Ambassador Program, receive the applicable kit, QR code and referral link, and record verified activity.
+## III. 📅 DAILY, WEEKLY & MONTHLY PERFORMANCE RESPONSIBILITIES
 
-Use an identifiable participant profile, assigned QR code / referral link, approved RIAH Pathway materials and verified activity records.
-
-## III. 🧮 BENEFIT STRUCTURE
-
-| Benefit | Structure |
+| Review Level | Requirement |
 |---|---|
-| Tuition | **$0** |
-| Product Benefit | **50% discount** |
-| Ambassador Kit / QR / Referral Participation | ✅ |
-| Monthly Eligibility Condition | **Meet required monthly performance and contribution obligations under the applicable Team Member agreement** |
+| Daily | Complete assigned responsibilities, required deliverables, communications, documentation and role-specific performance obligations |
+| Weekly | Meet weekly role commitments, meetings, deliverables, contribution requirements and performance metrics |
+| Monthly | Meet monthly performance, participation, contribution and responsibility metrics required by the applicable Team Member agreement |
+| Ongoing | Remain in good standing and satisfy applicable confidentiality, governance, security, conduct and role requirements |
 
+The applicable role agreement controls the exact metrics for each Team Member. Failure to meet required metrics may trigger review of Team Member eligibility and benefits under the applicable written terms.
 
-## IV. 📅 MONTHLY PERFORMANCE & CONTRIBUTION ELIGIBILITY
+## IV. 👥 CONTRIBUTION & EQUITY POOL TRACKING
 
-Team Members do **not** use the 1%–25% contributor point ladder to keep Team Member benefits.
+Team Member performance and contribution records are maintained separately from non-team Ambassador point ledgers.
 
-| Team Member Benefit | Continuing Requirement |
+| Team Tracking Field | Treatment |
 |---|---|
-| Tuition | **$0 tuition / 0% of eligible tuition due while eligible** |
-| Products | **50% discount on eligible products while eligible** |
-| Monthly Continuation | Meet applicable monthly performance, responsibility, participation and contribution requirements |
-| Point Threshold Required | **No** |
-| Purchase-Dollar Threshold Required | **No** |
-| Student-Conversion Threshold Required | **No** |
+| Role Responsibilities | Tracked against assigned role requirements |
+| Daily Performance | Recorded as applicable |
+| Weekly Performance | Recorded as applicable |
+| Monthly Performance | Recorded as applicable |
+| Contribution Requirements | Tracked under the applicable Team Member agreement |
+| Assigned Equity Contribution Pool Amount | Recorded from the applicable Team Member / equity agreement |
+| Vesting / Equity Conditions | Governed by the applicable written agreement |
+| Compensation | Governed by the applicable written agreement |
+| Ownership Rights | Governed by the applicable written agreement |
 
-Eligibility is reviewed on the applicable monthly performance cycle.
+No Team Member equity, vesting, compensation or ownership right is created by an Ambassador point total.
 
-## V. 👥 TEAM MEMBER CONTRIBUTION & EQUITY TRACKING
+## V. 🛡️ BENEFIT CONTINUATION & REVIEW
 
-Team Member work, referrals, conversions, Ambassador activity and other verified contributions may be recorded for operational reporting and performance review, but those records do **not** create a separate 1%–25% benefit requirement.
+The Team Member **$0 tuition** and **50% eligible-product discount** remain active while the Team Member remains eligible and satisfies the applicable daily, weekly and monthly performance and contribution requirements.
 
-Any equity participation, equity-pool eligibility, vesting, compensation or ownership rights are governed by the applicable Team Member / equity agreement and its performance, contribution, vesting and other terms.
+Team Member reviews should verify required responsibilities, performance metrics, contribution obligations, equity / agreement requirements and current good-standing status.
 
-## VI. 📦 AMBASSADOR KIT
+## VI. 📋 TEAM MEMBER RECORD
 
-| Material | Physical | Digital |
-|---|:---:|:---:|
-| One apparel selection — T-shirt, sweatshirt/hoodie, jacket, coat, or blazer | ✅ | ❌ |
-| Vehicle vinyl | ✅ | ❌ |
-| Vehicle rooftop sign / billboard | ✅ | ❌ |
-| Retractable banner | ✅ | ❌ |
-| Tablecloth | ✅ | ❌ |
-| Business card | ❌ | ✅ |
-| Flyer | ❌ | ✅ |
-| Brochure | ❌ | ✅ |
-| Referral link | ❌ | ✅ |
-| Products / Services / Pathways link | ❌ | ✅ |
-| Individual QR code | ✅ | ✅ |
-
-Vehicle materials apply when the participant has a vehicle. The reusable physical kit may use a subsidized cost of approximately **$250** based on materials, production and shipping.
-
-## VII. 🔗 QR CODE & DIGITAL LINK
-
-| Placement | Physical | Digital |
-|---|:---:|:---:|
-| Vehicle vinyl | ✅ | ❌ |
-| Vehicle rooftop sign | ✅ | ❌ |
-| Apparel | ✅ | ❌ |
-| Retractable banner | ✅ | ❌ |
-| Event table display | ✅ | ❌ |
-| Business card | ❌ | ✅ |
-| Flyer | ❌ | ✅ |
-| Brochure | ❌ | ✅ |
-| Digital content | ❌ | ✅ |
-| Individual referral link | ❌ | ✅ |
-| Individual QR code | ✅ | ✅ |
-
-The personalized link connects people to RIAH Pathway **Education Pathways, Experiential Pathways, Certification Review Programs, Bar Review Programs, Products and Services** and attributes the referral to the participant.
-
-## VIII. 🛡️ NON-STACKING & VERIFICATION
-
-Team Member tuition remains **$0** and the Team Member product benefit remains **50%** while the Team Member satisfies the applicable monthly performance and contribution requirements. The $0–$2,500 / 0%–25% Product Discount earning cycle applies to non-team contributor categories and does not replace the Team Member 50% product benefit.
-
-All point-bearing activity and conversions require verification.
-
-Products are non-refundable. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access** under the applicable guarantee.
-
-## IX. 📋 RECORD
-
-Record Participant, Participant ID, Role, Monthly Review Period, Required Performance, Required Contribution, Verified Activity, QR / Referral Attribution if applicable, Performance Status, Contribution Status, Tuition Benefit Status, Product Benefit Status, Equity / Agreement Reference if applicable, Approved By and Status.
-
-## X. 🔗 DOCUMENTATION
-
-[README](./README.md) · [AMBASSADORS](./AMBASSADORS.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md) · [PARTNERS](./PARTNERS.md)
+Record Team Member, Team Member ID, Role, Review Period, Daily Responsibilities, Weekly Responsibilities, Monthly Responsibilities, Required Performance Metrics, Required Contribution, Verified Deliverables, Performance Status, Contribution Status, Assigned Equity Contribution Pool Amount, Equity / Agreement Reference, Tuition Benefit Status, Product Benefit Status, Approved By and Current Status.
 
 ## 🔗 Canonical Contributor-Benefit Routing
 
-[README](./README.md) · [AMBASSADOR MASTER](./AMBASSADORS.md) · [CONTENT CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE + DELIVERY COMBINED](./RIDESHARE-DELIVERY.md) · [RIDESHARE DETAIL](./RIDESHARE.md) · [DELIVERY DETAIL](./DELIVERY.md) · [SUBSTITUTE TEACHERS](./SUBSTITUTE-TEACHERS.md) · [PARTNER EMPLOYEES COMBINED](./PARTNER-EMPLOYEES.md) · [PARTNER EMPLOYEE DETAIL](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [PARTNERSHIP TERMS DETAIL](./PARTNERS.md) · [STUDENTS](./STUDENTS.md) · [TEAM MEMBERS](./TEAM-MEMBERS.md)
+| Category | Description | Markdown |
+|---|---|---|
+| 👑 Contributor Benefits README | Master benefit rules, shared logic and category routing | [README.md](./README.md) |
+| 👥 Ambassador Master | Roman-numeral master view of ambassador categories, role requirements and shared rules | [AMBASSADORS.md](./AMBASSADORS.md) |
+| 🤝 Partner & Partner Employee Ambassadors | Approved partner relationships, Partner Employee eligibility, partner activity and written partnership terms | [PARTNER-EMPLOYEES.md](./PARTNER-EMPLOYEES.md) |
+| 🎓 Student Ambassadors & Graduates | Education / Experiential completion, graduate milestones and eligible Ambassador participation | [STUDENTS.md](./STUDENTS.md) |
+| 🔗 Partner Affiliates | Partner-affiliate referrals, attribution and conversion activity | [AFFILIATES.md](./AFFILIATES.md) |
+| 🎥 Content Creator Ambassadors | Approved content activity, campaigns, referrals and conversions | [CONTENT-CREATORS.md](./CONTENT-CREATORS.md) |
+| 💻 GitHub Contributor Ambassadors | Verified GitHub contributions and contribution-specific milestones | [GITHUB-CONTRIBUTORS.md](./GITHUB-CONTRIBUTORS.md) |
+| 🌎 Community Ambassadors | Community outreach, booths, tables, workshops, events, referrals and conversions | [COMMUNITY-AMBASSADORS.md](./COMMUNITY-AMBASSADORS.md) |
+| 🚗📦 Rideshare & Delivery Ambassadors | Combined vehicle / delivery marketing, booths, tables, events, referrals and conversions | [RIDESHARE-DELIVERY.md](./RIDESHARE-DELIVERY.md) |
+| 🍎 Substitute Teacher Ambassadors | Approved education / community outreach, booths, tables, events, referrals and conversions | [SUBSTITUTE-TEACHERS.md](./SUBSTITUTE-TEACHERS.md) |
+| 👥 Team Members | Team-only $0 tuition and 50% product benefit maintained through daily, weekly and monthly performance / contribution requirements and applicable equity terms | [TEAM-MEMBERS.md](./TEAM-MEMBERS.md) |
 
 
 ---
