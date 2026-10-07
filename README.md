@@ -102,7 +102,7 @@ Professional experience began in **2013** across entrepreneurship, financial ser
 
 # 🗂️ README INDEX & KEY
 
-The README contains unnumbered personal/professional and RIAH Pathway overview sections plus the numbered repository sections. The RIAH Pathway overview through the Independent-Build & Enforcement Notice is positioned after Contributor Benefit Routing in the current README order.
+The README contains unnumbered personal/professional and RIAH Pathway overview sections plus the numbered repository sections. The Roman-numeral sequence begins with Legacy, followed by the Independent-Build & Enforcement Notice, before the At-Scale and remaining repository routing sections.
 
 ### Overview Routing
 
@@ -127,13 +127,13 @@ The README contains unnumbered personal/professional and RIAH Pathway overview s
 
 | KEY | README SECTION | DESCRIPTION |
 |---|---|---|
-| **I 👥** | [At-Scale Positions](#readme-i-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
-| **II 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-ii-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
-| **III 🧭** | [Website Wireframes](#readme-iii-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
-| **IV 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-iv-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
-| **V 🤝** | [Contributor Benefit Routing](#readme-v-contributor-benefits) | Current contributor-benefit routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
-| **VI 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-vi-legacy) | Public-source replica monitoring, evidence preservation, Tier 1–3 review structure, daily audit, and human-review routing. |
-| **VII ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-vii-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
+| **I 🤖** | [Legacy — RIAH Pathway Replica Bot](#readme-i-legacy) | Public-source replica monitoring, evidence preservation, Tier 1–3 review structure, daily audit, and human-review routing. |
+| **II ⚖️** | [RIAH Independent-Build & Enforcement Notice](#readme-ii-enforcement) | Rights-preservation, lawful inspiration, independent-development expectations, evidence review, and enforcement posture. |
+| **III 👥** | [At-Scale Positions](#readme-iii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
+| **IV 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-iv-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
+| **V 🧭** | [Website Wireframes](#readme-v-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
+| **VI 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-vi-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
+| **VII 🤝** | [Contributor Benefit Routing](#readme-vii-contributor-benefits) | Current contributor-benefit routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
 
 ### 🔑 KEY
 
@@ -150,18 +150,58 @@ The README contains unnumbered personal/professional and RIAH Pathway overview s
 **📂** = GitHub repositories and development resources.  
 **🧩** = Ecosystem development structure.  
 **🛍️** = Products and professional resources.  
+**🤖** = Legacy monitoring and evidence-preservation system.  
+**⚖️** = Independent-build and enforcement notice.  
 **👥** = At-scale positions, staffing, and role structures.  
 **🧭** = Website sitemap and 1–19 wireframe folder routing.  
 **🖼️** = Completed wireframe example with linked Markdown structure and repository design images.  
-**🤝** = Contributors, contributor benefits, and participation routing.  
-**🤖** = Legacy monitoring and evidence-preservation system.  
-**⚖️** = Independent-build and enforcement notice.
+**🤝** = Contributors, contributor benefits, and participation routing.
 
 ---
 
-<a id="readme-i-positions"></a>
+<a id="readme-i-legacy"></a>
 
-# I 👥 At-Scale Positions
+# I 🤖 Legacy — RIAH Pathway Replica Bot
+
+**Legacy** is the RIAH Pathway public-source replica monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
+
+<img width="1280" height="1536" alt="Legacy The GOAT" src="https://github.com/user-attachments/assets/d7ad4a26-85ee-497c-88c1-e0be50a1b037" />
+
+| Resource | Purpose |
+|---|---|
+| 🤖 [Legacy — RIAH Pathway Replica Bot](./RIAH-Pathway-Replica-Bot-Legacy.md) | Monitoring purpose, Tier definitions, hourly workflow, daily audit, evidence surfaces, review key, and Replica Bot log. |
+
+```mermaid
+flowchart LR
+    A["🌐 Public Evidence"] --> B["🤖 Legacy"]
+    B --> C["🧬 Tier 1 • Tier 2 • Tier 3"]
+    C --> D["🕒 Evidence Preservation"]
+    D --> E["🧾 Daily Audit"]
+```
+
+> **Review rule:** A Replica Bot flag is an investigative lead, not a legal conclusion. Similarity alone does not establish copying, access, infringement, misconduct, accreditation, or liability.
+
+---
+
+<a id="readme-ii-enforcement"></a>
+
+## II ⚖️ RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
+
+RIAH welcomes lawful inspiration, independent development, competition, commentary, and the use of ideas, methods, standards, and other material that the law leaves free for everyone to use. **Inspiration is not authorization to copy, appropriate, or commercially exploit protected RIAH expression, source materials, confidential information, trademarks, code, designs, or other legally protected rights.**
+
+The message is straightforward: **the concept may be familiar; the protected RIAH implementation is not yours to take.** Building one component does not authorize a person or entity to extract protected material from the broader RIAH ecosystem, reproduce protected RIAH components across another system, use protected RIAH materials to construct a competing component, or commercially enrich itself through unauthorized use of protected RIAH assets.
+
+RIAH expects competitors and builders to create their own work. Review RIAH for lawful inspiration if appropriate, but independently design, write, build, price, document, and operate your own products and systems rather than copying protected RIAH materials, including protected implementations of calculators, content, product structures, code, designs, and other proprietary assets.
+
+Legacy detections are investigative leads, not automatic legal conclusions. When Legacy identifies a potentially material match, RIAH may promptly preserve evidence and conduct human and legal review. If that review supports actionable claims, RIAH may pursue available remedies and may seek to prepare or file an appropriate complaint as soon as the same day or next day when legally and procedurally appropriate. The number and type of claims or counts will depend on the evidence, applicable law, ownership, jurisdiction, venue, procedural requirements, and attorney review.
+
+RIAH does not assume that similarity proves copying or liability. Independent creation, prior art, licensed use, public-domain material, unprotectable ideas or methods, and other lawful explanations must be evaluated before any allegation is made. This notice is a statement of rights-preservation and enforcement posture, not an allegation against any particular person or entity.
+
+---
+
+<a id="readme-iii-positions"></a>
+
+# III 👥 At-Scale Positions
 
 The Join Us Downloads structure contains the current RIAH Pathway at-scale position, governance, affiliate, partnership, equity, vesting, staffing, and assignment resources. The table below routes directly to each Markdown file so individual roles and the combined at-scale structures can be accessed from the main repository README.
 
@@ -208,9 +248,9 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 
 ---
 
-<a id="readme-ii-curriculum"></a>
+<a id="readme-iv-curriculum"></a>
 
-# II 📚 Tuition, Faculty, Experiential & Curriculum Routing
+# IV 📚 Tuition, Faculty, Experiential & Curriculum Routing
 
 RIAH Pathway's tuition and pricing reference, human-led faculty curriculum framework, experiential structure, and academic curriculum structures are maintained in dedicated repository sections. The routing table below provides direct access to the core pricing, faculty, experiential, GED, high school, general education, school-core, and major curriculum Markdown files.
 
@@ -248,9 +288,9 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 
 ---
 
-<a id="readme-iii-wireframes"></a>
+<a id="readme-v-wireframes"></a>
 
-# III 🧭 Website Wireframes
+# V 🧭 Website Wireframes
 
 The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigation defined in the repository sitemap. Each row below identifies the numbered main-page wireframe, briefly describes the page purpose, and links directly to its working folder. Placeholder folders contain a `.gitkeep` file so the structure remains available in Git while individual wireframes are developed; **16. JOIN US** routes to the existing completed Join Us wireframe folder.
 
@@ -278,9 +318,9 @@ The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigat
 
 ---
 
-<a id="readme-iv-example-wireframe"></a>
+<a id="readme-vi-example-wireframe"></a>
 
-# IV 🖼️ Example Wireframe — Join Us 16.1–16.5
+# VI 🖼️ Example Wireframe — Join Us 16.1–16.5
 
 The completed **Join Us** wireframe family provides a visual example of how RIAH Pathway main-page and subpage wireframes are structured in the repository. Each example below links directly to its source Markdown file, summarizes the purpose of that wireframe, and displays the corresponding design image maintained in the Join Us `IMAGES` folder.
 
@@ -326,9 +366,9 @@ The Ambassadors wireframe presents the RIAH Pathway Ambassador structure for Sub
 
 ---
 
-<a id="readme-v-contributor-benefits"></a>
+<a id="readme-vii-contributor-benefits"></a>
 
-# V 🤝 Contributor Benefit Routing
+# VII 🤝 Contributor Benefit Routing
 
 The contributor-benefit structure is maintained in the repository's Contributor Benefits folder. Rideshare + Delivery are combined, Partners + Partner Employees are combined, Partner Affiliates remain a distinct partner category, and Team Members use the separate Team Member performance / equity structure.
 
@@ -548,46 +588,6 @@ The repository is structured so contributors can work on individual deliverables
 RIAH Pathway remains a **private company ecosystem with applicable proprietary intellectual property**.
 
 Public GitHub development does not make private curriculum, internal systems, confidential information, business methods, security sensitive infrastructure, proprietary materials, or other restricted information unrestricted public property.
-
----
-
-<a id="readme-vi-legacy"></a>
-
-# VI 🤖 Legacy — RIAH Pathway Replica Bot
-
-**Legacy** is the RIAH Pathway public-source replica monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
-
-<img width="1280" height="1536" alt="Legacy The GOAT" src="https://github.com/user-attachments/assets/d7ad4a26-85ee-497c-88c1-e0be50a1b037" />
-
-| Resource | Purpose |
-|---|---|
-| 🤖 [Legacy — RIAH Pathway Replica Bot](./RIAH-Pathway-Replica-Bot-Legacy.md) | Monitoring purpose, Tier definitions, hourly workflow, daily audit, evidence surfaces, review key, and Replica Bot log. |
-
-```mermaid
-flowchart LR
-    A["🌐 Public Evidence"] --> B["🤖 Legacy"]
-    B --> C["🧬 Tier 1 • Tier 2 • Tier 3"]
-    C --> D["🕒 Evidence Preservation"]
-    D --> E["🧾 Daily Audit"]
-```
-
-> **Review rule:** A Replica Bot flag is an investigative lead, not a legal conclusion. Similarity alone does not establish copying, access, infringement, misconduct, accreditation, or liability.
-
----
-
-<a id="readme-vii-enforcement"></a>
-
-## VII ⚖️ RIAH INDEPENDENT-BUILD AND ENFORCEMENT NOTICE
-
-RIAH welcomes lawful inspiration, independent development, competition, commentary, and the use of ideas, methods, standards, and other material that the law leaves free for everyone to use. **Inspiration is not authorization to copy, appropriate, or commercially exploit protected RIAH expression, source materials, confidential information, trademarks, code, designs, or other legally protected rights.**
-
-The message is straightforward: **the concept may be familiar; the protected RIAH implementation is not yours to take.** Building one component does not authorize a person or entity to extract protected material from the broader RIAH ecosystem, reproduce protected RIAH components across another system, use protected RIAH materials to construct a competing component, or commercially enrich itself through unauthorized use of protected RIAH assets.
-
-RIAH expects competitors and builders to create their own work. Review RIAH for lawful inspiration if appropriate, but independently design, write, build, price, document, and operate your own products and systems rather than copying protected RIAH materials, including protected implementations of calculators, content, product structures, code, designs, and other proprietary assets.
-
-Legacy detections are investigative leads, not automatic legal conclusions. When Legacy identifies a potentially material match, RIAH may promptly preserve evidence and conduct human and legal review. If that review supports actionable claims, RIAH may pursue available remedies and may seek to prepare or file an appropriate complaint as soon as the same day or next day when legally and procedurally appropriate. The number and type of claims or counts will depend on the evidence, applicable law, ownership, jurisdiction, venue, procedural requirements, and attorney review.
-
-RIAH does not assume that similarity proves copying or liability. Independent creation, prior art, licensed use, public-domain material, unprotectable ideas or methods, and other lawful explanations must be evaluated before any allegation is made. This notice is a statement of rights-preservation and enforcement posture, not an allegation against any particular person or entity.
 
 ---
 
