@@ -19,7 +19,7 @@ The audit verified:
 - Quoted labels are balanced.
 - Square brackets, braces, and parentheses are balanced.
 - No Mermaid block retains HTML label markup requiring repair from the prior Experiential Structure Mermaid correction.
-- Existing Markdown outside Mermaid blocks was not changed as part of this repository-wide audit.
+- Existing Markdown outside Mermaid blocks was not changed as part of this repository audit.
 
 ## Mermaid Inventory
 
