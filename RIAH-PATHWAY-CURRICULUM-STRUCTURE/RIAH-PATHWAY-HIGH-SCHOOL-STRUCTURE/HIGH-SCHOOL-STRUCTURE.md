@@ -101,7 +101,6 @@ graph TD
     H["High School Diploma"]
     I["High School Diploma and Associates Degree"]
     J["Year 3 of Applicable Major"]
-
     A --> B
     A --> C
     B --> D
@@ -658,6 +657,8 @@ graph TD
 ```mermaid
 graph TD
     N0["ETH 4101 - Ethnic Studies"]
+    END["Course"]
+    N0 --> END
 ```
 
 ## Financial Education
@@ -1151,6 +1152,8 @@ graph TD
 ```mermaid
 graph TD
     N0["ETH 4101 - Ethnic Studies"]
+    END["Course"]
+    N0 --> END
 ```
 
 ## Financial Education
