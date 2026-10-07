@@ -424,7 +424,7 @@
 
 ## DOWNLOADS REGISTER
 
-| Download ID | Download |
+| ID | Download |
 |---|---|
 | D01 | Education Pathways Guide |
 | D02 | Admissions & Student Journey Guide |
