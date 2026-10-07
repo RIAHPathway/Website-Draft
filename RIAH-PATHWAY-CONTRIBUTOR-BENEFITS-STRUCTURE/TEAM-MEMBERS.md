@@ -2,7 +2,7 @@
 
 # 👥 Team Members
 
-Team Members are the internal RIAH Pathway team. Their Team Member benefits are part of team eligibility and are **not earned through the Ambassador 1%–25% point ladder, product-purchase conversion cycle, referral thresholds, Ambassador kit requirements or similar Ambassador mechanics**.
+Team Members are the internal RIAH Pathway team. Their Team Member benefits are part of team eligibility and are **not earned through the non-team Ambassador 1%–25% point ladder, product-purchase conversion cycle, referral thresholds or other non-team Ambassador benefit thresholds**.
 
 ## 📑 INDEX
 
