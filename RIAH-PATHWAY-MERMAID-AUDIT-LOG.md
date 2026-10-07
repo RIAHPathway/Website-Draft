@@ -1,7 +1,5 @@
 # RIAH Pathway Mermaid Audit Log
 
-## Repository
-
 **Repository:** RIAHPathway/Website-Draft  
 **Audit Scope:** All Markdown files on the default branch  
 **Markdown Files Audited:** 50  
