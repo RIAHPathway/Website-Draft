@@ -576,28 +576,29 @@ graph TD
 ## **Placement Source Flow**
 
 ```mermaid
-flowchart LR
-    A["Internal Placement"] --> B["RIAH Pathway Entities"]
-    C["External Placement"] --> D["Approved Partners or Organizations"]
+graph LR
+    A[Internal Placement] --> B[RIAH Pathway Entities]
+    C[External Placement] --> D[Approved Partners or Organizations]
 ```
 
 ## **Placement Completion Flow — Start**
 
 ```mermaid
-flowchart TD
-    A["RIAH Pathway Entities or Approved Partners or Organizations"] --> B["Terms"]
-    B --> C["Orientation"]
-    C --> D["Real Work"]
+graph TD
+    A[RIAH Pathway Entities] --> B[Terms]
+    E[Approved Partners or Organizations] --> B
+    B --> C[Orientation]
+    C --> D[Real Work]
 ```
 
 ## **Placement Completion Flow — Review**
 
 ```mermaid
-flowchart TD
-    A["Real Work"] --> B["Supervision"]
-    B --> C["Review"]
-    C --> D["Completion"]
-    D --> E["Record"]
+graph TD
+    A[Real Work] --> B[Supervision]
+    B --> C[Review]
+    C --> D[Completion]
+    D --> E[Record]
 ```
 
 # **X. 🧭 PLACEMENT SELECTION**
@@ -746,18 +747,18 @@ The flow below shows how the Experiential levels connect within the overall stru
 ## **Experiential Level Flow — Entry**
 
 ```mermaid
-flowchart TD
-    A["Apprentice"] --> B["Intern"]
-    B --> C["Associate"]
+graph TD
+    A[Apprentice] --> B[Intern]
+    B --> C[Associate]
 ```
 
 ## **Experiential Level Flow — Advanced**
 
 ```mermaid
-flowchart TD
-    A["Associate"] --> B["Senior Associate"]
-    B --> C["Manager"]
-    C --> D["Executive"]
+graph TD
+    A[Associate] --> B[Senior Associate]
+    B --> C[Manager]
+    C --> D[Executive]
 ```
 
 # **XIII. 📚 EXPERIENTIAL CURRICULUM AND COLLECTIONS**
@@ -1102,18 +1103,18 @@ The Experiential pathway is:
 ### **Experiential Pathway Flow — Entry**
 
 ```mermaid
-flowchart TD
-    A["Apprentice - 1 Month"] --> B["Intern - 3 Months"]
-    B --> C["Associate - 1 Year"]
+graph TD
+    A[Apprentice 1 Month] --> B[Intern 3 Months]
+    B --> C[Associate 1 Year]
 ```
 
 ### **Experiential Pathway Flow — Advanced**
 
 ```mermaid
-flowchart TD
-    A["Associate - 1 Year"] --> B["Senior Associate - 1 Year"]
-    B --> C["Manager - 1 Year"]
-    C --> D["Executive - 1 Year"]
+graph TD
+    A[Associate 1 Year] --> B[Senior Associate 1 Year]
+    B --> C[Manager 1 Year]
+    C --> D[Executive 1 Year]
 ```
 
 Placement may be internal to RIAH or through approved employer and professional partners.
