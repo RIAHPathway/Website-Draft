@@ -55,7 +55,13 @@ III. 🧮 Master Benefit Structure
 IV. 🏆 Master Classification  
 V. 🔄 Master Participation Flow  
 VI. 👑 Shared Rules  
-VII. 📋 Master Record Fields
+VII. 🎓 Reimbursement & Non-Stacking Structure  
+VIII. ⭐ Weighted Points & Eligible Conversions  
+IX. 📦 Ambassador Kit  
+X. 🔗 QR Code & Digital Link  
+XI. 🛍️ Product Benefit Rules  
+XII. 🔄 Program Flow  
+XIII. 📋 Master Record Fields
 
 ## I. 🔑 Master Key
 
@@ -82,39 +88,46 @@ VII. 📋 Master Record Fields
 
 ## II. 👥 Category Documentation
 
-| Category | Primary Structure | Documentation |
-|---|---|---|
-| 💻 GitHub Contributors | Approved public contribution points | [View Documentation](./GITHUB-CONTRIBUTORS.md) |
-| 🌎 Community Ambassadors | Outreach, events, referrals and conversions | [View Documentation](./AMBASSADORS.md) |
-| 🍎 Substitute Teacher Ambassadors | School-community outreach, events and referrals | [View Documentation](./SUBSTITUTE-TEACHERS.md) |
-| 🚗 Rideshare Ambassadors | Vehicle marketing, passenger engagement, referrals and conversions | [View Documentation](./RIDESHARE.md) |
-| 📦 Delivery Ambassadors | Vehicle marketing, community outreach, referrals and conversions | [View Documentation](./DELIVERY.md) |
-| 🎓 Students and Graduates | Guaranteed completion benefit plus Graduate Points | [View Documentation](./STUDENTS.md) |
-| 🤝 Partners | Written partnership benefits plus verified Partner Activity Points | [View Documentation](./PARTNERS.md) |
+| Category | Documentation |
+|---|---|
+| 👥 Ambassador Master | [AMBASSADORS.md](./AMBASSADORS.md) |
+| 🎥 Content Creators | [CONTENT-CREATORS.md](./CONTENT-CREATORS.md) |
+| 🔗 Affiliates | [AFFILIATES.md](./AFFILIATES.md) |
+| 💻 GitHub Contributors | [GITHUB-CONTRIBUTORS.md](./GITHUB-CONTRIBUTORS.md) |
+| 🌎 Community Ambassadors | [COMMUNITY-AMBASSADORS.md](./COMMUNITY-AMBASSADORS.md) |
+| 🚗 Rideshare Ambassadors | [RIDESHARE.md](./RIDESHARE.md) |
+| 📦 Delivery Ambassadors | [DELIVERY.md](./DELIVERY.md) |
+| 🍎 Substitute Teacher Ambassadors | [SUBSTITUTE-TEACHERS.md](./SUBSTITUTE-TEACHERS.md) |
+| 🤝 Eligible Partner Employees | [ELIGIBLE-PARTNER-EMPLOYEES.md](./ELIGIBLE-PARTNER-EMPLOYEES.md) |
+| 🎓 Education & Experiential Pathway Students | [STUDENTS.md](./STUDENTS.md) |
+| 👥 Team Members | [TEAM-MEMBERS.md](./TEAM-MEMBERS.md) |
+| 🤝 Partners | [PARTNERS.md](./PARTNERS.md) |
 
 ## III. 🧮 Master Benefit Structure
 
-| Category | Starting Benefit | Maximum | Tuition | Products |
-|---|---:|---:|---|---|
-| 💻 GitHub Contributor | 1% at 100 points | 25% | Yes | Yes |
-| 🌎 Community Ambassador | 1% at 100 points | 25% | Yes | Yes |
-| 🍎 Substitute Teacher Ambassador | 1% at 100 points | 25% | Yes | Yes |
-| 🚗 Rideshare Ambassador | 1% at 100 points | 25% | Yes | Yes |
-| 📦 Delivery Ambassador | 1% at 100 points | 25% | Yes | Yes |
-| 🎓 Education Graduate | 10% guaranteed at completion | 50% tuition; 25% products | Yes | Yes |
-| 💼 Experiential Graduate | 10% guaranteed at completion | 50% tuition; 25% products | Yes | Yes |
-| 🤝 Eligible Partner Employee | 15% | Per applicable written terms | Yes | Yes |
-| 🤝 Partner or Pillar Product Benefit | Per written agreement | Up to 25% products where authorized | Per agreement | Yes |
+| Category | Up to 25% Ambassador Benefit | Completion / Tuition Benefit | Up to 25% Product Benefit |
+|---|:---:|---|:---:|
+| 👥 Team Members | — | **$0 tuition** | **50% discount** |
+| 🎓 Education Pathway Students | ✅ | **10% guaranteed at completion; up to 50% total reimbursement** | ✅ |
+| 🎓 Experiential Pathway Students | ✅ | **10% guaranteed at completion; up to 50% total reimbursement** | ✅ |
+| 🎥 Content Creators | ✅ | Ambassador milestones | ✅ |
+| 🔗 Affiliates | ✅ | Ambassador milestones | ✅ |
+| 💻 GitHub Contributors | ✅ | Ambassador milestones | ✅ |
+| 🌎 Community Ambassadors | ✅ | Ambassador milestones | ✅ |
+| 🚗 Rideshare Ambassadors | ✅ | Ambassador milestones | ✅ |
+| 📦 Delivery Ambassadors | ✅ | Ambassador milestones | ✅ |
+| 🍎 Substitute Teacher Ambassadors | ✅ | Ambassador milestones | ✅ |
+| 🤝 Eligible Partner Employees | ✅ | Ambassador milestones | ✅ |
 
 ## IV. 🏆 Master Classification
 
-**💻🌎🍎🚗📦 Contributors and Ambassadors:** 100 approved points = 1% eligible tuition + 1% eligible products; 2,500 points = 25% maximum.
+**Ambassador Points:** 100 approved points = 1%; 2,500 points = 25% maximum.
 
-**🎓 Education Graduates:** Complete the entire eligible Education Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition; each additional 100 approved Graduate Points = +1% tuition until tuition reaches 50% at 5,000 points. Eligible product benefits are up to 25% under applicable product-benefit requirements and are not guaranteed at pathway completion.
+**Product Benefit Points:** separate product milestones; 100 approved Product Benefit points = 1%; 2,500 points = 25% maximum.
 
-**💼 Experiential Graduates:** Complete the entire eligible Experiential Pathway = automatic 1,000 Graduate Points = guaranteed 10% eligible tuition; each additional 100 approved Graduate Points = +1% tuition until tuition reaches 50% at 5,000 points. Eligible product benefits are up to 25% under applicable product-benefit requirements and are not guaranteed at pathway completion.
+**Education & Experiential:** 10% guaranteed at completion + up to 25% Ambassador milestones + up to 15% additional reimbursement milestones = up to 50% total reimbursement.
 
-**🤝 Partners:** Eligible Partner Employees receive 15% eligible tuition + 15% eligible products under applicable written terms. A separate authorized Partner or Pillar Product Benefit may reach up to 25% eligible products where specifically authorized.
+**Non-Stacking:** Content Creator, Affiliate, GitHub, Community, Rideshare, Delivery, Substitute Teacher and Eligible Partner Employee categories may all generate points, but the Ambassador Benefit does not exceed 25%.
 
 ## V. 🔄 Master Participation Flow
 
@@ -154,28 +167,116 @@ D --> E
 
 ## VI. 👑 Shared Rules
 
-👑 Qualifying activity must be approved or verified before permanent points are credited.
+Qualifying activity must be verified before permanent points are credited.
 
-🔗 Applicable Ambassador referrals and conversions must be attributable to the assigned QR code, referral link or another approved verification method.
+A paying Education or Experiential student conversion is recorded first. The assigned 100-point student-conversion milestone is credited as **50 points when the converted student completes at least 50% of the program and +50 points when the student completes / graduates**.
 
-🛡️ Fraudulent, duplicate, fabricated, unauthorized, rejected or unverifiable activity receives no permanent points.
+One converted student does **not** automatically equal a 25% benefit.
 
-🏆 Contributor and Ambassador benefits remain capped at 25% tuition and 25% products through this framework.
+Ambassador categories do not stack beyond 25%. Product benefits use separate milestones and do not stack beyond 25%.
 
-🎓 Graduate benefits remain capped at 50% eligible tuition and up to 25% eligible products under the applicable Graduate Points progression.
+Team Members retain **$0 tuition** and **50% off eligible products**.
 
-🤝 Partner benefits remain governed by the applicable written partnership terms.
+## VII. 🎓 Reimbursement & Non-Stacking Structure
 
-📋 Category-specific scoring, point schedules, eligibility, evidence, examples and workflows are maintained in the individual Markdown files rather than duplicated in this routing README.
+| Component | Maximum |
+|---|---:|
+| Program / Degree Completion | **10% guaranteed** |
+| Ambassador Milestones | **Up to 25%** |
+| Additional Reimbursement Milestones | **Up to 15%** |
+| Education / Experiential Total | **Up to 50%** |
+| Product Benefit | **Up to 25%** |
 
-## VII. 📋 Master Record Fields
+**10% Completion + 25% Ambassador Benefit = 35%.** The remaining **15%** is earned through additional reimbursement milestones.
+
+## VIII. ⭐ Weighted Points & Eligible Conversions
+
+| Point Category | Included Activities |
+|---|---|
+| Student Conversion Milestones | Paying Education Pathway student; Paying Experiential Pathway student; 50% completion; completion / graduation |
+| Purchase Conversions | Certification Review Program; Bar Review Program; Product purchase; Service purchase |
+| Contributor Activities | Content creation; GitHub contribution; Affiliate / Partner referral |
+| Ambassador Activities | Community event; Hosting a booth; Vehicle marketing; Community outreach |
+
+| Conversion / Purchase Milestone | Point Treatment |
+|---|---|
+| Paying Education Pathway student conversion | Conversion recorded |
+| Paying Experiential Pathway student conversion | Conversion recorded |
+| Converted student reaches 50% completion | **50 points** |
+| Converted student completes / graduates | **+50 points** |
+| Certification Review Program purchase | **25 points** |
+| Bar Review Program purchase | **25 points** |
+| Service purchase | **25 points** |
+| Verified product purchases totaling $500 | **25 points** |
+| Verified product purchases totaling $1,000 | **50 points** |
+| Verified product purchases totaling $1,500 | **75 points** |
+
+## IX. 📦 Ambassador Kit
+
+| Material | Physical | Digital |
+|---|:---:|:---:|
+| One apparel selection — T-shirt, sweatshirt/hoodie, jacket, coat, or blazer | ✅ | ❌ |
+| Vehicle vinyl | ✅ | ❌ |
+| Vehicle rooftop sign / billboard | ✅ | ❌ |
+| Retractable banner | ✅ | ❌ |
+| Tablecloth | ✅ | ❌ |
+| Business card | ❌ | ✅ |
+| Flyer | ❌ | ✅ |
+| Brochure | ❌ | ✅ |
+| Referral link | ❌ | ✅ |
+| Products / Services / Pathways link | ❌ | ✅ |
+| Individual QR code | ✅ | ✅ |
+
+The reusable physical kit may use a subsidized cost of approximately **$250** based on physical materials, production and shipping.
+
+## X. 🔗 QR Code & Digital Link
+
+| Placement | Physical | Digital |
+|---|:---:|:---:|
+| Vehicle vinyl | ✅ | ❌ |
+| Vehicle rooftop sign | ✅ | ❌ |
+| Apparel | ✅ | ❌ |
+| Retractable banner | ✅ | ❌ |
+| Event table display | ✅ | ❌ |
+| Digital business card | ❌ | ✅ |
+| Digital flyer | ❌ | ✅ |
+| Digital brochure | ❌ | ✅ |
+| Digital content | ❌ | ✅ |
+| Individual referral link | ❌ | ✅ |
+| Individual QR code | ✅ | ✅ |
+
+The personalized link connects people to RIAH Pathway **Education Pathways, Experiential Pathways, Certification Review Programs, Bar Review Programs, Products and Services** and attributes the referral to the Ambassador.
+
+## XI. 🛍️ Product Benefit Rules
+
+Product Benefit milestones are separate from tuition / program Ambassador milestones and may reach **up to 25%**.
+
+Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access** under the applicable guarantee.
+
+## XII. 🔄 Program Flow
+
+| Step | Process |
+|---:|---|
+| 1 | Ambassador signs up |
+| 2 | Ambassador category or categories are identified |
+| 3 | Kit, QR code and referral link are assigned |
+| 4 | Ambassador completes eligible activities |
+| 5 | Paying student conversions, purchases, events and contributions generate milestone points |
+| 6 | Converted student reaches 50% completion and 50 student-conversion points are credited |
+| 7 | Converted student completes / graduates and the remaining 50 student-conversion points are credited |
+| 8 | Ambassador points accumulate toward **25%** |
+| 9 | Product points accumulate separately toward **25%** |
+| 10 | Student's own Education / Experiential completion earns **10% guaranteed** |
+| 11 | Additional milestones may bring total Education / Experiential reimbursement to **50%** |
+
+## XIII. 📋 Master Record Fields
 
 | Field | Purpose |
 |---|---|
 | 👤 Participant | Verified participant |
 | 🆔 Participant ID | Internal participant identifier |
 | 👥 Classification | Contributor, Ambassador, Graduate or Partner |
-| 🧩 Subcategory | GitHub, Community, Substitute Teacher, Rideshare, Delivery, Education, Experiential or Partner |
+| 🧩 Subcategory | Content Creator, Affiliate, GitHub, Community, Substitute Teacher, Rideshare, Delivery, Education, Experiential, Eligible Partner Employee, Team Member or Partner |
 | 📝 Activity ID | Unique contribution or activity record |
 | ⭐ Points | Approved points |
 | 🏆 Milestone | Current milestone |
