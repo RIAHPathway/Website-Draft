@@ -62,4 +62,24 @@ RIAH does not assume that similarity proves copying or liability. Independent cr
 
 ---
 
+# 👥 Contributor Benefit Routing
+
+The contributor-benefit structure is maintained in the repository's Contributor Benefits folder. Rideshare + Delivery are combined, Partners + Partner Employees are combined, Partner Affiliates remain a distinct partner category, and Team Members use the separate Team Member performance / equity structure.
+
+| Category | Description | Markdown |
+|---|---|---|
+| 👑 Contributor Benefits README | Master benefit rules, shared logic and routing | [Contributor Benefits README](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md) |
+| 👥 Ambassador Master | Roman-numeral consolidated Ambassador master | [Ambassador Master](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/AMBASSADORS.md) |
+| 🤝 Partner & Partner Employee Ambassadors | Combined partner relationship, Partner Employee and partnership-term rules | [Partner & Partner Employee Ambassadors](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/PARTNER-EMPLOYEES.md) |
+| 🎓 Student Ambassadors & Graduates | Completion, graduate and Ambassador milestones | [Student Ambassadors & Graduates](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md) |
+| 🔗 Partner Affiliates | Partner-affiliate referral and conversion rules | [Partner Affiliates](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/AFFILIATES.md) |
+| 🎥 Content Creator Ambassadors | Content activity, referral and conversion milestones | [Content Creator Ambassadors](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/CONTENT-CREATORS.md) |
+| 💻 GitHub Contributor Ambassadors | GitHub-specific contribution milestones | [GitHub Contributor Ambassadors](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/GITHUB-CONTRIBUTORS.md) |
+| 🌎 Community Ambassadors | Events, booths, tables, outreach and referral activity | [Community Ambassadors](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/COMMUNITY-AMBASSADORS.md) |
+| 🚗📦 Rideshare & Delivery Ambassadors | Combined rideshare / delivery milestones and shared activities | [Rideshare & Delivery Ambassadors](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/RIDESHARE-DELIVERY.md) |
+| 🍎 Substitute Teacher Ambassadors | Education / community outreach, booths, tables and referrals | [Substitute Teacher Ambassadors](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/SUBSTITUTE-TEACHERS.md) |
+| 👥 Team Members | $0 tuition + 50% eligible-product benefit maintained through daily / weekly / monthly performance, contribution and applicable equity terms | [Team Members](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/TEAM-MEMBERS.md) |
+
+---
+
 # 👑RIAH Pathway.
