@@ -63,6 +63,7 @@ XI. 🔗 Referral and Conversion Milestones
 XII. 🛡️ Verification and Anti-Abuse  
 XIII. ⏳ Status Workflow  
 XIV. 📋 Participant Ledger
+XV. 👑 Shared Ambassador Program
 
 ## I. 🚗 Category Key
 | Emoji | Meaning |
@@ -122,7 +123,7 @@ Participants must maintain an identifiable profile; use assigned participant, Am
 Materials must be used appropriately, comply with applicable platform and vehicle requirements, not interfere with passenger safety, and not create unwanted pressure on passengers.
 
 ## V. 🧮 Benefit Formula
-**100 approved points = 1% eligible tuition + 1% eligible products.** Maximum: **2,500 points = 25% tuition + 25% products**.
+**100 approved Ambassador points = 1% eligible tuition / program benefit. 100 approved Product Benefit points = 1% eligible product benefit. Maximum: 2,500 points = 25% in each applicable benefit ledger. Ambassador categories do not stack beyond 25%.**
 
 ## VI. ⭐ Rideshare Point System
 | Activity | Points |
@@ -141,8 +142,16 @@ Materials must be used appropriately, comply with applicable platform and vehicl
 | Qualified referral | 10 |
 | Referral attends educational webinar | 15 |
 | Referral completes application | 25 |
-| Verified referral becomes enrolled student | 100 |
-| Verified referred product purchase | 25 |
+| Paying Education Pathway student conversion | Recorded |
+| Paying Experiential Pathway student conversion | Recorded |
+| Converted student reaches 50% program completion | 50 |
+| Converted student completes / graduates | +50 |
+| Certification Review Program purchase | 25 |
+| Bar Review Program purchase | 25 |
+| Service purchase | 25 |
+| Verified product purchases totaling $500 | 25 |
+| Verified product purchases totaling $1,000 | 50 |
+| Verified product purchases totaling $1,500 | 75 |
 | Coordinate approved community event | 75 |
 | Host approved information session | 50 |
 | Major approved Ambassador campaign | 100–200 |
@@ -219,15 +228,24 @@ Only complete 100-point thresholds increase the benefit. Remaining points carry 
 | 👑🏆 Maximum | 2,500+ | 25% |
 
 ## XI. 🔗 Referral and Conversion Milestones
-| Stage | Points |
-|---|---:|
-| Qualified Referral | 10 |
-| Webinar or Information Session Attendance | +15 |
-| Completed Application | +25 |
-| Verified Enrollment | +100 |
-| Verified Product Purchase | +25 |
 
-A verified student completing the referral journey through enrollment may generate 150 points: 10 + 15 + 25 + 100.
+| Stage | Point Treatment |
+|---|---|
+| Qualified Referral | 10 points |
+| Webinar / Information Session Attendance | +15 points |
+| Completed Application | +25 points |
+| Paying Education Pathway student conversion | Conversion recorded |
+| Paying Experiential Pathway student conversion | Conversion recorded |
+| Converted student reaches 50% program completion | **50 points** |
+| Converted student completes / graduates | **+50 points** |
+| Certification Review Program purchase | **25 points** |
+| Bar Review Program purchase | **25 points** |
+| Service purchase | **25 points** |
+| Verified product purchases totaling $500 | **25 points** |
+| Verified product purchases totaling $1,000 | **50 points** |
+| Verified product purchases totaling $1,500 | **75 points** |
+
+One converted student does **not** automatically equal a 25% benefit.
 
 ## XII. 🛡️ Verification and Anti-Abuse
 Verification may include activity records, event registration or check-in, appropriate event evidence, QR analytics, referral analytics, webinar registration, application attribution, enrollment attribution, product-order attribution, approved campaign records, GitHub records where applicable, and coordinator or maintainer approval.
@@ -249,6 +267,37 @@ Pending work receives no permanent points. Rejected work receives zero points.
 
 ## XIV. 📋 Participant Ledger
 Record Participant, Participant ID, Track, Activity or Contribution ID, Activity, Attribution, Submission Date, Verification Source, Points, Approved By, Previous Total, Added Points, New Total, Milestone, Tuition Benefit, Product Benefit, Next Milestone, Points Remaining and Status.
+
+
+## XV. 👑 SHARED AMBASSADOR PROGRAM
+
+| Rule | Structure |
+|---|---|
+| Ambassador Benefit | **Up to 25%** |
+| Product Benefit | **Up to 25%** through separate product milestones |
+| Multiple Ambassador categories | **Do not stack beyond 25%** |
+| Education / Experiential completion | **10% guaranteed** |
+| Education / Experiential total reimbursement | **Up to 50%** |
+
+| Material | Physical | Digital |
+|---|:---:|:---:|
+| One apparel selection | ✅ | ❌ |
+| Vehicle vinyl | ✅ | ❌ |
+| Vehicle rooftop sign / billboard | ✅ | ❌ |
+| Retractable banner | ✅ | ❌ |
+| Tablecloth | ✅ | ❌ |
+| Business card | ❌ | ✅ |
+| Flyer | ❌ | ✅ |
+| Brochure | ❌ | ✅ |
+| Referral link | ❌ | ✅ |
+| Products / Services / Pathways link | ❌ | ✅ |
+| Individual QR code | ✅ | ✅ |
+
+Products are non-refundable except eligible damaged physical products. For applicable course or product programs, completing **100%** and not passing provides **three additional months of access**.
+
+### 🔗 Related Documentation
+
+[README](./README.md) · [CONTENT-CREATORS](./CONTENT-CREATORS.md) · [AFFILIATES](./AFFILIATES.md) · [GITHUB-CONTRIBUTORS](./GITHUB-CONTRIBUTORS.md) · [COMMUNITY-AMBASSADORS](./COMMUNITY-AMBASSADORS.md) · [RIDESHARE](./RIDESHARE.md) · [DELIVERY](./DELIVERY.md) · [SUBSTITUTE-TEACHERS](./SUBSTITUTE-TEACHERS.md) · [ELIGIBLE-PARTNER-EMPLOYEES](./ELIGIBLE-PARTNER-EMPLOYEES.md) · [STUDENTS](./STUDENTS.md) · [TEAM-MEMBERS](./TEAM-MEMBERS.md)
 
 RIAH Pathway
 
