@@ -30,11 +30,100 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Instagram:** https://instagram.com/heymariahrucker
 - **Linktree:** https://linktr.ee/mariahrucker
 
+<a id="profile-education"></a>
+
+## 🎓 Education
+
+### 🔄 In Progress
+
+| Credential | Field | Pathway | Target |
+|---|---|---|---|
+| 🔄 Bachelor's | Finance | RIAH Pathway | **2029** |
+| 🔄 Bachelor's | Cybersecurity | RIAH Pathway | **2029** |
+| 🔄 Bachelor's | Intelligence | RIAH Pathway | **2029** |
+| 🔄 JD | Law | RIAH Pathway | **2030** |
+
+### ✅ Earned
+
+| Credential | Field | Institution | Year | Verification |
+|---|---|---|---|---|
+| ✅ MBA | Organizational Management | Eastern University | **2022** | Education verified by the Nevada Board of Education for substitute teaching licensure, July 2026 |
+| ✅ B.S. | Computer Science | Central Methodist University | **2019** | [Merit Pages](https://meritpages.com/RuckerMariah) • Nevada Board of Education verification, July 2026 |
+| ✅ B.B.A. | Accounting | Kent State University | **2016** | [Merit Pages](https://meritpages.com/MariahRucker) • Nevada Board of Education verification, July 2026 |
+| ✅ Minor | International Business Spanish | Kent State University | **2016** | [Merit Pages](https://meritpages.com/MariahRucker) • Nevada Board of Education verification, July 2026 |
+
+<a id="profile-certifications"></a>
+
+## 📚 Professional Certifications
+
+| Certification | Status |
+|---|---|
+| Certified Fraud Examiner — **CFE** | ✅ Earned |
+| (ISC)² Certified in Cybersecurity — **CC** | ✅ Earned |
+| Certified Public Accountant — **CPA** | 🔄 In Progress |
+| Certified Management Accountant — **CMA** | 🔄 In Progress |
+| Certified Internal Auditor — **CIA** | 🔄 In Progress |
+| Certified Information Systems Auditor — **CISA** | 🔄 In Progress |
+| Certified Information Security Manager — **CISM** | 🔄 In Progress |
+| Certified in Risk and Information Systems Control — **CRISC** | 🔄 In Progress |
+| Certified Information Systems Security Professional — **CISSP** | 🔄 In Progress |
+
+<a id="profile-professional-experience"></a>
+
+## 💼 Professional Experience
+
+Professional experience began in **2013** across entrepreneurship, financial services, public accounting, corporate environments, and higher education.
+
+| Sector | Employer |
+|---|---|
+| 💻 Entrepreneurship | **RIAH** |
+| 💳 Financial Services | **JPMorgan Chase** |
+| 💳 Financial Services | **PNC Bank** |
+| 🧮 Public Accounting | **Ernst & Young** |
+| 🧮 Public Accounting | **Grant Thornton** |
+| 🏢 Global Corporation | **Nestlé** |
+| 🎓 Higher Education | **Kent State University** |
+
+<a id="profile-areas-of-experience"></a>
+
+## 🧠 Areas of Experience
+
+| Business & Finance | Technology | Professional |
+|---|---|---|
+| 🧮 Accounting | 🔐 Cybersecurity | 💼 Consulting |
+| 🔍 Audit | 💻 Technology | 👥 Management |
+| 📈 Analytics | 🤖 Automation | 🎓 Higher Education |
+| 💳 Financial Services | 💻 Development | 💻 Entrepreneurship |
+| 🧮 Public Accounting | ⚙️ Implementation | 🏢 Business Operations |
+
+---
+
 <a id="readme-index"></a>
 
 # 🗂️ README INDEX & KEY
 
-The Roman-numeral index begins with the Legacy monitoring section and continues through the repository's major routing resources. The introductory RIAH Pathway, Founder/CEO, public links, and accreditation disclosure sections remain above the numbered sequence.
+The README contains unnumbered personal/professional and RIAH Pathway overview sections followed by the numbered repository sections. The Roman-numeral sequence continues to begin with **I 🤖 Legacy**.
+
+### Overview Routing
+
+| SECTION | DESCRIPTION |
+|---|---|
+| [🎓 Education](#profile-education) | Current and earned education included in the organization overview profile. |
+| [📚 Professional Certifications](#profile-certifications) | Earned and in-progress professional certifications. |
+| [💼 Professional Experience](#profile-professional-experience) | Professional experience across entrepreneurship, financial services, public accounting, corporate environments, and higher education. |
+| [🧠 Areas of Experience](#profile-areas-of-experience) | Business, finance, technology, consulting, management, development, and operational experience areas. |
+| [🏛️ RIAH Pathway Overview](#overview-riah-pathway) | Ecosystem purpose and principal development areas. |
+| [🎓 Education Pathways](#overview-education-pathways) | Current academic, professional, legal, experiential, certification, and continuing-education pathways. |
+| [🏫 Schools](#overview-schools) | Current six-school institutional structure. |
+| [💼 Experiential Pathway](#overview-experiential) | Progressive Apprentice through Executive experiential structure. |
+| [💻 Technology & Development](#overview-technology) | Web, AI, automation, APIs, cybersecurity, infrastructure, data, EdTech, and internal systems. |
+| [📂 GitHub & Development Resources](#overview-github) | Current repositories and direct development-resource routing. |
+| [🧩 Development Structure](#overview-development-structure) | High-level relationship between website, education, experiential, technology, and products. |
+| [📚 Curriculum & Resources](#overview-curriculum-resources) | Current curriculum repositories and public-development boundaries. |
+| [🛍️ Products & Professional Resources](#overview-products) | Educational, certification, bar-review, print, and select digital product categories. |
+| [🤝 Public Development & Contributors](#overview-contributors) | Current public-development contribution areas without superseding repository-specific terms. |
+
+### Roman-Numeral Repository Index
 
 | KEY | README SECTION | DESCRIPTION |
 |---|---|---|
@@ -44,18 +133,220 @@ The Roman-numeral index begins with the Legacy monitoring section and continues 
 | **IV 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-iv-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
 | **V 🧭** | [Website Wireframes](#readme-v-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
 | **VI 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-vi-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
-| **VII 🤝** | [Contributor Benefit Routing](#readme-vii-contributor-benefits) | Contributor-benefit master routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
+| **VII 🤝** | [Contributor Benefit Routing](#readme-vii-contributor-benefits) | Current contributor-benefit routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
 
 ### 🔑 KEY
 
 **I–VII** = Numbered README sections beginning with Legacy.  
+**✅** = Earned / complete.  
+**🔄** = In progress.  
+**🎓** = Education and academic pathways.  
+**📚** = Certifications, curriculum, and learning resources.  
+**💼** = Professional and experiential experience.  
+**🧠** = Areas of experience and expertise.  
+**🏛️** = RIAH Pathway ecosystem overview.  
+**🏫** = Schools and institutional structure.  
+**💻** = Technology and development.  
+**📂** = GitHub repositories and development resources.  
+**🧩** = Ecosystem development structure.  
+**🛍️** = Products and professional resources.  
 **🤖** = Legacy monitoring and evidence-preservation system.  
 **⚖️** = Independent-build and enforcement notice.  
 **👥** = At-scale positions, staffing, and role structures.  
-**📚** = Tuition, faculty, experiential, and curriculum structures.  
 **🧭** = Website sitemap and 1–19 wireframe folder routing.  
 **🖼️** = Completed wireframe example with linked Markdown structure and repository design images.  
-**🤝** = Contributor benefits and participation routing.
+**🤝** = Contributors, contributor benefits, and participation routing.
+
+---
+
+<a id="overview-riah-pathway"></a>
+
+## 🏛️ RIAH Pathway Overview
+
+RIAH Pathway connects education, experiential development, professional preparation, technology, certification preparation, career development, and entrepreneurship within one developing ecosystem.
+
+This GitHub repository supports development of RIAH Pathway's website, wireframes, curriculum structures, tuition and pricing resources, experiential structure, faculty curriculum, contributor resources, documentation, workflows, and supporting systems.
+
+| Area | Focus |
+|---|---|
+| 🎓 **Education** | Academic and professional pathways |
+| 💼 **Experience** | Progressive experiential development |
+| 📚 **Certifications** | Professional and certification preparation |
+| 💻 **Technology** | Websites, AI, automation, systems, and integrations |
+| 🔐 **Cybersecurity** | Security-focused technology development |
+| 🧠 **Curriculum** | Curriculum structures and educational resources |
+| 🛍️ **Products** | Educational and professional products |
+| 🤝 **Contributors** | Public development and collaborative participation |
+| 🚀 **Career** | Professional development and career pathways |
+| 👑 **Entrepreneurship** | Business development and independent pathways |
+
+<a id="overview-education-pathways"></a>
+
+## 🎓 Education Pathways
+
+| Pathway | Purpose |
+|---|---|
+| 🎓 **High School** | Secondary education pathway |
+| 📘 **GED / HSE** | High school equivalency pathway |
+| 📚 **Certificates** | Focused educational credentials |
+| 🎓 **Associate's** | Undergraduate education |
+| 🎓 **Bachelor's** | Undergraduate education |
+| 📖 **Minor** | Supplemental academic specialization |
+| 🎓 **Master's / MBA** | Graduate education |
+| ⚖️ **J.D.** | Law degree pathway |
+| ⚖️ **Non-J.D. Bar License** | Applicable non-J.D. legal pathway |
+| 💼 **Experiential** | Progressive professional experience |
+| 📚 **Certification Review** | Professional certification preparation |
+| ⚖️ **Bar Review** | Bar and applicable Baby Bar preparation |
+| 📖 **Continuing Education** | Ongoing professional development |
+
+<a id="overview-schools"></a>
+
+## 🏫 Schools
+
+| School | Focus |
+|---|---|
+| 👑 **School of Business** | Business, accounting, finance, management, and entrepreneurship |
+| 💻 **School of Technology** | Technology, cybersecurity, computing, data, software, project, and program disciplines |
+| ⚖️ **School of Law** | Legal education, criminal justice, J.D., non-J.D., and bar preparation |
+| 🛡️ **School of Homeland Security** | Homeland security, GRC, intelligence, physical security, and investigations |
+| 📚 **School of Foundations** | High School and GED/HSE pathways |
+| 💼 **Experiential School** | Applied progressive professional experience |
+
+<a id="overview-experiential"></a>
+
+## 💼 Experiential Pathway
+
+The experiential pathway connects education with progressive professional experience.
+
+| Level | Duration |
+|---|---:|
+| 🌱 **Apprentice** | 1 Month |
+| 💼 **Intern** | 3 Months |
+| 📈 **Associate** | 1 Year |
+| ⭐ **Senior Associate** | 1 Year |
+| 👥 **Manager** | 1 Year |
+| 👑 **Executive** | 1 Year |
+
+<a id="overview-technology"></a>
+
+## 💻 Technology & Development
+
+| Technology Area | Development Focus |
+|---|---|
+| 🌐 **Web** | Websites and digital experiences |
+| 🤖 **AI** | AI systems and agents |
+| ⚙️ **Automation** | Automated workflows and operations |
+| 🔗 **APIs** | Integrations and connected systems |
+| 🔐 **Cybersecurity** | Security and access controls |
+| ☁️ **Infrastructure** | Servers, cloud, and platform infrastructure |
+| 📊 **Data** | Databases, analytics, and reporting |
+| 🎓 **EdTech** | Education technology |
+| 🛠️ **Internal Systems** | Operational applications and tools |
+
+<a id="overview-github"></a>
+
+## 📂 GitHub & Development Resources
+
+| Repository | Purpose |
+|---|---|
+| 🌐 **[Website-Draft](https://github.com/RIAHPathway/Website-Draft)** | Website development, wireframes, curriculum structures, pricing resources, contributor documentation, experiential resources, and ecosystem planning |
+| 👑 **[.github](https://github.com/RIAHPathway/.github)** | GitHub organization profile and organization-level configuration |
+
+| Development Resource | View |
+|---|---|
+| 🖥️ **Website Wireframes** | [Open Folder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/) |
+| 🗺️ **Navigation & Sitemap** | [View Structure](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/RIAH-PATHWAY-WEBSITE-NAVIGATION-SITEMAP.md) |
+| 🔗 **Routing, Links & CTAs** | [View Routing](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/RIAH-PATHWAY-COMBINED-ROUTING-LINKS-CTA-BUTTONS.md) |
+| 📚 **Curriculum Structure** | [Open Curriculum](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/) |
+| 💰 **Tuition & Pricing** | [Open Tuition](./RIAH-PATHWAY-TUITION-PRICING-FEES/) |
+| 💼 **Experiential Structure** | [Open Experiential](./RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/) |
+| 🎓 **Faculty Curriculum** | [Open Faculty Curriculum](./RIAH-PATHWAY-FACULTY-CURRICULUM/) |
+| 🤝 **Contributor Benefits** | [Open Contributor Structure](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/) |
+
+<a id="overview-development-structure"></a>
+
+## 🧩 Development Structure
+
+```mermaid
+flowchart TD
+    A["👑 RIAH Pathway"] --> B["🌐 Website"]
+    A --> C["🎓 Education"]
+    A --> D["💼 Experiential"]
+    A --> E["💻 Technology"]
+    A --> F["📚 Products"]
+
+    B --> G["Wireframes"]
+    B --> H["Routing & CTAs"]
+
+    C --> I["Schools"]
+    C --> J["Curriculum"]
+
+    D --> K["Professional Experience"]
+
+    E --> L["AI & Automation"]
+    E --> M["Infrastructure & Security"]
+
+    F --> N["Educational Products"]
+    F --> O["Certification & Bar Review Resources"]
+```
+
+<a id="overview-curriculum-resources"></a>
+
+## 📚 Curriculum & Resources
+
+Public GitHub resources may support eligible development of curriculum structures, documentation, course resources, technical exercises, labs, certification resources, study materials, policies, templates, and educational media.
+
+| Curriculum Area | Repository |
+|---|---|
+| 📘 **GED** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GED-STRUCTURE/) |
+| 📚 **General Curriculum** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GENERAL-STRUCTURE/) |
+| 🎓 **High School** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-HIGH-SCHOOL-STRUCTURE/) |
+| 💼 **Business** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-BUSINESS-STRUCTURE/) |
+| 💻 **Technology** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-TECHNOLOGY-STRUCTURE/) |
+| ⚖️ **Law** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-LAW-STRUCTURE/) |
+| 🛡️ **Homeland Security** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-HOMELAND-SECURITY/) |
+
+> 🔐 Public GitHub development does not mean all RIAH Pathway curriculum, internal systems, infrastructure, business information, or intellectual property is public or unrestricted.
+
+<a id="overview-products"></a>
+
+## 🛍️ Products & Professional Resources
+
+| Category | Examples |
+|---|---|
+| 📚 **Textbooks / Books** | Educational and professional learning |
+| 📝 **Workbooks** | Applied learning activities |
+| 📖 **Study Guides** | Academic and certification preparation |
+| 🗂️ **Flashcards** | Study and review resources |
+| 📓 **Journals & Planners** | Academic and professional organization |
+| 📚 **Certification Review** | Professional certification preparation |
+| ⚖️ **Bar Review** | Legal examination preparation |
+| 🧰 **Toolkits & Student Resources** | Professional and academic support resources |
+| 💻 **Digital Products** | Select digital resources |
+| 📦 **Print Products** | Primary physical product format |
+
+**Primary format:** Physical / printed  
+**Digital format:** Select products and resources
+
+<a id="overview-contributors"></a>
+
+## 🤝 Public Development & Contributors
+
+RIAH Pathway public development may include eligible participation from developers, students, educators, designers, cybersecurity professionals, researchers, curriculum contributors, content creators, business professionals, and community contributors.
+
+| Contribution Area | Examples |
+|---|---|
+| 💻 **Development** | Features, code, and technical improvements |
+| 🌐 **Website** | UI, UX, accessibility, wireframes, routing, and content implementation |
+| 🔐 **Security** | Eligible security improvements |
+| 🤖 **Automation** | Workflows and integrations |
+| 📚 **Education** | Eligible curriculum structures and documentation |
+| 🎨 **Creative** | Graphics and digital assets |
+| 🔬 **Research** | Research and testing |
+| 🌎 **Community** | Resources and ecosystem improvements |
+
+Repository-specific requirements, licenses, contribution terms, intellectual-property protections, and current contributor-benefit rules apply.
 
 ---
 
