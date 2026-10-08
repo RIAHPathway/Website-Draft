@@ -287,13 +287,9 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 # 🧭 2. RIAH PATHWAY ACADEMIC STRUCTURE
 
 
-```mermaid
-flowchart TD
-    N0["RIAH PATHWAY"] --> N1
-    N1["ACADEMIC ECOSYSTEM"] --> N2
-    N2["SECONDARY SCHOOL: High School Diploma; GED/HSE Preparation"] --> N3
-    N3["POSTSECONDARY PATHWAYS: General Education; School Core; Minor; Bachelor’s Major; Master’s; MBA; JD; Non-JD Law Pathways"]
-```
+![🧭 2. RIAH PATHWAY ACADEMIC STRUCTURE](./IMAGES/FLOW-01-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 # 🏛️ 3. SCHOOL STRUCTURE
 
@@ -671,10 +667,9 @@ The School Core alternative-credit course tables are distributed within the appl
 # 🚪 12. ACADEMIC PROGRESSION GATEWAYS
 
 
-```mermaid
-flowchart TD
-    N0["General Education → Applicable School Core → Year 3 Major Admission → Year 3 Major → Year 4 Major → Program Capstone → Program Completion."]
-```
+![🚪 12. ACADEMIC PROGRESSION GATEWAYS](./IMAGES/FLOW-02-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 | Academic Component | Applicable Requirement |
 | --- | --- |
@@ -1009,10 +1004,9 @@ RIAH Pathway Secondary School contains two distinct secondary pathways:
 | High School Curriculum | Every course within the RIAH Pathway Four-Year High School Diploma curriculum follows the same core assessment architecture: |
 
 
-```mermaid
-flowchart TD
-    N0["High School Course → Course Curriculum → Objective Assessment (OA) + Performance Assessment (PA) → Both Proctored → Course Requirements Complete → Credit Earned → Next Course / Semester."]
-```
+![High School Assessment Architecture](./IMAGES/FLOW-03-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 High School Assessment Rules:
 | Curriculum Component | Academic Structure |
@@ -1133,10 +1127,9 @@ High School Progression:
 
 RIAH Pathway Secondary School provides GED/HSE preparation.
 
-```mermaid
-flowchart TD
-    N0["RIAH separates Preparation → Official Credentialing."]
-```
+![📘 25. GED/HSE PREPARATION ARCHITECTURE](./IMAGES/FLOW-04-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 | GED/HSE Curriculum Component | Preparation / Credential Structure |
 | --- | --- |
@@ -1193,10 +1186,9 @@ Corresponding Concurrent General Education Opportunity:
 # 📘 27. GED/HSE ACADEMIC FLOW
 
 
-```mermaid
-flowchart TD
-    N0["RIAH Pathway Secondary School → GED/HSE Preparation → GED 101–104 → RIAH Curriculum + RIAH Learning Package + Edmentum + HiSET Materials Where Applicable → RIAH Proctored Assessments → 80% Mastery → Preparation Complete → Separate Credentialing → Official GED/HSE Process → Official HSE Credential under applicable jurisdiction requirements."]
-```
+![📘 27. GED/HSE ACADEMIC FLOW](./IMAGES/FLOW-05-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-05-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 # 🧠 28. GED/HSE, HIGH SCHOOL & REGULAR COURSE ASSESSMENT STANDARD
 
@@ -1224,10 +1216,9 @@ flowchart TD
 # 📈 29. GED/HSE CONCURRENT ACCELERATION
 
 
-```mermaid
-flowchart TD
-    N0["GED 101–104 → 12 GED Preparation Credits + Eligible Concurrent General Education → MAT 1010 + ENG 1010 + SCI 1010 + HIS 1010 → Up to 12 Corresponding General Education Credits → Official HSE Credential Separately Completed → RIAH Pathway or Other Eligible Postsecondary Pathway."]
-```
+![📈 29. GED/HSE CONCURRENT ACCELERATION](./IMAGES/FLOW-06-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-06-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 # 📋 30. HIGH SCHOOL DIPLOMA VS. GED/HSE
 
@@ -1380,36 +1371,9 @@ Not every field applies to every course.
 # 🧭 37. COMPLETE RIAH ACADEMIC ARCHITECTURE FLOW
 
 
-```mermaid
-flowchart TD
-    N0["RIAH Pathway"] --> N1
-    N1["Secondary School"] --> N2
-    N2["High School Diploma"] --> N3
-    N3["Grades 9–12"] --> N4
-    N4["40 Courses"] --> N5
-    N5["120 Credits"] --> N6
-    N6["OA Every Course"] --> N7
-    N7["PA Every Course"] --> N8
-    N8["OA + PA Proctored"] --> N9
-    N9["No Capstone"] --> N10
-    N10["State Components"] --> N11
-    N11["Graduation Audit"] --> N12
-    N12["GED/HSE Preparation"] --> N13
-    N13["GED 101–104"] --> N14
-    N14["12 Prep Credits"] --> N15
-    N15["Concurrent GE up to 12 Credits"] --> N16
-    N16["Proctored Assessments"] --> N17
-    N17["Separate Official Credentialing"] --> N18
-    N18["Postsecondary"] --> N19
-    N19["General Education"] --> N20
-    N20["School Core"] --> N21
-    N21["Minor"] --> N22
-    N22["Year 3 Major: OA + PA + Discipline Foundation"] --> N23
-    N23["Year 4 Major: OA + PA + Sequential Project + 4110 Capstone + PebblePad"] --> N24
-    N24["Master’s: 30 Credits + OA + PA + Graduate Project Life Cycle + 5110 Capstone + PebblePad"] --> N25
-    N25["MBA: 30 Credits + OA + PA + Management Project Life Cycle + 6110 Capstone + PebblePad"] --> N26
-    N26["Law: JD — 96 Credits + Non-JD State Pathways"]
-```
+![🧭 37. COMPLETE RIAH ACADEMIC ARCHITECTURE FLOW](./IMAGES/FLOW-07-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-07-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 
 | Curriculum Owner / Source | Software / Content Function |
@@ -1432,10 +1396,9 @@ The detailed curriculum remains controlled by:
 | --- | --- |
 | Academic | Where a detailed curriculum document expressly establishes a course-specific or pathway-specific requirement, that controlling detailed curriculum governs the applicable course or pathway. |
 
-```mermaid
-flowchart TD
-    N0["General Architecture → Applicable Controlling Curriculum → Course / Pathway Requirements → Academic Progression → OA + PA Where Applicable → Proctoring Where Required → Project / Experiential / Capstone Where Applicable → Program Completion."]
-```
+![✅ 38. CONTROLLING CURRICULUM STANDARD](./IMAGES/FLOW-08-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-08-ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.mmd)
 
 # 👑 RIAH PATHWAY
 | Curriculum Architecture | Source |
