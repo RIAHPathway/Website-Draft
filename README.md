@@ -175,13 +175,9 @@ The README contains unnumbered personal/professional and RIAH Pathway overview s
 | 🧾 [Legacy Bot Run Log](./RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md) | Dated bot runs with public-market comparisons, evidence coverage, Tier flags, observations, and audit results. |
 | ⚠️ [Public Repository Notice](./RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.md) | Public-access scope, licensed material, intellectual-property protections, and the distinction between independent development and unauthorized reuse. |
 
-```mermaid
-flowchart LR
-    A["🌐 Public Evidence"] --> B["🤖 Legacy"]
-    B --> C["🧬 Tier 1 • Tier 2 • Tier 3"]
-    C --> D["🕒 Evidence Preservation"]
-    D --> E["🧾 Daily Audit"]
-```
+![I 🤖 Legacy — RIAH Pathway Replica Bot](./IMAGES/FLOW-01-README.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-README.mmd)
 
 > **Review rule:** A Replica Bot flag is an investigative lead, not a legal conclusion. Similarity alone does not establish copying, access, infringement, misconduct, accreditation, or liability.
 
@@ -502,28 +498,9 @@ The experiential pathway connects education with progressive professional experi
 
 ## 🧩 Development Structure
 
-```mermaid
-flowchart TD
-    A["👑 RIAH Pathway"] --> B["🌐 Website"]
-    A --> C["🎓 Education"]
-    A --> D["💼 Experiential"]
-    A --> E["💻 Technology"]
-    A --> F["📚 Products"]
+![🧩 Development Structure](./IMAGES/FLOW-02-README.svg)
 
-    B --> G["Wireframes"]
-    B --> H["Routing & CTAs"]
-
-    C --> I["Schools"]
-    C --> J["Curriculum"]
-
-    D --> K["Professional Experience"]
-
-    E --> L["AI & Automation"]
-    E --> M["Infrastructure & Security"]
-
-    F --> N["Educational Products"]
-    F --> O["Certification & Bar Review Resources"]
-```
+[View editable Mermaid diagram](./IMAGES/FLOW-02-README.mmd)
 
 <a id="overview-curriculum-resources"></a>
 
