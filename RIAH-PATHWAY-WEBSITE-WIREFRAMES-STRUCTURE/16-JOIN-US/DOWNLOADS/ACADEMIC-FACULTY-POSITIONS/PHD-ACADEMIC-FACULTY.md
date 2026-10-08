@@ -11,6 +11,14 @@
 ### Description
 RIAH Pathway is seeking **PhD Academic Faculty for the individual majors and academic areas within each school**. PhD Academic Faculty teach, develop, review, and maintain curriculum, assessments, collections, textbooks, workbooks, journals, study guides, review guides, Certification Review or Bar Review content, products, and Experiential curriculum alignment.
 
+### At-Scale Core Faculty, Demand-Based Hiring and Four-Year Tenure
+
+RIAH Pathway's **at-scale core academic faculty allocation is 14 PhD Academic Faculty and 14 Adjunct Academic Faculty — 28 core faculty positions in total**. The **14 designated core PhD Academic Faculty positions**, including beta hires filling those positions, are the equity-bearing and benefits-eligible PhD positions under the existing compensation, equity, vesting, contribution, performance, and benefits terms in this posting.
+
+**Hiring beyond the 14 core PhD positions is based on student demand across the education pathways and any applicable accreditor, state authorization, licensing, or other regulatory faculty qualification, staffing, or faculty-to-student requirements.** Any additional PhD Academic Faculty hired beyond the designated 14 core positions serve **on contract, with no RIAH Pathway equity award or employee benefits package**. Any legally required protections or benefits remain governed by applicable law and the individual's agreement.
+
+**Core PhD tenure:** Each of the **14 core PhD Academic Faculty members**, including those hired during beta into a designated core position, **earns the RIAH Pathway faculty tenure designation after four years** upon satisfying the required **four-year equity vesting, ongoing contributions, and documented daily, weekly, monthly, and overall performance responsibilities** under the applicable agreements. Tenure is intended to retain the member's ongoing core faculty position, subject to applicable institutional tenure policies, agreements, and law. **Additional demand-based contract PhD faculty are not included in this 28-position core tenure and equity structure.**
+
 ### School of Business — PhD Academic Faculty
 - **Accounting**
 - **Entrepreneurship**
