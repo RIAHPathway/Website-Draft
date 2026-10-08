@@ -118,14 +118,22 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 ## 🔄 RIAH Pathway Whole System Connection
 
 ```mermaid
-graph LR
-    A["Education"] --> B["Verified Learning"]
-    B --> C["Real Placement"]
-    C --> D["Real Work"]
-    D --> E["Human Supervision"]
-    E --> F["Experiential Capstone"]
-    F --> G["Documented Experience"]
-    G --> H["Career Connection"]
+flowchart LR
+    A["Education"]
+    B["Verified Learning"]
+    C["Real Placement"]
+    D["Real Work"]
+    E["Human Supervision"]
+    F["Experiential Capstone"]
+    G["Documented Experience"]
+    H["Career Connection"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> H
 ```
 
 ## Comparison Table
@@ -495,110 +503,155 @@ The one-month guarantee does not guarantee employment after completion.
 ## **Flow 1A — Student Request and Application**
 
 ```mermaid
-graph TD
-    A["Student identifies requested<br/>Experiential level"] --> B["Student submits<br/>Experiential application"]
+flowchart TD
+    A["Student identifies requested<br/>Experiential level"]
+    B["Student submits<br/>Experiential application"]
+    A --> B
 ```
 
 ## **Flow 1B — Eligibility Verification**
 
 ```mermaid
-graph TD
-    A["RIAH verifies student status,<br/>pathway, and major"] --> B["RIAH verifies coursework,<br/>prerequisites, and experience"]
-    B --> C["RIAH determines<br/>highest qualified level"]
+flowchart TD
+    A["RIAH verifies student status,<br/>pathway, and major"]
+    B["RIAH verifies coursework,<br/>prerequisites, and experience"]
+    C["RIAH determines<br/>highest qualified level"]
+    A --> B
+    B --> C
 ```
 
 ## **Flow 2A — Placement Review**
 
 ```mermaid
-graph TD
-    A["RIAH reviews internal<br/>ecosystem needs"] --> C{"Internal or<br/>External Placement"}
-    B["RIAH reviews approved external<br/>partner opportunities"] --> C
+flowchart TD
+    A["RIAH reviews internal<br/>ecosystem needs"]
+    C{"Internal or<br/>External Placement"}
+    B["RIAH reviews approved external<br/>partner opportunities"]
+    A --> C
+    B --> C
 ```
 
 ## **Flow 2B — Placement Matching**
 
 ```mermaid
-graph TD
-    A["Match student by applicable<br/>placement factors"] --> B["Confirm placement<br/>capacity"]
+flowchart TD
+    A["Match student by applicable<br/>placement factors"]
+    B["Confirm placement<br/>capacity"]
+    A --> B
 ```
 
 ## **Flow 2C — Placement Terms**
 
 ```mermaid
-graph TD
-    A["Duration and status"] --> B["Format and supervisor"]
-    B --> C["Responsibilities<br/>and deliverables"]
+flowchart TD
+    A["Duration and status"]
+    B["Format and supervisor"]
+    C["Responsibilities<br/>and deliverables"]
+    A --> B
+    B --> C
 ```
 
 ## **Flow 3A — Orientation and Real-World Work**
 
 ```mermaid
-graph TD
-    A["Experiential orientation"] --> B["Applicable training"]
-    B --> C["Supervised<br/>real-world work"]
+flowchart TD
+    A["Experiential orientation"]
+    B["Applicable training"]
+    C["Supervised<br/>real-world work"]
+    A --> B
+    B --> C
 ```
 
 ## **Flow 3B — Performance and Requirements**
 
 ```mermaid
-graph TD
-    A["Progress documented"] --> B["Performance documented"]
-    B --> C["Assignments and<br/>deliverables completed"]
-    C --> D["Reviews and placement<br/>requirements completed"]
+flowchart TD
+    A["Progress documented"]
+    B["Performance documented"]
+    C["Assignments and<br/>deliverables completed"]
+    D["Reviews and placement<br/>requirements completed"]
+    A --> B
+    B --> C
+    C --> D
 ```
 
 ## **Flow 3C — Completion Record**
 
 ```mermaid
-graph TD
-    A["Requirements completed"] --> B["RIAH records completion"]
-    B --> C["Applicable Experiential<br/>achievement recorded"]
+flowchart TD
+    A["Requirements completed"]
+    B["RIAH records completion"]
+    C["Applicable Experiential<br/>achievement recorded"]
+    A --> B
+    B --> C
 ```
 
 ## **Placement Flow — Qualification**
 
 ```mermaid
-graph TD
-    A["Application"] --> B["Eligibility"]
-    B --> C["Level"]
-    C --> D["Placement Review"]
+flowchart TD
+    A["Application"]
+    B["Eligibility"]
+    C["Level"]
+    D["Placement Review"]
+    A --> B
+    B --> C
+    C --> D
 ```
 
 ## **Placement Flow — Placement Type**
 
 ```mermaid
-graph TD
-    A["Placement Review"] --> B{"Placement Type"}
-    B --> C["Internal Placement"]
-    B --> D["External Placement"]
+flowchart TD
+    A["Placement Review"]
+    B{"Placement Type"}
+    C["Internal Placement"]
+    D["External Placement"]
+    A --> B
+    B --> C
+    B --> D
 ```
 
 ## **Placement Source Flow**
 
 ```mermaid
-graph LR
-    A[Internal Placement] --> B[RIAH Pathway Entities]
-    C[External Placement] --> D[Approved Partners or Organizations]
+flowchart LR
+    A["Internal Placement"]
+    B["RIAH Pathway Entities"]
+    C["External Placement"]
+    D["Approved Partners or Organizations"]
+    A --> B
+    C --> D
 ```
 
 ## **Placement Completion Flow — Start**
 
 ```mermaid
-graph TD
-    A[RIAH Pathway Entities] --> B[Terms]
-    E[Approved Partners or Organizations] --> B
-    B --> C[Orientation]
-    C --> D[Real Work]
+flowchart TD
+    A["RIAH Pathway Entities"]
+    B["Terms"]
+    E["Approved Partners or Organizations"]
+    C["Orientation"]
+    D["Real Work"]
+    A --> B
+    E --> B
+    B --> C
+    C --> D
 ```
 
 ## **Placement Completion Flow — Review**
 
 ```mermaid
-graph TD
-    A[Real Work] --> B[Supervision]
-    B --> C[Review]
-    C --> D[Completion]
-    D --> E[Record]
+flowchart TD
+    A["Real Work"]
+    B["Supervision"]
+    C["Review"]
+    D["Completion"]
+    E["Record"]
+    A --> B
+    B --> C
+    C --> D
+    D --> E
 ```
 
 # **X. 🧭 PLACEMENT SELECTION**
@@ -783,18 +836,25 @@ The flow below shows how the Experiential levels connect within the overall stru
 ## **Experiential Level Flow — Entry**
 
 ```mermaid
-graph TD
-    A[Apprentice] --> B[Intern]
-    B --> C[Associate]
+flowchart TD
+    A["Apprentice"]
+    B["Intern"]
+    C["Associate"]
+    A --> B
+    B --> C
 ```
 
 ## **Experiential Level Flow — Advanced**
 
 ```mermaid
-graph TD
-    A[Associate] --> B[Senior Associate]
-    B --> C[Manager]
-    C --> D[Executive]
+flowchart TD
+    A["Associate"]
+    B["Senior Associate"]
+    C["Manager"]
+    D["Executive"]
+    A --> B
+    B --> C
+    C --> D
 ```
 
 # **XIII. 📚 EXPERIENTIAL CURRICULUM AND COLLECTIONS**
@@ -1141,18 +1201,25 @@ The Experiential pathway is:
 ### **Experiential Pathway Flow — Entry**
 
 ```mermaid
-graph TD
-    A[Apprentice 1 Month] --> B[Intern 3 Months]
-    B --> C[Associate 1 Year]
+flowchart TD
+    A["Apprentice 1 Month"]
+    B["Intern 3 Months"]
+    C["Associate 1 Year"]
+    A --> B
+    B --> C
 ```
 
 ### **Experiential Pathway Flow — Advanced**
 
 ```mermaid
-graph TD
-    A[Associate 1 Year] --> B[Senior Associate 1 Year]
-    B --> C[Manager 1 Year]
-    C --> D[Executive 1 Year]
+flowchart TD
+    A["Associate 1 Year"]
+    B["Senior Associate 1 Year"]
+    C["Manager 1 Year"]
+    D["Executive 1 Year"]
+    A --> B
+    B --> C
+    C --> D
 ```
 
 Placement may be internal to RIAH or through approved employer and professional partners.
