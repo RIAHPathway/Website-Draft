@@ -22,7 +22,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 **Version 1.0 — 2026**
 
-Copyright © 2026 [LEGAL OWNER NAME].  
+Copyright © 2026 RIAH Pathway.  
 All Rights Reserved.
 
 RIAH Pathway, the RIAH Pathway ecosystem, associated website materials, software, source code, architecture, content, documentation, designs, workflows, systems, and associated intellectual property are proprietary materials.
@@ -625,7 +625,7 @@ You may not, without separate written authorization:
 
 ---
 
-**Copyright © 2026 [LEGAL OWNER NAME]. All Rights Reserved.**
+**Copyright © 2026 RIAH Pathway. All Rights Reserved.**
 
 **RIAH PATHWAY**
 
