@@ -1,0 +1,16 @@
+%% RIAH Pathway — flow section 1 of 2; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    N0["Transfer Review"]
+    N1["Credit Evaluation"]
+    N2["Admission"]
+    N3["Enrollment"]
+    N4["Transfer Welcome Kit"]
+    N5["One-Week Orientation"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 riah;
