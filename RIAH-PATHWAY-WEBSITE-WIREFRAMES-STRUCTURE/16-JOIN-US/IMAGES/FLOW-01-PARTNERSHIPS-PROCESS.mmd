@@ -1,0 +1,9 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    A["Express interest"] --> B["Application and review"]
+    B --> C{"Requirements met?"}
+    C -->|Yes| D["Agreement and preparation"]
+    C -->|More information needed| E["Complete application"]
+    E --> B
+    C -->|No| F["Application does not proceed"]
+    D --> G["Begin approved activities"]

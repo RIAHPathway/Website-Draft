@@ -106,16 +106,9 @@ Sensitive information should be submitted through the designated application cha
 | CONFIRM WRITTEN TERMS | Both organizations document the approved activities and permissions |
 | BEGIN THE AFFILIATION | Approved links, listings, or promotions become active |
 
-```mermaid
-flowchart TD
-    A["Business affiliation inquiry"] --> B["Business and offering review"]
-    B --> C{"Requirements met?"}
-    C -->|Yes| D["Written terms and activation"]
-    C -->|More information needed| E["Additional information"]
-    E --> B
-    C -->|No| F["Affiliation does not proceed"]
-    D --> G["Active affiliation and continued review"]
-```
+![V. 🔎 Application & Verification Process](./../../IMAGES/FLOW-01-AFFILIATES.svg)
+
+[View editable Mermaid diagram](./../../IMAGES/FLOW-01-AFFILIATES.mmd)
 
 **Approval covers the business, offerings, channels, and activities identified in the written terms.**
 

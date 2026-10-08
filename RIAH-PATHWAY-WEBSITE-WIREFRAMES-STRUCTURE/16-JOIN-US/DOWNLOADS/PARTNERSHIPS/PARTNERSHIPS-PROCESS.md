@@ -107,16 +107,9 @@ We may accept redacted work examples when necessary to protect confidential info
 | COMPLETE THE AGREEMENT | Approved organizations confirm their responsibilities and participation terms in writing |
 | GET STARTED | Complete the applicable orientation and preparation before approved activities begin |
 
-```mermaid
-flowchart TD
-    A["Express interest"] --> B["Application and review"]
-    B --> C{"Requirements met?"}
-    C -->|Yes| D["Agreement and preparation"]
-    C -->|More information needed| E["Complete application"]
-    E --> B
-    C -->|No| F["Application does not proceed"]
-    D --> G["Begin approved activities"]
-```
+![V. 🔎 The Partnership Application Process](./../../IMAGES/FLOW-01-PARTNERSHIPS-PROCESS.svg)
+
+[View editable Mermaid diagram](./../../IMAGES/FLOW-01-PARTNERSHIPS-PROCESS.mmd)
 
 **Approval identifies the activities your organization is authorized to provide. Additional activities, student placements, or affiliate participation may require further approval.**
 
@@ -175,15 +168,9 @@ Recruiting organizations follow RIAH Pathway’s blind review standards. Approve
 
 **A student placement does not guarantee permanent employment, a particular employer or salary, professional licensure, or bar eligibility.**
 
-```mermaid
-flowchart TD
-    A["Proposed student opportunity"] --> B{"Placement standards met?"}
-    B -->|Yes| C["Student matching and preparation"]
-    B -->|Preparation needed| D["Complete requirements"]
-    D --> B
-    C --> E["Supervised professional experience"]
-    E --> F["Feedback and completion"]
-```
+![VII. 🎓 Standards for Student Placements](./../../IMAGES/FLOW-02-PARTNERSHIPS-PROCESS.svg)
+
+[View editable Mermaid diagram](./../../IMAGES/FLOW-02-PARTNERSHIPS-PROCESS.mmd)
 
 ## VIII. ✍️ Agreements & Getting Started
 

@@ -1,0 +1,9 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    A["Business affiliation inquiry"] --> B["Business and offering review"]
+    B --> C{"Requirements met?"}
+    C -->|Yes| D["Written terms and activation"]
+    C -->|More information needed| E["Additional information"]
+    E --> B
+    C -->|No| F["Affiliation does not proceed"]
+    D --> G["Active affiliation and continued review"]
