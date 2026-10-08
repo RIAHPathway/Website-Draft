@@ -13,6 +13,9 @@ RIAH Pathway is seeking School of TECHNOLOGY Experiential Professionals serving 
 
 Applicants apply for the Manager, Supervisor, or Reviewer function that matches their professional experience.
 
+### Additional Contract Positions — Graduate & External Recruitment
+The 30 designated core positions retain their equity and benefits terms below. **Experiential Managers, Supervisors and Reviewers beyond the core** may be qualified RIAH Pathway graduates after graduation or qualified outside professionals. Additional positions are **paid contracts only: 0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**, subject to applicable law. Professional requirements still apply.
+
 ### Experiential Role Requirements
 
 **Manager**
