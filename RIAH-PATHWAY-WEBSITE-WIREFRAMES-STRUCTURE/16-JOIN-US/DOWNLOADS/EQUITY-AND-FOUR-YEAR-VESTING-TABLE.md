@@ -237,7 +237,7 @@ The following positions have **0% organizational equity**, so no equity vesting 
 
 - Additional PhD / Adjunct Academic Faculty Contractors
 - Additional Experiential Manager / Supervisor / Reviewer Contractors
-- Certification Review / Bar Review / Mentorship / Coaching / Live Review / Other Product & Service Contractors
+- Product & Service Professional Contractor (Certification Review / Bar Review / Mentorship / Coaching / Live Review / Other Services)
 - Board President
 - Board Vice President
 - Board Secretary
