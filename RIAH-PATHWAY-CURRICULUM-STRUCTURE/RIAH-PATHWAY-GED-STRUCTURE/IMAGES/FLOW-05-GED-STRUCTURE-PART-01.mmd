@@ -1,0 +1,13 @@
+%% RIAH Pathway — flow section 1 of 2; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED5_0["DIAGNOSTIC"]
+    GED5_1["80% TEST-OUT"]
+    GED5_2["PREPARATION / REMEDIATION"]
+    GED5_3["RIAH CURRICULUM"]
+    GED5_4["PROCTORED CHECKPOINT"]
+    GED5_0 -->|OR| GED5_1
+    GED5_0 -->|OR| GED5_2
+    GED5_1 --> GED5_3
+    GED5_2 --> GED5_3
+    GED5_3 --> GED5_4

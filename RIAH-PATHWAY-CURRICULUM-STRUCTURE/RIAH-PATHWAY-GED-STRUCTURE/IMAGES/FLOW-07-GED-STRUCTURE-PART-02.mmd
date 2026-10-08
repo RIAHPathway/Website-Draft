@@ -1,0 +1,14 @@
+%% RIAH Pathway — flow section 2 of 3; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED7_4["ATTEMPT 2"]
+    GED7_5["PASS?"]
+    GED7_10["REQUIREMENT SATISFIED"]
+    GED7_6["24 HOURS"]
+    GED7_7["ATTEMPT 3"]
+    GED7_8["PASS?"]
+    GED7_4 --> GED7_5
+    GED7_5 -->|YES| GED7_10
+    GED7_5 -->|NO| GED7_6
+    GED7_6 --> GED7_7
+    GED7_7 --> GED7_8
