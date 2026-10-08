@@ -173,73 +173,73 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
       - 10.1.6 — MBA
       - 10.1.7 - JD
       - 10.1.8 - Non-JD
-  - 10.1.3 — General Education Curriculum
-  - 10.1.4 — School Core Curriculum
-  - 10.1.5 — Major Curriculum
-  - 10.1.6 — Upper-Division Curriculum
-  - 10.1.7 — Minor Curriculum
-  - 10.1.8 — Master's Curriculum
-  - 10.1.9 — MBA Curriculum
+  - 10.1.9 — General Education Curriculum
+  - 10.1.10 — School Core Curriculum
+  - 10.1.11 — Major Curriculum
+  - 10.1.12 — Upper-Division Curriculum
+  - 10.1.13 — Minor Curriculum
+  - 10.1.14 — Master's Curriculum
+  - 10.1.15 — MBA Curriculum
 - 10.2 — School of Business — `10.2-School-Of-Business-Wireframe.md`
-  - 10.2.2 — Curriculum
-  - 10.2.3 — Business Core
-  - 10.2.4 — Accounting
-  - 10.2.5 — Business Management
-  - 10.2.6 — Entrepreneurship
-  - 10.2.7 — Finance
+  - 10.2.1 — Curriculum
+  - 10.2.2 — Business Core
+  - 10.2.3 — Accounting
+  - 10.2.4 — Business Management
+  - 10.2.5 — Entrepreneurship
+  - 10.2.6 — Finance
 - 10.3 — School of Homeland Security — `10.3-School-Of-Homeland-Security-Wireframe.md`
-  - 10.3.2 — Curriculum
-  - 10.3.3 — Homeland Security Core
-  - 10.3.4 — Governance, Risk & Compliance (GRC)
-  - 10.3.5 — Intelligence
-  - 10.3.6 — Physical Security
-  - 10.3.7 — Private Investigator
+  - 10.3.1 — Curriculum
+  - 10.3.2 — Homeland Security Core
+  - 10.3.3 — Governance, Risk & Compliance (GRC)
+  - 10.3.4 — Intelligence
+  - 10.3.5 — Physical Security
+  - 10.3.6 — Private Investigator
 - 10.4 — School of Technology — `10.4-School-Of-Technology-Wireframe.md`
-  - 10.4.2 — Curriculum
-  - 10.4.3 — Technology Core
-  - 10.4.4 — Computer Science
-  - 10.4.5 — Cybersecurity
-  - 10.4.6 — Data Analytics
-  - 10.4.7 — Data Science
-  - 10.4.8 — Information Systems
-  - 10.4.9 — Program Management
-  - 10.4.10 — Project Management
-  - 10.4.11 — Software Development
-  - 10.4.12 — Software Engineering
+  - 10.4.1 — Curriculum
+  - 10.4.2 — Technology Core
+  - 10.4.3 — Computer Science
+  - 10.4.4 — Cybersecurity
+  - 10.4.5 — Data Analytics
+  - 10.4.6 — Data Science
+  - 10.4.7 — Information Systems
+  - 10.4.8 — Program Management
+  - 10.4.9 — Project Management
+  - 10.4.10 — Software Development
+  - 10.4.11 — Software Engineering
 - 10.5 — School of Law — `10.5-School-Of-Law-Wireframe.md`
-  - 10.5.2 — Curriculum
-  - 10.5.3 — Law Core
-  - 10.5.4 — Criminal Justice
-  - 10.5.5 — J.D.
-  - 10.5.6 — Non-J.D. Bar License
-  - 10.5.7 — Bar Review
+  - 10.5.1 — Curriculum
+  - 10.5.2 — Law Core
+  - 10.5.3 — Criminal Justice
+  - 10.5.4 — J.D.
+  - 10.5.5 — Non-J.D. Bar License
+  - 10.5.6 — Bar Review
 - 10.6 — High School — `10.6-High-School-Wireframe.md`
-  - 10.6.2 — Curriculum
-  - 10.6.3 — High School Diploma
+  - 10.6.1 — Curriculum
+  - 10.6.2 — High School Diploma
 - 10.7 — GED/HSE — `10.7-GED-HSE-Wireframe.md`
-  - 10.7.2 — Curriculum
-  - 10.7.3 — GED/HSE
+  - 10.7.1 — Curriculum
+  - 10.7.2 — GED/HSE
 - 10.8 — Experiential — `10.8-Experiential-Wireframe.md`
-  - 10.8.2 — Curriculum
-  - 10.8.3 — Apprentice — 1 Month
-  - 10.8.4 — Intern — 3 Months
-  - 10.8.5 — Associate — 1 Year
-  - 10.8.6 — Senior Associate — 1 Year
-  - 10.8.7 — Manager — 1 Year
-  - 10.8.8 — Executive — 1 Year
+  - 10.8.1 — Curriculum
+  - 10.8.2 — Apprentice — 1 Month
+  - 10.8.3 — Intern — 3 Months
+  - 10.8.4 — Associate — 1 Year
+  - 10.8.5 — Senior Associate — 1 Year
+  - 10.8.6 — Manager — 1 Year
+  - 10.8.7 — Executive — 1 Year
 - 10.9 — Certification & Review — `10.9-Certification-And-Review-Wireframe.md`
-  - 10.9.2 — Curriculum
-  - 10.9.3 — Certification Review
+  - 10.9.1 — Curriculum
+  - 10.9.2 — Certification Review
     - 10.9.3.1 — Certification Mapping
-  - 10.9.4 — Bar Review
+  - 10.9.3 — Bar Review
 - 10.10 — Curriculum Architecture — `10.10-Curriculum-Architecture-Wireframe.md`
-  - 10.10.2 — Course Numbering
-  - 10.10.3 — Prerequisites
-  - 10.10.4 — Certification Mapping
-  - 10.10.5 — Assessment
-  - 10.10.6 — Projects
-  - 10.10.7 — Capstones
-  - 10.10.8 — Experiential Integration
+  - 10.10.1 — Course Numbering
+  - 10.10.2 — Prerequisites
+  - 10.10.3 — Certification Mapping
+  - 10.10.4 — Assessment
+  - 10.10.5 — Projects
+  - 10.10.6 — Capstones
+  - 10.10.7 — Experiential Integration
 
 ### 11 — ADMISSIONS — MAIN PAGE WIREFRAME — `Admissions-Wireframe-Main.md`
 - 11.1 — Pre-Admissions — `11.1-Pre-Admissions-Wireframe.md`
