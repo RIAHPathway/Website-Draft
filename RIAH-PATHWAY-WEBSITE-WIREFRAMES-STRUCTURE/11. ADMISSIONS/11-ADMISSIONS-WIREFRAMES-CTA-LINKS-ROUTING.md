@@ -398,8 +398,8 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 
 ## 04 ⚙️ ADMISSIONS REVIEW & EXPERIENTIAL SELECTION
 **Delivery:** Digital.
-**Academic route:** Completed application → eligibility and applicable pathway review → decision.
-**Experiential route:** Completed application → application deadline → automated blind selection among eligible applicants → decision.
+![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg)
+[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
 **Schools:** School of Business; School of Technology; School of Homeland Security; School of Law.
 **Experiential selection:** Do not describe a general selection interview. Selection is automated and blind under applicable eligibility and capacity rules.
 | Receive | Items Received |
@@ -436,7 +436,8 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 ## 07 💰 DEPOSIT & SEAT CONFIRMATION
 **Delivery:** Digital / Financial.
 **Required deposit:** $1,000 total = $500 institutional deposit portion + $500 allocation toward the Welcome Experience, applicable materials and software.
-**Sequence:** Enrollment commitment → deposit deadline → payment → seat/cohort confirmation → Welcome Kit preparation and delivery.
+![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
+[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
 **Welcome Kit restriction:** The full Welcome Kit is not shipped until the required deposit has been paid.
 **Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first deposit deadline or forfeit their reserved seat.  
 Vacancies are offered to other eligible/selected applicants with a second deadline; continue until capacity is reached.
@@ -490,7 +491,8 @@ Training includes expectations, materials, placements and introductions to assig
 
 ## 10 👥 COHORT, SCHOOL & COMMUNITY
 **Delivery:** Digital + Physical + Community.
-**Placement:** Automated student sorting → monthly cohort → school community → cohort community → peer/buddy connection.
+![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg)
+[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
 **Experience:** Human camaraderie, student-to-student engagement, school identity, group activities, shared cohort progress, student support.
 | Receive | Items Received |
 | --- | --- |
@@ -565,20 +567,8 @@ This allows time for application processing, decisions, applicable aid and accre
 Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
 **Application + $50 fee  
-→ Monthly deadline  
-→ Academic review / blind experiential selection  
-→ Acceptance  
-→ Enrollment commitment  
-→ $1,000 deposit deadline  
-→ Seat/cohort confirmation  
-→ Welcome Kit  
-→ One-week virtual orientation/training  
-→ School/cohort/buddy community  
-→ Applicable experiential/law assignments  
-→ Active LMS/program access  
-→ Milestones  
-→ Graduation  
-→ Alumni.**
+![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
+[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
 
 ## 🌐 PUBLIC WEBSITE FLOW — ADMISSIONS
 

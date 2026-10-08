@@ -32,16 +32,8 @@
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore  
-→ Select Your Pathway  
-→ Review Requirements  
-→ Apply  
-→ Submit Documentation  
-→ Application Review  
-→ Receive Your Decision  
-→ Enroll  
-→ Welcome Materials  
-→ Cohort  
-→ Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-01](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.mmd)
 
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
@@ -76,7 +68,8 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
 4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
 5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
-**Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-02](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.mmd)
 
 **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 ## V. PRE-ADMISSIONS OVERVIEW
@@ -97,7 +90,8 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
 **Classe365 • $50 NON-REFUNDABLE APPLICATION PROCESSING FEE**
 **Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Communications**
-**Select Pathway → Review Requirements → Submit Application → Submit Documentation → Application Review → Pathway-Specific Review → Decision → Acceptance**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-03](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.mmd)
 
 **[BUTTON 11-M08 — APPLY NOW → CLASSE365]**
 **[BUTTON 11-M09 — APPLICATION → 11.3]**
@@ -109,7 +103,8 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **Student Name • School Identity • Selected Pathway • Institutional Branding • Unified Crown • Acceptance Information • Next Steps**
 
 **[ICON — ACCEPTANCE LETTER WITH SEAL]**
-**Admission Offer → Student Commitment → Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-04](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.mmd)
 
 **[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]**
 ## VIII. ONBOARDING & STUDENT EXPERIENCE OVERVIEW
@@ -131,13 +126,15 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[IMAGE — REGIONAL GRADUATION CEREMONY]**
 **NORTH • SOUTH • EAST • WEST**
 **Regional In-Person Ceremony + Virtual Graduation Option**
-**Student → Graduate → Classe365 Alumni Record → SuiteDash Alumni Community → Career and Mentorship → Legacy**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-05](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.mmd)
 
 **[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]**
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
 
 **[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
-**Webflow — Public Website → SuiteDash — Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Records, Degree Audit, Alumni**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-06](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.mmd)
 **Parchment — Official Transcripts  
 • National Student Clearinghouse — Enrollment and Degree Verification  
 • LearnWorlds — Courses  
@@ -188,15 +185,8 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
 **Explore Transfer  
-→ Review Eligibility  
-→ Submit Records  
-→ $125 Transfer Credit Evaluation → $125 Processing Upon Applicable Admission  
-→ Credit Determination  
-→ Admission  
-→ Enrollment  
-→ Transfer Kit  
-→ Orientation  
-→ Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-07](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.mmd)
 
 **[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
@@ -296,27 +286,11 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **Interest  
-→ Pathway Selection  
-→ Pre-Admissions  
-→ Application  
-→ Documentation  
-→ Review  
-→ Acceptance  
-→ Commitment  
-→ Enrollment  
-→ Welcome  
-→ Orientation  
-→ Active Student  
-→ Achievement  
-→ Graduation  
-→ Alumni.**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-08](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.mmd)
 **Monthly cohorts:** Acceptance  
-→ Enrollment Requirements  
-→ Applicable Deposit  
-→ Cohort or Placement Confirmation  
-→ Welcome Experience  
-→ Orientation  
-→ Active Student.
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-09](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.mmd)
 **Pre-admissions:** Year 3 requires completed general education and school core; minors require applicable prerequisites; master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
 **High School:** Initial states Ohio, Florida, Texas; eighth-grade transcripts for students entering ninth grade; grades 9–12 transcripts evaluated for grade, credits, remaining requirements, and eligible concurrent college courses.
 **GED/HSE:** Prior high school record demonstrating noncompletion; online preparation and applicable concurrent college coursework offering 12 college credit hours; authorized state examination.
@@ -348,16 +322,8 @@ Accounting requires Financial Accounting and Managerial Accounting; Computer Sci
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore  
-→ Select Your Pathway  
-→ Review Requirements  
-→ Apply  
-→ Submit Documentation  
-→ Application Review  
-→ Receive Your Decision  
-→ Enroll  
-→ Welcome Materials  
-→ Cohort  
-→ Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-10](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.mmd)
 
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
@@ -392,7 +358,8 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
 4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
 5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
-**Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-11](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.mmd)
 
 **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 
@@ -514,16 +481,8 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore  
-→ Select Your Pathway  
-→ Review Requirements  
-→ Apply  
-→ Submit Documentation  
-→ Application Review  
-→ Receive Your Decision  
-→ Enroll  
-→ Welcome Materials  
-→ Cohort  
-→ Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-12](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.mmd)
 
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
@@ -558,7 +517,8 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
 4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
 5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
-**Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
+![ADMISSIONS-WIREFRAME-MAIN-FLOW-13](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.svg)
+[Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.mmd)
 
 **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 
