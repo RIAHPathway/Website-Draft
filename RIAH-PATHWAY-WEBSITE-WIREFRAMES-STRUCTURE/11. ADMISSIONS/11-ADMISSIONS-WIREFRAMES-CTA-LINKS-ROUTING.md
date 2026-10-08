@@ -361,7 +361,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 ## 01 🔎 INTEREST & INQUIRY
 **Delivery:** Digital.
 **Experience:** Discover RIAH Pathway, its four schools, academic pathways, experiential programs and opportunities.
-**Materials received:** Digital brochures, flyers, pamphlets, blogs, podcasts, social content, videos/vlogs, event and community-event information, school information, academic and experiential pathway guides, general information.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Digital brochures, flyers, pamphlets, blogs, podcasts, social content, videos/vlogs, event and community-event information, school information, academic and experiential pathway guides, general information. |
 
 **[BUTTON — EXPLORE PATHWAYS → 03]**
 
@@ -370,7 +372,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **Academic applicants:** Review eligibility, prerequisites, transcripts, documentation, academic level, school, major and preparation requirements.
 **Experiential applicants:** Review eligibility, program-specific prerequisites, required documents, level/duration, preparation, placement and supervision requirements across Business, Technology, Homeland Security and Law.
 **JD / Non-JD:** Review applicable law-pathway eligibility, prerequisites, supervision and preparation requirements.
-**Materials received:** Pre-admissions guides, eligibility checklists, transcript and documentation requirements, pathway/school/major information, program-specific preparation materials.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Pre-admissions guides, eligibility checklists, transcript and documentation requirements, pathway/school/major information, program-specific preparation materials. |
 
 **[BUTTON — PRE-ADMISSIONS → 11.2]**
 
@@ -386,7 +390,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **Fee:** $50 non-refundable application processing fee for all academic and experiential programs.
 **General testing:** No SAT, ACT or general writing assessment. Applicable pathway-specific requirements remain separate.
 **Student actions:** Select school/pathway/major or experiential program, submit application and required documentation, pay application fee, meet applicable monthly deadline.
-**Materials received:** Application checklist, required-document information, payment confirmation, application updates, intended cohort and next steps.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Application checklist, required-document information, payment confirmation, application updates, intended cohort and next steps. |
 
 **[BUTTON — APPLY NOW → CLASSE365]**
 
@@ -396,7 +402,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **Experiential route:** Completed application → application deadline → automated blind selection among eligible applicants → decision.
 **Schools:** School of Business; School of Technology; School of Homeland Security; School of Law.
 **Experiential selection:** Do not describe a general selection interview. Selection is automated and blind under applicable eligibility and capacity rules.
-**Materials received:** Decision updates, selection notices, applicable cohort and deadline information.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Decision updates, selection notices, applicable cohort and deadline information. |
 
 **[ICON — AUTOMATED BLIND SELECTION]**
 
@@ -409,7 +417,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 [View editable Mermaid diagram](./IMAGES/ACCEPTANCE-ENROLLMENT.mmd)
 
 **Delivery:** Digital + Physical. **First mailed student touchpoint.**
-**Materials received:** Digital acceptance, personalized mailed acceptance letter, branded envelope and seal, school-specific presentation, acceptance folder/package, congratulations materials, enrollment instructions, cohort/start information, deposit deadline.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Digital acceptance, personalized mailed acceptance letter, branded envelope and seal, school-specific presentation, acceptance folder/package, congratulations materials, enrollment instructions, cohort/start information, deposit deadline. |
 **Experiential:** Selected applicants also receive experiential acceptance and next-step information.
 
 **[IMAGE — SCHOOL-SPECIFIC ACCEPTANCE LETTER AND SEALED ENVELOPE WITH UNIFIED CROWN]**
@@ -417,7 +427,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 ## 06 ✍️ ENROLLMENT & COMMITMENT
 **Delivery:** Digital.
 **Student actions:** Accept offer, commit to RIAH Pathway, complete enrollment requirements and confirm upcoming monthly cohort; accept experiential offer where applicable.
-**Materials received:** Enrollment confirmation, checklist, tuition and fee information, required-material information, deposit instructions and deadline, cohort/start details and next steps.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Enrollment confirmation, checklist, tuition and fee information, required-material information, deposit instructions and deadline, cohort/start details and next steps. |
 
 **[BUTTON — ENROLLMENT & COMMITMENT]**
 
@@ -429,7 +441,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first deposit deadline or forfeit their reserved seat.  
 Vacancies are offered to other eligible/selected applicants with a second deadline; continue until capacity is reached.
 **Academic cohort timing:** A student missing the applicable academic cohort deadline may enter a subsequent monthly cohort after satisfying requirements.
-**Materials received:** Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice. |
 
 **[ICON — $1,000 DEPOSIT; $500 DEPOSIT + $500 MATERIALS]**
 **[BUTTON — DEPOSIT INFORMATION → 12]**
@@ -439,7 +453,9 @@ Vacancies are offered to other eligible/selected applicants with a second deadli
 **Personalization layers:** RIAH Pathway core + entry status (new/transfer) + pathway/level + school + major/program + monthly cohort + orientation/community.
 **Schools:** Business; Technology; Law; Homeland Security. School robes, scarves, bags and other items may have distinct school colors; visual designs remain concept-stage.
 **Pathways/levels:** High School, GED, Associate's, Bachelor's, JD, Non-JD and applicable programs.
-**Concept materials received:** Branded Welcome Box and letter; school robe, scarf, backpack/bag and gear; applicable books, workbooks, journals, planners, pathway/major materials, orientation workbook, cohort and student-success materials, ID/badge concepts, applicable software/materials.
+| Receive | Items Received |
+| --- | --- |
+| Concept materials received | Branded Welcome Box and letter; school robe, scarf, backpack/bag and gear; applicable books, workbooks, journals, planners, pathway/major materials, orientation workbook, cohort and student-success materials, ID/badge concepts, applicable software/materials. |
 **Transfer branch:** High School, GED, Associate's, Bachelor's, JD and Non-JD transfer entrants receive a transfer-specific welcome letter, transfer materials, orientation/credit-pathway information and resources, plus the standard personalized Welcome Experience.  
 Transfer students then follow the same orientation, cohort, active student, graduation and alumni flow.
 
@@ -463,7 +479,9 @@ Examples: Business/Finance and Law/Criminal Justice.
 Training includes expectations, materials, placements and introductions to assigned supervisor, manager and reviewer.
 **JD / Non-JD:** Applicable law-pathway supervision training, assigned law supervisor, placement/assignment details, expectations and resources.
 **Assignments communicated during onboarding:** Experiential placement, supervisor, manager, reviewer and start details; JD/Non-JD supervisor and applicable assignment information.
-**Materials received:** Orientation workbook, handbook, guide, digital training resources, planners/checklists, policies, student-success and school/program materials, cohort information and buddy details.
+| Receive | Items Received |
+| --- | --- |
+| Materials received | Orientation workbook, handbook, guide, digital training resources, planners/checklists, policies, student-success and school/program materials, cohort information and buddy details. |
 **LMS sequence:** LearnWorlds account is provisioned during onboarding, but actual course/program content remains gated until the Active Student Experience starts.
 **Relevant finalized platforms:** SuiteDash for onboarding; Microsoft Teams for virtual orientation, training and breakout sessions; LearnWorlds for LMS.
 
@@ -474,7 +492,9 @@ Training includes expectations, materials, placements and introductions to assig
 **Delivery:** Digital + Physical + Community.
 **Placement:** Automated student sorting → monthly cohort → school community → cohort community → peer/buddy connection.
 **Experience:** Human camaraderie, student-to-student engagement, school identity, group activities, shared cohort progress, student support.
-**Materials/access received:** School and cohort community access, schedules, event details, community resources, student organization information, peer/buddy connection; applicable physical cohort items are already included in Welcome Kits.
+| Receive | Items Received |
+| --- | --- |
+| Materials/access received | School and cohort community access, schedules, event details, community resources, student organization information, peer/buddy connection; applicable physical cohort items are already included in Welcome Kits. |
 **Relevant finalized platform:** SuiteDash student communities and communications. Prior Slack/Geneva references are superseded for this student-community function.
 
 **[IMAGE — AUTOMATED COHORT AND SCHOOL COMMUNITY SORTING FLOW]**
@@ -486,7 +506,9 @@ Training includes expectations, materials, placements and introductions to assig
 **Experiential:** Assigned placements and experiential participation begin when applicable; supervisors, managers and reviewers remain involved.
 **Law:** Applicable JD/Non-JD supervision and program participation.
 **Student opportunities:** Ambassador Program, student organizations, professional and academic organizations, honor societies, leadership positions, community activities.
-**Materials/access received:** Active LMS/course access, applicable academic/experiential materials, community and organization access, student support resources.
+| Receive | Items Received |
+| --- | --- |
+| Materials/access received | Active LMS/course access, applicable academic/experiential materials, community and organization access, student support resources. |
 
 **[BUTTON — STUDENT PORTAL → SUITEDASH]**
 **[ICON — LEARNWORLDS COURSE ACCESS OPEN]**
@@ -529,7 +551,9 @@ Training includes expectations, materials, placements and introductions to assig
 ## 15 👑 ALUMNI & LEGACY
 **Delivery:** Digital + Physical + Community.
 **Experience:** Transition into alumni community, continued professional connections, networking, career resources, mentorship, alumni events and institutional legacy.
-**Materials/access received:** Mailed Alumni/Legacy Kit, alumni welcome and keepsake materials, alumni community access, networking, career and mentorship resources, event information.
+| Receive | Items Received |
+| --- | --- |
+| Materials/access received | Mailed Alumni/Legacy Kit, alumni welcome and keepsake materials, alumni community access, networking, career and mentorship resources, event information. |
 
 **[IMAGE — ALUMNI LEGACY KIT AND COMMUNITY]**
 
