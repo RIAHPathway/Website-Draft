@@ -95,17 +95,9 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | Row | Academic Preparation | Student Community | Institutional Operations |
 | --- | --- | --- | --- |
 | 1 | Orientation | Cohort identity | Enrollment processing |
-| Row | Academic Preparation | Student Community | Institutional Operations |
-| --- | --- | --- | --- |
 | 2 | Academic readiness | School connection | Student account preparation |
-| Row | Academic Preparation | Student Community | Institutional Operations |
-| --- | --- | --- | --- |
 | 3 | Pathway preparation | Peer connection | Portal access |
-| Row | Academic Preparation | Student Community | Institutional Operations |
-| --- | --- | --- | --- |
 | 4 | Resource training | Community participation | Academic-system access |
-| Row | Academic Preparation | Student Community | Institutional Operations |
-| --- | --- | --- | --- |
 | 5 | Student expectations | Student organizations | Placement coordination |
 **Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
 
@@ -119,20 +111,10 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | Row | Section | Category | Purpose |
 | --- | --- | --- | --- |
 | 1 | 11.2.1 | General Admissions | Eligibility, documentation, academic standing |
-| Row | Section | Category | Purpose |
-| --- | --- | --- | --- |
 | 2 | 11.2.2 | School and Major | Year 3, minors, master's, MBA, prerequisites |
-| Row | Section | Category | Purpose |
-| --- | --- | --- | --- |
 | 3 | 11.2.3 | Experiential | Levels, placements, prerequisites |
-| Row | Section | Category | Purpose |
-| --- | --- | --- | --- |
 | 4 | 11.2.4 | High School | Grades 9–12, transcripts, concurrent coursework |
-| Row | Section | Category | Purpose |
-| --- | --- | --- | --- |
 | 5 | 11.2.5 | GED/HSE | Preparation and 12 college credits |
-| Row | Section | Category | Purpose |
-| --- | --- | --- | --- |
 | 6 | 11.2.6 | Law | J.D., Non-J.D., applicable requirements |
 
 **[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
@@ -185,23 +167,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | Row | Orientation Area | Preparation |
 | --- | --- | --- |
 | 1 | Academics | Expectations and resources |
-| Row | Orientation Area | Preparation |
-| --- | --- | --- |
 | 2 | Technology | Systems and access |
-| Row | Orientation Area | Preparation |
-| --- | --- | --- |
 | 3 | Institution | Institutional identity |
-| Row | Orientation Area | Preparation |
-| --- | --- | --- |
 | 4 | Community | School, cohort, organizations |
-| Row | Orientation Area | Preparation |
-| --- | --- | --- |
 | 5 | Experiential | Placement and supervision |
-| Row | Orientation Area | Preparation |
-| --- | --- | --- |
 | 6 | Law | Legal supervision requirements |
-| Row | Orientation Area | Preparation |
-| --- | --- | --- |
 | 7 | Career | Career-development resources |
 
 **[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
@@ -248,35 +218,15 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | Row | Standard | RIAH Pathway |
 | --- | --- | --- |
 | 1 | Slogan | ONE DYNASTY. INFINITE LEGACIES. |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 2 | Logo | RP • Stacked • Horizontal |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 3 | Colors | Black • Red • Gold • White • Silver |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 4 | Symbol | Unified Crown |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 5 | Mascot | RIAH Pathway Goat |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 6 | Value | PERSEVERANCE |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 7 | POWER | People • Ownership • Work • Equity • Results |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 8 | Student Message | STUDENTS BUILD DYNASTIES TOO. |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 9 | Brand Message | BUILT DIFFERENT |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 10 | Career Sequence | Education → Experience → Certification → Opportunity → Career |
-| Row | Standard | RIAH Pathway |
-| --- | --- | --- |
 | 11 | Theme Song | Pathway to Success — Original SoundBreak Creation |
 **[EXTERNAL LINK — THEME SONG → SOUNDBREAK]**
 
@@ -290,53 +240,21 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | Row | Resource | Destination |
 | --- | --- | --- |
 | 1 | Pathway | 03 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 2 | Degree Programs | 04 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 3 | Experiential | 05 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 4 | High School | 06 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 5 | GED/HSE | 07 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 6 | Certification Review | 08 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 7 | Bar Review | 09 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 8 | Curriculum | 10 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 9 | Tuition | 12 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 10 | Accreditation | 15 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 11 | Student Life | 16.2 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 12 | Policies | 17.8 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 13 | Procedures | 17.9 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 14 | Guidelines | 17.10 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 15 | Admissions FAQ | 18.4 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 16 | Technical FAQ | 18.9 |
-| Row | Resource | Destination |
-| --- | --- | --- |
 | 17 | Contact Admissions | 19.2 |
 
 **[DOWNLOAD — ADMISSIONS GUIDE]**
@@ -485,47 +403,19 @@ Accreditation or Title IV participation must not be represented as already appro
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 1 | 01 | Interest & Inquiry | Discover RIAH Pathway and its schools/programs | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 2 | 02 | Pre-Admissions & Preparation | Review academic/experiential requirements | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 3 | 03 | Application | Apply for monthly cohort; $50 non-refundable fee | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 4 | 04 | Review & Selection | Academic review; automated blind experiential selection | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 5 | 05 | Acceptance | Receive digital and mailed acceptance | Digital + Physical |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 6 | 06 | Enrollment & Commitment | Accept offer and confirm cohort intentions | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 7 | 07 | Deposit & Seat Confirmation | Pay $1,000 by deadline; confirm seat | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 8 | 08 | Welcome Experience | Receive personalized kit and community information | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 9 | 09 | One-Week Orientation & Training | Academic, experiential and applicable law supervision training; LMS provisioned | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 10 | 10 | Cohort, School & Community | School group, cohort group and peer/buddy connection | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 11 | 11 | Active Student Experience | LearnWorlds opens; academics/experiential begin | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 12 | 12 | Organizations & Leadership | Ambassadors, honor societies, organizations and leadership | Digital + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 13 | 13 | Achievements & Milestones | Recognition and qualifying opportunities throughout enrollment | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 14 | 14 | Graduation | Regional in-person or virtual ceremony and materials | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 15 | 15 | Alumni & Legacy | Alumni Kit, community, networking and mentorship | Digital + Physical + Community |
 
 ---
@@ -555,47 +445,19 @@ Accreditation or Title IV participation must not be represented as already appro
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 1 | 01 🔎 | Interest & Inquiry | Discover RIAH Pathway and its schools/programs | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 2 | 02 📋 | Pre-Admissions & Preparation | Review academic/experiential requirements | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 3 | 03 📝 | Application | Apply for monthly cohort; $50 non-refundable fee | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 4 | 04 ⚙️ | Review & Selection | Academic review; automated blind experiential selection | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 5 | 05 ✉️ | Acceptance | Receive digital and mailed acceptance | Digital + Physical |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 6 | 06 ✍️ | Enrollment & Commitment | Accept offer and confirm cohort intentions | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 7 | 07 💰 | Deposit & Seat Confirmation | Pay $1,000 by deadline; confirm seat | Digital |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 8 | 08 🎁 | Welcome Experience | Receive personalized kit and community information | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 9 | 09 🧭 | One-Week Orientation & Training | Academic, experiential and applicable law supervision training; LMS provisioned | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 10 | 10 👥 | Cohort, School & Community | School group, cohort group and peer/buddy connection | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 11 | 11 🚀 | Active Student Experience | LearnWorlds opens; academics/experiential begin | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 12 | 12 📣 | Organizations & Leadership | Ambassadors, honor societies, organizations and leadership | Digital + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 13 | 13 🏆 | Achievements & Milestones | Recognition and qualifying opportunities throughout enrollment | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 14 | 14 🎓 | Graduation | Regional in-person or virtual ceremony and materials | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 15 | 15 👑 | Alumni & Legacy | Alumni Kit, community, networking and mentorship | Digital + Physical + Community |
 
 
