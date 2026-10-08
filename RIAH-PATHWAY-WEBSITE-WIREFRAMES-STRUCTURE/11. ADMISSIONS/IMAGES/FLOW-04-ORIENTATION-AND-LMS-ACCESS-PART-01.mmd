@@ -1,0 +1,18 @@
+%% RIAH Pathway — flow section 1 of 2; original labels and arrows retained
+flowchart TD
+    N0["DEPOSIT PAID"]
+    N1["WELCOME MATERIALS"]
+    N2["SUITEDASH ONBOARDING"]
+    N3["MICROSOFT TEAMS TRAINING"]
+    N4["SCHOOL BREAKOUTS"]
+    N5["SUPERVISOR INTRODUCTION"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef stage fill:#111111,color:#FFFFFF,stroke:#D40000,stroke-width:2px;
+    classDef milestone fill:#D40000,color:#FFFFFF,stroke:#111111,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 stage;
+    class N0 milestone;
+    linkStyle default stroke:#D40000,stroke-width:2px;
