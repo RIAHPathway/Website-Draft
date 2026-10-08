@@ -17,31 +17,35 @@
 | --- | --- |
 | 11 | Admissions |
 | 11.2 | Pre-Admissions |
-| 11.2.1 | General Admissions |
-| 11.2.2 | School and Major Admissions |
-| 11.2.3 | Experiential Pre-Admissions |
-| 11.2.4 | High School Admissions |
-| 11.2.5 | GED/HSE Admissions |
-| 11.2.6 | Law Pre-Admissions |
 | 11.3 | Application |
-| 11.3.1 | Admissions Process |
-| 11.3.2 | Application Form |
-| 11.3.3 | Admissions by Pathway |
 | 11.4 | Acceptance & Enrollment |
-| 11.4.1 | Acceptance Experience |
-| 11.4.2 | After Admission |
 | 11.5 | Onboarding & Student Experience |
-| 11.5.1 | Personalized Welcome |
-| 11.5.2 | Orientation |
-| 11.5.3 | Cohort, School & Community |
-| 11.5.4 | Active Student |
-| 11.5.5 | Achievements & Milestones |
 | 11.6 | Graduation & Alumni |
-| 11.6.1 | Graduation Experience |
-| 11.6.2 | Alumni & Legacy |
-| 11.6.3 | Receive • Earn • Purchase |
 | 11.7 | How RIAH Pathway Works |
 | 11.8 | Transfer Students |
+
+### Numbered Subpage References
+
+1. **11.2.1** — General Admissions
+2. **11.2.2** — School and Major Admissions
+3. **11.2.3** — Experiential Pre-Admissions
+4. **11.2.4** — High School Admissions
+5. **11.2.5** — GED/HSE Admissions
+6. **11.2.6** — Law Pre-Admissions
+7. **11.3.1** — Admissions Process
+8. **11.3.2** — Application Form
+9. **11.3.3** — Admissions by Pathway
+10. **11.4.1** — Acceptance Experience
+11. **11.4.2** — After Admission
+12. **11.5.1** — Personalized Welcome
+13. **11.5.2** — Orientation
+14. **11.5.3** — Cohort, School & Community
+15. **11.5.4** — Active Student
+16. **11.5.5** — Achievements & Milestones
+17. **11.6.1** — Graduation Experience
+18. **11.6.2** — Alumni & Legacy
+19. **11.6.3** — Receive • Earn • Purchase
+
 ## III. CROSS-WEBSITE ROUTING
 | Route | Destination |
 | --- | --- |
@@ -65,7 +69,6 @@
 | 14 | Products |
 | 15 | Accreditation |
 | 16.2 | Student Life |
-| 16.2.20 | Career Services |
 | 17.8 | Policies |
 | 17.9 | Procedures |
 | 17.10 | Guidelines |
@@ -74,6 +77,11 @@
 | 19.2 | Contact Admissions |
 | 19.4 | Technical Support |
 | 19.5 | Student Support |
+
+### Numbered Subpage References
+
+1. **16.2.20** — Career Services
+
 ## IV. ALL WIREFRAME CTA BUTTONS AND LINKS
 ### Button Routing — Wireframe CTA References
 1. **[BUTTON 11-M01 — APPLY NOW → CLASSE365]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
