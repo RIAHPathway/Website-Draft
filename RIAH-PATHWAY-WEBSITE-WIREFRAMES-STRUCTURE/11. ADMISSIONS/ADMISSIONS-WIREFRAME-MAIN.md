@@ -50,6 +50,64 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M05 — PATHWAYS → 03]**
 
 ## III. COMPLETE STUDENT JOURNEY
+
+### 🔄 ADMISSIONS PHASE 01 ENTRY
+
+```mermaid
+flowchart LR
+    S0["Interest & Inquiry"]
+    S1["Pre-Admissions"]
+    S2["Application"]
+    S3["Review & Selection"]
+    S4["Acceptance"]
+    S0 --> S1
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class S0,S1,S2,S3,S4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ADMISSIONS-PHASE-01-ENTRY.mmd)
+
+### 🔄 ADMISSIONS PHASE 02 ENROLLMENT
+
+```mermaid
+flowchart LR
+    S0["Enrollment & Commitment"]
+    S1["Deposit & Seat Confirmation"]
+    S2["Welcome Experience"]
+    S3["One-Week Orientation"]
+    S4["Cohort & Community"]
+    S0 --> S1
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class S0,S1,S2,S3,S4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ADMISSIONS-PHASE-02-ENROLLMENT.mmd)
+
+### 🔄 ADMISSIONS PHASE 03 COMPLETION
+
+```mermaid
+flowchart LR
+    S0["Active Student Experience"]
+    S1["Organizations & Leadership"]
+    S2["Achievements & Milestones"]
+    S3["Graduation"]
+    S4["Alumni & Legacy"]
+    S0 --> S1
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class S0,S1,S2,S3,S4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ADMISSIONS-PHASE-03-COMPLETION.mmd)
+
 1. **Stage:** Interest
    → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources
    → **Communication:** Digital
@@ -622,46 +680,3 @@ Accreditation or Title IV participation must not be represented as already appro
 [VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.mmd)
 
 ---
-
-## 🔄 LINKED MERMAID FLOW DIAGRAMS
-
-### ADMISSIONS JOURNEY
-
-[MERMAID FLOW — ADMISSIONS-JOURNEY — BLACK AND RED]
-
-```mermaid
-flowchart LR
-    N0["Interest & Inquiry"]
-    N1["Pre-Admissions"]
-    N2["Application"]
-    N3["Review & Selection"]
-    N4["Acceptance"]
-    N5["Enrollment & Commitment"]
-    N6["Deposit & Seat Confirmation"]
-    N7["Welcome Experience"]
-    N8["One-Week Orientation"]
-    N9["Cohort & Community"]
-    N10["Active Student Experience"]
-    N11["Organizations & Leadership"]
-    N12["Achievements & Milestones"]
-    N13["Graduation"]
-    N14["Alumni & Legacy"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
-    N8 --> N9
-    N9 --> N10
-    N10 --> N11
-    N11 --> N12
-    N12 --> N13
-    N13 --> N14
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4,N5,N6,N7,N8,N9,N10,N11,N12,N13,N14 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/ADMISSIONS-JOURNEY.mmd)
