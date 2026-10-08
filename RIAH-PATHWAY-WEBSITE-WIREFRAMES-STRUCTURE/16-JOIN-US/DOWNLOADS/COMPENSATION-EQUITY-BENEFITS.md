@@ -4,6 +4,8 @@
 
 For designated roles, RIAH Pathway offers performance-linked monthly equity accrual, four-year vesting, stage-based compensation percentages, and a shared employee benefits package funded progressively by eligible annual revenue. Independent contractors do not receive equity or employee benefits; eligible legal supervisors participate in a separately funded benefits proposal. Salary-dollar forecasts are excluded from this public reference.
 
+**Core and contract staffing:** RIAH Pathway's core ecosystem has 168 fixed internal positions plus up to 2,000 separately allocated JD/Non-JD Attorney / Judge supervisors (**up to 2,168 total**). Additional PhD/Adjunct faculty, Experiential Managers/Supervisors/Reviewers, Certification/Bar Review professionals, mentors, coaches, live review and other Product and Service professionals may be recruited from qualified RIAH Pathway graduates after graduation or qualified outside professionals. **Every additional non-core position is a paid contract only: 0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**, subject to applicable law.
+
 ## I. 🩺 SHARED EMPLOYEE BENEFITS
 
 | Benefit | Shared Approved Package |
