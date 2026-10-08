@@ -2316,26 +2316,12 @@ Accreditation or Title IV participation must not be represented as already appro
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 9 | 09 🧭   | One-Week Orientation & Training   | Academic, experiential and applicable law supervision training; LMS provisioned   | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 10 | 10 👥   | Cohort, School & Community   | School group, cohort group and peer/buddy connection   | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 11 | 11 🚀   | Active Student Experience   | LearnWorlds opens; academics/experiential begin   | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 12 | 12 📣   | Organizations & Leadership   | Ambassadors, honor societies, organizations and leadership   | Digital + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 13 | 13 🏆   | Achievements & Milestones   | Recognition and qualifying opportunities throughout enrollment   | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 14 | 14 🎓   | Graduation   | Regional in-person or virtual ceremony and materials   | Digital + Physical + Community |
-| Row | # | Stage | Student-Facing Summary | Delivery |
-| --- | --- | --- | --- | --- |
 | 15 | 15 👑   | Alumni & Legacy   | Alumni Kit, community, networking and mentorship   | Digital + Physical + Community |
 
 ## 🔄 LIMITED SUPERSEDED TECH STACK REFERENCES — ADMISSIONS ONLY
@@ -2349,26 +2335,12 @@ Accreditation or Title IV participation must not be represented as already appro
 | Row | Student-facing function | Superseded reference | Current reference | Scope |
 | --- | --- | --- | --- | --- |
 | 1 | Applications / admissions   | No change   | Classe365   | Retain existing application references |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 2 | Onboarding / student portal   | No change   | SuiteDash   | Retain existing onboarding references |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 3 | Virtual orientation / training / cohort sessions   | Zoom   | Microsoft Teams   | Use Teams for student-facing virtual sessions |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 4 | Student school/cohort communities   | Slack; Geneva   | SuiteDash   | Use SuiteDash for student community |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 5 | LMS / active course access   | No change   | LearnWorlds   | Provision during onboarding; open course access at active start |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 6 | Experiential placement functions   | Earlier references if any   | PeopleGrove CORE + Experience Hub + CompMS   | Update only existing relevant placement-system mentions |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 7 | Career services   | Earlier references if any   | Symplicity CSM   | Update only existing relevant career-service mentions |
-| Row | Student-facing function | Superseded reference | Current reference | Scope |
-| --- | --- | --- | --- | --- |
 | 8 | Student recognition   | Earlier references if any   | Merit Pages   | Update only existing relevant recognition-system mentions |
 
 **Technology limitation:** Do not copy the finalized tech-stack document into this wireframe.  
