@@ -18,7 +18,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ---
 
-# RIAH PATHWAY PROPRIETARY WEBSITE & ECOSYSTEM LICENSE
+# RIAH PATHWAY PROPRIETARY WEBSITE & ECOSYSTEM LICENSE (F
+COURT FILING SAME DAY FOR ANY VIOLATIORS)
 
 **Version 1.0 — 2026**
 
