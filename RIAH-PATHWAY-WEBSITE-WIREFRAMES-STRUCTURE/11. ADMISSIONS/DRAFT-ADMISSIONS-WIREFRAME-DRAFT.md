@@ -1,5 +1,7 @@
 # RIAH PATHWAY — ADMISSIONS WIREFRAME DRAFT
 
+**[SITEMAP WIREFRAME MD — DRAFT-ADMISSIONS-WIREFRAME-DRAFT.md]**
+
 **ONE DYNASTY. INFINITE LEGACIES.**
 
 **Draft — for ongoing review and revision.**
@@ -30,20 +32,20 @@ This working draft compiles the complete existing Admissions Markdown sources in
 # 👑 RIAH PATHWAY — 11 ADMISSIONS — MAIN WIREFRAME
 **ONE DYNASTY. INFINITE LEGACIES.**
 ## I. GLOBAL WEBSITE HEADER
-[LOGO — RIAH PATHWAY UNIFIED CROWN]
-[NAVIGATION — 01 HOME • 02 ABOUT • 03 PATHWAY • 04 DEGREE PROGRAMS • 05 EXPERIENTIAL • 06 HIGH SCHOOL • 07 GED/HSE • 08 CERTIFICATION REVIEW • 09 BAR REVIEW • 10 CURRICULUM • 11 ADMISSIONS • 12 TUITION • 13 DONATIONS • 14 PRODUCTS • 15 ACCREDITATION & AUTHORIZATION • 16 JOIN US • 17 RESOURCES • 18 FAQ • 19 CONTACT]
-[MOBILE NAVIGATION — COLLAPSIBLE MENU]
-[BUTTON 11-M01 — APPLY NOW → CLASSE365]
-[BUTTON 11-M02 — LOG IN → SUITEDASH]
+**[LOGO — RIAH PATHWAY UNIFIED CROWN]**
+**[NAVIGATION — 01 HOME • 02 ABOUT • 03 PATHWAY • 04 DEGREE PROGRAMS • 05 EXPERIENTIAL • 06 HIGH SCHOOL • 07 GED/HSE • 08 CERTIFICATION REVIEW • 09 BAR REVIEW • 10 CURRICULUM • 11 ADMISSIONS • 12 TUITION • 13 DONATIONS • 14 PRODUCTS • 15 ACCREDITATION & AUTHORIZATION • 16 JOIN US • 17 RESOURCES • 18 FAQ • 19 CONTACT]**
+**[MOBILE NAVIGATION — COLLAPSIBLE MENU]**
+**[BUTTON 11-M01 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M02 — LOG IN → SUITEDASH]**
 ## II. ADMISSIONS HERO & OVERVIEW
-[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]
+**[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review → Receive Your Decision → Enroll → Welcome Materials → Cohort → Active Student**
-[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]
-[BUTTON 11-M03 — APPLY NOW → CLASSE365]
-[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]
-[BUTTON 11-M05 — PATHWAYS → 03]
+**[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
+**[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
+**[BUTTON 11-M05 — PATHWAYS → 03]**
 ## III. COMPLETE STUDENT JOURNEY
 1. **Stage:** Interest → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources → **Communication:** Digital
 2. **Stage:** Pathway Selection → **Student Experience:** Select educational or experiential route → **Communication:** Digital
@@ -60,18 +62,18 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 13. **Stage:** Achievement → **Student Experience:** Milestones → **Communication:** Digital + Applicable Physical
 14. **Stage:** Graduation → **Student Experience:** Graduation requirements → **Communication:** Digital + Physical
 15. **Stage:** Alumni → **Student Experience:** Professional and institutional engagement → **Communication:** Digital + Community
-[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]
+**[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
 ## IV. MONTHLY COHORT MODEL
-[ICON — MONTHLY CALENDAR]
+**[ICON — MONTHLY CALENDAR]**
 1. **Academic Preparation:** Orientation → **Student Community:** Cohort identity → **Institutional Operations:** Enrollment processing
 2. **Academic Preparation:** Academic readiness → **Student Community:** School connection → **Institutional Operations:** Student account preparation
 3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
 4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
 5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
 **Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
-[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]
+**[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 ## V. PRE-ADMISSIONS OVERVIEW
-[ICON — ADMISSIONS CHECKLIST]
+**[ICON — ADMISSIONS CHECKLIST]**
 # KNOW YOUR PATH BEFORE YOU APPLY.
 1. **Section:** 11.2.1 → **Category:** General Admissions → **Purpose:** Eligibility, documentation, academic standing
 2. **Section:** 11.2.2 → **Category:** School and Major → **Purpose:** Year 3, minors, master's, MBA, prerequisites
@@ -79,25 +81,25 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 4. **Section:** 11.2.4 → **Category:** High School → **Purpose:** Grades 9–12, transcripts, concurrent coursework
 5. **Section:** 11.2.5 → **Category:** GED/HSE → **Purpose:** Preparation and 12 college credits
 6. **Section:** 11.2.6 → **Category:** Law → **Purpose:** J.D., Non-J.D., applicable requirements
-[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]
+**[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
 ## VI. APPLICATION OVERVIEW
-[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]
+**[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]**
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
 **Classe365 • $50 NON-REFUNDABLE APPLICATION PROCESSING FEE**
 **Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Communications**
 **Select Pathway → Review Requirements → Submit Application → Submit Documentation → Application Review → Pathway-Specific Review → Decision → Acceptance**
-[BUTTON 11-M08 — APPLY NOW → CLASSE365]
-[BUTTON 11-M09 — APPLICATION → 11.3]
+**[BUTTON 11-M08 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M09 — APPLICATION → 11.3]**
 ## VII. ACCEPTANCE & ENROLLMENT OVERVIEW
-[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]
+**[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]**
 # WELCOME TO THE PATHWAY.
 **Digital Acceptance + Physical Personalized Acceptance Letter**
 **Student Name • School Identity • Selected Pathway • Institutional Branding • Unified Crown • Acceptance Information • Next Steps**
-[ICON — ACCEPTANCE LETTER WITH SEAL]
+**[ICON — ACCEPTANCE LETTER WITH SEAL]**
 **Admission Offer → Student Commitment → Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome**
-[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]
+**[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]**
 ## VIII. ONBOARDING & STUDENT EXPERIENCE OVERVIEW
-[IMAGE — RIAH PATHWAY WELCOME KIT]
+**[IMAGE — RIAH PATHWAY WELCOME KIT]**
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community**
 **Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources**
 1. **Orientation Area:** Academics → **Preparation:** Expectations and resources
@@ -107,24 +109,24 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 5. **Orientation Area:** Experiential → **Preparation:** Placement and supervision
 6. **Orientation Area:** Law → **Preparation:** Legal supervision requirements
 7. **Orientation Area:** Career → **Preparation:** Career-development resources
-[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]
+**[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
 ## IX. GRADUATION & ALUMNI OVERVIEW
-[IMAGE — REGIONAL GRADUATION CEREMONY]
+**[IMAGE — REGIONAL GRADUATION CEREMONY]**
 **NORTH • SOUTH • EAST • WEST**
 **Regional In-Person Ceremony + Virtual Graduation Option**
 **Student → Graduate → Classe365 Alumni Record → SuiteDash Alumni Community → Career and Mentorship → Legacy**
-[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]
+**[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]**
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
-[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]
+**[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
 **Webflow — Public Website → SuiteDash — Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Records, Degree Audit, Alumni**
 **Parchment — Official Transcripts • National Student Clearinghouse — Enrollment and Degree Verification • LearnWorlds — Courses • Cengage MindTap — Courseware • PebblePad — Portfolios • ProctorU — Proctoring • Tutor.com — Tutoring • PeopleGrove CORE + Experience Hub + CompMS — Experiential • Symplicity CSM — Careers • TouchNet — Finance • Regent Education — Financial Aid • Merit Pages — Recognition**
-[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]
+**[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
 ## XI. TRANSFER STUDENTS OVERVIEW
-[IMAGE — TRANSFER STUDENT JOURNEY]
+**[IMAGE — TRANSFER STUDENT JOURNEY]**
 **Explore Transfer → Review Eligibility → Submit Records → $500 Transfer Evaluation → Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
-[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]
+**[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
-[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]
+**[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
 1. **Standard:** Slogan → **RIAH Pathway:** ONE DYNASTY. INFINITE LEGACIES.
 2. **Standard:** Logo → **RIAH Pathway:** RP • Stacked • Horizontal
 3. **Standard:** Colors → **RIAH Pathway:** Black • Red • Gold • White • Silver
@@ -136,11 +138,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 9. **Standard:** Brand Message → **RIAH Pathway:** BUILT DIFFERENT
 10. **Standard:** Career Sequence → **RIAH Pathway:** Education → Experience → Certification → Opportunity → Career
 11. **Standard:** Theme Song → **RIAH Pathway:** Pathway to Success — Original SoundBreak Creation
-[EXTERNAL LINK — THEME SONG → SOUNDBREAK]
-[BUTTON 11-M15 — BRAND IDENTITY → 2.6]
-[BUTTON 11-M16 — STUDENT LIFE → 16.2]
+**[EXTERNAL LINK — THEME SONG → SOUNDBREAK]**
+**[BUTTON 11-M15 — BRAND IDENTITY → 2.6]**
+**[BUTTON 11-M16 — STUDENT LIFE → 16.2]**
 ## XIII. SUPPORTING RESOURCES
-[ICON — DIGITAL RESOURCE LIBRARY]
+**[ICON — DIGITAL RESOURCE LIBRARY]**
 1. **Resource:** Pathway → **Destination:** 03
 2. **Resource:** Degree Programs → **Destination:** 04
 3. **Resource:** Experiential → **Destination:** 05
@@ -158,61 +160,61 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 15. **Resource:** Admissions FAQ → **Destination:** 18.4
 16. **Resource:** Technical FAQ → **Destination:** 18.9
 17. **Resource:** Contact Admissions → **Destination:** 19.2
-[DOWNLOAD — ADMISSIONS GUIDE]
-[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]
-[DOWNLOAD — STUDENT JOURNEY ROADMAP]
-[DOWNLOAD — EXPERIENTIAL ADMISSIONS AND PLACEMENT GUIDE]
-[DOWNLOAD — TRANSFER STUDENT CHECKLIST]
-[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]
-[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]
-[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]
-[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]
-[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]
-[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]
-[DOWNLOAD — MINOR PREREQUISITE CHECKLIST]
-[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]
-[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]
+**[DOWNLOAD — ADMISSIONS GUIDE]**
+**[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — STUDENT JOURNEY ROADMAP]**
+**[DOWNLOAD — EXPERIENTIAL ADMISSIONS AND PLACEMENT GUIDE]**
+**[DOWNLOAD — TRANSFER STUDENT CHECKLIST]**
+**[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]**
+**[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]**
+**[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]**
+**[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]**
+**[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MINOR PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]**
 **SuiteDash — Authenticated Student Resources, Documents, Policies, Procedures, Guidelines, Forms, Support**
 ## XIV. CONTACT ADMISSIONS
-[ICON — ADMISSIONS SUPPORT]
+**[ICON — ADMISSIONS SUPPORT]**
 **Website: RIAHPathway.com • SuiteDash Help Desk • Toll-Free: 877-245-7424 • Vanity: 877-245-RIAH**
-[BUTTON 11-M17 — CONTACT ADMISSIONS → 19.2]
-[BUTTON 11-M18 — STUDENT SUPPORT → 19.5]
-[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]
-[BUTTON 11-M20 — APPLY NOW → CLASSE365]
+**[BUTTON 11-M17 — CONTACT ADMISSIONS → 19.2]**
+**[BUTTON 11-M18 — STUDENT SUPPORT → 19.5]**
+**[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]**
+**[BUTTON 11-M20 — APPLY NOW → CLASSE365]**
 ## XV. FINAL CTA
-[CTA BAND — BLACK / RED / GOLD]
+**[CTA BAND — BLACK / RED / GOLD]**
 # FIND YOUR PATH. UNDERSTAND THE PROCESS. GET STARTED.
-[BUTTON 11-M21 — PATHWAYS → 03]
-[BUTTON 11-M22 — DEGREE PROGRAMS → 04]
-[BUTTON 11-M23 — EXPERIENTIAL → 05]
-[BUTTON 11-M24 — CURRICULUM → 10]
-[BUTTON 11-M25 — PRE-ADMISSIONS → SUITEDASH]
-[BUTTON 11-M26 — APPLY NOW → CLASSE365]
-[BUTTON 11-M27 — TUITION → 12]
+**[BUTTON 11-M21 — PATHWAYS → 03]**
+**[BUTTON 11-M22 — DEGREE PROGRAMS → 04]**
+**[BUTTON 11-M23 — EXPERIENTIAL → 05]**
+**[BUTTON 11-M24 — CURRICULUM → 10]**
+**[BUTTON 11-M25 — PRE-ADMISSIONS → SUITEDASH]**
+**[BUTTON 11-M26 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M27 — TUITION → 12]**
 ## XVI. GLOBAL FOOTER
-[LOGO — RIAH PATHWAY]
+**[LOGO — RIAH PATHWAY]**
 **ONE DYNASTY. INFINITE LEGACIES.**
-[GLOBAL NAVIGATION — ALL 19 MAIN PAGES]
+**[GLOBAL NAVIGATION — ALL 19 MAIN PAGES]**
 **Website: RIAHPathway.com • Phone: 877-245-7424**
 **Privacy • Terms • Accessibility • Consumer Information • Policies**
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFERENCES
-[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]
+**[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **Interest → Pathway Selection → Pre-Admissions → Application → Documentation → Review → Acceptance → Commitment → Enrollment → Welcome → Orientation → Active Student → Achievement → Graduation → Alumni.**
 **Monthly cohorts:** Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome Experience → Orientation → Active Student.
 **Pre-admissions:** Year 3 requires completed general education and school core; minors require applicable prerequisites; master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
 **High School:** Initial states Ohio, Florida, Texas; eighth-grade transcripts for students entering ninth grade; grades 9–12 transcripts evaluated for grade, credits, remaining requirements, and eligible concurrent college courses.
 **GED/HSE:** Prior high school record demonstrating noncompletion; online preparation and applicable concurrent college coursework offering 12 college credit hours; authorized state examination.
 **Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each. Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
-[BUTTON — PRE-ADMISSIONS → 11.2]
-[BUTTON — APPLICATION → 11.3]
-[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]
-[BUTTON — STUDENT EXPERIENCE → 11.5]
-[BUTTON — GRADUATION & ALUMNI → 11.6]
-[BUTTON — HOW RIAH PATHWAY WORKS → 11.7]
-[BUTTON — TRANSFER STUDENTS → 11.8]
+**[BUTTON — PRE-ADMISSIONS → 11.2]**
+**[BUTTON — APPLICATION → 11.3]**
+**[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]**
+**[BUTTON — STUDENT EXPERIENCE → 11.5]**
+**[BUTTON — GRADUATION & ALUMNI → 11.6]**
+**[BUTTON — HOW RIAH PATHWAY WORKS → 11.7]**
+**[BUTTON — TRANSFER STUDENTS → 11.8]**
 
 
 
@@ -225,14 +227,14 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 # 👑 RIAH PATHWAY — 11.1 ADMISSIONS OVERVIEW WIREFRAME
 
 ## I. ADMISSIONS HERO & OVERVIEW
-[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]
+**[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review → Receive Your Decision → Enroll → Welcome Materials → Cohort → Active Student**
-[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]
-[BUTTON 11-M03 — APPLY NOW → CLASSE365]
-[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]
-[BUTTON 11-M05 — PATHWAYS → 03]
+**[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
+**[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
+**[BUTTON 11-M05 — PATHWAYS → 03]**
 ## II. COMPLETE STUDENT JOURNEY
 1. **Stage:** Interest → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources → **Communication:** Digital
 2. **Stage:** Pathway Selection → **Student Experience:** Select educational or experiential route → **Communication:** Digital
@@ -249,19 +251,19 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 13. **Stage:** Achievement → **Student Experience:** Milestones → **Communication:** Digital + Applicable Physical
 14. **Stage:** Graduation → **Student Experience:** Graduation requirements → **Communication:** Digital + Physical
 15. **Stage:** Alumni → **Student Experience:** Professional and institutional engagement → **Communication:** Digital + Community
-[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]
+**[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
 ## III. MONTHLY COHORT MODEL
-[ICON — MONTHLY CALENDAR]
+**[ICON — MONTHLY CALENDAR]**
 1. **Academic Preparation:** Orientation → **Student Community:** Cohort identity → **Institutional Operations:** Enrollment processing
 2. **Academic Preparation:** Academic readiness → **Student Community:** School connection → **Institutional Operations:** Student account preparation
 3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
 4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
 5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
 **Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
-[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]
+**[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 
 ## IV. BRAND & STUDENT EXPERIENCE STANDARDS
-[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]
+**[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
 1. **Standard:** Slogan → **RIAH Pathway:** ONE DYNASTY. INFINITE LEGACIES.
 2. **Standard:** Logo → **RIAH Pathway:** RP • Stacked • Horizontal
 3. **Standard:** Colors → **RIAH Pathway:** Black • Red • Gold • White • Silver
@@ -273,11 +275,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 9. **Standard:** Brand Message → **RIAH Pathway:** BUILT DIFFERENT
 10. **Standard:** Career Sequence → **RIAH Pathway:** Education → Experience → Certification → Opportunity → Career
 11. **Standard:** Theme Song → **RIAH Pathway:** Pathway to Success — Original SoundBreak Creation
-[EXTERNAL LINK — THEME SONG → SOUNDBREAK]
-[BUTTON 11-M15 — BRAND IDENTITY → 2.6]
-[BUTTON 11-M16 — STUDENT LIFE → 16.2]
+**[EXTERNAL LINK — THEME SONG → SOUNDBREAK]**
+**[BUTTON 11-M15 — BRAND IDENTITY → 2.6]**
+**[BUTTON 11-M16 — STUDENT LIFE → 16.2]**
 ## V. SUPPORTING RESOURCES
-[ICON — DIGITAL RESOURCE LIBRARY]
+**[ICON — DIGITAL RESOURCE LIBRARY]**
 1. **Resource:** Pathway → **Destination:** 03
 2. **Resource:** Degree Programs → **Destination:** 04
 3. **Resource:** Experiential → **Destination:** 05
@@ -295,55 +297,55 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 15. **Resource:** Admissions FAQ → **Destination:** 18.4
 16. **Resource:** Technical FAQ → **Destination:** 18.9
 17. **Resource:** Contact Admissions → **Destination:** 19.2
-[DOWNLOAD — ADMISSIONS GUIDE]
-[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]
-[DOWNLOAD — STUDENT JOURNEY ROADMAP]
-[DOWNLOAD — EXPERIENTIAL ADMISSIONS AND PLACEMENT GUIDE]
-[DOWNLOAD — TRANSFER STUDENT CHECKLIST]
-[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]
-[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]
-[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]
-[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]
-[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]
-[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]
-[DOWNLOAD — MINOR PREREQUISITE CHECKLIST]
-[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]
-[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]
+**[DOWNLOAD — ADMISSIONS GUIDE]**
+**[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — STUDENT JOURNEY ROADMAP]**
+**[DOWNLOAD — EXPERIENTIAL ADMISSIONS AND PLACEMENT GUIDE]**
+**[DOWNLOAD — TRANSFER STUDENT CHECKLIST]**
+**[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]**
+**[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]**
+**[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]**
+**[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]**
+**[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MINOR PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]**
 **SuiteDash — Authenticated Student Resources, Documents, Policies, Procedures, Guidelines, Forms, Support**
 ## VI. CONTACT ADMISSIONS
-[ICON — ADMISSIONS SUPPORT]
+**[ICON — ADMISSIONS SUPPORT]**
 **Website: RIAHPathway.com • SuiteDash Help Desk • Toll-Free: 877-245-7424 • Vanity: 877-245-RIAH**
-[BUTTON 11-M17 — CONTACT ADMISSIONS → 19.2]
-[BUTTON 11-M18 — STUDENT SUPPORT → 19.5]
-[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]
-[BUTTON 11-M20 — APPLY NOW → CLASSE365]
+**[BUTTON 11-M17 — CONTACT ADMISSIONS → 19.2]**
+**[BUTTON 11-M18 — STUDENT SUPPORT → 19.5]**
+**[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]**
+**[BUTTON 11-M20 — APPLY NOW → CLASSE365]**
 ## VII. FINAL CTA
-[CTA BAND — BLACK / RED / GOLD]
+**[CTA BAND — BLACK / RED / GOLD]**
 # FIND YOUR PATH. UNDERSTAND THE PROCESS. GET STARTED.
-[BUTTON 11-M21 — PATHWAYS → 03]
-[BUTTON 11-M22 — DEGREE PROGRAMS → 04]
-[BUTTON 11-M23 — EXPERIENTIAL → 05]
-[BUTTON 11-M24 — CURRICULUM → 10]
-[BUTTON 11-M25 — PRE-ADMISSIONS → SUITEDASH]
-[BUTTON 11-M26 — APPLY NOW → CLASSE365]
-[BUTTON 11-M27 — TUITION → 12]
+**[BUTTON 11-M21 — PATHWAYS → 03]**
+**[BUTTON 11-M22 — DEGREE PROGRAMS → 04]**
+**[BUTTON 11-M23 — EXPERIENTIAL → 05]**
+**[BUTTON 11-M24 — CURRICULUM → 10]**
+**[BUTTON 11-M25 — PRE-ADMISSIONS → SUITEDASH]**
+**[BUTTON 11-M26 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M27 — TUITION → 12]**
 ## VIII. GLOBAL FOOTER
-[LOGO — RIAH PATHWAY]
+**[LOGO — RIAH PATHWAY]**
 **ONE DYNASTY. INFINITE LEGACIES.**
-[GLOBAL NAVIGATION — ALL 19 MAIN PAGES]
+**[GLOBAL NAVIGATION — ALL 19 MAIN PAGES]**
 **Website: RIAHPathway.com • Phone: 877-245-7424**
 **Privacy • Terms • Accessibility • Consumer Information • Policies**
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 
-[BUTTON — MAIN ADMISSIONS → 11]
-[BUTTON — PRE-ADMISSIONS → 11.2]
-[BUTTON — APPLICATION → 11.3]
-[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]
-[BUTTON — ONBOARDING & STUDENT EXPERIENCE → 11.5]
-[BUTTON — GRADUATION & ALUMNI → 11.6]
-[BUTTON — HOW RIAH PATHWAY WORKS → 11.7]
-[BUTTON — TRANSFER STUDENTS → 11.8]
+**[BUTTON — MAIN ADMISSIONS → 11]**
+**[BUTTON — PRE-ADMISSIONS → 11.2]**
+**[BUTTON — APPLICATION → 11.3]**
+**[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]**
+**[BUTTON — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
+**[BUTTON — GRADUATION & ALUMNI → 11.6]**
+**[BUTTON — HOW RIAH PATHWAY WORKS → 11.7]**
+**[BUTTON — TRANSFER STUDENTS → 11.8]**
 
 
 ---
@@ -351,14 +353,14 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.1 CROSS-REFERENCE
 
 ## II. ADMISSIONS HERO & OVERVIEW
-[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]
+**[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review → Receive Your Decision → Enroll → Welcome Materials → Cohort → Active Student**
-[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]
-[BUTTON 11-M03 — APPLY NOW → CLASSE365]
-[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]
-[BUTTON 11-M05 — PATHWAYS → 03]
+**[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
+**[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
+**[BUTTON 11-M05 — PATHWAYS → 03]**
 ## III. COMPLETE STUDENT JOURNEY
 1. **Stage:** Interest → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources → **Communication:** Digital
 2. **Stage:** Pathway Selection → **Student Experience:** Select educational or experiential route → **Communication:** Digital
@@ -375,16 +377,16 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 13. **Stage:** Achievement → **Student Experience:** Milestones → **Communication:** Digital + Applicable Physical
 14. **Stage:** Graduation → **Student Experience:** Graduation requirements → **Communication:** Digital + Physical
 15. **Stage:** Alumni → **Student Experience:** Professional and institutional engagement → **Communication:** Digital + Community
-[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]
+**[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
 ## IV. MONTHLY COHORT MODEL
-[ICON — MONTHLY CALENDAR]
+**[ICON — MONTHLY CALENDAR]**
 1. **Academic Preparation:** Orientation → **Student Community:** Cohort identity → **Institutional Operations:** Enrollment processing
 2. **Academic Preparation:** Academic readiness → **Student Community:** School connection → **Institutional Operations:** Student account preparation
 3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
 4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
 5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
 **Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
-[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]
+**[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 
 
 
@@ -396,11 +398,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 # 👑 RIAH PATHWAY — 11.2 PRE-ADMISSIONS WIREFRAME
 ## I. PRE-ADMISSIONS HERO
-[ICON — ADMISSIONS CHECKLIST]
+**[ICON — ADMISSIONS CHECKLIST]**
 # KNOW YOUR PATH BEFORE YOU APPLY.
 Pre-Admissions helps prospective students understand academic, professional, experiential, and other applicable requirements before submitting an application.
-[IMAGE — STUDENT REVIEWING REQUIREMENTS]
-[BUTTON 11-P01 — PRE-ADMISSIONS → SUITEDASH FORM]
+**[IMAGE — STUDENT REVIEWING REQUIREMENTS]**
+**[BUTTON 11-P01 — PRE-ADMISSIONS → SUITEDASH FORM]**
 ## II. 11.2.1 — GENERAL ADMISSIONS
 **Academic Eligibility • Pathway Eligibility • Prior Education • Applicable Age and Grade Requirements • Program Prerequisites • Professional Requirements • Jurisdictional Requirements**
 1. **Document Category:** Official Transcripts → **Purpose:** Academic history
@@ -412,17 +414,17 @@ Pre-Admissions helps prospective students understand academic, professional, exp
 7. **Document Category:** Additional Documentation → **Purpose:** Pathway requirements
 Missing prerequisite courses must be completed before admission into the requested level.
 **Background Checks — Where Required • Character and Fitness — Where Required • International Records — Where Applicable**
-[BUTTON 11-P02 — PRE-ADMISSIONS → SUITEDASH FORM]
-[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]
+**[BUTTON 11-P02 — PRE-ADMISSIONS → SUITEDASH FORM]**
+**[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
 ## III. 11.2.2 — SCHOOL AND MAJOR ADMISSION
-[IMAGE — FOUR SCHOOL CARDS]
+**[IMAGE — FOUR SCHOOL CARDS]**
 1. **School:** Business → **Admissions Considerations:** Academic eligibility, major, prerequisites
 2. **School:** Homeland Security → **Admissions Considerations:** Academic eligibility, major, professional requirements
 3. **School:** Law → **Admissions Considerations:** Academic eligibility, law pathway, jurisdiction
 4. **School:** Technology → **Admissions Considerations:** Academic eligibility, major, prerequisites
 **School → Major → Credential → Prerequisite Evaluation → Eligibility Review → Application**
 ### Year 3
-[ICON — ACADEMIC PROGRESSION]
+**[ICON — ACADEMIC PROGRESSION]**
 **Year 3 requires completed General Education AND School Core.**
 **Submit Transcripts → Evaluate General Education → Evaluate School Core → Identify Outstanding Requirements → Complete Requirements → Year 3 Eligibility → Review**
 1. **Requirement:** General Education → **Standard:** Completed
@@ -430,19 +432,19 @@ Missing prerequisite courses must be completed before admission into the request
 3. **Requirement:** Prior Records → **Standard:** Submitted
 4. **Requirement:** Outstanding Prerequisites → **Standard:** Completed before Year 3
 5. **Requirement:** Major Coursework → **Standard:** Approved academic pathway
-[BUTTON 11-P03 — DEGREE PROGRAMS → 04]
-[BUTTON 11-P04 — CURRICULUM → 10]
+**[BUTTON 11-P03 — DEGREE PROGRAMS → 04]**
+**[BUTTON 11-P04 — CURRICULUM → 10]**
 ### Minor
-[ICON — MINOR PROGRAM]
+**[ICON — MINOR PROGRAM]**
 **Minor admission requires completed prerequisites for the selected minor.**
 **Select Minor → Review Prerequisites → Evaluate Coursework → Complete Outstanding Prerequisites → Admission**
 1. **Requirement:** Selected Minor → **Standard:** Identified
 2. **Requirement:** Minor Prerequisites → **Standard:** Completed
 3. **Requirement:** Prior Coursework → **Standard:** Evaluated
 4. **Requirement:** Outstanding Prerequisites → **Standard:** Completed before admission
-[BUTTON 11-P05 — MINOR PROGRAMS → 04]
+**[BUTTON 11-P05 — MINOR PROGRAMS → 04]**
 ### Master's and MBA
-[ICON — GRADUATE DEGREE]
+**[ICON — GRADUATE DEGREE]**
 **Master's: Applicable Bachelor's Degree OR Accepted Equivalent; missing program prerequisites completed before admission.**
 **MBA: Applicable Bachelor's Degree OR Accepted Equivalent; missing business or other MBA prerequisites completed before admission.**
 1. **Requirement:** Bachelor's Degree → **Master's:** Applicable or accepted equivalent → **MBA:** Applicable or accepted equivalent
@@ -451,15 +453,15 @@ Missing prerequisite courses must be completed before admission into the request
 4. **Requirement:** Missing Prerequisites → **Master's:** Completed before admission → **MBA:** Completed before admission
 5. **Requirement:** Decision → **Master's:** After requirements → **MBA:** After requirements
 **Select Master's or MBA → Submit Degree and Records → Degree Evaluation → Prerequisite Evaluation → Complete Missing Prerequisites → Eligibility → Review**
-[BUTTON 11-P06 — MASTER'S → 04]
-[BUTTON 11-P07 — MBA → 04]
+**[BUTTON 11-P06 — MASTER'S → 04]**
+**[BUTTON 11-P07 — MBA → 04]**
 ## IV. 11.2.3 — EXPERIENTIAL PRE-ADMISSIONS
-[ICON — PROFESSIONAL BRIEFCASE]
+**[ICON — PROFESSIONAL BRIEFCASE]**
 Applicants must meet experience-level requirements AND academic prerequisites; review includes placement, supervision, and capacity.
 1. **Category:** Single-Area → **Structure:** One professional area
 2. **Category:** Rotational → **Structure:** Multiple approved functions, departments, areas, entities
 3. **Category:** Progressive → **Structure:** Advancement through eligible levels
-[IMAGE — SIX-LEVEL EXPERIENTIAL LADDER]
+**[IMAGE — SIX-LEVEL EXPERIENTIAL LADDER]**
 1. **Level:** Apprentice → **Duration:** 1 Month → **Experience Requirement:** Little to no prior professional experience
 2. **Level:** Intern → **Duration:** 3 Months → **Experience Requirement:** Foundational experience or qualifications
 3. **Level:** Associate → **Duration:** 1 Year → **Experience Requirement:** Associate-level experience and prerequisites
@@ -480,13 +482,13 @@ Applicants must meet experience-level requirements AND academic prerequisites; r
 Approval subject to capacity, resources, supervision, coordination, requirements.
 ### Progressive Experience
 **Starting Level → Experience and Assessments → Eligibility Verification → Next Level → Continued Progression.** Progression is not automatic.
-[IMAGE — SINGLE-AREA, ROTATIONAL, PROGRESSIVE COMPARISON]
-[BUTTON 11-P08 — EXPERIENTIAL → 05]
-[BUTTON 11-P09 — LEVELS AND DURATIONS → 5.2]
-[BUTTON 11-P10 — INTERNAL PLACEMENTS → 5.5]
-[BUTTON 11-P11 — EXTERNAL PLACEMENTS → 5.6]
+**[IMAGE — SINGLE-AREA, ROTATIONAL, PROGRESSIVE COMPARISON]**
+**[BUTTON 11-P08 — EXPERIENTIAL → 05]**
+**[BUTTON 11-P09 — LEVELS AND DURATIONS → 5.2]**
+**[BUTTON 11-P10 — INTERNAL PLACEMENTS → 5.5]**
+**[BUTTON 11-P11 — EXTERNAL PLACEMENTS → 5.6]**
 ## V. 11.2.4 — HIGH SCHOOL ADMISSIONS
-[IMAGE — GRADES 9–12 PROGRESSION]
+**[IMAGE — GRADES 9–12 PROGRESSION]**
 # HIGH SCHOOL DIPLOMA + CONCURRENT COLLEGE COURSEWORK
 **Initial States: Ohio • Florida • Texas.** Planned expansion to all 50 states and Washington, D.C., subject to authorization.
 1. **Student:** Eighth Grade Entering Ninth → **Requirement:** Eighth-grade transcript; ninth-grade entry
@@ -504,11 +506,11 @@ Grades 9–12 submit transcripts to evaluate completed courses, credits, grade, 
 5. **Evaluation Area:** Concurrent College → **Purpose:** College opportunities
 6. **Evaluation Area:** Academic Plan → **Purpose:** Remaining courses
 **Transcript Evaluation → Grade Placement → Remaining High School Coursework + Eligible Concurrent College Coursework → Completion → Graduation**
-[BUTTON 11-P12 — HIGH SCHOOL → 06]
-[BUTTON 11-P13 — HIGH SCHOOL PRE-ADMISSIONS → SUITEDASH FORM]
-[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]
+**[BUTTON 11-P12 — HIGH SCHOOL → 06]**
+**[BUTTON 11-P13 — HIGH SCHOOL PRE-ADMISSIONS → SUITEDASH FORM]**
+**[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]**
 ## VI. 11.2.5 — GED/HSE ADMISSIONS
-[IMAGE — GED/HSE STUDENT WITH CONCURRENT COLLEGE COURSEWORK]
+**[IMAGE — GED/HSE STUDENT WITH CONCURRENT COLLEGE COURSEWORK]**
 # EARN YOUR GED/HSE WHILE PURSUING COLLEGE CREDIT.
 Eligible students who did not complete high school submit prior high school transcript or available academic record showing noncompletion.
 **GED/HSE Preparation + Concurrent College Coursework = 12 COLLEGE CREDIT HOURS.**
@@ -520,26 +522,26 @@ Eligible students who did not complete high school submit prior high school tran
 5. **Component:** College Credit Opportunity → **Requirement:** 12 hours
 6. **Component:** GED/HSE Examination → **Requirement:** Authorized exam
 7. **Component:** Credential → **Requirement:** Applicable requirements
-[BUTTON 11-P14 — GED/HSE → 07]
-[BUTTON 11-P15 — GED/HSE PRE-ADMISSIONS → SUITEDASH FORM]
-[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]
+**[BUTTON 11-P14 — GED/HSE → 07]**
+**[BUTTON 11-P15 — GED/HSE PRE-ADMISSIONS → SUITEDASH FORM]**
+**[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]**
 ## VII. 11.2.6 — LAW PRE-ADMISSIONS
 **J.D. • Non-J.D. Bar License • Criminal Justice**
 Applicable academic, professional, background, character-and-fitness, supervision, and jurisdictional reviews. Admission does not independently establish bar or licensure eligibility.
-[BUTTON 11-P16 — LAW PATHWAYS → 4.4]
-[BUTTON 11-P17 — BAR REVIEW → 09]
+**[BUTTON 11-P16 — LAW PATHWAYS → 4.4]**
+**[BUTTON 11-P17 — BAR REVIEW → 09]**
 ## VIII. PRE-ADMISSIONS DOWNLOADS
-[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]
-[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]
-[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]
-[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]
-[DOWNLOAD — MINOR PROGRAM PREREQUISITE CHECKLIST]
-[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]
-[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]
+**[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]**
+**[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MINOR PROGRAM PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]**
 ## IX. FINAL CTA
-[BUTTON 11-P18 — APPLY NOW → 11.3]
-[BUTTON 11-P19 — CONTACT ADMISSIONS → 19.2]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[BUTTON 11-P18 — APPLY NOW → 11.3]**
+**[BUTTON 11-P19 — CONTACT ADMISSIONS → 19.2]**
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. ADDITIONAL PRE-ADMISSIONS FLOW DETAIL
 ### Year 3 Eligibility
@@ -565,12 +567,12 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 3. **Area:** Other Approved Majors → **Required Foundational Coursework:** Applicable major-specific prerequisite courses
 4. **Area:** Advanced Levels → **Required Foundational Coursework:** Academic prerequisites plus required professional experience
 **Select Experiential Area → Select Level → Select Single-Area, Rotational, or Progressive Experience → Review Experience Requirements → Review Major-Specific Prerequisites → Evaluate Experience and Coursework → Complete Outstanding Prerequisites → Capacity and Supervision Review → Decision → Placement Confirmation.**
-[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]
-[DOWNLOAD — MINOR PROGRAM PREREQUISITE CHECKLIST]
-[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]
-[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]
-[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]
-[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]
+**[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MINOR PROGRAM PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]**
+**[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]**
+**[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]**
 
 
 ---
@@ -578,7 +580,7 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.2 CROSS-REFERENCE
 
 ## V. PRE-ADMISSIONS OVERVIEW
-[ICON — ADMISSIONS CHECKLIST]
+**[ICON — ADMISSIONS CHECKLIST]**
 # KNOW YOUR PATH BEFORE YOU APPLY.
 1. **Section:** 11.2.1 → **Category:** General Admissions → **Purpose:** Eligibility, documentation, academic standing
 2. **Section:** 11.2.2 → **Category:** School and Major → **Purpose:** Year 3, minors, master's, MBA, prerequisites
@@ -586,7 +588,7 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 4. **Section:** 11.2.4 → **Category:** High School → **Purpose:** Grades 9–12, transcripts, concurrent coursework
 5. **Section:** 11.2.5 → **Category:** GED/HSE → **Purpose:** Preparation and 12 college credits
 6. **Section:** 11.2.6 → **Category:** Law → **Purpose:** J.D., Non-J.D., applicable requirements
-[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]
+**[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
 
 
 
@@ -598,18 +600,18 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 
 # 👑 RIAH PATHWAY — 11.3 APPLICATION WIREFRAME
 ## I. APPLICATION HERO
-[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]
+**[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]**
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
 **Application Platform: Classe365.**
 **Application Processing Fee: $50 — NON-REFUNDABLE.**
 **Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Student Communications**
-[BUTTON 11-A01 — APPLY NOW → CLASSE365]
+**[BUTTON 11-A01 — APPLY NOW → CLASSE365]**
 ## II. 11.3.1 — ADMISSIONS PROCESS
 **01 Select Your Pathway → 02 Review Requirements → 03 Submit Application → 04 Submit Documentation → 05 Application Review → 06 Pathway-Specific Review → 07 Admission Decision → 08 Acceptance and Next Steps**
-[IMAGE — ADMISSIONS PROCESS FLOW]
+**[IMAGE — ADMISSIONS PROCESS FLOW]**
 ## III. 11.3.2 — APPLICATION FLOW
 **Classe365 Application → Select Pathway → Complete Information → Upload Documents → Pay Processing Fee → Submit → Review → Status and Communications**
-[BUTTON 11-A02 — APPLY NOW → CLASSE365]
+**[BUTTON 11-A02 — APPLY NOW → CLASSE365]**
 ## IV. 11.3.3 — ADMISSIONS BY PATHWAY
 1. **Pathway:** Associate's → **Review:** Academic eligibility and records → **Main Page:** 04
 2. **Pathway:** Bachelor's → **Review:** Academic eligibility, transfers, prerequisites → **Main Page:** 04
@@ -623,7 +625,7 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 10. **Pathway:** High School → **Review:** Eighth-grade or grades 9–12 transcript evaluation → **Main Page:** 06
 11. **Pathway:** GED/HSE → **Review:** Prior high school record, noncompletion, college coursework → **Main Page:** 07
 ## V. EXPERIENTIAL ADMISSIONS BY LEVEL
-[IMAGE — SIX-LEVEL EXPERIENTIAL LADDER]
+**[IMAGE — SIX-LEVEL EXPERIENTIAL LADDER]**
 1. **Level:** Apprentice → **Duration:** 1 Month
 2. **Level:** Intern → **Duration:** 3 Months
 3. **Level:** Associate → **Duration:** 1 Year
@@ -637,24 +639,24 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 4. **Participant:** External Placement → **Applicable Format:** Remote, hybrid, or on-site where permitted
 **Application → Eligibility → Level and Placement → Category → Prerequisites → Prior Experience → Capacity and Supervision → Decision → Acceptance → Seat Confirmation → Orientation → Real Work**
 Higher-demand opportunities may use automated blind selection; lower-demand opportunities may use first-come, first-served admission until capacity is reached.
-[BUTTON 11-A03 — EXPERIENTIAL PROCESS → 5.4]
+**[BUTTON 11-A03 — EXPERIENTIAL PROCESS → 5.4]**
 ## VI. APPLICATION SUPPORT
-[ICON — APPLICATION SUPPORT]
-[BUTTON 11-A04 — CONTACT ADMISSIONS → 19.2]
-[BUTTON 11-A05 — TECHNICAL SUPPORT → 19.4]
+**[ICON — APPLICATION SUPPORT]**
+**[BUTTON 11-A04 — CONTACT ADMISSIONS → 19.2]**
+**[BUTTON 11-A05 — TECHNICAL SUPPORT → 19.4]**
 ## VII. APPLICATION DOWNLOADS
-[DOWNLOAD — ADMISSIONS GUIDE]
-[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]
-[DOWNLOAD — EXPERIENTIAL ADMISSIONS AND PLACEMENT GUIDE]
-[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]
-[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]
+**[DOWNLOAD — ADMISSIONS GUIDE]**
+**[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
+**[DOWNLOAD — EXPERIENTIAL ADMISSIONS AND PLACEMENT GUIDE]**
+**[DOWNLOAD — HIGH SCHOOL TRANSCRIPT EVALUATION CHECKLIST]**
+**[DOWNLOAD — GED/HSE ADMISSIONS CHECKLIST]**
 ## VIII. APPLICATION RELATED LINKS
-[BUTTON 11-A06 — PRE-ADMISSIONS → 11.2]
-[BUTTON 11-A07 — TUITION → 12]
-[BUTTON 11-A08 — ACCEPTANCE & ENROLLMENT → 11.4]
+**[BUTTON 11-A06 — PRE-ADMISSIONS → 11.2]**
+**[BUTTON 11-A07 — TUITION → 12]**
+**[BUTTON 11-A08 — ACCEPTANCE & ENROLLMENT → 11.4]**
 ## IX. FINAL CTA
-[BUTTON 11-A09 — APPLY NOW → CLASSE365]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[BUTTON 11-A09 — APPLY NOW → CLASSE365]**
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. EXPANDED APPLICATION AND PLACEMENT ROUTING
 1. **Pathway:** Year 3 → **Admission Review:** General education and school core completion → **Website:** 04
@@ -669,11 +671,11 @@ Higher-demand opportunities may use automated blind selection; lower-demand oppo
 **Rotational Experience:** Additional $5,000 tuition. Associate $10,000; Associate with Rotational Experience $15,000. Approval depends on capacity, resources, supervision, coordination, and requirements.
 **Progressive Experience:** Approved Starting Level → Experience and Assessments → Eligibility Verification → Next Approved Level → Continued Progression. Advancement is not automatic.
 **Capacity:** High-demand eligible applicants may undergo blind selection; lower-demand opportunities may use first-come, first-served admission until approved capacity is reached.
-[IMAGE — SINGLE-AREA, ROTATIONAL, AND PROGRESSIVE EXPERIENCE COMPARISON]
-[BUTTON — EXPERIENTIAL LEVELS → 5.2]
-[BUTTON — EXPERIENTIAL PROCESS → 5.4]
-[BUTTON — INTERNAL PLACEMENTS → 5.5]
-[BUTTON — EXTERNAL PLACEMENTS → 5.6]
+**[IMAGE — SINGLE-AREA, ROTATIONAL, AND PROGRESSIVE EXPERIENCE COMPARISON]**
+**[BUTTON — EXPERIENTIAL LEVELS → 5.2]**
+**[BUTTON — EXPERIENTIAL PROCESS → 5.4]**
+**[BUTTON — INTERNAL PLACEMENTS → 5.5]**
+**[BUTTON — EXTERNAL PLACEMENTS → 5.6]**
 
 
 ---
@@ -681,13 +683,13 @@ Higher-demand opportunities may use automated blind selection; lower-demand oppo
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.3 CROSS-REFERENCE
 
 ## VI. APPLICATION OVERVIEW
-[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]
+**[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]**
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
 **Classe365 • $50 NON-REFUNDABLE APPLICATION PROCESSING FEE**
 **Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Communications**
 **Select Pathway → Review Requirements → Submit Application → Submit Documentation → Application Review → Pathway-Specific Review → Decision → Acceptance**
-[BUTTON 11-M08 — APPLY NOW → CLASSE365]
-[BUTTON 11-M09 — APPLICATION → 11.3]
+**[BUTTON 11-M08 — APPLY NOW → CLASSE365]**
+**[BUTTON 11-M09 — APPLICATION → 11.3]**
 
 
 
@@ -700,11 +702,11 @@ Higher-demand opportunities may use automated blind selection; lower-demand oppo
 # 👑 RIAH PATHWAY — 11.4 ACCEPTANCE & ENROLLMENT WIREFRAME
 ## I. ACCEPTANCE HERO
 # WELCOME TO THE PATHWAY.
-[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]
+**[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]**
 ## II. 11.4.1 — ACCEPTANCE EXPERIENCE
 **Digital Acceptance + Physical Personalized Acceptance Letter.**
 **Student Name • School Identity • Selected Pathway • Institutional Branding • Unified Crown • Acceptance Information • Next Steps**
-[ICON — ACCEPTANCE LETTER WITH SEAL]
+**[ICON — ACCEPTANCE LETTER WITH SEAL]**
 ## III. 11.4.2 — AFTER ADMISSION
 **Admission Offer → Student Commitment → Applicable Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome Experience**
 ## IV. EDUCATION DEPOSIT
@@ -718,23 +720,23 @@ Higher-demand opportunities may use automated blind selection; lower-demand oppo
 ## V. ACADEMIC ENROLLMENT
 Degree students missing a monthly cohort may complete steps for a later eligible cohort, subject to policies.
 **Experiential enrollment is capacity-based and requires timely confirmation.**
-[BUTTON 11-E01 — TUITION → 12]
-[BUTTON 11-E02 — FEES → 12.3]
-[BUTTON 11-E03 — PAYMENT OPTIONS → 12.4]
+**[BUTTON 11-E01 — TUITION → 12]**
+**[BUTTON 11-E02 — FEES → 12.3]**
+**[BUTTON 11-E03 — PAYMENT OPTIONS → 12.4]**
 ## VI. ENROLLMENT COMMUNICATIONS
-[ICON — DIGITAL ENROLLMENT CONFIRMATION]
+**[ICON — DIGITAL ENROLLMENT CONFIRMATION]**
 **Digital Acceptance → Student Commitment → Enrollment Confirmation → Welcome Experience**
 ## VII. DOWNLOADS
-[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]
-[DOWNLOAD — STUDENT COST GUIDE]
-[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]
+**[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]**
+**[DOWNLOAD — STUDENT COST GUIDE]**
+**[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]**
 ## VIII. SUPPORT
-[BUTTON 11-E04 — CONTACT ADMISSIONS → 19.2]
-[BUTTON 11-E05 — POLICIES → 17.8]
-[BUTTON 11-E06 — STUDENT SUPPORT → 19.5]
+**[BUTTON 11-E04 — CONTACT ADMISSIONS → 19.2]**
+**[BUTTON 11-E05 — POLICIES → 17.8]**
+**[BUTTON 11-E06 — STUDENT SUPPORT → 19.5]**
 ## IX. FINAL CTA
-[BUTTON 11-E07 — ONBOARDING & STUDENT EXPERIENCE → 11.5]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[BUTTON 11-E07 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. ENROLLMENT DECISION AND COMMUNICATION DETAILS
 1. **Stage:** Acceptance → **Communication:** Digital + Physical
@@ -752,9 +754,9 @@ Degree students missing a monthly cohort may complete steps for a later eligible
 **Total deposit = $500 Education Deposit Fee + Applicable Student Resource Allocation.**
 **Academic:** Later monthly cohort possible after completing requirements, subject to policies.
 **Experiential:** Seats are capacity-based and require timely confirmation.
-[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]
-[BUTTON — FEES → 12.3]
-[BUTTON — PAYMENT OPTIONS → 12.4]
+**[DOWNLOAD — ACCEPTANCE AND ENROLLMENT CHECKLIST]**
+**[BUTTON — FEES → 12.3]**
+**[BUTTON — PAYMENT OPTIONS → 12.4]**
 
 
 ---
@@ -762,13 +764,13 @@ Degree students missing a monthly cohort may complete steps for a later eligible
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.4 CROSS-REFERENCE
 
 ## VII. ACCEPTANCE & ENROLLMENT OVERVIEW
-[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]
+**[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]**
 # WELCOME TO THE PATHWAY.
 **Digital Acceptance + Physical Personalized Acceptance Letter**
 **Student Name • School Identity • Selected Pathway • Institutional Branding • Unified Crown • Acceptance Information • Next Steps**
-[ICON — ACCEPTANCE LETTER WITH SEAL]
+**[ICON — ACCEPTANCE LETTER WITH SEAL]**
 **Admission Offer → Student Commitment → Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome**
-[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]
+**[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]**
 
 
 
@@ -781,14 +783,14 @@ Degree students missing a monthly cohort may complete steps for a later eligible
 # 👑 RIAH PATHWAY — 11.5 ONBOARDING & STUDENT EXPERIENCE WIREFRAME
 ## I. STUDENT EXPERIENCE HERO
 # YOUR RIAH PATHWAY EXPERIENCE BEGINS BEFORE THE FIRST COURSE.
-[IMAGE — RIAH PATHWAY WELCOME KIT]
+**[IMAGE — RIAH PATHWAY WELCOME KIT]**
 ## II. 11.5.1 — PERSONALIZED WELCOME EXPERIENCE
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community.**
 **Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources.**
 Transfer students receive applicable transfer materials.
-[BUTTON 11-S01 — TRANSFER STUDENTS → 11.8]
+**[BUTTON 11-S01 — TRANSFER STUDENTS → 11.8]**
 ## III. 11.5.2 — ONBOARDING & ORIENTATION
-[ICON — COMPASS]
+**[ICON — COMPASS]**
 # ONE WEEK TO PREPARE FOR THE PATH AHEAD.
 1. **Area:** Academics → **Preparation:** Expectations and resources
 2. **Area:** Technology → **Preparation:** Systems and access
@@ -809,11 +811,11 @@ Transfer students receive applicable transfer materials.
 | Help Desk | SuiteDash |
 **Acceptance → Welcome → Orientation → Onboarding → Active Student**
 ## IV. 11.5.3 — COHORT, SCHOOL & COMMUNITY
-[IMAGE — VIRTUAL STUDENT COMMUNITY]
+**[IMAGE — VIRTUAL STUDENT COMMUNITY]**
 **Monthly Cohorts • Schools • Majors • Student Organizations • Student Governance • Leadership • Honor Societies • Greek Life Where Applicable • Ambassadors • Community Service • Peer Mentorship • Career Development**
 **SuiteDash Community.**
 **Student → School → Monthly Cohort → Peer Connection → SuiteDash Community → Organizations and Leadership**
-[BUTTON 11-S02 — STUDENT LIFE → 16.2]
+**[BUTTON 11-S02 — STUDENT LIFE → 16.2]**
 ## V. 11.5.4 — ACTIVE STUDENT EXPERIENCE
 1. **Function:** Applications and Admissions → **Platform:** Classe365
 2. **Function:** SIS, Academic Records, Degree Audit, Alumni → **Platform:** Classe365
@@ -846,7 +848,7 @@ Transfer students receive applicable transfer materials.
 **PeopleGrove CORE + Experience Hub + CompMS — Experiential placements and evaluations.**
 **Symplicity CSM — Career services.**
 ## VI. ONE FRONT DOOR
-[IMAGE — STUDENT DASHBOARD WITH EIGHT SERVICE CATEGORIES]
+**[IMAGE — STUDENT DASHBOARD WITH EIGHT SERVICE CATEGORIES]**
 **Student → SuiteDash Main Portal → Role-Based Student Dashboard → Connected Institutional Services**
 1. **Academics:** LearnWorlds → **Finances:** TouchNet → **Progress:** Classe365 → **Career:** Symplicity CSM
 2. **Academics:** Cengage MindTap → **Finances:** Regent Education → **Progress:** Merit Pages → **Career:** Advising
@@ -861,7 +863,7 @@ Transfer students receive applicable transfer materials.
 | Engagement | Forms | Resources | National Student Clearinghouse |
 **Microsoft Entra ID — Identity and Authentication.** Connections and SSO must be configured before being presented as operational.
 ## VII. 11.5.5 — ACHIEVEMENTS & MILESTONES
-[IMAGE — ACHIEVEMENT BADGES AND INSTITUTIONAL RECOGNITION]
+**[IMAGE — ACHIEVEMENT BADGES AND INSTITUTIONAL RECOGNITION]**
 **Academic Achievement • Experiential Achievement • Leadership • Community Service • Mentorship • Career Development • Professional Credentials • Institutional Recognition**
 1. **Recognition:** Institutional Degrees, Academic Achievements, Recognition → **Platform:** Merit Pages
 2. **Recognition:** Applicable RIAH Credentials → **Platform:** Merit Pages
@@ -870,16 +872,16 @@ Transfer students receive applicable transfer materials.
 **Student Activity → Progress → Evidence → Verification → Recognition → Award → Graduation**
 **Tuition Reimbursement: Up to 50% for eligible tuition payments under applicable terms.**
 **Graduation Reimbursement: Guaranteed 10% upon graduation under applicable terms.**
-[BUTTON 11-S03 — REIMBURSEMENT → 12.6]
+**[BUTTON 11-S03 — REIMBURSEMENT → 12.6]**
 ## VIII. DOWNLOADS
-[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]
-[DOWNLOAD — STUDENT TECHNOLOGY GUIDE]
-[DOWNLOAD — NEW STUDENT GUIDE — SUITEDASH AUTHENTICATED PORTAL]
+**[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]**
+**[DOWNLOAD — STUDENT TECHNOLOGY GUIDE]**
+**[DOWNLOAD — NEW STUDENT GUIDE — SUITEDASH AUTHENTICATED PORTAL]**
 ## IX. FINAL CTA
-[BUTTON 11-S04 — STUDENT LIFE → 16.2]
-[BUTTON 11-S05 — CAREER SERVICES → 16.2.20]
-[BUTTON 11-S06 — GRADUATION & ALUMNI → 11.6]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[BUTTON 11-S04 — STUDENT LIFE → 16.2]**
+**[BUTTON 11-S05 — CAREER SERVICES → 16.2.20]**
+**[BUTTON 11-S06 — GRADUATION & ALUMNI → 11.6]**
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. COMPLETE STUDENT EXPERIENCE TECHNOLOGY AND MILESTONE DETAIL
 1. **Function:** Official Transcript Ordering and Delivery → **Platform:** Parchment
@@ -904,8 +906,8 @@ Transfer students receive applicable transfer materials.
 **Tuition Reimbursement:** Up to 50% for eligible tuition payments under applicable terms; guaranteed 10% upon graduation under applicable terms.
 **One-week virtual orientation:** Academics • Technology • Institution • Community • Experiential • Law • Career.
 **Welcome:** Physical materials + digital access + school identity + cohort community; applicable student ID, academic materials, robe, scarf, bag, and student resources.
-[IMAGE — STUDENT DASHBOARD WITH EIGHT SERVICE CATEGORIES]
-[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]
+**[IMAGE — STUDENT DASHBOARD WITH EIGHT SERVICE CATEGORIES]**
+**[DOWNLOAD — ORIENTATION AND ONBOARDING OVERVIEW]**
 
 
 ---
@@ -913,7 +915,7 @@ Transfer students receive applicable transfer materials.
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.5 CROSS-REFERENCE
 
 ## VIII. ONBOARDING & STUDENT EXPERIENCE OVERVIEW
-[IMAGE — RIAH PATHWAY WELCOME KIT]
+**[IMAGE — RIAH PATHWAY WELCOME KIT]**
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community**
 **Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources**
 1. **Orientation Area:** Academics → **Preparation:** Expectations and resources
@@ -923,7 +925,7 @@ Transfer students receive applicable transfer materials.
 5. **Orientation Area:** Experiential → **Preparation:** Placement and supervision
 6. **Orientation Area:** Law → **Preparation:** Legal supervision requirements
 7. **Orientation Area:** Career → **Preparation:** Career-development resources
-[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]
+**[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
 
 
 
@@ -936,7 +938,7 @@ Transfer students receive applicable transfer materials.
 # 👑 RIAH PATHWAY — 11.6 GRADUATION & ALUMNI WIREFRAME
 ## I. GRADUATION HERO
 # THE PATHWAY LEADS TO A MILESTONE WORTH CELEBRATING.
-[IMAGE — REGIONAL GRADUATION CEREMONY]
+**[IMAGE — REGIONAL GRADUATION CEREMONY]**
 ## II. 11.6.1 — GRADUATION EXPERIENCE
 1. **Before:** Eligibility Review → **Ceremony:** Regalia → **After:** Graduation Kit
 2. **Before:** Graduation Application → **Ceremony:** Honor Cords → **After:** Credential
@@ -946,7 +948,7 @@ Transfer students receive applicable transfer materials.
 **NORTH • SOUTH • EAST • WEST.**
 **Regional In-Person Ceremony + Virtual Graduation Option.**
 ## III. 11.6.2 — ALUMNI & LEGACY
-[ICON — ALUMNI NETWORK]
+**[ICON — ALUMNI NETWORK]**
 # GRADUATION ENDS A PROGRAM. IT DOESN'T END THE PATHWAY.
 1. **Function:** Alumni Records → **Platform:** Classe365
 2. **Function:** Alumni Community → **Platform:** SuiteDash
@@ -954,7 +956,7 @@ Transfer students receive applicable transfer materials.
 4. **Function:** Institutional Recognition → **Platform:** Merit Pages
 5. **Function:** Alumni Communications → **Platform:** SuiteDash
 **Student → Graduate → Classe365 Alumni Record → SuiteDash Alumni Community → Career and Mentorship → Legacy**
-[BUTTON 11-G01 — STUDENT LIFE → 16.2]
+**[BUTTON 11-G01 — STUDENT LIFE → 16.2]**
 ## IV. 11.6.3 — RECEIVE • EARN • PURCHASE
 1. **RECEIVE:** Acceptance Materials → **EARN:** Milestone Recognition → **PURCHASE:** Optional Merchandise
 2. **RECEIVE:** Welcome Materials → **EARN:** Credentials → **PURCHASE:** Yearbooks
@@ -963,39 +965,39 @@ Transfer students receive applicable transfer materials.
 5. **RECEIVE:** Alumni Materials → **EARN:** Achievement Recognition → **PURCHASE:** Additional Apparel
 6. **RECEIVE:** Student ID → **EARN:** Applicable Certificates → **PURCHASE:** Keepsakes
 **Admissions = RECEIVE + EARN. Products = PURCHASE.**
-[BUTTON 11-G02 — SHOP NOW → SHOPIFY]
-[BUTTON 11-G03 — PRODUCTS → 14]
+**[BUTTON 11-G02 — SHOP NOW → SHOPIFY]**
+**[BUTTON 11-G03 — PRODUCTS → 14]**
 ## V. REGISTRAR & RECORDS
-[IMAGE — DIGITAL ACADEMIC RECORDS AND VERIFICATION FLOW]
+**[IMAGE — DIGITAL ACADEMIC RECORDS AND VERIFICATION FLOW]**
 1. **Function:** Student, Enrollment, Academic Records, Degree Audit, Alumni → **Platform:** Classe365
 2. **Function:** Official Transcript Ordering and Delivery → **Platform:** Parchment
 3. **Function:** Enrollment and Degree Verification → **Platform:** National Student Clearinghouse
 4. **Function:** Institutional Recognition → **Platform:** Merit Pages
 5. **Function:** Portfolio Evidence → **Platform:** PebblePad
 **Student Enrollment → Classe365 → Academic Progress and Degree Audit → Official Academic Record → Registrar Services → Parchment Transcripts / National Student Clearinghouse Verification**
-[ICON — OFFICIAL TRANSCRIPT]
+**[ICON — OFFICIAL TRANSCRIPT]**
 **Student or Graduate → Request Transcript → Parchment → Institutional Processing → Official Delivery → Recipient**
-[BUTTON 11-G04 — REQUEST TRANSCRIPT → PARCHMENT]
-[ICON — VERIFIED ACADEMIC CREDENTIAL]
+**[BUTTON 11-G04 — REQUEST TRANSCRIPT → PARCHMENT]**
+**[ICON — VERIFIED ACADEMIC CREDENTIAL]**
 **Student or Graduate Record → Classe365 → Institutional Reporting → National Student Clearinghouse → Authorized Request → Verification**
-[BUTTON 11-G05 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]
-[BUTTON 11-G06 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]
+**[BUTTON 11-G05 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]**
+**[BUTTON 11-G06 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]**
 **Academic Milestone → Institutional Review → Merit Pages → Recognition**
-[BUTTON 11-G07 — ACHIEVEMENTS → 11.5.5]
+**[BUTTON 11-G07 — ACHIEVEMENTS → 11.5.5]**
 ## VI. DOWNLOADS
-[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]
-[DOWNLOAD — GRADUATION CHECKLIST]
-[DOWNLOAD — ALUMNI GUIDE]
+**[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]**
+**[DOWNLOAD — GRADUATION CHECKLIST]**
+**[DOWNLOAD — ALUMNI GUIDE]**
 ## VII. SUPPORT
-[BUTTON 11-G08 — STUDENT SUPPORT → 19.5]
-[BUTTON 11-G09 — CAREER SERVICES → 16.2.20]
+**[BUTTON 11-G08 — STUDENT SUPPORT → 19.5]**
+**[BUTTON 11-G09 — CAREER SERVICES → 16.2.20]**
 ## VIII. RESOURCES
-[BUTTON 11-G10 — STUDENT LIFE → 16.2]
-[BUTTON 11-G11 — PRODUCTS → 14]
+**[BUTTON 11-G10 — STUDENT LIFE → 16.2]**
+**[BUTTON 11-G11 — PRODUCTS → 14]**
 ## IX. FINAL CTA
 # ONE DYNASTY. INFINITE LEGACIES.
-[BUTTON 11-G12 — ALUMNI & LEGACY → 11.6.2]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[BUTTON 11-G12 — ALUMNI & LEGACY → 11.6.2]**
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. COMPLETE GRADUATION AND ALUMNI LIFECYCLE
 1. **Before:** Eligibility Review → **Ceremony:** Regalia → **After:** Graduation Kit
@@ -1013,8 +1015,8 @@ Transfer students receive applicable transfer materials.
 5. **RECEIVE:** Alumni Materials → **EARN:** Achievement Recognition → **PURCHASE:** Additional Apparel
 6. **RECEIVE:** Student ID → **EARN:** Applicable Certificates → **PURCHASE:** Keepsakes
 **Admissions = RECEIVE + EARN. Products = PURCHASE.**
-[BUTTON — SHOP NOW → SHOPIFY]
-[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]
+**[BUTTON — SHOP NOW → SHOPIFY]**
+**[DOWNLOAD — GRADUATION AND ALUMNI OVERVIEW]**
 
 
 ---
@@ -1022,11 +1024,11 @@ Transfer students receive applicable transfer materials.
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.6 CROSS-REFERENCE
 
 ## IX. GRADUATION & ALUMNI OVERVIEW
-[IMAGE — REGIONAL GRADUATION CEREMONY]
+**[IMAGE — REGIONAL GRADUATION CEREMONY]**
 **NORTH • SOUTH • EAST • WEST**
 **Regional In-Person Ceremony + Virtual Graduation Option**
 **Student → Graduate → Classe365 Alumni Record → SuiteDash Alumni Community → Career and Mentorship → Legacy**
-[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]
+**[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]**
 
 
 
@@ -1039,7 +1041,7 @@ Transfer students receive applicable transfer materials.
 # 👑 RIAH PATHWAY — 11.7 HOW RIAH PATHWAY WORKS WIREFRAME
 ## I. TECHNOLOGY HERO
 # ONE CONNECTED INSTITUTIONAL ECOSYSTEM.
-[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]
+**[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
 RIAH Pathway connects academic administration, curriculum, student support, finance, careers, experiential learning, academic records, recognition, and community.
 ## II. EDUCATION & STUDENT ADMINISTRATION
 1. **Function:** Admissions, SIS, Academic Records, Degree Audit, Alumni → **Platform:** Classe365
@@ -1064,26 +1066,26 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 3. **Function:** Placement Employer and Partner Engagement → **Platform:** PeopleGrove CORE + Experience Hub + CompMS
 4. **Function:** Work Assignments, Supervision, Progress, Evaluations → **Platform:** PeopleGrove CORE + Experience Hub + CompMS
 **Application → Placement Review → Internal or External → Single-Area, Rotational, or Progressive → Real Work → Supervision → Evaluation → Documented Experience → Career**
-[BUTTON 11-H01 — EXPERIENTIAL → 05]
+**[BUTTON 11-H01 — EXPERIENTIAL → 05]**
 ## V. REGISTRAR & RECORDS
-[IMAGE — DIGITAL ACADEMIC RECORDS AND VERIFICATION FLOW]
+**[IMAGE — DIGITAL ACADEMIC RECORDS AND VERIFICATION FLOW]**
 1. **Function:** Student, Enrollment, Academic Records, Degree Audit, Alumni → **Platform:** Classe365
 2. **Function:** Official Transcript Ordering and Delivery → **Platform:** Parchment
 3. **Function:** Enrollment and Degree Verification → **Platform:** National Student Clearinghouse
 4. **Function:** Recognition → **Platform:** Merit Pages
 5. **Function:** Portfolio Evidence → **Platform:** PebblePad
 **Student Enrollment → Classe365 → Academic Progress and Degree Audit → Official Record → Registrar → Parchment Transcripts / National Student Clearinghouse Verification**
-[ICON — OFFICIAL TRANSCRIPT]
+**[ICON — OFFICIAL TRANSCRIPT]**
 **Student or Graduate → Request Transcript → Parchment → Institutional Processing → Delivery → Recipient**
-[BUTTON 11-H02 — REQUEST TRANSCRIPT → PARCHMENT]
-[ICON — VERIFIED ACADEMIC CREDENTIAL]
+**[BUTTON 11-H02 — REQUEST TRANSCRIPT → PARCHMENT]**
+**[ICON — VERIFIED ACADEMIC CREDENTIAL]**
 **Record → Classe365 → Institutional Reporting → National Student Clearinghouse → Authorized Request → Verification**
-[BUTTON 11-H03 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]
-[BUTTON 11-H04 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]
+**[BUTTON 11-H03 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]**
+**[BUTTON 11-H04 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]**
 **Academic Milestone → Institutional Review → Merit Pages → Recognition**
-[BUTTON 11-H05 — ACHIEVEMENTS → 11.5.5]
+**[BUTTON 11-H05 — ACHIEVEMENTS → 11.5.5]**
 ## VI. POLICIES, PROCEDURES & GUIDELINES
-[ICON — INSTITUTIONAL DOCUMENT LIBRARY]
+**[ICON — INSTITUTIONAL DOCUMENT LIBRARY]**
 # ONE DOCUMENT ACCESS STRUCTURE: SUITEDASH
 1. **Document Category:** Institutional Policies, Procedures, Guidelines → **Platform:** SuiteDash
 2. **Document Category:** Student Handbook and Resources → **Platform:** SuiteDash
@@ -1092,20 +1094,20 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 5. **Document Category:** Student Communications → **Platform:** SuiteDash
 **Institutional Document → Review and Approval → SuiteDash Management → Access Permissions → Authorized User**
 **Webflow Public Website → Approved Public Information → Applicable SuiteDash Document → Authorized Access**
-[BUTTON 11-H06 — POLICIES → 17.8]
-[BUTTON 11-H07 — PROCEDURES → 17.9]
-[BUTTON 11-H08 — GUIDELINES → 17.10]
+**[BUTTON 11-H06 — POLICIES → 17.8]**
+**[BUTTON 11-H07 — PROCEDURES → 17.9]**
+**[BUTTON 11-H08 — GUIDELINES → 17.10]**
 ## VII. CAREER ECOSYSTEM
 ### Symplicity CSM
 **Career Advising • Career Opportunities • Recruiting • Employer Engagement • Career Milestones**
 **Academic Records — Classe365 • Experiential — PeopleGrove • Portfolios — PebblePad • Career Services — Symplicity CSM**
-[BUTTON 11-H09 — CAREER SERVICES → 16.2.20]
+**[BUTTON 11-H09 — CAREER SERVICES → 16.2.20]**
 ## VIII. STUDENT FINANCIAL ECOSYSTEM
 1. **Function:** Financial Aid Administration → **Platform:** Regent Education
 2. **Function:** Student Accounts, Tuition Billing, Payment Plans, Disbursement → **Platform:** TouchNet
 3. **Function:** General Payments → **Platform:** Stripe
-[BUTTON 11-H10 — TUITION → 12]
-[BUTTON 11-H11 — FUNDING → 12.5]
+**[BUTTON 11-H10 — TUITION → 12]**
+**[BUTTON 11-H11 — FUNDING → 12.5]**
 ## IX. PUBLIC INSTITUTIONAL TECHNOLOGY MODEL
 [DIAGRAM — PUBLIC WEBSITE CONNECTED TO STUDENT SERVICES]
 **Webflow → SuiteDash → Classe365 → Parchment + National Student Clearinghouse + LearnWorlds + Cengage MindTap + PebblePad + ProctorU + Tutor.com + PeopleGrove CORE + Experience Hub + CompMS + Symplicity CSM + TouchNet + Regent Education + Merit Pages**
@@ -1117,7 +1119,7 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 6. **Function:** Reporting → **Platform:** Microsoft Power BI
 7. **Function:** Public Website → **Platform:** Webflow
 [INTERNAL DESIGN NOTE — DO NOT DISPLAY PRIVATE SECURITY CONFIGURATIONS, RESTRICTED INFRASTRUCTURE, CREDENTIALS, OR PROTECTED INFORMATION]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. COMPLETE PUBLIC-FACING SYSTEM FLOW AND RECORDS
 **Webflow — Public Website → SuiteDash — Main Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Academic Records, Degree Audit, Alumni.**
@@ -1135,12 +1137,12 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 **PeopleGrove CORE + Experience Hub + CompMS:** Internal and external placements, employer and partner engagement, work assignments, supervision, progress, evaluations.
 **Symplicity CSM:** Career advising, opportunities, recruiting, employer engagement, career milestones.
 **Microsoft Teams:** Virtual meetings. **Microsoft 365:** Productivity. **OneDrive:** Working documents. **Microsoft Power Automate:** Automation. **Microsoft Entra ID:** Authentication. **Microsoft Power BI:** Reporting.
-[BUTTON — REQUEST TRANSCRIPT → PARCHMENT]
-[BUTTON — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]
-[BUTTON — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]
-[BUTTON — POLICIES → 17.8]
-[BUTTON — PROCEDURES → 17.9]
-[BUTTON — GUIDELINES → 17.10]
+**[BUTTON — REQUEST TRANSCRIPT → PARCHMENT]**
+**[BUTTON — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]**
+**[BUTTON — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]**
+**[BUTTON — POLICIES → 17.8]**
+**[BUTTON — PROCEDURES → 17.9]**
+**[BUTTON — GUIDELINES → 17.10]**
 
 
 ---
@@ -1148,10 +1150,10 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.7 CROSS-REFERENCE
 
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
-[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]
+**[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
 **Webflow — Public Website → SuiteDash — Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Records, Degree Audit, Alumni**
 **Parchment — Official Transcripts • National Student Clearinghouse — Enrollment and Degree Verification • LearnWorlds — Courses • Cengage MindTap — Courseware • PebblePad — Portfolios • ProctorU — Proctoring • Tutor.com — Tutoring • PeopleGrove CORE + Experience Hub + CompMS — Experiential • Symplicity CSM — Careers • TouchNet — Finance • Regent Education — Financial Aid • Merit Pages — Recognition**
-[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]
+**[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
 
 
 
@@ -1164,7 +1166,7 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 # 👑 RIAH PATHWAY — 11.8 TRANSFER STUDENTS WIREFRAME
 ## I. TRANSFER STUDENTS HERO
 # YOUR PREVIOUS EDUCATION CAN HELP SHAPE YOUR NEXT PATHWAY.
-[IMAGE — TRANSFER STUDENT JOURNEY]
+**[IMAGE — TRANSFER STUDENT JOURNEY]**
 ## II. TRANSFER FLOW
 **Explore Transfer Pathway → Review Eligibility → Submit Records → Transfer Evaluation → Applicable Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
 ## III. TRANSFER CREDIT MAXIMUMS
@@ -1179,22 +1181,22 @@ Transfer credits remain subject to evaluation, approval, and applicable academic
 ## V. TRANSFER ARCHITECTURE
 **Eligible Transfer Credit → Applicable Prior Coursework**
 **Remaining Requirements → RIAH Pathway Curriculum**
-[IMAGE — PREVIOUS CREDITS → TRANSFER EVALUATION → REMAINING CURRICULUM]
+**[IMAGE — PREVIOUS CREDITS → TRANSFER EVALUATION → REMAINING CURRICULUM]**
 ## VI. TRANSFER WELCOME EXPERIENCE
 Transfer students receive applicable transfer materials. After admissions and enrollment requirements, transfer students proceed through standard welcome and orientation.
-[IMAGE — TRANSFER STUDENT WELCOME KIT]
+**[IMAGE — TRANSFER STUDENT WELCOME KIT]**
 ## VII. TRANSFER ONBOARDING & ORIENTATION
 **Transfer Acceptance → Enrollment → Transfer Welcome Materials → School and Cohort Assignment → One-Week Orientation → Active Student**
-[BUTTON 11-T01 — ONBOARDING & STUDENT EXPERIENCE → 11.5]
+**[BUTTON 11-T01 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
 ## VIII. TRANSFER RESOURCES
-[DOWNLOAD — TRANSFER STUDENT CHECKLIST]
-[BUTTON 11-T02 — TRANSFER ADMISSIONS → SUITEDASH FORM]
-[BUTTON 11-T03 — DEGREE PROGRAMS → 04]
-[BUTTON 11-T04 — TUITION → 12]
+**[DOWNLOAD — TRANSFER STUDENT CHECKLIST]**
+**[BUTTON 11-T02 — TRANSFER ADMISSIONS → SUITEDASH FORM]**
+**[BUTTON 11-T03 — DEGREE PROGRAMS → 04]**
+**[BUTTON 11-T04 — TUITION → 12]**
 ## IX. FINAL CTA
-[BUTTON 11-T05 — APPLY NOW → 11.3]
-[BUTTON 11-T06 — CONTACT ADMISSIONS → 19.2]
-[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+**[BUTTON 11-T05 — APPLY NOW → 11.3]**
+**[BUTTON 11-T06 — CONTACT ADMISSIONS → 19.2]**
+**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. COMPLETE TRANSFER ELIGIBILITY AND STUDENT FLOW
 **Explore Transfer Pathway → Review Eligibility → Submit Records → Transfer Evaluation → Applicable Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student.**
@@ -1208,9 +1210,9 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Year 3 transfer:** General education and school core requirements must be completed before Year 3 admission.
 **Minor transfer:** Applicable minor prerequisites must be completed.
 **Master's / MBA transfer:** Applicable bachelor's degree or accepted equivalent and any outstanding program prerequisites must be completed before admission.
-[DOWNLOAD — TRANSFER STUDENT CHECKLIST]
-[BUTTON — PRE-ADMISSIONS → 11.2]
-[BUTTON — DEGREE PROGRAMS → 04]
+**[DOWNLOAD — TRANSFER STUDENT CHECKLIST]**
+**[BUTTON — PRE-ADMISSIONS → 11.2]**
+**[BUTTON — DEGREE PROGRAMS → 04]**
 
 
 ---
@@ -1218,9 +1220,9 @@ Transfer students receive applicable transfer materials. After admissions and en
 ## ORIGINAL ADMISSIONS MAIN WIREFRAME — 11.8 CROSS-REFERENCE
 
 ## XI. TRANSFER STUDENTS OVERVIEW
-[IMAGE — TRANSFER STUDENT JOURNEY]
+**[IMAGE — TRANSFER STUDENT JOURNEY]**
 **Explore Transfer → Review Eligibility → Submit Records → $500 Transfer Evaluation → Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
-[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]
+**[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
 
 
 
@@ -1509,13 +1511,13 @@ Transfer students receive applicable transfer materials. After admissions and en
 13. **Component:** Transfer and $500 Evaluation Fee → **Placement:** 11.8
 14. **Component:** CTA Links, Downloads, Images, Audits → **Placement:** This Routing Markdown
 ## XI. PLACEHOLDER STANDARDS
-[BUTTON NUMBER — CTA LABEL → DESTINATION]
-[IMAGE — DESCRIPTION]
-[ICON — DESCRIPTION]
-[VIDEO — DESCRIPTION]
-[DOWNLOAD — RESOURCE NAME]
-[EXTERNAL LINK — LABEL → APPROVED DESTINATION]
-[QR CODE — DESTINATION DESCRIPTION]
+**[BUTTON NUMBER — CTA LABEL → DESTINATION]**
+**[IMAGE — DESCRIPTION]**
+**[ICON — DESCRIPTION]**
+**[VIDEO — DESCRIPTION]**
+**[DOWNLOAD — RESOURCE NAME]**
+**[EXTERNAL LINK — LABEL → APPROVED DESTINATION]**
+**[QR CODE — DESTINATION DESCRIPTION]**
 
 ## XII. ADDITIONAL ADMISSIONS CONTENT AND ASSET ROUTING
 1. **ID:** 11-B38 → **Element:** Registrar and Records → **Destination:** 11.7.4
@@ -1557,14 +1559,14 @@ Transfer students receive applicable transfer materials. After admissions and en
 
 **Status:** Approved student-facing updates. This addendum preserves all preceding original draft content verbatim. Where an earlier draft describes a different platform, fee, deadline, or student-experience sequence, the explicitly labeled updates below supersede only that conflicting detail. This is a working website wireframe; unfinalized product mockups remain concepts.
 
-[IMAGE — RIAH PATHWAY COMPLETE 15-STAGE ADMISSIONS-TO-ALUMNI FLOW; RED, BLACK, WHITE, GOLD CROWN; DISTINCT DIGITAL, PHYSICAL AND COMMUNITY ICONS]
-[ICON — MONTHLY ADMISSIONS CALENDAR]
+**[IMAGE — RIAH PATHWAY COMPLETE 15-STAGE ADMISSIONS-TO-ALUMNI FLOW; RED, BLACK, WHITE, GOLD CROWN; DISTINCT DIGITAL, PHYSICAL AND COMMUNITY ICONS]**
+**[ICON — MONTHLY ADMISSIONS CALENDAR]**
 
 ## 01 🔎 INTEREST & INQUIRY
 **Delivery:** Digital.
 **Experience:** Discover RIAH Pathway, its four schools, academic pathways, experiential programs and opportunities.
 **Materials received:** Digital brochures, flyers, pamphlets, blogs, podcasts, social content, videos/vlogs, event and community-event information, school information, academic and experiential pathway guides, general information.
-[BUTTON — EXPLORE PATHWAYS → 03]
+**[BUTTON — EXPLORE PATHWAYS → 03]**
 
 ## 02 📋 PRE-ADMISSIONS & PREPARATION
 **Delivery:** Digital.
@@ -1572,7 +1574,7 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Experiential applicants:** Review eligibility, program-specific prerequisites, required documents, level/duration, preparation, placement and supervision requirements across Business, Technology, Homeland Security and Law.
 **JD / Non-JD:** Review applicable law-pathway eligibility, prerequisites, supervision and preparation requirements.
 **Materials received:** Pre-admissions guides, eligibility checklists, transcript and documentation requirements, pathway/school/major information, program-specific preparation materials.
-[BUTTON — PRE-ADMISSIONS → 11.2]
+**[BUTTON — PRE-ADMISSIONS → 11.2]**
 
 ## 03 📝 APPLICATION
 **Delivery:** Digital. **Platform:** Classe365. **Frequency:** Monthly admission cohorts for academic and experiential programs.
@@ -1580,7 +1582,7 @@ Transfer students receive applicable transfer materials. After admissions and en
 **General testing:** No SAT, ACT or general writing assessment. Applicable pathway-specific requirements remain separate.
 **Student actions:** Select school/pathway/major or experiential program, submit application and required documentation, pay application fee, meet applicable monthly deadline.
 **Materials received:** Application checklist, required-document information, payment confirmation, application updates, intended cohort and next steps.
-[BUTTON — APPLY NOW → CLASSE365]
+**[BUTTON — APPLY NOW → CLASSE365]**
 
 ## 04 ⚙️ ADMISSIONS REVIEW & EXPERIENTIAL SELECTION
 **Delivery:** Digital.
@@ -1589,19 +1591,19 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Schools:** School of Business; School of Technology; School of Homeland Security; School of Law.
 **Experiential selection:** Do not describe a general selection interview. Selection is automated and blind under applicable eligibility and capacity rules.
 **Materials received:** Decision updates, selection notices, applicable cohort and deadline information.
-[ICON — AUTOMATED BLIND SELECTION]
+**[ICON — AUTOMATED BLIND SELECTION]**
 
 ## 05 ✉️ ACCEPTANCE
 **Delivery:** Digital + Physical. **First mailed student touchpoint.**
 **Materials received:** Digital acceptance, personalized mailed acceptance letter, branded envelope and seal, school-specific presentation, acceptance folder/package, congratulations materials, enrollment instructions, cohort/start information, deposit deadline.
 **Experiential:** Selected applicants also receive experiential acceptance and next-step information.
-[IMAGE — SCHOOL-SPECIFIC ACCEPTANCE LETTER AND SEALED ENVELOPE WITH UNIFIED CROWN]
+**[IMAGE — SCHOOL-SPECIFIC ACCEPTANCE LETTER AND SEALED ENVELOPE WITH UNIFIED CROWN]**
 
 ## 06 ✍️ ENROLLMENT & COMMITMENT
 **Delivery:** Digital.
 **Student actions:** Accept offer, commit to RIAH Pathway, complete enrollment requirements and confirm upcoming monthly cohort; accept experiential offer where applicable.
 **Materials received:** Enrollment confirmation, checklist, tuition and fee information, required-material information, deposit instructions and deadline, cohort/start details and next steps.
-[BUTTON — ENROLLMENT & COMMITMENT]
+**[BUTTON — ENROLLMENT & COMMITMENT]**
 
 ## 07 💰 DEPOSIT & SEAT CONFIRMATION
 **Delivery:** Digital / Financial.
@@ -1611,8 +1613,8 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first deposit deadline or forfeit their reserved seat. Vacancies are offered to other eligible/selected applicants with a second deadline; continue until capacity is reached.
 **Academic cohort timing:** A student missing the applicable academic cohort deadline may enter a subsequent monthly cohort after satisfying requirements.
 **Materials received:** Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice.
-[ICON — $1,000 DEPOSIT; $500 DEPOSIT + $500 MATERIALS]
-[BUTTON — DEPOSIT INFORMATION → 12]
+**[ICON — $1,000 DEPOSIT; $500 DEPOSIT + $500 MATERIALS]**
+**[BUTTON — DEPOSIT INFORMATION → 12]**
 
 ## 08 🎁 WELCOME EXPERIENCE
 **Delivery:** Digital + Physical + Community. **Trigger:** Deposit paid.
@@ -1621,8 +1623,8 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Pathways/levels:** High School, GED, Associate's, Bachelor's, JD, Non-JD and applicable programs.
 **Concept materials received:** Branded Welcome Box and letter; school robe, scarf, backpack/bag and gear; applicable books, workbooks, journals, planners, pathway/major materials, orientation workbook, cohort and student-success materials, ID/badge concepts, applicable software/materials.
 **Transfer branch:** High School, GED, Associate's, Bachelor's, JD and Non-JD transfer entrants receive a transfer-specific welcome letter, transfer materials, orientation/credit-pathway information and resources, plus the standard personalized Welcome Experience. Transfer students then follow the same orientation, cohort, active student, graduation and alumni flow.
-[IMAGE — WELCOME BOX, ROBE, SCARF, BAG, BOOKS AND ORIENTATION MATERIALS]
-[IMAGE — TRANSFER STUDENT BRANCH REJOINS STANDARD STUDENT JOURNEY]
+**[IMAGE — WELCOME BOX, ROBE, SCARF, BAG, BOOKS AND ORIENTATION MATERIALS]**
+**[IMAGE — TRANSFER STUDENT BRANCH REJOINS STANDARD STUDENT JOURNEY]**
 
 ## 09 🧭 ONE-WEEK VIRTUAL ORIENTATION, ONBOARDING & TRAINING
 **Delivery:** Digital + Physical + Community. **Duration:** One full week, virtually.
@@ -1634,8 +1636,8 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Materials received:** Orientation workbook, handbook, guide, digital training resources, planners/checklists, policies, student-success and school/program materials, cohort information and buddy details.
 **LMS sequence:** LearnWorlds account is provisioned during onboarding, but actual course/program content remains gated until the Active Student Experience starts.
 **Relevant finalized platforms:** SuiteDash for onboarding; Microsoft Teams for virtual orientation, training and breakout sessions; LearnWorlds for LMS.
-[IMAGE — ONE-WEEK TRAINING TIMELINE WITH COLLECTIVE SESSIONS AND SCHOOL-SPECIFIC BREAKOUTS]
-[ICON — LMS PROVISIONED → CONTENT GATED → ACTIVE START UNLOCKS]
+**[IMAGE — ONE-WEEK TRAINING TIMELINE WITH COLLECTIVE SESSIONS AND SCHOOL-SPECIFIC BREAKOUTS]**
+**[ICON — LMS PROVISIONED → CONTENT GATED → ACTIVE START UNLOCKS]**
 
 ## 10 👥 COHORT, SCHOOL & COMMUNITY
 **Delivery:** Digital + Physical + Community.
@@ -1643,7 +1645,7 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Experience:** Human camaraderie, student-to-student engagement, school identity, group activities, shared cohort progress, student support.
 **Materials/access received:** School and cohort community access, schedules, event details, community resources, student organization information, peer/buddy connection; applicable physical cohort items are already included in Welcome Kits.
 **Relevant finalized platform:** SuiteDash student communities and communications. Prior Slack/Geneva references are superseded for this student-community function.
-[IMAGE — AUTOMATED COHORT AND SCHOOL COMMUNITY SORTING FLOW]
+**[IMAGE — AUTOMATED COHORT AND SCHOOL COMMUNITY SORTING FLOW]**
 
 ## 11 🚀 ACTIVE STUDENT EXPERIENCE
 **Delivery:** Digital + Physical + Community.
@@ -1653,8 +1655,8 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Law:** Applicable JD/Non-JD supervision and program participation.
 **Student opportunities:** Ambassador Program, student organizations, professional and academic organizations, honor societies, leadership positions, community activities.
 **Materials/access received:** Active LMS/course access, applicable academic/experiential materials, community and organization access, student support resources.
-[BUTTON — STUDENT PORTAL → SUITEDASH]
-[ICON — LEARNWORLDS COURSE ACCESS OPEN]
+**[BUTTON — STUDENT PORTAL → SUITEDASH]**
+**[ICON — LEARNWORLDS COURSE ACCESS OPEN]**
 
 ## 12 📣 STUDENT ORGANIZATIONS & LEADERSHIP
 **Delivery:** Digital + Community; applicable physical recognition.
@@ -1662,7 +1664,7 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Benefits:** Eligible participation may contribute to planned milestone points, leadership recognition and qualifying tuition-reimbursement opportunities.
 **Materials/opportunities:** Organization information, leadership opportunities, ambassador resources, recognition and student engagement.
 **Wireframe treatment:** May appear as a subsection of Active Student Experience rather than an additional navigation page.
-[ICON — AMBASSADOR, HONOR SOCIETY AND STUDENT LEADERSHIP]
+**[ICON — AMBASSADOR, HONOR SOCIETY AND STUDENT LEADERSHIP]**
 
 ## 13 🏆 ACHIEVEMENTS & MILESTONES
 **Delivery:** Digital + Physical + Community. **Timing:** Throughout active enrollment, not only at graduation.
@@ -1670,7 +1672,7 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Recognition concepts:** Honor cords, certificates, medals, awards, plaques, trophies, class rings, technology/gadget rewards, academic honors, leadership and experiential recognition.
 **Applicable opportunities:** Scholarships, grants, stipends, tuition-reimbursement eligibility and milestone/point recognition, subject to qualifying rules.
 **Relevant finalized platform:** Merit Pages only if a student-recognition platform is identified in existing wireframe sections; do not add unrelated system descriptions.
-[IMAGE — MILESTONE AWARDS, HONOR CORDS, CLASS RINGS, TROPHIES]
+**[IMAGE — MILESTONE AWARDS, HONOR CORDS, CLASS RINGS, TROPHIES]**
 
 ## 14 🎓 GRADUATION EXPERIENCE
 **Delivery:** Digital + Physical + Ceremonial / Community.
@@ -1679,22 +1681,22 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Concept materials:** Graduation robe/regalia, cap, tassel, earned honor cords, diploma, diploma case/cover, diploma/picture frame, graduation package, class ring, yearbook/keepsakes, program and recognition items.
 **Fee treatment:** Applicable standard graduation materials are planned into overall tuition/student fees, subject to finalized fee schedule; not an automatic new graduation purchase.
 **Virtual ceremony technology:** Microsoft Teams is the finalized virtual meeting reference, superseding earlier Zoom mentions in this function.
-[IMAGE — NORTH / SOUTH / EAST / WEST REGIONAL GRADUATION AND VIRTUAL OPTION]
+**[IMAGE — NORTH / SOUTH / EAST / WEST REGIONAL GRADUATION AND VIRTUAL OPTION]**
 
 ## 15 👑 ALUMNI & LEGACY
 **Delivery:** Digital + Physical + Community.
 **Experience:** Transition into alumni community, continued professional connections, networking, career resources, mentorship, alumni events and institutional legacy.
 **Materials/access received:** Mailed Alumni/Legacy Kit, alumni welcome and keepsake materials, alumni community access, networking, career and mentorship resources, event information.
-[IMAGE — ALUMNI LEGACY KIT AND COMMUNITY]
+**[IMAGE — ALUMNI LEGACY KIT AND COMMUNITY]**
 
 ## 📅 MONTHLY ADMISSIONS & COHORT CYCLE
-[ICON — MONTHLY CALENDAR]
+**[ICON — MONTHLY CALENDAR]**
 **All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry. This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation. Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
 **Application + $50 fee → Monthly deadline → Academic review / blind experiential selection → Acceptance → Enrollment commitment → $1,000 deposit deadline → Seat/cohort confirmation → Welcome Kit → One-week virtual orientation/training → School/cohort/buddy community → Applicable experiential/law assignments → Active LMS/program access → Milestones → Graduation → Alumni.**
 
 ## 🌐 PUBLIC WEBSITE FLOW — ADMISSIONS
-[IMAGE — NUMBERED 15-STEP STUDENT JOURNEY WITH EMOJI-STYLE ICONS AND DELIVERY LEGEND]
+**[IMAGE — NUMBERED 15-STEP STUDENT JOURNEY WITH EMOJI-STYLE ICONS AND DELIVERY LEGEND]**
 1. **#:** 01 🔎 → **Stage:** Interest & Inquiry → **Student-Facing Summary:** Discover RIAH Pathway and its schools/programs → **Delivery:** Digital
 2. **#:** 02 📋 → **Stage:** Pre-Admissions & Preparation → **Student-Facing Summary:** Review academic/experiential requirements → **Delivery:** Digital
 3. **#:** 03 📝 → **Stage:** Application → **Student-Facing Summary:** Apply for monthly cohort; $50 non-refundable fee → **Delivery:** Digital
@@ -1723,9 +1725,9 @@ Transfer students receive applicable transfer materials. After admissions and en
 
 **Technology limitation:** Do not copy the finalized tech-stack document into this wireframe. Do not add internal infrastructure, cybersecurity architecture, private databases, proprietary curriculum systems, or unrelated software. Existing original wireframe source text remains preserved above; this addendum governs only the specifically superseded Admissions student-experience references.
 
-[BUTTON — APPLY NOW → CLASSE365]
-[BUTTON — PRE-ADMISSIONS → 11.2]
-[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]
-[BUTTON — STUDENT EXPERIENCE → 11.5]
-[BUTTON — GRADUATION & ALUMNI → 11.6]
-[BUTTON — TRANSFER STUDENTS → 11.8]
+**[BUTTON — APPLY NOW → CLASSE365]**
+**[BUTTON — PRE-ADMISSIONS → 11.2]**
+**[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]**
+**[BUTTON — STUDENT EXPERIENCE → 11.5]**
+**[BUTTON — GRADUATION & ALUMNI → 11.6]**
+**[BUTTON — TRANSFER STUDENTS → 11.8]**
