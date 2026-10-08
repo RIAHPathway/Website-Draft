@@ -1,3 +1,13 @@
 %%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
 flowchart TD
-    N0["GED 101–104 → 12 GED Preparation Credits + Eligible Concurrent General Education → MAT 1010 + ENG 1010 + SCI 1010 + HIS 1010 → Up to 12 Corresponding General Education Credits → Official HSE Credential Separately Completed → RIAH Pathway or Other Eligible Postsecondary Pathway."]
+    N0["GED 101–104"]
+    N1["12 GED Preparation Credits + Eligible Concurrent General Education"]
+    N2["MAT 1010 + ENG 1010 + SCI 1010 + HIS 1010"]
+    N3["Up to 12 Corresponding General Education Credits"]
+    N4["Official HSE Credential Separately Completed"]
+    N5["RIAH Pathway or Other Eligible Postsecondary Pathway."]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5

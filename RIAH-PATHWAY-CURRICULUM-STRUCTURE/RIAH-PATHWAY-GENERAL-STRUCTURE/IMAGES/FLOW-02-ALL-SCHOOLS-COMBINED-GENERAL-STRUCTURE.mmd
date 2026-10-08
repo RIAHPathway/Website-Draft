@@ -1,3 +1,15 @@
 %%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
 flowchart TD
-    N0["General Education → Applicable School Core → Year 3 Major Admission → Year 3 Major → Year 4 Major → Program Capstone → Program Completion."]
+    N0["General Education"]
+    N1["Applicable School Core"]
+    N2["Year 3 Major Admission"]
+    N3["Year 3 Major"]
+    N4["Year 4 Major"]
+    N5["Program Capstone"]
+    N6["Program Completion."]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
