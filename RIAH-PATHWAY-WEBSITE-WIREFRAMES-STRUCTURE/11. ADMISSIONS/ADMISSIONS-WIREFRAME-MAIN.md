@@ -180,3 +180,19 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **Website: RIAHPathway.com • Phone: 877-245-7424**
 **Privacy • Terms • Accessibility • Consumer Information • Policies**
 [ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]
+
+## XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFERENCES
+[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]
+**Interest → Pathway Selection → Pre-Admissions → Application → Documentation → Review → Acceptance → Commitment → Enrollment → Welcome → Orientation → Active Student → Achievement → Graduation → Alumni.**
+**Monthly cohorts:** Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome Experience → Orientation → Active Student.
+**Pre-admissions:** Year 3 requires completed general education and school core; minors require applicable prerequisites; master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
+**High School:** Initial states Ohio, Florida, Texas; eighth-grade transcripts for students entering ninth grade; grades 9–12 transcripts evaluated for grade, credits, remaining requirements, and eligible concurrent college courses.
+**GED/HSE:** Prior high school record demonstrating noncompletion; online preparation and applicable concurrent college coursework offering 12 college credit hours; authorized state examination.
+**Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each. Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
+[BUTTON — PRE-ADMISSIONS → 11.2]
+[BUTTON — APPLICATION → 11.3]
+[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]
+[BUTTON — STUDENT EXPERIENCE → 11.5]
+[BUTTON — GRADUATION & ALUMNI → 11.6]
+[BUTTON — HOW RIAH PATHWAY WORKS → 11.7]
+[BUTTON — TRANSFER STUDENTS → 11.8]
