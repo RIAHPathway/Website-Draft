@@ -83,21 +83,23 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
 **[BUTTON 11-M05 — PATHWAYS → 03]**
 ## III. COMPLETE STUDENT JOURNEY
-1. **Stage:** Interest → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources → **Communication:** Digital
-2. **Stage:** Pathway Selection → **Student Experience:** Select educational or experiential route → **Communication:** Digital
-3. **Stage:** Pre-Admissions → **Student Experience:** Review eligibility and requirements → **Communication:** Digital
-4. **Stage:** Application → **Student Experience:** Submit application → **Communication:** Digital
-5. **Stage:** Documentation → **Student Experience:** Submit required records → **Communication:** Digital
-6. **Stage:** Review → **Student Experience:** Institutional and pathway-specific review → **Communication:** Digital
-7. **Stage:** Acceptance → **Student Experience:** Receive decision → **Communication:** Digital + Physical
-8. **Stage:** Commitment → **Student Experience:** Enrollment requirements → **Communication:** Digital
-9. **Stage:** Enrollment → **Student Experience:** Cohort or placement → **Communication:** Digital
-10. **Stage:** Welcome → **Student Experience:** Student materials and portal → **Communication:** Digital + Physical + Community
-11. **Stage:** Orientation → **Student Experience:** One-week virtual orientation → **Communication:** Digital + Community
-12. **Stage:** Active Student → **Student Experience:** Courses, experience, student life → **Communication:** Digital + Community
-13. **Stage:** Achievement → **Student Experience:** Milestones → **Communication:** Digital + Applicable Physical
-14. **Stage:** Graduation → **Student Experience:** Graduation requirements → **Communication:** Digital + Physical
-15. **Stage:** Alumni → **Student Experience:** Professional and institutional engagement → **Communication:** Digital + Community
+| Stage | Stage Name | Student Experience | Communication |
+| --- | --- | --- | --- |
+| 1 | Interest | Explore pathways, schools, curriculum, tuition, resources | Digital |
+| 2 | Pathway Selection | Select educational or experiential route | Digital |
+| 3 | Pre-Admissions | Review eligibility and requirements | Digital |
+| 4 | Application | Submit application | Digital |
+| 5 | Documentation | Submit required records | Digital |
+| 6 | Review | Institutional and pathway-specific review | Digital |
+| 7 | Acceptance | Receive decision | Digital + Physical |
+| 8 | Commitment | Enrollment requirements | Digital |
+| 9 | Enrollment | Cohort or placement | Digital |
+| 10 | Welcome | Student materials and portal | Digital + Physical + Community |
+| 11 | Orientation | One-week virtual orientation | Digital + Community |
+| 12 | Active Student | Courses, experience, student life | Digital + Community |
+| 13 | Achievement | Milestones | Digital + Applicable Physical |
+| 14 | Graduation | Graduation requirements | Digital + Physical |
+| 15 | Alumni | Professional and institutional engagement | Digital + Community |
 
 **[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
 ## IV. MONTHLY COHORT MODEL
@@ -367,21 +369,23 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
 **[BUTTON 11-M05 — PATHWAYS → 03]**
 ## II. COMPLETE STUDENT JOURNEY
-1. **Stage:** Interest → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources → **Communication:** Digital
-2. **Stage:** Pathway Selection → **Student Experience:** Select educational or experiential route → **Communication:** Digital
-3. **Stage:** Pre-Admissions → **Student Experience:** Review eligibility and requirements → **Communication:** Digital
-4. **Stage:** Application → **Student Experience:** Submit application → **Communication:** Digital
-5. **Stage:** Documentation → **Student Experience:** Submit required records → **Communication:** Digital
-6. **Stage:** Review → **Student Experience:** Institutional and pathway-specific review → **Communication:** Digital
-7. **Stage:** Acceptance → **Student Experience:** Receive decision → **Communication:** Digital + Physical
-8. **Stage:** Commitment → **Student Experience:** Enrollment requirements → **Communication:** Digital
-9. **Stage:** Enrollment → **Student Experience:** Cohort or placement → **Communication:** Digital
-10. **Stage:** Welcome → **Student Experience:** Student materials and portal → **Communication:** Digital + Physical + Community
-11. **Stage:** Orientation → **Student Experience:** One-week virtual orientation → **Communication:** Digital + Community
-12. **Stage:** Active Student → **Student Experience:** Courses, experience, student life → **Communication:** Digital + Community
-13. **Stage:** Achievement → **Student Experience:** Milestones → **Communication:** Digital + Applicable Physical
-14. **Stage:** Graduation → **Student Experience:** Graduation requirements → **Communication:** Digital + Physical
-15. **Stage:** Alumni → **Student Experience:** Professional and institutional engagement → **Communication:** Digital + Community
+| Stage | Stage Name | Student Experience | Communication |
+| --- | --- | --- | --- |
+| 1 | Interest | Explore pathways, schools, curriculum, tuition, resources | Digital |
+| 2 | Pathway Selection | Select educational or experiential route | Digital |
+| 3 | Pre-Admissions | Review eligibility and requirements | Digital |
+| 4 | Application | Submit application | Digital |
+| 5 | Documentation | Submit required records | Digital |
+| 6 | Review | Institutional and pathway-specific review | Digital |
+| 7 | Acceptance | Receive decision | Digital + Physical |
+| 8 | Commitment | Enrollment requirements | Digital |
+| 9 | Enrollment | Cohort or placement | Digital |
+| 10 | Welcome | Student materials and portal | Digital + Physical + Community |
+| 11 | Orientation | One-week virtual orientation | Digital + Community |
+| 12 | Active Student | Courses, experience, student life | Digital + Community |
+| 13 | Achievement | Milestones | Digital + Applicable Physical |
+| 14 | Graduation | Graduation requirements | Digital + Physical |
+| 15 | Alumni | Professional and institutional engagement | Digital + Community |
 
 **[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
 ## III. MONTHLY COHORT MODEL
@@ -531,21 +535,23 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
 **[BUTTON 11-M05 — PATHWAYS → 03]**
 ## III. COMPLETE STUDENT JOURNEY
-1. **Stage:** Interest → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources → **Communication:** Digital
-2. **Stage:** Pathway Selection → **Student Experience:** Select educational or experiential route → **Communication:** Digital
-3. **Stage:** Pre-Admissions → **Student Experience:** Review eligibility and requirements → **Communication:** Digital
-4. **Stage:** Application → **Student Experience:** Submit application → **Communication:** Digital
-5. **Stage:** Documentation → **Student Experience:** Submit required records → **Communication:** Digital
-6. **Stage:** Review → **Student Experience:** Institutional and pathway-specific review → **Communication:** Digital
-7. **Stage:** Acceptance → **Student Experience:** Receive decision → **Communication:** Digital + Physical
-8. **Stage:** Commitment → **Student Experience:** Enrollment requirements → **Communication:** Digital
-9. **Stage:** Enrollment → **Student Experience:** Cohort or placement → **Communication:** Digital
-10. **Stage:** Welcome → **Student Experience:** Student materials and portal → **Communication:** Digital + Physical + Community
-11. **Stage:** Orientation → **Student Experience:** One-week virtual orientation → **Communication:** Digital + Community
-12. **Stage:** Active Student → **Student Experience:** Courses, experience, student life → **Communication:** Digital + Community
-13. **Stage:** Achievement → **Student Experience:** Milestones → **Communication:** Digital + Applicable Physical
-14. **Stage:** Graduation → **Student Experience:** Graduation requirements → **Communication:** Digital + Physical
-15. **Stage:** Alumni → **Student Experience:** Professional and institutional engagement → **Communication:** Digital + Community
+| Stage | Stage Name | Student Experience | Communication |
+| --- | --- | --- | --- |
+| 1 | Interest | Explore pathways, schools, curriculum, tuition, resources | Digital |
+| 2 | Pathway Selection | Select educational or experiential route | Digital |
+| 3 | Pre-Admissions | Review eligibility and requirements | Digital |
+| 4 | Application | Submit application | Digital |
+| 5 | Documentation | Submit required records | Digital |
+| 6 | Review | Institutional and pathway-specific review | Digital |
+| 7 | Acceptance | Receive decision | Digital + Physical |
+| 8 | Commitment | Enrollment requirements | Digital |
+| 9 | Enrollment | Cohort or placement | Digital |
+| 10 | Welcome | Student materials and portal | Digital + Physical + Community |
+| 11 | Orientation | One-week virtual orientation | Digital + Community |
+| 12 | Active Student | Courses, experience, student life | Digital + Community |
+| 13 | Achievement | Milestones | Digital + Applicable Physical |
+| 14 | Graduation | Graduation requirements | Digital + Physical |
+| 15 | Alumni | Professional and institutional engagement | Digital + Community |
 
 **[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
 ## IV. MONTHLY COHORT MODEL
@@ -1070,11 +1076,13 @@ Degree students missing a monthly cohort may complete steps for a later eligible
 **[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. ENROLLMENT DECISION AND COMMUNICATION DETAILS
-1. **Stage:** Acceptance → **Communication:** Digital + Physical
-2. **Stage:** Commitment → **Communication:** Digital
-3. **Stage:** Enrollment → **Communication:** Digital
-4. **Stage:** Welcome → **Communication:** Digital + Physical + Community
-5. **Stage:** Orientation → **Communication:** Digital + Community
+| Stage | Stage Name | Communication |
+| --- | --- | --- |
+| 1 | Acceptance | Digital + Physical |
+| 2 | Commitment | Digital |
+| 3 | Enrollment | Digital |
+| 4 | Welcome | Digital + Physical + Community |
+| 5 | Orientation | Digital + Community |
 **Admission Offer  
 → Student Commitment  
 → Applicable Agreement  
