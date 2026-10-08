@@ -44,46 +44,29 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ### 🎓 High-Level Flow — Pathway Completion
 
-```mermaid
-flowchart TB
-A["🎓 Enter Eligible Education or Experiential Pathway"] --> B["📚 Complete Applicable Pathway Requirements"]
-B --> C["🏆 Complete Applicable Capstone & Requirements"]
-C --> D["✅ RIAH Verifies Entire Pathway Completion"]
-D --> E["⭐ Automatic Graduate Points"]
-```
+![🎓 High-Level Flow — Pathway Completion](./IMAGES/FLOW-01-STUDENTS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-STUDENTS.mmd)
 
 ### 👑 High-Level Flow — Graduate Participation
 
-```mermaid
-flowchart TB
-A["🎓 Verified Graduate"] --> B["👑 Approved Graduate Participation"]
-B --> C["⭐ Approved Graduate Activities"]
-C --> D["👀 Verification"]
-D --> E["📋 Add Approved Graduate Points"]
-```
+![👑 High-Level Flow — Graduate Participation](./IMAGES/FLOW-02-STUDENTS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-STUDENTS.mmd)
 
 ### ⭐ High-Level Flow — Graduate Benefits
 
-```mermaid
-flowchart TB
-A["⭐ Approved Graduate Points"] --> B["🏆 Determine Applicable Milestone"]
-B --> C["🎓 Eligible Tuition Benefit"]
-B --> D["🛍️ Eligible Product Benefit"]
-C --> E["👑 Up to Applicable Tuition Maximum"]
-D --> F["👑 Up to Applicable Product Maximum"]
-```
+![⭐ High-Level Flow — Graduate Benefits](./IMAGES/FLOW-03-STUDENTS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-STUDENTS.mmd)
 
 ## ⚙️ Flow Metadata
 
 **Flow Configuration:** Track — Education & Experiential Graduate; Profile Category — Student / Graduate; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
 
-```mermaid
-flowchart LR
-    A["Pending"] --> B["Under Review"]
-    B --> C["Revision if Required"]
-    C --> D["Approved"]
-    D --> E["Credited"]
-```
+![⚙️ Flow Metadata](./IMAGES/FLOW-04-STUDENTS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-STUDENTS.mmd)
 
 ## 💰 Tuition, Products & Pricing Resources
 
@@ -96,19 +79,9 @@ Contributor benefits in this documentation apply to **eligible tuition and eligi
 
 > **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
 
-```mermaid
-flowchart TB
-    A["👤 Eligible Participant"] --> B["⭐ Earn & Verify Applicable Points"]
-    B --> C["🏆 Determine Applicable Benefit Percentage"]
-    C --> D{"💰 Apply Benefit To"}
-    D --> E["🎓 Eligible Tuition"]
-    D --> F["🛍️ Eligible Products"]
-    E --> G["📊 Review Master Pricing Data Sheet"]
-    F --> G
-    G --> H["🧮 Apply Pricing Engine Rules"]
-    H --> I["💵 Estimate Applicable Tuition & Product Cost"]
-    I --> J["🚧 Interactive Pricing Calculator — In Development"]
-```
+![💰 Tuition, Products & Pricing Resources](./IMAGES/FLOW-05-STUDENTS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-05-STUDENTS.mmd)
 
 ## 📑 Index
 
@@ -255,13 +228,9 @@ All additional Graduate Points require verification.
 
 Completion and every additional point-bearing activity must be verified. Fabricated, duplicate, rejected, unauthorized or unverifiable activity receives no points. Pending activities do not change the benefit.
 
-```mermaid
-flowchart LR
-    N1["Pending"] --> N2["Under Review"]
-    N2["Under Review"] --> N3["Revision or Verification if Required"]
-    N3["Revision or Verification if Required"] --> N4["Approved"]
-    N4["Approved"] --> N5["Credited"]
-```
+![VIII. 🛡️ Verification](./IMAGES/FLOW-06-STUDENTS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-06-STUDENTS.mmd)
 
 ## IX. 📋 Graduate Record
 

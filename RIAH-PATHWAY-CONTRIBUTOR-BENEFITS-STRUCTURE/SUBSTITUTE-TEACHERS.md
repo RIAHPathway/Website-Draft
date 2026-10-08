@@ -33,19 +33,9 @@ Contributor benefits in this documentation apply to **eligible tuition and eligi
 
 > **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
 
-```mermaid
-flowchart TB
-    A["👤 Eligible Participant"] --> B["⭐ Earn & Verify Applicable Points"]
-    B --> C["🏆 Determine Applicable Benefit Percentage"]
-    C --> D{"💰 Apply Benefit To"}
-    D --> E["🎓 Eligible Tuition"]
-    D --> F["🛍️ Eligible Products"]
-    E --> G["📊 Review Master Pricing Data Sheet"]
-    F --> G
-    G --> H["🧮 Apply Pricing Engine Rules"]
-    H --> I["💵 Estimate Applicable Tuition & Product Cost"]
-    I --> J["🚧 Interactive Pricing Calculator — In Development"]
-```
+![💰 Tuition, Products & Pricing Resources](./IMAGES/FLOW-01-SUBSTITUTE-TEACHERS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-SUBSTITUTE-TEACHERS.mmd)
 
 ## 📑 Index
 
@@ -85,36 +75,22 @@ XV. 👑 Shared Ambassador Program
 ## II. 🍎 End-to-End Category Flow
 ### 🍎 High-Level Flow — Participation
 
-```mermaid
-flowchart TB
-A["🍎 Substitute Teacher Ambassador"] --> B["👑 Eligibility, Orientation & Marketing Training"]
-B --> C["🏫 Obtain Required Permission"]
-C --> D["🔗 Assigned QR Code / Referral Link"]
-D --> E["🎪 Career Fair, School Event, Booth, Webinar or Workshop"]
-E --> F["👤 Student, Family or Community Engagement"]
-```
+![🍎 High-Level Flow — Participation](./IMAGES/FLOW-02-SUBSTITUTE-TEACHERS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-SUBSTITUTE-TEACHERS.mmd)
 
 ### ⭐ High-Level Flow — Verification & Benefits
 
-```mermaid
-flowchart TB
-A["🎯 Verified Outcome"] --> B["📋 Verification & Activity Ledger"]
-B --> C["⭐ Approved Points"]
-C --> D["🏆 Complete 100-Point Milestone"]
-D --> E["🎓 +1% Tuition & 🛍️ +1% Products"]
-E --> F["👑🏆 Up to 25% Tuition + 25% Products Maximum"]
-```
+![⭐ High-Level Flow — Verification & Benefits](./IMAGES/FLOW-03-SUBSTITUTE-TEACHERS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-SUBSTITUTE-TEACHERS.mmd)
 
 ## III. ⚙️ Flow Metadata
 **Flow Configuration:** Track — Substitute Teacher Ambassador; Profile Category — Substitute Teacher Ambassador; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
 
-```mermaid
-flowchart LR
-    A["Pending"] --> B["Under Review"]
-    B --> C["Revision if Required"]
-    C --> D["Approved"]
-    D --> E["Credited"]
-```
+![III. ⚙️ Flow Metadata](./IMAGES/FLOW-04-SUBSTITUTE-TEACHERS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-SUBSTITUTE-TEACHERS.mmd)
 
 Substitute Teacher Ambassadors may contribute through school district events, career fairs, college fairs, education events, approved school-community events, informational booths, educational webinars, information sessions, workshops, approved brochures, flyers, information cards, QR codes, referral links, Education Pathway promotion, Experiential Pathway promotion, certification information, product information, family-information events, community events, approved social campaigns, organizational introductions, prospective-student referrals, student conversions and product conversions.
 
@@ -168,15 +144,9 @@ Multiple event awards require genuinely separate responsibilities.
 ## VIII. 🔗 QR Codes, Referral Links and Attribution
 Each applicable Ambassador uses an individually attributable QR code and referral link. Approved destinations may include the RIAH Pathway website, program pages, educational webinars, application pages, event registration, product pages, information-request forms and approved landing pages.
 
-```mermaid
-flowchart LR
-    N1["Ambassador"] --> N2["QR or Link"]
-    N2["QR or Link"] --> N3["Engagement"]
-    N3["Engagement"] --> N4["Lead"]
-    N4["Lead"] --> N5["Webinar"]
-    N5["Webinar"] --> N6["Application"]
-    N6["Application"] --> N7["Enrollment or Purchase"]
-```
+![VIII. 🔗 QR Codes, Referral Links and Attribution](./IMAGES/FLOW-05-SUBSTITUTE-TEACHERS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-05-SUBSTITUTE-TEACHERS.mmd)
 
 Conversions must be traceable to the assigned identifier or otherwise verified. Self-referrals do not qualify. Duplicate referrals do not create duplicate conversion awards.
 ## IX. 🏆 1%–25% Milestones
@@ -242,13 +212,9 @@ No points are awarded for fake, duplicate or self-referrals; fake purchases; fra
 One underlying activity normally receives one primary award unless separate point-bearing milestones or deliverables are independently verified.
 
 ## XIII. ⏳ Status Workflow
-```mermaid
-flowchart LR
-    N1["⏳ Pending"] --> N2["👀 Under Review"]
-    N2["👀 Under Review"] --> N3["🔄 Revision if Required"]
-    N3["🔄 Revision if Required"] --> N4["✅ Approved"]
-    N4["✅ Approved"] --> N5["👑 Credited"]
-```
+![XIII. ⏳ Status Workflow](./IMAGES/FLOW-06-SUBSTITUTE-TEACHERS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-06-SUBSTITUTE-TEACHERS.mmd)
 
 Pending work receives no permanent points. Rejected work receives zero points.
 
