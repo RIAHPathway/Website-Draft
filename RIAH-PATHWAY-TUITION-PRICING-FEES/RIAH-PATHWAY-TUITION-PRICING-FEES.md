@@ -425,6 +425,9 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 
 # XX. 🔄 Transfer Credit Maximums
 
+**Final transfer-credit restrictions (education pathways):** Associate's — up to 30 credits from general education, school core, or a combination of both. Bachelor's — up to 60 credits applicable only to general education and school core. Bachelor's Years 3 and 4 consist of RIAH Pathway coursework and do not accept transfer credits; no additional transfer credits may be added after the initial transfer evaluation and placement. Master's — up to 9 credits. MBA — up to 9 credits. J.D. — up to 27 approved first-year (1L) credits for entry after Year 1 only; no J.D. transfer into Years 2, 3, or 4. Transfer credit is determined once as part of the initial transfer evaluation; later additional transfer-credit submissions are not accepted. High School and GED/HSE admission and transfer parameters remain subject to separate review and are not changed by this clarification.
+
+
 Transfer credits may accelerate applicable academic progress up to the established maximum for each pathway. The configured Transfer Tuition Reduction remains \$0, meaning accepted transfer credits do not independently reduce the established tuition price.
 
 | Pathway | Maximum Transfer Credits |
