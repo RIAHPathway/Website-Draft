@@ -1,0 +1,28 @@
+%% FLOW-03-TRANSFER-STUDENT-JOURNEY
+flowchart TD
+  N0["TRANSFER INQUIRY"]
+  N1["RECORDS & EVALUATION"]
+  N2["ADMISSION"]
+  N3["ENROLLMENT"]
+  N4["DEPOSIT"]
+  N5["TRANSFER WELCOME KIT"]
+  N6["ONE-WEEK ORIENTATION"]
+  N7["SCHOOL & COHORT"]
+  N8["ACTIVE STUDENT"]
+  N9["GRADUATION"]
+  N10["ALUMNI"]
+  N0 --> N1
+  N1 --> N2
+  N2 --> N3
+  N3 --> N4
+  N4 --> N5
+  N5 --> N6
+  N6 --> N7
+  N7 --> N8
+  N8 --> N9
+  N9 --> N10
+  classDef stage fill:#111111,color:#FFFFFF,stroke:#D40000,stroke-width:2px;
+  classDef milestone fill:#D40000,color:#FFFFFF,stroke:#111111,stroke-width:2px;
+  class N0,N1,N2,N3,N4,N5,N6,N7,N8,N9,N10 stage;
+  class N0,N10 milestone;
+  linkStyle default stroke:#D40000,stroke-width:2px;
