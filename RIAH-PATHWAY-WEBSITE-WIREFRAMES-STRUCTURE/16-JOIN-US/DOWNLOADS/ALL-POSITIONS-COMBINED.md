@@ -108,6 +108,16 @@ Through $1 million, internal team compensation is divided equally among 168 at-s
 
 RIAH Pathway's Join Us employment and governance structure includes Executive Leadership, Backend Technology, Cybersecurity Specialists, Project Directors, Program Directors, Academic Faculty, Experiential Professionals, JD and Non-JD Attorney / Judge Supervisors, Product & Service Professional Contractors, and the Board of Governance.
 
+### Core & Additional Professional Staffing
+
+**Core ecosystem:** 168 fixed internal team members plus up to 2,000 JD/Non-JD Attorney / Judge curriculum supervisors (**up to 2,168 total**). These groups retain their distinct core equity and vesting terms.
+
+**Additional professionals:** PhD Academic Faculty, Adjunct Academic Faculty, Experiential Managers/Supervisors/Reviewers, Certification Review and Bar Review Professionals, mentors, coaches, live review professionals, and other Product and Service Professionals.
+
+**Recruitment:** Qualified RIAH Pathway graduates may apply after graduation, as may qualified outside professionals. All applicable credentials and experience are required.
+
+**Additional non-core positions are paid contracts only:** **0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**, subject to applicable law. Opportunities depend on demand and are not guaranteed.
+
 Internal positions are **100% remote**. Executive Leadership and the Board of Governance remain **100% remote during the first year of operations**. After the first year, Executive Leadership and the Board of Governance attend required **quarterly in-person meetings in Cleveland, Ohio**.
 
 Equity-bearing positions follow the applicable RIAH Pathway equity allocation, **four-year vesting with a one-year cliff**, and the Contribution Pool structure. Contributions are due on the **15th of each month**. Current reference amounts are **$520.83 monthly during Pre-Beta**, a **variable Beta contribution as Core Experiential Professionals are hired**, and **$595.24 monthly Post-Accreditation / At Scale**.
