@@ -165,7 +165,7 @@ The README contains unnumbered personal/professional and RIAH Pathway overview s
 
 **Legacy** is the RIAH Pathway public-source replica monitoring and evidence-preservation bot. Legacy performs recurring **hourly scans** and **daily evidence audits** against the fixed Tier 1, Tier 2, and Tier 3 RIAH fingerprint, suppresses ordinary prior art, preserves qualifying public evidence and timestamps, verifies accreditation or authorization only from supporting sources, and organizes evidence for human review and the Same-Day Filing workflow.
 
-<img width="1280" height="1536" alt="Legacy The GOAT" src="./Images/LEGACY-THE-GOAT.webp" />
+<img width="1145" height="1374" alt="image" src="https://github.com/user-attachments/assets/994b3165-9b69-4f2c-8314-83f0dceac1d1" />
 
 | Resource | Purpose |
 |---|---|
