@@ -154,6 +154,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
 ## XI. TRANSFER STUDENTS OVERVIEW
 
+**J.D. transfers:** Up to 27 credits from Year 1 (1L) coursework; transfer entry is permitted after Year 1 only. No transfer into J.D. Years 2, 3, or 4.
+
+**Master's and MBA transfers:** Up to 9 approved credits for each program, subject to evaluation.
+
+
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
 **Explore Transfer  
 → Review Eligibility  
