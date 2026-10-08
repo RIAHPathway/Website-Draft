@@ -398,31 +398,30 @@ rather than once for every selected pathway.
 
 # XVIII. 💵 Fees
 
-The fee structure identifies the established application, admissions, enrollment, transfer, and Education Deposit fees. The Complete Transfer Fee is charged only when applicable, while admissions and enrollment have no separate fee.
+The fee structure identifies the established application, admissions, enrollment, transfer, and Education Deposit fees. The optional transfer credit evaluation and processing fee is charged only when applicable, while admissions and enrollment have no separate fee.
 
 | Fee | Amount |
 |:---|---:|
 | Application Fee | \$50 |
 | Admissions Fee | \$0 |
 | Enrollment Fee | \$0 |
-| Complete Transfer Fee | \$500 When Applicable |
+| Optional Transfer Credit Evaluation and Processing | \$250 Total When Both Apply (\$125 + \$125) |
 | Transfer Tuition Reduction | \$0 |
 | RIAH Education Deposit Fee | \$500 Once |
 
-# XIX. 🔄 Complete Transfer Fee Internal Allocation
+# XIX. 🔄 Transfer Credit Evaluation and Processing Fee
 
-The Complete Transfer Fee is one \$500 fee internally allocated across transfer evaluation, alternative credit evaluation, prior learning and credit review, and processing and administration. The four \$125 components are not separate additional charges.
+## Transfer Credit Evaluation — One-Time Optional Service
 
-| Internal Component | Amount |
-|:---|---:|
-| Transfer Evaluation | \$125 |
-| Alternative Credit Evaluation | \$125 |
-| Prior Learning and Credit Review | \$125 |
-| Processing and Administration | \$125 |
-| Total Complete Transfer Fee | \$500 |
+| Component | Fee | Timing |
+| --- | ---: | --- |
+| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $125 | After prerequisite/transcript eligibility review and before determining which credits apply |
+| Processing and administration | $125 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
+| **Total when both services apply** | **$250** | **One-time; not charged twice for the same evaluation** |
 
-These are components of one \$500 fee and are not four additional \$125
-charges.
+The $250 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $125 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
+
+**Admissions positioning:** Accessible education for applicants who meet program prerequisites; affordable program pricing; rigorous proctored assessments, performance assessments, and capstones. Educational admission is based on meeting published prerequisites and transcript requirements, not on purchasing the optional transfer credit evaluation service.
 
 # XX. 🔄 Transfer Credit Maximums
 

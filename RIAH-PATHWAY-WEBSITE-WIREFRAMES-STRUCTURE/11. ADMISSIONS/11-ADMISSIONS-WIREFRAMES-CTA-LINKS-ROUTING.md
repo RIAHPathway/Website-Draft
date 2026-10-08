@@ -276,7 +276,7 @@
 10. **Component:** Welcome, Orientation, Community, Active Student, Milestones → **Placement:** 11.5
 11. **Component:** Graduation, Alumni, Receive • Earn • Purchase → **Placement:** 11.6
 12. **Component:** Technology, Registrar, Policies, Career, Finance → **Placement:** 11.7
-13. **Component:** Transfer and $500 Evaluation Fee → **Placement:** 11.8
+13. **Component:** Optional Transfer Credit Evaluation ($125) and Processing/Administration ($125 upon applicable admission; $250 total when both apply) → **Placement:** 11.8
 14. **Component:** CTA Links, Downloads, Images, Audits → **Placement:** This Routing Markdown
 ## XI. PLACEHOLDER STANDARDS
 
@@ -706,3 +706,16 @@ Existing original wireframe source text remains preserved above; this addendum g
 
 
 ---
+
+
+## Transfer Credit Evaluation — One-Time Optional Service
+
+| Component | Fee | Timing |
+| --- | ---: | --- |
+| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $125 | After prerequisite/transcript eligibility review and before determining which credits apply |
+| Processing and administration | $125 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
+| **Total when both services apply** | **$250** | **One-time; not charged twice for the same evaluation** |
+
+The $250 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $125 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
+
+**Admissions positioning:** Accessible education for applicants who meet program prerequisites; affordable program pricing; rigorous proctored assessments, performance assessments, and capstones. Educational admission is based on meeting published prerequisites and transcript requirements, not on purchasing the optional transfer credit evaluation service.
