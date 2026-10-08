@@ -330,7 +330,23 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | Total Concurrent General Education Opportunity | **Total Concurrent General Education Opportunity: 12 Credits** |
 | General Education | The GED Preparation credits and General Education credits remain academically separate. |
 
-![Component 2 — Concurrent General Education](./IMAGES/FLOW-02-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — Component 2 — Concurrent General Education (Part 1 of 3)
+
+![Component 2 — Concurrent General Education — Part 1](./IMAGES/FLOW-02-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-02-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — Component 2 — Concurrent General Education (Part 2 of 3)
+
+![Component 2 — Concurrent General Education — Part 2](./IMAGES/FLOW-02-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-02-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — Component 2 — Concurrent General Education (Part 3 of 3)
+
+![Component 2 — Concurrent General Education — Part 3](./IMAGES/FLOW-02-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-02-GED-STRUCTURE-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-02-GED-STRUCTURE.mmd)
 
@@ -353,7 +369,23 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **Edmentum Courseware** | General Education instructional content and courseware environment |
 | **State Add-On Learning Package** | Applicable state-specific requirements |
 
-![3. GED/HSE STUDENT LEARNING PACKAGE](./IMAGES/FLOW-03-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — 3. GED/HSE STUDENT LEARNING PACKAGE (Part 1 of 3)
+
+![3. GED/HSE STUDENT LEARNING PACKAGE — Part 1](./IMAGES/FLOW-03-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-03-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — 3. GED/HSE STUDENT LEARNING PACKAGE (Part 2 of 3)
+
+![3. GED/HSE STUDENT LEARNING PACKAGE — Part 2](./IMAGES/FLOW-03-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-03-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — 3. GED/HSE STUDENT LEARNING PACKAGE (Part 3 of 3)
+
+![3. GED/HSE STUDENT LEARNING PACKAGE — Part 3](./IMAGES/FLOW-03-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-03-GED-STRUCTURE-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-03-GED-STRUCTURE.mmd)
 
@@ -361,7 +393,35 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 
 # 4. GED / HiSET ACADEMIC FLOW HIERARCHY
 
-![4. GED / HiSET ACADEMIC FLOW HIERARCHY](./IMAGES/FLOW-04-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — 4. GED / HiSET ACADEMIC FLOW HIERARCHY (Part 1 of 5)
+
+![4. GED / HiSET ACADEMIC FLOW HIERARCHY — Part 1](./IMAGES/FLOW-04-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-04-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — 4. GED / HiSET ACADEMIC FLOW HIERARCHY (Part 2 of 5)
+
+![4. GED / HiSET ACADEMIC FLOW HIERARCHY — Part 2](./IMAGES/FLOW-04-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-04-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — 4. GED / HiSET ACADEMIC FLOW HIERARCHY (Part 3 of 5)
+
+![4. GED / HiSET ACADEMIC FLOW HIERARCHY — Part 3](./IMAGES/FLOW-04-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-04-GED-STRUCTURE-PART-03.mmd)
+
+#### Mermaid Flow 04 — 4. GED / HiSET ACADEMIC FLOW HIERARCHY (Part 4 of 5)
+
+![4. GED / HiSET ACADEMIC FLOW HIERARCHY — Part 4](./IMAGES/FLOW-04-GED-STRUCTURE-PART-04.svg)
+
+[View editable Mermaid Flow 04](./IMAGES/FLOW-04-GED-STRUCTURE-PART-04.mmd)
+
+#### Mermaid Flow 05 — 4. GED / HiSET ACADEMIC FLOW HIERARCHY (Part 5 of 5)
+
+![4. GED / HiSET ACADEMIC FLOW HIERARCHY — Part 5](./IMAGES/FLOW-04-GED-STRUCTURE-PART-05.svg)
+
+[View editable Mermaid Flow 05](./IMAGES/FLOW-04-GED-STRUCTURE-PART-05.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-04-GED-STRUCTURE.mmd)
 
@@ -393,7 +453,17 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | --- | --- |
 | Edmentum | **Edmentum Social Studies Pre-Assessment → 80%+ Test-Out OR Social Studies Preparation → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 104 Complete** |
 
-![GED 104 — Social Studies Preparation](./IMAGES/FLOW-05-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — GED 104 — Social Studies Preparation (Part 1 of 2)
+
+![GED 104 — Social Studies Preparation — Part 1](./IMAGES/FLOW-05-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-05-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — GED 104 — Social Studies Preparation (Part 2 of 2)
+
+![GED 104 — Social Studies Preparation — Part 2](./IMAGES/FLOW-05-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-05-GED-STRUCTURE-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-05-GED-STRUCTURE.mmd)
 
@@ -411,7 +481,17 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | **Regular Course Final** | **80%** | **Unlimited within semester** | **Proctored** |
 | **OA / Objective Assessment** | Applicable RIAH standard | Applicable course policy | **Proctored** |
 
-![6. GED / HiSET ASSESSMENT + PROCTORING MODEL](./IMAGES/FLOW-06-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — 6. GED / HiSET ASSESSMENT + PROCTORING MODEL (Part 1 of 2)
+
+![6. GED / HiSET ASSESSMENT + PROCTORING MODEL — Part 1](./IMAGES/FLOW-06-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-06-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — 6. GED / HiSET ASSESSMENT + PROCTORING MODEL (Part 2 of 2)
+
+![6. GED / HiSET ASSESSMENT + PROCTORING MODEL — Part 2](./IMAGES/FLOW-06-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-06-GED-STRUCTURE-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-06-GED-STRUCTURE.mmd)
 
@@ -442,7 +522,23 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | No academic penalty for unsuccessful test-out | - **No academic penalty for unsuccessful test-out** |
 | After 3 unsuccessful attempts: complete the RIAH course | - **After 3 unsuccessful attempts: complete the RIAH course** |
 
-![Placement/Test-Out Policy](./IMAGES/FLOW-07-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — Placement/Test-Out Policy (Part 1 of 3)
+
+![Placement/Test-Out Policy — Part 1](./IMAGES/FLOW-07-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-07-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — Placement/Test-Out Policy (Part 2 of 3)
+
+![Placement/Test-Out Policy — Part 2](./IMAGES/FLOW-07-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-07-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — Placement/Test-Out Policy (Part 3 of 3)
+
+![Placement/Test-Out Policy — Part 3](./IMAGES/FLOW-07-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-07-GED-STRUCTURE-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-07-GED-STRUCTURE.mmd)
 
@@ -538,7 +634,29 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | --- | --- |
 | Student Eligibility | Students may satisfy applicable requirements through accepted transfer/alternative credit or applicable RIAH proctored placement/test-out assessments. |
 
-![12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT](./IMAGES/FLOW-11-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — 12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT (Part 1 of 4)
+
+![12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT — Part 1](./IMAGES/FLOW-11-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-11-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — 12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT (Part 2 of 4)
+
+![12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT — Part 2](./IMAGES/FLOW-11-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-11-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — 12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT (Part 3 of 4)
+
+![12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT — Part 3](./IMAGES/FLOW-11-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-11-GED-STRUCTURE-PART-03.mmd)
+
+#### Mermaid Flow 04 — 12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT (Part 4 of 4)
+
+![12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT — Part 4](./IMAGES/FLOW-11-GED-STRUCTURE-PART-04.svg)
+
+[View editable Mermaid Flow 04](./IMAGES/FLOW-11-GED-STRUCTURE-PART-04.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-11-GED-STRUCTURE.mmd)
 
@@ -565,7 +683,23 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | Proctored | - **Proctored** |
 | Unlimited attempts within the applicable six-month semester | - **Unlimited attempts within the applicable six-month semester** |
 
-![14. REGULAR COURSE CHECKPOINTS + FINALS](./IMAGES/FLOW-13-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — 14. REGULAR COURSE CHECKPOINTS + FINALS (Part 1 of 3)
+
+![14. REGULAR COURSE CHECKPOINTS + FINALS — Part 1](./IMAGES/FLOW-13-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-13-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — 14. REGULAR COURSE CHECKPOINTS + FINALS (Part 2 of 3)
+
+![14. REGULAR COURSE CHECKPOINTS + FINALS — Part 2](./IMAGES/FLOW-13-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-13-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — 14. REGULAR COURSE CHECKPOINTS + FINALS (Part 3 of 3)
+
+![14. REGULAR COURSE CHECKPOINTS + FINALS — Part 3](./IMAGES/FLOW-13-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-13-GED-STRUCTURE-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-13-GED-STRUCTURE.mmd)
 
@@ -639,7 +773,23 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | Continuation into RIAH Pathway | - Continuation into RIAH Pathway |
 | Admission to other postsecondary institutions accepting the applicable HSE credential | - Admission to other postsecondary institutions accepting the applicable HSE credential |
 
-![GED/HSE Preparation Pathway](./IMAGES/FLOW-15-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — GED/HSE Preparation Pathway (Part 1 of 3)
+
+![GED/HSE Preparation Pathway — Part 1](./IMAGES/FLOW-15-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-15-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — GED/HSE Preparation Pathway (Part 2 of 3)
+
+![GED/HSE Preparation Pathway — Part 2](./IMAGES/FLOW-15-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-15-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — GED/HSE Preparation Pathway (Part 3 of 3)
+
+![GED/HSE Preparation Pathway — Part 3](./IMAGES/FLOW-15-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-15-GED-STRUCTURE-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-15-GED-STRUCTURE.mmd)
 
@@ -673,7 +823,29 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | --- | --- |
 | Student Eligibility | Designed for students who want the HSE pathway and intend to continue through RIAH Pathway or apply to another institution accepting the applicable HSE credential. |
 
-![GED/HSE Student](./IMAGES/FLOW-16-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — GED/HSE Student (Part 1 of 4)
+
+![GED/HSE Student — Part 1](./IMAGES/FLOW-16-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-16-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — GED/HSE Student (Part 2 of 4)
+
+![GED/HSE Student — Part 2](./IMAGES/FLOW-16-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-16-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — GED/HSE Student (Part 3 of 4)
+
+![GED/HSE Student — Part 3](./IMAGES/FLOW-16-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-16-GED-STRUCTURE-PART-03.mmd)
+
+#### Mermaid Flow 04 — GED/HSE Student (Part 4 of 4)
+
+![GED/HSE Student — Part 4](./IMAGES/FLOW-16-GED-STRUCTURE-PART-04.svg)
+
+[View editable Mermaid Flow 04](./IMAGES/FLOW-16-GED-STRUCTURE-PART-04.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-16-GED-STRUCTURE.mmd)
 
@@ -683,13 +855,33 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 
 ## High School Diploma Route
 
-![High School Diploma Route](./IMAGES/FLOW-17-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — High School Diploma Route (Part 1 of 2)
+
+![High School Diploma Route — Part 1](./IMAGES/FLOW-17-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-17-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — High School Diploma Route (Part 2 of 2)
+
+![High School Diploma Route — Part 2](./IMAGES/FLOW-17-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-17-GED-STRUCTURE-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-17-GED-STRUCTURE.mmd)
 
 ## GED/HSE Route
 
-![GED/HSE Route](./IMAGES/FLOW-18-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — GED/HSE Route (Part 1 of 2)
+
+![GED/HSE Route — Part 1](./IMAGES/FLOW-18-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-18-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — GED/HSE Route (Part 2 of 2)
+
+![GED/HSE Route — Part 2](./IMAGES/FLOW-18-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-18-GED-STRUCTURE-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-18-GED-STRUCTURE.mmd)
 
@@ -697,7 +889,41 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 
 # 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW
 
-![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW](./IMAGES/FLOW-19-GED-STRUCTURE.svg)
+#### Mermaid Flow 01 — 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW (Part 1 of 6)
+
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW — Part 1](./IMAGES/FLOW-19-GED-STRUCTURE-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-19-GED-STRUCTURE-PART-01.mmd)
+
+#### Mermaid Flow 02 — 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW (Part 2 of 6)
+
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW — Part 2](./IMAGES/FLOW-19-GED-STRUCTURE-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-19-GED-STRUCTURE-PART-02.mmd)
+
+#### Mermaid Flow 03 — 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW (Part 3 of 6)
+
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW — Part 3](./IMAGES/FLOW-19-GED-STRUCTURE-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-19-GED-STRUCTURE-PART-03.mmd)
+
+#### Mermaid Flow 04 — 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW (Part 4 of 6)
+
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW — Part 4](./IMAGES/FLOW-19-GED-STRUCTURE-PART-04.svg)
+
+[View editable Mermaid Flow 04](./IMAGES/FLOW-19-GED-STRUCTURE-PART-04.mmd)
+
+#### Mermaid Flow 05 — 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW (Part 5 of 6)
+
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW — Part 5](./IMAGES/FLOW-19-GED-STRUCTURE-PART-05.svg)
+
+[View editable Mermaid Flow 05](./IMAGES/FLOW-19-GED-STRUCTURE-PART-05.mmd)
+
+#### Mermaid Flow 06 — 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW (Part 6 of 6)
+
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW — Part 6](./IMAGES/FLOW-19-GED-STRUCTURE-PART-06.svg)
+
+[View editable Mermaid Flow 06](./IMAGES/FLOW-19-GED-STRUCTURE-PART-06.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-19-GED-STRUCTURE.mmd)
 
