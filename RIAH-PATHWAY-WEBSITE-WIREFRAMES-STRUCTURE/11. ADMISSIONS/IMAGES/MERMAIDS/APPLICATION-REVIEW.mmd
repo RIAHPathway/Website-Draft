@@ -1,0 +1,14 @@
+flowchart LR
+    N0["Select Pathway"]
+    N1["Review Requirements"]
+    N2["Submit Application"]
+    N3["Submit Documentation"]
+    N4["Admissions Review"]
+    N5["Receive Decision"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 riah;
