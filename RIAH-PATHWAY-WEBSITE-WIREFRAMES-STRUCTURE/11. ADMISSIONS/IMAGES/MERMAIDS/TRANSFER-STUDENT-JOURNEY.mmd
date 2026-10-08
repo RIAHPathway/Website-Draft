@@ -1,0 +1,20 @@
+flowchart LR
+    N0["Transfer Review"]
+    N1["Credit Evaluation"]
+    N2["Admission"]
+    N3["Enrollment"]
+    N4["Transfer Welcome Kit"]
+    N5["One-Week Orientation"]
+    N6["School / Major / Cohort"]
+    N7["Active Student Experience"]
+    N8["Graduation"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5,N6,N7,N8 riah;
