@@ -299,3 +299,36 @@
 [DOWNLOAD — RESOURCE NAME]
 [EXTERNAL LINK — LABEL → APPROVED DESTINATION]
 [QR CODE — DESTINATION DESCRIPTION]
+
+## XII. ADDITIONAL ADMISSIONS CONTENT AND ASSET ROUTING
+| ID | Element | Destination |
+|---|---|---|
+| 11-B38 | Registrar and Records | 11.7.4 |
+| 11-B39 | Request Transcript | Parchment |
+| 11-B40 | Enrollment Verification | National Student Clearinghouse |
+| 11-B41 | Degree Verification | National Student Clearinghouse |
+| 11-B42 | Year 3 Admissions | 11.2.2 |
+| 11-B43 | Minor Program Admissions | 11.2.2 |
+| 11-B44 | Master's and MBA Admissions | 11.2.2 |
+| 11-B45 | High School Pre-Admissions | SuiteDash Form |
+| 11-B46 | GED/HSE Pre-Admissions | SuiteDash Form |
+| 11-B47 | Experiential Prerequisites | 11.2.3 |
+| 11-E04 | Pathway to Success — SoundBreak | https://app.soundbreak.ai/listen/365e6a20 |
+| 11-D10 | High School Transcript Evaluation Checklist | 11.2.4 / Resources |
+| 11-D11 | GED/HSE Admissions Checklist | 11.2.5 / Resources |
+| 11-D12 | Year 3 Prerequisite Checklist | 11.2.2 / Resources |
+| 11-D13 | Minor Program Prerequisite Checklist | 11.2.2 / Resources |
+| 11-D14 | Master's and MBA Prerequisite Checklist | 11.2.2 / Resources |
+| 11-D15 | Experiential Prerequisite Checklist | 11.2.3 / Resources |
+| 11-M30 | Year 3 Prerequisite Flow | 11.2.2 |
+| 11-M31 | Minor Program Prerequisites | 11.2.2 |
+| 11-M32 | Master's and MBA Admissions | 11.2.2 |
+| 11-M33 | Experiential Prerequisite Evaluation | 11.2.3 |
+| 11-M34 | Grades 9–12 Progression | 11.2.4 |
+| 11-M35 | Eighth-to-Ninth-Grade Transition | 11.2.4 |
+| 11-M36 | High School Transcript Evaluation | 11.2.4 |
+| 11-M37 | High School and College Concurrent Coursework | 11.2.4 |
+| 11-M38 | GED/HSE and College Credit | 11.2.5 |
+| 11-M39 | GED/HSE Concurrent Coursework Flow | 11.2.5 |
+**CTA Families:** APPLY NOW • LEARN MORE • GET STARTED • LOG IN • SHOP NOW.
+**Public downloads are planned wireframe assets until created, approved, and attached. Authenticated student guide remains a SuiteDash portal resource.**
