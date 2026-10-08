@@ -1,0 +1,16 @@
+%% RIAH Pathway — flow section 2 of 3; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000"}}}%%
+flowchart TD
+    N5["Enrollment & Commitment"]
+    N6["Deposit & Seat Confirmation"]
+    N7["Welcome Experience"]
+    N8["One-Week Orientation"]
+    N9["Cohort & Community"]
+    N10["Active Student Experience"]
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    N8 --> N9
+    N9 --> N10
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N5,N6,N7,N8,N9,N10 riah;

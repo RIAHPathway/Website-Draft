@@ -1,0 +1,10 @@
+%% RIAH Pathway — flow section 2 of 2; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    B["Remaining Tuition Deficit"]
+    H["Approved Loan = MIN(Requested Loan, Tuition Deficit, Supported Amount, $5,000)"]
+    F["Supported Amount ≤ 10% of Qualifying Collateral"]
+    G["Supported Amount May Exceed 10% Collateral Tier"]
+    B --> H["Approved Loan = MIN(Requested Loan, Tuition Deficit, Supported Amount, $5,000)"]
+    F --> H
+    G --> H

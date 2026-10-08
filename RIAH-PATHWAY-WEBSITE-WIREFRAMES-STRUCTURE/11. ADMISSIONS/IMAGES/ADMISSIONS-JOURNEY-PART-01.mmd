@@ -1,0 +1,16 @@
+%% RIAH Pathway — flow section 1 of 3; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000"}}}%%
+flowchart TD
+    N0["Interest & Inquiry"]
+    N1["Pre-Admissions"]
+    N2["Application"]
+    N3["Review & Selection"]
+    N4["Acceptance"]
+    N5["Enrollment & Commitment"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 riah;
