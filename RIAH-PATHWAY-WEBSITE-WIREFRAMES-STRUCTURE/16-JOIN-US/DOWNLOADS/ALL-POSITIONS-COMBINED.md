@@ -101,9 +101,6 @@ Through $1 million, internal team compensation is divided equally among 168 at-s
 
 ---
 
-# ORIGINAL ALL-POSITIONS-COMBINED.md CONTENT (PRESERVED)
-
-**The public-facing October 2026 schedule above governs where older figures differ.**
 
 # RIAH PATHWAY — ALL POSITIONS COMBINED
 
