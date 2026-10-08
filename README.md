@@ -498,7 +498,41 @@ The experiential pathway connects education with progressive professional experi
 
 ## 🧩 Development Structure
 
-![🧩 Development Structure](./IMAGES/FLOW-02-README.svg)
+#### Mermaid Flow 01 — 🧩 Development Structure (Part 1 of 6)
+
+![🧩 Development Structure — Part 1](./IMAGES/FLOW-02-README-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-02-README-PART-01.mmd)
+
+#### Mermaid Flow 02 — 🧩 Development Structure (Part 2 of 6)
+
+![🧩 Development Structure — Part 2](./IMAGES/FLOW-02-README-PART-01.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-02-README-PART-01.mmd)
+
+#### Mermaid Flow 03 — 🧩 Development Structure (Part 3 of 6)
+
+![🧩 Development Structure — Part 3](./IMAGES/FLOW-02-README-PART-02.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-02-README-PART-02.mmd)
+
+#### Mermaid Flow 04 — 🧩 Development Structure (Part 4 of 6)
+
+![🧩 Development Structure — Part 4](./IMAGES/FLOW-02-README-PART-02.svg)
+
+[View editable Mermaid Flow 04](./IMAGES/FLOW-02-README-PART-02.mmd)
+
+#### Mermaid Flow 05 — 🧩 Development Structure (Part 5 of 6)
+
+![🧩 Development Structure — Part 5](./IMAGES/FLOW-02-README-PART-03.svg)
+
+[View editable Mermaid Flow 05](./IMAGES/FLOW-02-README-PART-03.mmd)
+
+#### Mermaid Flow 06 — 🧩 Development Structure (Part 6 of 6)
+
+![🧩 Development Structure — Part 6](./IMAGES/FLOW-02-README-PART-03.svg)
+
+[View editable Mermaid Flow 06](./IMAGES/FLOW-02-README-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-02-README.mmd)
 

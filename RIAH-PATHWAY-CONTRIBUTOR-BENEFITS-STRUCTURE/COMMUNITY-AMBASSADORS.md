@@ -31,7 +31,17 @@ Contributor benefits in this documentation apply to **eligible tuition and eligi
 
 > **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
 
-![💰 Tuition, Products & Pricing Resources](./IMAGES/FLOW-01-COMMUNITY-AMBASSADORS.svg)
+#### Mermaid Flow 01 — 💰 Tuition, Products & Pricing Resources (Part 1 of 2)
+
+![💰 Tuition, Products & Pricing Resources — Part 1](./IMAGES/FLOW-01-COMMUNITY-AMBASSADORS-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-01-COMMUNITY-AMBASSADORS-PART-01.mmd)
+
+#### Mermaid Flow 02 — 💰 Tuition, Products & Pricing Resources (Part 2 of 2)
+
+![💰 Tuition, Products & Pricing Resources — Part 2](./IMAGES/FLOW-01-COMMUNITY-AMBASSADORS-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-01-COMMUNITY-AMBASSADORS-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-01-COMMUNITY-AMBASSADORS.mmd)
 
