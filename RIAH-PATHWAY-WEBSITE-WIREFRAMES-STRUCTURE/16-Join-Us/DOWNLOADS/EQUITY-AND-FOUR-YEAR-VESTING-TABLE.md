@@ -1,3 +1,20 @@
+# 👑 RIAH PATHWAY — CURRENT 48-MONTH EQUITY ACCRUAL & ANNUAL VESTING
+
+Monthly equity accrues as **the approved award divided by 48** and is conditioned on performance and contributions against goals agreed upon before the review period. Performance includes daily responsibilities, weekly results, and monthly deliverables. The accrued portion of an award vests at the end of Year 1, Year 2 and Year 3 annual checkpoints, with the award fully vested after Year 4. An earlier vested tranche does not reset when the next year's 12-month accrual period starts.
+
+| Year / Annual Cliff | Accrual Months | Percentage of Award Newly Vested | Cumulative Vested Award |
+|---|---|---:|---:|
+| **Year 1 Cliff** | 1–12 | 25% | **25%** |
+| **Year 2 Cliff** | 13–24 | 25% | **50%** |
+| **Year 3 Cliff** | 25–36 | 25% | **75%** |
+| **Year 4 — Fully Vested** | 37–48 | 25% | **100%** |
+
+**Current reconciled equity schedules and each role's revenue-based compensation percentages:** [Public Compensation, Equity & Benefits](./PUBLIC-FACING-COMPENSATION-EQUITY-BENEFITS.md) and [All Positions Combined](./ALL-POSITIONS-COMBINED.md). Legacy position-equity values below are retained as originally written for historical reference when different from the reconciled 20% internal team allocation. Signed award documentation and applicable law govern the final awards.
+
+---
+
+# ORIGINAL FOUR-YEAR VESTING REFERENCE — HISTORICAL CONTENT RETAINED
+
 # RIAH PATHWAY — EQUITY AND FOUR-YEAR VESTING TABLE
 
 ## EQUITY VESTING RULE
