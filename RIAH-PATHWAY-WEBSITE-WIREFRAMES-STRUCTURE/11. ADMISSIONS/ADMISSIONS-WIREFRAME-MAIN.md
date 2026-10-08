@@ -125,6 +125,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[IMAGE — RIAH PATHWAY WELCOME KIT]**
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community**
 **Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources**
+**Deposit/resource distinction:** The one-time $500 RIAH Education Deposit Fee covers administrative processing and coordination of personalized resource preparation; the separate applicable pathway-based Student Resource Allocation funds student resources across **enrollment through graduation** (applicable individualized textbooks/workbooks, laptop/technology, software/subscriptions, academic supports, standard transcripts, graduation cap/gown/cords and related resources). The detailed item numbering, exact inclusions, quantities, fulfillment stages and administrative-fee task list are **TO BE FINALIZED**. See Acceptance & Enrollment, Section IV; not all resources are included in the initial Welcome Kit.
 | Orientation Area | Preparation |
 | --- | --- |
 | Academics | Expectations and resources |

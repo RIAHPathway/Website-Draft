@@ -462,7 +462,19 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 
 ## 07 💰 DEPOSIT & SEAT CONFIRMATION
 **Delivery:** Digital / Financial.
-**Required deposit:** $1,000 total = $500 institutional deposit portion + $500 allocation toward the Welcome Experience, applicable materials and software.
+**Academic Education Deposit:** One **$500 RIAH Education Deposit Fee** for institutional administration, processing, and personalized-resource coordination **plus** the Student Resource Allocation(s) for the selected education pathway(s). The fee is charged once per applicable deposit, even when more than one educational pathway is selected.
+
+| Education Pathway | Resource Allocation | Total With One $500 RIAH Fee |
+| --- | ---: | ---: |
+| Minor | $250 | $750 |
+| Associate's | $500 | $1,000 |
+| Bachelor's | $1,000 | $1,500 |
+| Master's | $1,000 | $1,500 |
+| MBA | $1,000 | $1,500 |
+
+**Student resource allocation covers applicable items from enrollment through graduation**, including personalized textbooks/workbooks and educational collections, laptop/technology, software/subscriptions, applicable assessments/certification resources, Welcome/Transfer Kit items, standard transcripts, and graduation hat/cap, tassel, gown/robe, applicable cords, and graduation/completion resources. **[FINAL ITEM NUMBERING, PRECISE CONTENTS, QUANTITIES, AND FINAL ADMINISTRATIVE TASK BREAKDOWN: TO BE FINALIZED.]** See the Acceptance & Enrollment wireframe, Section IV, and controlling Tuition/Pricing Fees structure.
+
+**Experiential:** Separate Experiential education collection/deposit requirements continue to apply under their controlling pricing documentation; the academic allocation amounts above do not replace those rules.
 
 ![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
 [Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
@@ -475,7 +487,7 @@ Vacancies are offered to other eligible/selected applicants with a second deadli
 | --- | --- |
 | Materials received | Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice. |
 
-**[ICON — $1,000 DEPOSIT; $500 DEPOSIT + $500 MATERIALS]**
+**[ICON — EDUCATION DEPOSIT: ONE $500 RIAH FEE + APPLICABLE PATHWAY RESOURCE ALLOCATION(S)]**
 **[BUTTON — DEPOSIT INFORMATION → 12]**
 
 ## 08 🎁 WELCOME EXPERIENCE
@@ -630,7 +642,7 @@ Accreditation or Title IV participation must not be represented as already appro
 | 04 ⚙️ | Review & Selection | Academic review; automated blind experiential selection | Digital |
 | 05 ✉️ | Acceptance | Receive digital and mailed acceptance | Digital + Physical |
 | 06 ✍️ | Enrollment & Commitment | Accept offer and confirm cohort intentions | Digital |
-| 07 💰 | Deposit & Seat Confirmation | Pay $1,000 by deadline; confirm seat | Digital |
+| 07 💰 | Deposit & Seat Confirmation | Pay applicable academic deposit ($500 RIAH fee once + selected pathway resource allocation(s)); Experiential follows its own deposit requirements; confirm seat | Digital |
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |

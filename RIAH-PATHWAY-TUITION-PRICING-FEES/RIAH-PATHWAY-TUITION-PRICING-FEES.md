@@ -361,8 +361,10 @@ tuition calculations.
 
 # XVI. 🧾 Education Deposit Resource Allocations
 
-- Student Resource Allocations are separate from tuition and provide pathway based funding for student educational resources.
-- Depending on the student and pathway, resources may include textbooks, workbooks, educational materials, laptops and technology, software and subscriptions, certification resources, proctoring, transcripts, graduation resources, welcome materials, and other student academic resources.
+- Student Resource Allocations are **separate from tuition** and provide **pathway-based funding for applicable student resources from enrollment through graduation**, not solely the initial Welcome Kit.
+- Depending on the student's approved pathway and individualized courses, allocations support applicable **customized textbooks and workbooks; study guides, journals, planners, flashcards, school core/major/minor/capstone collections; laptop/computer and technology; software, licenses and subscriptions; certification/review and proctoring resources; Welcome/Transfer Kit materials, student ID and orientation items; standard transcripts and graduation records; graduation hat/cap, tassel, gown/robe, applicable earned cords/honor cords, diploma/completion and graduation resources; and other applicable academic materials and support resources**.
+- The resource list is **pathway- and student-specific**, including transfer-credit adjustments. It does not guarantee every resource listed to every student or require all resources to ship during the Welcome stage.
+- **[RESOURCE ITEM NUMBERING, EXACT CONTENTS AND QUANTITIES, SPECIFICATIONS, TIMING, AND PATHWAY-SPECIFIC ALLOCATION BREAKDOWN: TO BE FINALIZED.]** The established allocations below remain unchanged.
 
 | Pathway | Student Resource Allocation |
 |:---|---:|
@@ -375,6 +377,7 @@ tuition calculations.
 # XVII. 🧾 Education Deposit
 
 The Education Deposit combines one \$500 RIAH Education Deposit Fee with the Student Resource Allocation for the selected applicable education pathway or pathways. The \$500 RIAH Fee is charged once per applicable Education Deposit rather than once for every selected pathway.
+**Purpose of the separate $500 RIAH Education Deposit Fee:** Institutional administration and processing of the Education Deposit and coordination/preparation of the student's individualized resources, including administrative activities needed to organize personalized educational materials and applicable enrollment-to-graduation student resources. **[DETAILED ADMINISTRATIVE SERVICES, TASK-BY-TASK FEE COVERAGE, AND ITEM NUMBERING: TO BE FINALIZED.]** The fee is separate from the Student Resource Allocation; it does **not** establish an additional Admissions Fee or Enrollment Fee, which remain $0. This clarification does not modify the $50 Application Fee, optional transfer-credit charges, or separately governed Experiential deposits.
 
 | Deposit Component | Amount |
 |:---|---:|
