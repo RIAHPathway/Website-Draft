@@ -1919,10 +1919,9 @@ Transfer students receive applicable transfer materials. After admissions and en
 8. **ID:** 11-E08 → **Platform:** PebblePad → **Purpose:** Portfolios → **Status:** Institutional endpoint to attach / verify
 9. **ID:** 11-E09 → **Platform:** Shopify → **Purpose:** Products → **Status:** Institutional endpoint to attach / verify
 10. **ID:** 11-E10 → **Platform:** Parchment → **Purpose:** Official Transcripts → **Status:** Institutional endpoint to attach / verify
-11. **ID:** 11-E11  
-→ **Platform:** National Student Clearinghouse  
-→ **Purpose:** Enrollment Verification  
-→ **Status:** Institutional endpoint to attach / verify
+| Row | ID | Platform | Purpose | Status |
+| --- | --- | --- | --- | --- |
+| 11 | 11-E11   | National Student Clearinghouse   | Enrollment Verification   | Institutional endpoint to attach / verify |
 12. **ID:** 11-E12 → **Platform:** National Student Clearinghouse → **Purpose:** Degree Verification → **Status:** Institutional endpoint to attach / verify
 ## VI. DOWNLOAD ROUTING
 1. **ID:** 11-D01 → **Download:** Admissions Guide → **Status:** TO ATTACH
@@ -2314,38 +2313,30 @@ Accreditation or Title IV participation must not be represented as already appro
 5. **#:** 05 ✉️ → **Stage:** Acceptance → **Student-Facing Summary:** Receive digital and mailed acceptance → **Delivery:** Digital + Physical
 6. **#:** 06 ✍️ → **Stage:** Enrollment & Commitment → **Student-Facing Summary:** Accept offer and confirm cohort intentions → **Delivery:** Digital
 7. **#:** 07 💰 → **Stage:** Deposit & Seat Confirmation → **Student-Facing Summary:** Pay $1,000 by deadline; confirm seat → **Delivery:** Digital
-8. **#:** 08 🎁  
-→ **Stage:** Welcome Experience  
-→ **Student-Facing Summary:** Receive personalized kit and community information  
-→ **Delivery:** Digital + Physical + Community
-9. **#:** 09 🧭  
-→ **Stage:** One-Week Orientation & Training  
-→ **Student-Facing Summary:** Academic, experiential and applicable law supervision training; LMS provisioned  
-→ **Delivery:** Digital + Physical + Community
-10. **#:** 10 👥  
-→ **Stage:** Cohort, School & Community  
-→ **Student-Facing Summary:** School group, cohort group and peer/buddy connection  
-→ **Delivery:** Digital + Physical + Community
-11. **#:** 11 🚀  
-→ **Stage:** Active Student Experience  
-→ **Student-Facing Summary:** LearnWorlds opens; academics/experiential begin  
-→ **Delivery:** Digital + Physical + Community
-12. **#:** 12 📣  
-→ **Stage:** Organizations & Leadership  
-→ **Student-Facing Summary:** Ambassadors, honor societies, organizations and leadership  
-→ **Delivery:** Digital + Community
-13. **#:** 13 🏆  
-→ **Stage:** Achievements & Milestones  
-→ **Student-Facing Summary:** Recognition and qualifying opportunities throughout enrollment  
-→ **Delivery:** Digital + Physical + Community
-14. **#:** 14 🎓  
-→ **Stage:** Graduation  
-→ **Student-Facing Summary:** Regional in-person or virtual ceremony and materials  
-→ **Delivery:** Digital + Physical + Community
-15. **#:** 15 👑  
-→ **Stage:** Alumni & Legacy  
-→ **Student-Facing Summary:** Alumni Kit, community, networking and mentorship  
-→ **Delivery:** Digital + Physical + Community
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 9 | 09 🧭   | One-Week Orientation & Training   | Academic, experiential and applicable law supervision training; LMS provisioned   | Digital + Physical + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 10 | 10 👥   | Cohort, School & Community   | School group, cohort group and peer/buddy connection   | Digital + Physical + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 11 | 11 🚀   | Active Student Experience   | LearnWorlds opens; academics/experiential begin   | Digital + Physical + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 12 | 12 📣   | Organizations & Leadership   | Ambassadors, honor societies, organizations and leadership   | Digital + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 13 | 13 🏆   | Achievements & Milestones   | Recognition and qualifying opportunities throughout enrollment   | Digital + Physical + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 14 | 14 🎓   | Graduation   | Regional in-person or virtual ceremony and materials   | Digital + Physical + Community |
+| Row | # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- | --- |
+| 15 | 15 👑   | Alumni & Legacy   | Alumni Kit, community, networking and mentorship   | Digital + Physical + Community |
 
 ## 🔄 LIMITED SUPERSEDED TECH STACK REFERENCES — ADMISSIONS ONLY
 
@@ -2355,38 +2346,30 @@ Accreditation or Title IV participation must not be represented as already appro
 
 [View editable Mermaid diagram](./IMAGES/TECHNOLOGY-STUDENT-FLOW.mmd)
 
-1. **Student-facing function:** Applications / admissions  
-→ **Superseded reference:** No change  
-→ **Current reference:** Classe365  
-→ **Scope:** Retain existing application references
-2. **Student-facing function:** Onboarding / student portal  
-→ **Superseded reference:** No change  
-→ **Current reference:** SuiteDash  
-→ **Scope:** Retain existing onboarding references
-3. **Student-facing function:** Virtual orientation / training / cohort sessions  
-→ **Superseded reference:** Zoom  
-→ **Current reference:** Microsoft Teams  
-→ **Scope:** Use Teams for student-facing virtual sessions
-4. **Student-facing function:** Student school/cohort communities  
-→ **Superseded reference:** Slack; Geneva  
-→ **Current reference:** SuiteDash  
-→ **Scope:** Use SuiteDash for student community
-5. **Student-facing function:** LMS / active course access  
-→ **Superseded reference:** No change  
-→ **Current reference:** LearnWorlds  
-→ **Scope:** Provision during onboarding; open course access at active start
-6. **Student-facing function:** Experiential placement functions  
-→ **Superseded reference:** Earlier references if any  
-→ **Current reference:** PeopleGrove CORE + Experience Hub + CompMS  
-→ **Scope:** Update only existing relevant placement-system mentions
-7. **Student-facing function:** Career services  
-→ **Superseded reference:** Earlier references if any  
-→ **Current reference:** Symplicity CSM  
-→ **Scope:** Update only existing relevant career-service mentions
-8. **Student-facing function:** Student recognition  
-→ **Superseded reference:** Earlier references if any  
-→ **Current reference:** Merit Pages  
-→ **Scope:** Update only existing relevant recognition-system mentions
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 1 | Applications / admissions   | No change   | Classe365   | Retain existing application references |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 2 | Onboarding / student portal   | No change   | SuiteDash   | Retain existing onboarding references |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 3 | Virtual orientation / training / cohort sessions   | Zoom   | Microsoft Teams   | Use Teams for student-facing virtual sessions |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 4 | Student school/cohort communities   | Slack; Geneva   | SuiteDash   | Use SuiteDash for student community |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 5 | LMS / active course access   | No change   | LearnWorlds   | Provision during onboarding; open course access at active start |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 6 | Experiential placement functions   | Earlier references if any   | PeopleGrove CORE + Experience Hub + CompMS   | Update only existing relevant placement-system mentions |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 7 | Career services   | Earlier references if any   | Symplicity CSM   | Update only existing relevant career-service mentions |
+| Row | Student-facing function | Superseded reference | Current reference | Scope |
+| --- | --- | --- | --- | --- |
+| 8 | Student recognition   | Earlier references if any   | Merit Pages   | Update only existing relevant recognition-system mentions |
 
 **Technology limitation:** Do not copy the finalized tech-stack document into this wireframe.  
 Do not add internal infrastructure, cybersecurity architecture, private databases, proprietary curriculum systems, or unrelated software.  
