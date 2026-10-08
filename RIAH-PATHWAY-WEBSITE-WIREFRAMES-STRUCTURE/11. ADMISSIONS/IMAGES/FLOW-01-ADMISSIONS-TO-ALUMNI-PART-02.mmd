@@ -1,0 +1,17 @@
+%% RIAH Pathway — flow section 2 of 3; original labels and arrows retained
+flowchart TD
+    N5["ENROLLMENT"]
+    N6["DEPOSIT"]
+    N7["WELCOME"]
+    N8["ORIENTATION"]
+    N9["COHORT & COMMUNITY"]
+    N10["ACTIVE STUDENT"]
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    N8 --> N9
+    N9 --> N10
+    classDef stage fill:#111111,color:#FFFFFF,stroke:#D40000,stroke-width:2px;
+    classDef milestone fill:#D40000,color:#FFFFFF,stroke:#111111,stroke-width:2px;
+    class N5,N6,N7,N8,N9,N10 stage;
+    linkStyle default stroke:#D40000,stroke-width:2px;

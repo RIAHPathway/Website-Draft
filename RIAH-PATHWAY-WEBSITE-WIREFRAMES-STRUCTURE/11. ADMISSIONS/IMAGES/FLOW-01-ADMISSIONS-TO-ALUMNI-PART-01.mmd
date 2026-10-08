@@ -1,0 +1,18 @@
+%% RIAH Pathway — flow section 1 of 3; original labels and arrows retained
+flowchart TD
+    N0["INTEREST"]
+    N1["PRE-ADMISSIONS"]
+    N2["APPLICATION"]
+    N3["REVIEW & SELECTION"]
+    N4["ACCEPTANCE"]
+    N5["ENROLLMENT"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef stage fill:#111111,color:#FFFFFF,stroke:#D40000,stroke-width:2px;
+    classDef milestone fill:#D40000,color:#FFFFFF,stroke:#111111,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 stage;
+    class N0 milestone;
+    linkStyle default stroke:#D40000,stroke-width:2px;
