@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="1418" viewBox="0 0 1160 1418" role="img" aria-label="🔄 RIAH Pathway Whole System Connection">
+<title>🔄 RIAH Pathway Whole System Connection - RIAH Pathway</title><desc>Experiential flowchart with 8 nodes and 7 connections.</desc>
+<defs><marker id="ah" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1,1 L11,6 L1,11 Z" fill="#B4142A"/></marker></defs>
+<rect width="1160" height="1418" fill="#FAFAFA" stroke="#D9D9D9" stroke-width="2" rx="18"/><rect x="15" y="15" width="8" height="1388" rx="4" fill="#B4142A"/>
+<path d="M580 170 C580 194, 580 197, 580 221" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 340 C580 364, 580 367, 580 391" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 510 C580 534, 580 537, 580 561" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 680 C580 704, 580 707, 580 731" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 850 C580 874, 580 877, 580 901" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 1020 C580 1044, 580 1047, 580 1071" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 1190 C580 1214, 580 1217, 580 1241" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<rect x="330" y="62" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="121.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Education</text>
+<rect x="330" y="232" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="291.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Verified Learning</text>
+<rect x="330" y="402" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="461.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Real Placement</text>
+<rect x="330" y="572" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="631.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Real Work</text>
+<rect x="330" y="742" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="801.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Human Supervision</text>
+<rect x="330" y="912" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="971.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Experiential Capstone</text>
+<rect x="330" y="1082" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="1141.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Documented Experience</text>
+<rect x="330" y="1252" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="1311.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Career Connection</text>
+</svg>

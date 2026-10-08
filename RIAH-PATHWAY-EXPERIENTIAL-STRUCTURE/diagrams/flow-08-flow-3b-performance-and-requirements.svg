@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="738" viewBox="0 0 1160 738" role="img" aria-label="Flow 3B — Performance and Requirements">
+<title>Flow 3B — Performance and Requirements - RIAH Pathway</title><desc>Experiential flowchart with 4 nodes and 3 connections.</desc>
+<defs><marker id="ah" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1,1 L11,6 L1,11 Z" fill="#B4142A"/></marker></defs>
+<rect width="1160" height="738" fill="#FAFAFA" stroke="#D9D9D9" stroke-width="2" rx="18"/><rect x="15" y="15" width="8" height="708" rx="4" fill="#B4142A"/>
+<path d="M580 170 C580 194, 580 197, 580 221" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 340 C580 364, 580 367, 580 391" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M580 510 C580 534, 580 537, 580 561" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<rect x="330" y="62" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="121.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Progress documented</text>
+<rect x="330" y="232" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="291.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Performance documented</text>
+<rect x="330" y="402" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="447.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Assignments and</text>
+<text x="580" y="475.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">deliverables completed</text>
+<rect x="330" y="572" width="500" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="580" y="617.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Reviews and placement</text>
+<text x="580" y="645.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">requirements completed</text>
+</svg>

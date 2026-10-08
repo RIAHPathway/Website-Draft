@@ -117,24 +117,9 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ## 🔄 RIAH Pathway Whole System Connection
 
-```mermaid
-flowchart LR
-    A["Education"]
-    B["Verified Learning"]
-    C["Real Placement"]
-    D["Real Work"]
-    E["Human Supervision"]
-    F["Experiential Capstone"]
-    G["Documented Experience"]
-    H["Career Connection"]
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-    E --> F
-    F --> G
-    G --> H
-```
+![🔄 RIAH Pathway Whole System Connection](./diagrams/flow-01-riah-pathway-whole-system-connection.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-01-riah-pathway-whole-system-connection.mmd)
 
 ## Comparison Table
 
@@ -502,157 +487,81 @@ The one-month guarantee does not guarantee employment after completion.
 
 ## **Flow 1A — Student Request and Application**
 
-```mermaid
-flowchart TD
-    A["Student identifies requested<br/>Experiential level"]
-    B["Student submits<br/>Experiential application"]
-    A --> B
-```
+![Flow 1A — Student Request and Application](./diagrams/flow-02-flow-1a-student-request-and-application.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-02-flow-1a-student-request-and-application.mmd)
 
 ## **Flow 1B — Eligibility Verification**
 
-```mermaid
-flowchart TD
-    A["RIAH verifies student status,<br/>pathway, and major"]
-    B["RIAH verifies coursework,<br/>prerequisites, and experience"]
-    C["RIAH determines<br/>highest qualified level"]
-    A --> B
-    B --> C
-```
+![Flow 1B — Eligibility Verification](./diagrams/flow-03-flow-1b-eligibility-verification.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-03-flow-1b-eligibility-verification.mmd)
 
 ## **Flow 2A — Placement Review**
 
-```mermaid
-flowchart TD
-    A["RIAH reviews internal<br/>ecosystem needs"]
-    C{"Internal or<br/>External Placement"}
-    B["RIAH reviews approved external<br/>partner opportunities"]
-    A --> C
-    B --> C
-```
+![Flow 2A — Placement Review](./diagrams/flow-04-flow-2a-placement-review.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-04-flow-2a-placement-review.mmd)
 
 ## **Flow 2B — Placement Matching**
 
-```mermaid
-flowchart TD
-    A["Match student by applicable<br/>placement factors"]
-    B["Confirm placement<br/>capacity"]
-    A --> B
-```
+![Flow 2B — Placement Matching](./diagrams/flow-05-flow-2b-placement-matching.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-05-flow-2b-placement-matching.mmd)
 
 ## **Flow 2C — Placement Terms**
 
-```mermaid
-flowchart TD
-    A["Duration and status"]
-    B["Format and supervisor"]
-    C["Responsibilities<br/>and deliverables"]
-    A --> B
-    B --> C
-```
+![Flow 2C — Placement Terms](./diagrams/flow-06-flow-2c-placement-terms.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-06-flow-2c-placement-terms.mmd)
 
 ## **Flow 3A — Orientation and Real-World Work**
 
-```mermaid
-flowchart TD
-    A["Experiential orientation"]
-    B["Applicable training"]
-    C["Supervised<br/>real-world work"]
-    A --> B
-    B --> C
-```
+![Flow 3A — Orientation and Real-World Work](./diagrams/flow-07-flow-3a-orientation-and-real-world-work.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-07-flow-3a-orientation-and-real-world-work.mmd)
 
 ## **Flow 3B — Performance and Requirements**
 
-```mermaid
-flowchart TD
-    A["Progress documented"]
-    B["Performance documented"]
-    C["Assignments and<br/>deliverables completed"]
-    D["Reviews and placement<br/>requirements completed"]
-    A --> B
-    B --> C
-    C --> D
-```
+![Flow 3B — Performance and Requirements](./diagrams/flow-08-flow-3b-performance-and-requirements.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-08-flow-3b-performance-and-requirements.mmd)
 
 ## **Flow 3C — Completion Record**
 
-```mermaid
-flowchart TD
-    A["Requirements completed"]
-    B["RIAH records completion"]
-    C["Applicable Experiential<br/>achievement recorded"]
-    A --> B
-    B --> C
-```
+![Flow 3C — Completion Record](./diagrams/flow-09-flow-3c-completion-record.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-09-flow-3c-completion-record.mmd)
 
 ## **Placement Flow — Qualification**
 
-```mermaid
-flowchart TD
-    A["Application"]
-    B["Eligibility"]
-    C["Level"]
-    D["Placement Review"]
-    A --> B
-    B --> C
-    C --> D
-```
+![Placement Flow — Qualification](./diagrams/flow-10-placement-flow-qualification.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-10-placement-flow-qualification.mmd)
 
 ## **Placement Flow — Placement Type**
 
-```mermaid
-flowchart TD
-    A["Placement Review"]
-    B{"Placement Type"}
-    C["Internal Placement"]
-    D["External Placement"]
-    A --> B
-    B --> C
-    B --> D
-```
+![Placement Flow — Placement Type](./diagrams/flow-11-placement-flow-placement-type.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-11-placement-flow-placement-type.mmd)
 
 ## **Placement Source Flow**
 
-```mermaid
-flowchart LR
-    A["Internal Placement"]
-    B["RIAH Pathway Entities"]
-    C["External Placement"]
-    D["Approved Partners or Organizations"]
-    A --> B
-    C --> D
-```
+![Placement Source Flow](./diagrams/flow-12-placement-source-flow.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-12-placement-source-flow.mmd)
 
 ## **Placement Completion Flow — Start**
 
-```mermaid
-flowchart TD
-    A["RIAH Pathway Entities"]
-    B["Terms"]
-    E["Approved Partners or Organizations"]
-    C["Orientation"]
-    D["Real Work"]
-    A --> B
-    E --> B
-    B --> C
-    C --> D
-```
+![Placement Completion Flow — Start](./diagrams/flow-13-placement-completion-flow-start.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-13-placement-completion-flow-start.mmd)
 
 ## **Placement Completion Flow — Review**
 
-```mermaid
-flowchart TD
-    A["Real Work"]
-    B["Supervision"]
-    C["Review"]
-    D["Completion"]
-    E["Record"]
-    A --> B
-    B --> C
-    C --> D
-    D --> E
-```
+![Placement Completion Flow — Review](./diagrams/flow-14-placement-completion-flow-review.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-14-placement-completion-flow-review.mmd)
 
 # **X. 🧭 PLACEMENT SELECTION**
 
@@ -835,27 +744,15 @@ The flow below shows how the Experiential levels connect within the overall stru
 
 ## **Experiential Level Flow — Entry**
 
-```mermaid
-flowchart TD
-    A["Apprentice"]
-    B["Intern"]
-    C["Associate"]
-    A --> B
-    B --> C
-```
+![Experiential Level Flow — Entry](./diagrams/flow-15-experiential-level-flow-entry.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-15-experiential-level-flow-entry.mmd)
 
 ## **Experiential Level Flow — Advanced**
 
-```mermaid
-flowchart TD
-    A["Associate"]
-    B["Senior Associate"]
-    C["Manager"]
-    D["Executive"]
-    A --> B
-    B --> C
-    C --> D
-```
+![Experiential Level Flow — Advanced](./diagrams/flow-16-experiential-level-flow-advanced.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-16-experiential-level-flow-advanced.mmd)
 
 # **XIII. 📚 EXPERIENTIAL CURRICULUM AND COLLECTIONS**
 
@@ -1200,27 +1097,15 @@ The Experiential pathway is:
 
 ### **Experiential Pathway Flow — Entry**
 
-```mermaid
-flowchart TD
-    A["Apprentice 1 Month"]
-    B["Intern 3 Months"]
-    C["Associate 1 Year"]
-    A --> B
-    B --> C
-```
+![Experiential Pathway Flow — Entry](./diagrams/flow-17-experiential-pathway-flow-entry.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-17-experiential-pathway-flow-entry.mmd)
 
 ### **Experiential Pathway Flow — Advanced**
 
-```mermaid
-flowchart TD
-    A["Associate 1 Year"]
-    B["Senior Associate 1 Year"]
-    C["Manager 1 Year"]
-    D["Executive 1 Year"]
-    A --> B
-    B --> C
-    C --> D
-```
+![Experiential Pathway Flow — Advanced](./diagrams/flow-18-experiential-pathway-flow-advanced.svg)
+
+[View editable Mermaid diagram](./diagrams/flow-18-experiential-pathway-flow-advanced.mmd)
 
 Placement may be internal to RIAH or through approved employer and professional partners.
 

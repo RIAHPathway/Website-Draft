@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1160" height="398" viewBox="0 0 1160 398" role="img" aria-label="Placement Source Flow">
+<title>Placement Source Flow - RIAH Pathway</title><desc>Experiential flowchart with 4 nodes and 2 connections.</desc>
+<defs><marker id="ah" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M1,1 L11,6 L1,11 Z" fill="#B4142A"/></marker></defs>
+<rect width="1160" height="398" fill="#FAFAFA" stroke="#D9D9D9" stroke-width="2" rx="18"/><rect x="15" y="15" width="8" height="368" rx="4" fill="#B4142A"/>
+<path d="M319 170 C319 194, 319 197, 319 221" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<path d="M841 170 C841 194, 841 197, 841 221" fill="none" stroke="#B4142A" stroke-width="4" stroke-linecap="round" marker-end="url(#ah)"/>
+<rect x="104" y="62" width="430" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="319" y="121.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">Internal Placement</text>
+<rect x="626" y="62" width="430" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="841" y="121.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">External Placement</text>
+<rect x="104" y="232" width="430" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="319" y="291.48" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="22" text-anchor="middle" fill="white">RIAH Pathway Entities</text>
+<rect x="626" y="232" width="430" height="104" rx="14" fill="#181818" stroke="#B4142A" stroke-width="4"/>
+<text x="841" y="290.8" font-family="Arial, Helvetica, sans-serif" font-weight="600" font-size="20" text-anchor="middle" fill="white">Approved Partners or Organizations</text>
+</svg>
