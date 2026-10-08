@@ -11,6 +11,14 @@
 ### Description
 RIAH Pathway is seeking **Adjunct Academic Faculty for the individual majors and academic areas within each school**. Adjunct Academic Faculty teach, support, review, and develop curriculum while contributing to assessments, collections, textbooks, workbooks, journals, study guides, review guides, Certification Review, Bar Review, products, and Experiential alignment.
 
+### At-Scale Core Faculty, Demand-Based Hiring and Four-Year Tenure
+
+RIAH Pathway's **at-scale core academic faculty allocation is 14 Adjunct Academic Faculty and 14 PhD Academic Faculty — 28 core faculty positions in total**. The **14 designated core Adjunct Academic Faculty positions**, including beta hires filling those positions, are the equity-bearing and benefits-eligible Adjunct positions under the existing compensation, equity, vesting, contribution, performance, and benefits terms in this posting.
+
+**Hiring beyond the 14 core Adjunct positions is based on student demand across the education pathways and any applicable accreditor, state authorization, licensing, or other regulatory faculty qualification, staffing, or faculty-to-student requirements.** Any additional Adjunct Academic Faculty hired beyond the designated 14 core positions serve **on contract, with no RIAH Pathway equity award or employee benefits package**. Any legally required protections or benefits remain governed by applicable law and the individual's agreement.
+
+**Core Adjunct tenure:** Each of the **14 core Adjunct Academic Faculty members**, including those hired during beta into a designated core position, **earns the RIAH Pathway faculty tenure designation after four years** upon satisfying the required **four-year equity vesting, ongoing contributions, and documented daily, weekly, monthly, and overall performance responsibilities** under the applicable agreements. Tenure is intended to retain the member's ongoing core faculty position, subject to applicable institutional tenure policies, agreements, and law. **Additional demand-based contract Adjuncts are not included in this 28-position core tenure and equity structure.**
+
 ### School of Business — Adjunct Academic Faculty
 - **Accounting**
 - **Entrepreneurship**
