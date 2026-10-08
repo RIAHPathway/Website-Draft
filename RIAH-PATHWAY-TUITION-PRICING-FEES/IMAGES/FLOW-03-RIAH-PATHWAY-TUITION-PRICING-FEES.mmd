@@ -1,0 +1,10 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    A["Requested Loan: $500–$5,000"] --> B["Remaining Tuition Deficit"]
+    C["Qualifying Collateral"] --> D["Collateral-Supported Maximum = Collateral × 10%"]
+    D --> E{"Credit Score 700+"}
+    E -- "No" --> F["Supported Amount ≤ 10% of Qualifying Collateral"]
+    E -- "Yes" --> G["Supported Amount May Exceed 10% Collateral Tier"]
+    B --> H["Approved Loan = MIN(Requested Loan, Tuition Deficit, Supported Amount, $5,000)"]
+    F --> H
+    G --> H

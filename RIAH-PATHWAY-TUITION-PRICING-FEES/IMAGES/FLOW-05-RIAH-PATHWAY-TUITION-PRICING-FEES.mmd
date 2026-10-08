@@ -1,0 +1,6 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart LR
+    A["10% Collateral-Supported Amount"] --> B{"Credit Score 700+"}
+    B -- "No" --> C["Loan Limited to 10% Collateral Tier"]
+    B -- "Yes" --> D["May Exceed 10% Collateral Tier"]
+    D --> E["Maximum = Remaining Tuition Deficit or $5,000"]

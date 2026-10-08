@@ -46,13 +46,9 @@ It does **not**, by itself:
 - waive contractual or confidentiality obligations; or
 - authorize copying of protected expression outside the scope of the applicable license.
 
-```mermaid
-flowchart TD
-    A["PUBLIC REPOSITORY"] --> B["Licensed repository material"]
-    B --> C["Use only under stated license terms"]
-    A --> D["Broader RIAH ecosystem"]
-    D --> E["No implied license or authorization"]
-```
+![Open Source ≠ Open Ecosystem](./IMAGES/FLOW-01-RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-RIAH-PATHWAY-PUBLIC-REPOSITORY-NOTICE.mmd)
 
 ## Rights Reserved
 

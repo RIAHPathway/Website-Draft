@@ -1,0 +1,6 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    A["Completed Periods: FLOOR(Total Days ÷ 30)"] --> B["Remaining Days: Total Days MOD 30"]
+    B --> C["Balance After Completed Periods: Principal × 1.05^Completed Periods"]
+    C --> D["Partial Interest: Balance After Completed Periods × Remaining Days × (0.05 ÷ 30)"]
+    D --> E["Estimated Loan Balance: Balance After Completed Periods + Partial Interest"]

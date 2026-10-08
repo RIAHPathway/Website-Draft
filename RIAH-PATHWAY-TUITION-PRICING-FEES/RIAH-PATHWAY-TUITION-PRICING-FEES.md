@@ -249,12 +249,9 @@ The Integrated Education and Experiential Adjustment applies when eligible Educa
 | Counts Toward Ordinary Tuition Reduction Maximum | No |
 | Applied Before Pricing Stage | Yes |
 
-```mermaid
-flowchart TD
-    A["Combined Standard = Education Standard + Experiential Standard"] --> B["Integrated Adjustment = Combined Standard × 5%"]
-    B --> C["Integrated Standard = Combined Standard − Integrated Adjustment"]
-    C --> D["The applicable Pricing Stage is then applied to the Integrated Standard."]
-```
+![VII. 🔄 Integrated Education and Experiential Adjustment](./IMAGES/FLOW-01-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 # VIII. 🏷️ Ordinary Tuition Reductions
 
@@ -793,14 +790,9 @@ Minimum Remaining Tuition: **\$0**
 
 ### Funding and Reimbursement Flow
 
-```mermaid
-flowchart LR
-    A["Tuition After Reductions"] --> B["Approved Funding"]
-    B --> C["Remaining Tuition"]
-    C --> D["Eligible Reimbursement Basis"]
-    D --> E["10% Qualifying Completion Reimbursement"]
-    E --> F["Up to 50% Maximum Potential Reimbursement"]
-```
+![Funding and Reimbursement Flow](./IMAGES/FLOW-02-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 Negative tuition is prohibited.
 
@@ -932,39 +924,21 @@ Loan eligibility does not guarantee approval of a particular amount. The student
 
 ### Private Student Loan Calculation Logic
 
-```mermaid
-flowchart TD
-    A["Requested Loan: $500–$5,000"] --> B["Remaining Tuition Deficit"]
-    C["Qualifying Collateral"] --> D["Collateral-Supported Maximum = Collateral × 10%"]
-    D --> E{"Credit Score 700+"}
-    E -- "No" --> F["Supported Amount ≤ 10% of Qualifying Collateral"]
-    E -- "Yes" --> G["Supported Amount May Exceed 10% Collateral Tier"]
-    B --> H["Approved Loan = MIN(Requested Loan, Tuition Deficit, Supported Amount, $5,000)"]
-    F --> H
-    G --> H
-```
+![Private Student Loan Calculation Logic](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 ### Private Student Loan Flow — Part I: Collateral Tier
 
-```mermaid
-flowchart LR
-    A["Tuition"] --> B["Apply Qualifying Payment or Collateral"]
-    B --> C["Remaining Tuition Deficit"]
-    B --> D["10% Collateral-Supported Tier"]
-    C --> E["RIAH Loan Request: $500–$5,000"]
-    D --> F["Supported Loan Amount"]
-    E --> F
-```
+![Private Student Loan Flow — Part I: Collateral Tier](./IMAGES/FLOW-04-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 ### Private Student Loan Flow — Part II: 700+ Higher Loan Tier
 
-```mermaid
-flowchart LR
-    A["10% Collateral-Supported Amount"] --> B{"Credit Score 700+"}
-    B -- "No" --> C["Loan Limited to 10% Collateral Tier"]
-    B -- "Yes" --> D["May Exceed 10% Collateral Tier"]
-    D --> E["Maximum = Remaining Tuition Deficit or $5,000"]
-```
+![Private Student Loan Flow — Part II: 700+ Higher Loan Tier](./IMAGES/FLOW-05-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-05-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 ### 700+ Credit Example
 
@@ -992,13 +966,9 @@ Private Student Loan interest is configured at 5% for every 30 day period. Compl
 | Partial Period | Prorated |
 | Maximum Loan Principal | \$5,000 |
 
-```mermaid
-flowchart TD
-    A["Completed Periods: FLOOR(Total Days ÷ 30)"] --> B["Remaining Days: Total Days MOD 30"]
-    B --> C["Balance After Completed Periods: Principal × 1.05^Completed Periods"]
-    C --> D["Partial Interest: Balance After Completed Periods × Remaining Days × (0.05 ÷ 30)"]
-    D --> E["Estimated Loan Balance: Balance After Completed Periods + Partial Interest"]
-```
+![XXXVII. ➗ RIAH Private Student Loan Interest](./IMAGES/FLOW-06-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-06-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 # XXXVIII. 💵 Loan Recovery Through Reimbursement
 

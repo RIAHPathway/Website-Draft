@@ -60,24 +60,15 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 **MERMAID I — MONITOR AND VERIFY**
 
-```mermaid
-flowchart LR
-    A["Public Sources"] --> B["Legacy Monitoring"]
-    B --> C["RIAH Fingerprint Test"]
-    C --> D["Verification"]
-    D --> E["Evidence Preservation"]
-```
+![I.C — High-Level Legacy Architecture](./IMAGES/FLOW-01-RIAH-PATHWAY-LEGACY-BOT.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-RIAH-PATHWAY-LEGACY-BOT.mmd)
 
 **MERMAID II — PRESERVE AND ESCALATE**
 
-```mermaid
-flowchart LR
-    A["Evidence Preservation"] --> B["Evidence Log"]
-    B --> C["Daily Audit"]
-    C --> D["Review Status"]
-    D --> E["Human and Legal Review"]
-    E --> F["Same-Day Filing Readiness"]
-```
+![I.C — High-Level Legacy Architecture](./IMAGES/FLOW-02-RIAH-PATHWAY-LEGACY-BOT.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-RIAH-PATHWAY-LEGACY-BOT.mmd)
 
 ---
 
@@ -158,21 +149,9 @@ Legacy does not treat an entity's self-description as independent accreditation,
 
 **MERMAID I — HOURLY MONITORING AND ESCALATION**
 
-```mermaid
-flowchart LR
-    A["🌐 Public Sources"] --> B["🔎 Legacy Scan"]
-    B --> C["🧬 RIAH Fingerprint Test"]
-    C --> D{"Material Match?"}
-    D -->|No| E["🟢 Suppress Prior Art"]
-    D -->|Tier 1| F["🟡 Integrated Component Review"]
-    D -->|Tier 2| G["🟡 Substantial System Review"]
-    D -->|Tier 3| H["🔴 Whole Ecosystem Review"]
-    F --> I["🕒 Preserve Evidence"]
-    G --> I
-    H --> I
-    I --> J["🧾 Audit Log"]
-    J --> K["⚖️ Human and Legal Review"]
-```
+![VI. HOURLY LEGACY FLOW](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT.mmd)
 
 ---
 
@@ -180,17 +159,9 @@ flowchart LR
 
 **MERMAID I — DAILY EVIDENCE AUDIT**
 
-```mermaid
-flowchart TD
-    A["🕒 Hourly Observations"] --> B["🧾 Daily Evidence Audit"]
-    B --> C["🔗 Validate Sources"]
-    C --> D["🏛️ Verify Accreditation and Authorization"]
-    D --> E["📆 Verify Supported Chronology"]
-    E --> F["🧬 Compare Matched Components"]
-    F --> G["⚖️ Record Material Differences"]
-    G --> H["🟢 🟡 🔴 Assign Review Status"]
-    H --> I["📁 Preserve Same-Day Filing Record"]
-```
+![VII. DAILY AUDIT FLOW](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT.mmd)
 
 ---
 
