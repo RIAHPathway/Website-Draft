@@ -2061,6 +2061,66 @@ Transfer students receive applicable transfer materials. After admissions and en
 
 # 👑 APPROVED ADMISSIONS STUDENT EXPERIENCE — 15-STAGE ADDENDUM
 
+### 🔄 ADMISSIONS PHASE 01 ENTRY
+
+```mermaid
+flowchart LR
+    S0["Interest & Inquiry"]
+    S1["Pre-Admissions"]
+    S2["Application"]
+    S3["Review & Selection"]
+    S4["Acceptance"]
+    S0 --> S1
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class S0,S1,S2,S3,S4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ADMISSIONS-PHASE-01-ENTRY.mmd)
+
+
+### 🔄 ADMISSIONS PHASE 02 ENROLLMENT
+
+```mermaid
+flowchart LR
+    S0["Enrollment & Commitment"]
+    S1["Deposit & Seat Confirmation"]
+    S2["Welcome Experience"]
+    S3["One-Week Orientation"]
+    S4["Cohort & Community"]
+    S0 --> S1
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class S0,S1,S2,S3,S4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ADMISSIONS-PHASE-02-ENROLLMENT.mmd)
+
+
+### 🔄 ADMISSIONS PHASE 03 COMPLETION
+
+```mermaid
+flowchart LR
+    S0["Active Student Experience"]
+    S1["Organizations & Leadership"]
+    S2["Achievements & Milestones"]
+    S3["Graduation"]
+    S4["Alumni & Legacy"]
+    S0 --> S1
+    S1 --> S2
+    S2 --> S3
+    S3 --> S4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class S0,S1,S2,S3,S4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ADMISSIONS-PHASE-03-COMPLETION.mmd)
+
+
 **Status:** Approved student-facing updates.  
 This addendum preserves all preceding original draft content verbatim.  
 Where an earlier draft describes a different platform, fee, deadline, or student-experience sequence, the explicitly labeled updates below supersede only that conflicting detail.  
@@ -2087,6 +2147,28 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **[BUTTON — PRE-ADMISSIONS → 11.2]**
 
 ## 03 📝 APPLICATION
+
+### 🔄 APPLICATION REVIEW
+
+```mermaid
+flowchart LR
+    N0["Select Pathway"]
+    N1["Review Requirements"]
+    N2["Submit Application"]
+    N3["Submit Documentation"]
+    N4["Admissions Review"]
+    N5["Receive Decision"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/APPLICATION-REVIEW.mmd)
+
 **Delivery:** Digital. **Platform:** Classe365. **Frequency:** Monthly admission cohorts for academic and experiential programs.
 **Fee:** $50 non-refundable application processing fee for all academic and experiential programs.
 **General testing:** No SAT, ACT or general writing assessment. Applicable pathway-specific requirements remain separate.
@@ -2106,6 +2188,26 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **[ICON — AUTOMATED BLIND SELECTION]**
 
 ## 05 ✉️ ACCEPTANCE
+
+### 🔄 ACCEPTANCE ENROLLMENT
+
+```mermaid
+flowchart LR
+    N0["Acceptance"]
+    N1["Commitment"]
+    N2["Deposit Deadline"]
+    N3["Seat Confirmation"]
+    N4["Welcome Kit"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ACCEPTANCE-ENROLLMENT.mmd)
+
 **Delivery:** Digital + Physical. **First mailed student touchpoint.**
 **Materials received:** Digital acceptance, personalized mailed acceptance letter, branded envelope and seal, school-specific presentation, acceptance folder/package, congratulations materials, enrollment instructions, cohort/start information, deposit deadline.
 **Experiential:** Selected applicants also receive experiential acceptance and next-step information.
@@ -2145,6 +2247,28 @@ Transfer students then follow the same orientation, cohort, active student, grad
 **[IMAGE — TRANSFER STUDENT BRANCH REJOINS STANDARD STUDENT JOURNEY]**
 
 ## 09 🧭 ONE-WEEK VIRTUAL ORIENTATION, ONBOARDING & TRAINING
+
+### 🔄 ONBOARDING STUDENT EXPERIENCE
+
+```mermaid
+flowchart LR
+    N0["Welcome Kit"]
+    N1["One-Week Virtual Orientation"]
+    N2["School & Cohort Sorting"]
+    N3["Peer / Buddy Community"]
+    N4["Active Student Experience"]
+    N5["Milestones"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/ONBOARDING-STUDENT-EXPERIENCE.mmd)
+
 **Delivery:** Digital + Physical + Community. **Duration:** One full week, virtually.
 **Training Pillar:** Supports academic ecosystem orientation, experiential preparation, and applicable JD/Non-JD supervision training.  
 Students already have physical orientation materials in their Welcome Kits and also receive digital training materials.
@@ -2201,6 +2325,26 @@ Training includes expectations, materials, placements and introductions to assig
 **[IMAGE — MILESTONE AWARDS, HONOR CORDS, CLASS RINGS, TROPHIES]**
 
 ## 14 🎓 GRADUATION EXPERIENCE
+
+### 🔄 GRADUATION ALUMNI
+
+```mermaid
+flowchart LR
+    N0["Graduation Requirements"]
+    N1["North / South / East / West or Virtual"]
+    N2["Ceremony & Materials"]
+    N3["Alumni Community"]
+    N4["Career & Mentorship"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/GRADUATION-ALUMNI.mmd)
+
 **Delivery:** Digital + Physical + Ceremonial / Community.
 **U.S. regions:** North, South, East, West. Graduates may choose regional in-person graduation or virtual participation; venue size depends on attendance.
 **International:** Virtual graduation option.
@@ -2241,6 +2385,34 @@ Accreditation or Title IV participation must not be represented as already appro
 → Alumni.**
 
 ## 🌐 PUBLIC WEBSITE FLOW — ADMISSIONS
+
+### 🔄 TRANSFER STUDENT JOURNEY
+
+```mermaid
+flowchart LR
+    N0["Transfer Review"]
+    N1["Credit Evaluation"]
+    N2["Admission"]
+    N3["Enrollment"]
+    N4["Transfer Welcome Kit"]
+    N5["One-Week Orientation"]
+    N6["School / Major / Cohort"]
+    N7["Active Student Experience"]
+    N8["Graduation"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5,N6,N7,N8 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/TRANSFER-STUDENT-JOURNEY.mmd)
+
 
 **[IMAGE — NUMBERED 15-STEP STUDENT JOURNEY WITH EMOJI-STYLE ICONS AND DELIVERY LEGEND]**
 1. **#:** 01 🔎 → **Stage:** Interest & Inquiry → **Student-Facing Summary:** Discover RIAH Pathway and its schools/programs → **Delivery:** Digital
@@ -2284,6 +2456,26 @@ Accreditation or Title IV participation must not be represented as already appro
 → **Delivery:** Digital + Physical + Community
 
 ## 🔄 LIMITED SUPERSEDED TECH STACK REFERENCES — ADMISSIONS ONLY
+
+### 🔄 TECHNOLOGY STUDENT FLOW
+
+```mermaid
+flowchart LR
+    N0["Classe365 Application"]
+    N1["SuiteDash Onboarding"]
+    N2["Microsoft Teams Orientation"]
+    N3["LearnWorlds Active Courses"]
+    N4["SuiteDash Community"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4 riah;
+```
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/MERMAIDS/TECHNOLOGY-STUDENT-FLOW.mmd)
+
 1. **Student-facing function:** Applications / admissions  
 → **Superseded reference:** No change  
 → **Current reference:** Classe365  
@@ -2364,170 +2556,3 @@ Existing original wireframe source text remains preserved above; this addendum g
 
 
 ---
-
-## 🔄 LINKED MERMAID FLOW DIAGRAMS
-
-### ADMISSIONS JOURNEY
-
-```mermaid
-flowchart LR
-    N0["Interest & Inquiry"]
-    N1["Pre-Admissions"]
-    N2["Application"]
-    N3["Review & Selection"]
-    N4["Acceptance"]
-    N5["Enrollment & Commitment"]
-    N6["Deposit & Seat Confirmation"]
-    N7["Welcome Experience"]
-    N8["One-Week Orientation"]
-    N9["Cohort & Community"]
-    N10["Active Student Experience"]
-    N11["Organizations & Leadership"]
-    N12["Achievements & Milestones"]
-    N13["Graduation"]
-    N14["Alumni & Legacy"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
-    N8 --> N9
-    N9 --> N10
-    N10 --> N11
-    N11 --> N12
-    N12 --> N13
-    N13 --> N14
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4,N5,N6,N7,N8,N9,N10,N11,N12,N13,N14 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/ADMISSIONS-JOURNEY.mmd)
-
-### APPLICATION REVIEW
-
-```mermaid
-flowchart LR
-    N0["Select Pathway"]
-    N1["Review Requirements"]
-    N2["Submit Application"]
-    N3["Submit Documentation"]
-    N4["Admissions Review"]
-    N5["Receive Decision"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4,N5 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/APPLICATION-REVIEW.mmd)
-
-### ACCEPTANCE ENROLLMENT
-
-```mermaid
-flowchart LR
-    N0["Acceptance"]
-    N1["Commitment"]
-    N2["Deposit Deadline"]
-    N3["Seat Confirmation"]
-    N4["Welcome Kit"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/ACCEPTANCE-ENROLLMENT.mmd)
-
-### ONBOARDING STUDENT EXPERIENCE
-
-```mermaid
-flowchart LR
-    N0["Welcome Kit"]
-    N1["One-Week Virtual Orientation"]
-    N2["School & Cohort Sorting"]
-    N3["Peer / Buddy Community"]
-    N4["Active Student Experience"]
-    N5["Milestones"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4,N5 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/ONBOARDING-STUDENT-EXPERIENCE.mmd)
-
-### GRADUATION ALUMNI
-
-```mermaid
-flowchart LR
-    N0["Graduation Requirements"]
-    N1["North / South / East / West or Virtual"]
-    N2["Ceremony & Materials"]
-    N3["Alumni Community"]
-    N4["Career & Mentorship"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/GRADUATION-ALUMNI.mmd)
-
-### TRANSFER STUDENT JOURNEY
-
-```mermaid
-flowchart LR
-    N0["Transfer Review"]
-    N1["Credit Evaluation"]
-    N2["Admission"]
-    N3["Enrollment"]
-    N4["Transfer Welcome Kit"]
-    N5["One-Week Orientation"]
-    N6["School / Major / Cohort"]
-    N7["Active Student Experience"]
-    N8["Graduation"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    N4 --> N5
-    N5 --> N6
-    N6 --> N7
-    N7 --> N8
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4,N5,N6,N7,N8 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/TRANSFER-STUDENT-JOURNEY.mmd)
-
-### TECHNOLOGY STUDENT FLOW
-
-```mermaid
-flowchart LR
-    N0["Classe365 Application"]
-    N1["SuiteDash Onboarding"]
-    N2["Microsoft Teams Orientation"]
-    N3["LearnWorlds Active Courses"]
-    N4["SuiteDash Community"]
-    N0 --> N1
-    N1 --> N2
-    N2 --> N3
-    N3 --> N4
-    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
-    class N0,N1,N2,N3,N4 riah;
-```
-
-[View editable Mermaid diagram](./IMAGES/MERMAIDS/TECHNOLOGY-STUDENT-FLOW.mmd)
