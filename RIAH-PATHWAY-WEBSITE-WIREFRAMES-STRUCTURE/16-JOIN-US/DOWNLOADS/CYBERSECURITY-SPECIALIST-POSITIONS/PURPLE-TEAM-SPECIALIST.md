@@ -109,3 +109,23 @@ Beta is lowest, Pre-Accreditation middle and Post-Accreditation highest. Through
 | $100M | 0.456146% | 0.513165% | 0.570183% | 100% |
 | $500M | 0.456146% | 0.513165% | 0.570183% | 100% |
 | $1B | 0.456146% | 0.513165% | 0.570183% | 100% |
+
+### Board Governance, Contributions & Financial Transparency
+
+RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization).**
+
+**Board Members:** Founder and Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee.
+
+**Financial Responsibilities:**
+- **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
+- **Contribution Pool:** 168 internal team members, expanding to 2,168 participants at scale, including 2,000 JD and non-JD supervisors.
+- **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
+- **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
+
+**Meetings & Transparency:**
+- Monthly Board financial reviews and quarterly formal Board meetings.
+- Executive Team attends Board meetings, receives meeting minutes, and distributes financial reports to internal team members.
+- Equity holders and future investors receive contribution, donation, accreditation, and expenditure reports.
+- Internal audits conducted internally; independent external CPA firm audits Corporate, Institutional, and Foundation operations.
+
+**Purpose:** Independent financial oversight, conflict-of-interest prevention, and transparency regarding how contributions are collected, authorized, and distributed.
