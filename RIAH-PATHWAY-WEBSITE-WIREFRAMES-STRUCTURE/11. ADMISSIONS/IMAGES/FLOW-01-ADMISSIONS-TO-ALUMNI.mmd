@@ -1,0 +1,36 @@
+%% FLOW-01-ADMISSIONS-TO-ALUMNI
+flowchart TD
+  N0["INTEREST"]
+  N1["PRE-ADMISSIONS"]
+  N2["APPLICATION"]
+  N3["REVIEW & SELECTION"]
+  N4["ACCEPTANCE"]
+  N5["ENROLLMENT"]
+  N6["DEPOSIT"]
+  N7["WELCOME"]
+  N8["ORIENTATION"]
+  N9["COHORT & COMMUNITY"]
+  N10["ACTIVE STUDENT"]
+  N11["ORGANIZATIONS"]
+  N12["ACHIEVEMENTS"]
+  N13["GRADUATION"]
+  N14["ALUMNI"]
+  N0 --> N1
+  N1 --> N2
+  N2 --> N3
+  N3 --> N4
+  N4 --> N5
+  N5 --> N6
+  N6 --> N7
+  N7 --> N8
+  N8 --> N9
+  N9 --> N10
+  N10 --> N11
+  N11 --> N12
+  N12 --> N13
+  N13 --> N14
+  classDef stage fill:#111111,color:#FFFFFF,stroke:#D40000,stroke-width:2px;
+  classDef milestone fill:#D40000,color:#FFFFFF,stroke:#111111,stroke-width:2px;
+  class N0,N1,N2,N3,N4,N5,N6,N7,N8,N9,N10,N11,N12,N13,N14 stage;
+  class N0,N14 milestone;
+  linkStyle default stroke:#D40000,stroke-width:2px;
