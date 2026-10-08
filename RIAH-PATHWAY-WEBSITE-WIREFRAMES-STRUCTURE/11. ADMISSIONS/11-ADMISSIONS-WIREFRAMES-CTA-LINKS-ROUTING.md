@@ -572,7 +572,7 @@ Training includes expectations, materials, placements and introductions to assig
 This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation.  
 Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
-**Application + $50 fee  
+**Application + $50 fee**  
 
 ![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
 [Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)

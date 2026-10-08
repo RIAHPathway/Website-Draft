@@ -3,7 +3,7 @@
 ## I. GLOBAL WEBSITE HEADER
 
 **[LOGO — RIAH PATHWAY UNIFIED CROWN]**
-**[NAVIGATION — 01 HOME  
+**[NAVIGATION — 01 HOME**  
 • 02 ABOUT  
 • 03 PATHWAY  
 • 04 DEGREE PROGRAMS  
@@ -31,7 +31,7 @@
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
-**Explore  
+**Explore**  
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-01](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.mmd)
@@ -142,7 +142,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-06](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.mmd)
 
-**Parchment — Official Transcripts  
+**Parchment — Official Transcripts**  
 • National Student Clearinghouse — Enrollment and Degree Verification  
 • LearnWorlds — Courses  
 • Cengage MindTap — Courseware  
@@ -191,7 +191,7 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 
 
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
-**Explore Transfer  
+**Explore Transfer**  
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-07](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.mmd)
@@ -293,7 +293,7 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 ## XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFERENCES
 
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
-**Interest  
+**Interest**  
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-08](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.mmd)
@@ -333,7 +333,7 @@ Accounting requires Financial Accounting and Managerial Accounting; Computer Sci
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
-**Explore  
+**Explore**  
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-10](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.mmd)
@@ -494,7 +494,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
-**Explore  
+**Explore**  
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-12](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.mmd)
