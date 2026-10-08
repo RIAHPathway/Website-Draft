@@ -149,7 +149,23 @@ Legacy does not treat an entity's self-description as independent accreditation,
 
 **MERMAID I — HOURLY MONITORING AND ESCALATION**
 
-![VI. HOURLY LEGACY FLOW](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT.svg)
+#### Mermaid Flow 01 — VI. HOURLY LEGACY FLOW (Part 1 of 3)
+
+![VI. HOURLY LEGACY FLOW — Part 1](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT-PART-01.mmd)
+
+#### Mermaid Flow 02 — VI. HOURLY LEGACY FLOW (Part 2 of 3)
+
+![VI. HOURLY LEGACY FLOW — Part 2](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT-PART-02.mmd)
+
+#### Mermaid Flow 03 — VI. HOURLY LEGACY FLOW (Part 3 of 3)
+
+![VI. HOURLY LEGACY FLOW — Part 3](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT-PART-03.svg)
+
+[View editable Mermaid Flow 03](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT-PART-03.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-03-RIAH-PATHWAY-LEGACY-BOT.mmd)
 
@@ -159,7 +175,17 @@ Legacy does not treat an entity's self-description as independent accreditation,
 
 **MERMAID I — DAILY EVIDENCE AUDIT**
 
-![VII. DAILY AUDIT FLOW](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT.svg)
+#### Mermaid Flow 01 — VII. DAILY AUDIT FLOW (Part 1 of 2)
+
+![VII. DAILY AUDIT FLOW — Part 1](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT-PART-01.mmd)
+
+#### Mermaid Flow 02 — VII. DAILY AUDIT FLOW (Part 2 of 2)
+
+![VII. DAILY AUDIT FLOW — Part 2](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-04-RIAH-PATHWAY-LEGACY-BOT.mmd)
 

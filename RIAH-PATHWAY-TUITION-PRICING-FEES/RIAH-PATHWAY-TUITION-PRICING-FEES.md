@@ -924,7 +924,17 @@ Loan eligibility does not guarantee approval of a particular amount. The student
 
 ### Private Student Loan Calculation Logic
 
-![Private Student Loan Calculation Logic](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+#### Mermaid Flow 01 — Private Student Loan Calculation Logic (Part 1 of 2)
+
+![Private Student Loan Calculation Logic — Part 1](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-01.svg)
+
+[View editable Mermaid Flow 01](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-01.mmd)
+
+#### Mermaid Flow 02 — Private Student Loan Calculation Logic (Part 2 of 2)
+
+![Private Student Loan Calculation Logic — Part 2](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-02.svg)
+
+[View editable Mermaid Flow 02](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-02.mmd)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
