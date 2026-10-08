@@ -261,9 +261,9 @@ graph LR
 | 🛡️ | **Governance and quality control before consequential work is released or implemented** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | ✍️ | **Student authority expressly limited for regulated/sign-off functions** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | ⚖️ | **Professional-scope restrictions incorporated into placement governance** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
-| 💰 | **Defined Apprentice Experiential tuition — $2,500** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 💰 | **Defined Intern Experiential tuition — $5,000** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 💰 | **Defined Associate–Executive Experiential tuition — $10,000 per level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 💰 | **Defined Apprentice Experiential tuition — $5,000** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 💰 | **Defined Intern Experiential tuition — $10,000** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 💰 | **Defined Associate–Executive Experiential tuition — $20,000 per level** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 💳 | **Upfront Experiential payment option** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 📆 | **Monthly Experiential payment option** | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 📚 | **Course-based broader education payment option where applicable** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ |
@@ -374,7 +374,7 @@ Students work within one professional or functional area and develop experience 
 
 Selected students may rotate through applicable functions, departments, professional areas, or ecosystem entities to develop broader experience.
 
-Students may apply for a **Rotational Experience** option. Rotational Experience adds **$5,000** to the standard tuition for the selected Experiential level because RIAH must maintain the additional placement capacity, supervision, coordination, and resources required to support rotation. For example, Associate Experiential is $10,000; Associate with Rotational Experience is $15,000. Approval remains subject to capacity, resources, supervision availability, placement availability, and applicable requirements.
+Students may apply for a **Rotational Experience** option. Rotational Experience adds **$5,000** to the standard tuition for the selected Experiential level because RIAH must maintain the additional placement capacity, supervision, coordination, and resources required to support rotation. For example, Associate Experiential is $20,000; Associate with Rotational Experience is $25,000. Approval remains subject to capacity, resources, supervision availability, placement availability, and applicable requirements.
 
 Internal placements involve **actual work that contributes directly to the operations and needs of the RIAH Pathway ecosystem**.
 
@@ -802,6 +802,8 @@ The standard Experiential Collection follows the applicable product and curricul
 
 # **XIV. 💰 EXPERIENTIAL PRICING**
 
+The listed tuition represents the **total standard cost of each selected Experiential program after accreditation**. These base prices have doubled because delivery requires human labor from qualified Managers, Supervisors, Reviewers, placement coordination, and the educational materials and other resources needed for actual supervised work. Beta and Pre Accreditation pricing stages and the existing Progressive and Rotational add-on amounts remain as established in the Master Pricing Data Sheet.
+
 Experiential participants have two tuition payment options:
 
 1. **Upfront** — Pay the total Experiential tuition before the applicable payment deadline.
@@ -809,12 +811,12 @@ Experiential participants have two tuition payment options:
 
 | Level | Duration | Total Experiential Tuition | Upfront Option | Monthly Option |
 |---|---:|---:|---:|---:|
-| Apprentice | **1 Month** | **$2,500** | **$2,500** | **$2,500 for 1 month** |
-| Intern | **3 Months** | **$5,000** | **$5,000** | **$1,666.67 per month for 3 months*** |
-| Associate | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
-| Senior Associate | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
-| Manager | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
-| Executive | **12 Months** | **$10,000** | **$10,000** | **$833.33 per month for 12 months*** |
+| Apprentice | **1 Month** | **$5,000** | **$5,000** | **$5,000 for 1 month** |
+| Intern | **3 Months** | **$10,000** | **$10,000** | **$3,333.33 per month for 3 months*** |
+| Associate | **12 Months** | **$20,000** | **$20,000** | **$1,666.67 per month for 12 months*** |
+| Senior Associate | **12 Months** | **$20,000** | **$20,000** | **$1,666.67 per month for 12 months*** |
+| Manager | **12 Months** | **$20,000** | **$20,000** | **$1,666.67 per month for 12 months*** |
+| Executive | **12 Months** | **$20,000** | **$20,000** | **$1,666.67 per month for 12 months*** |
 
 *Monthly amounts are the total tuition divided by the Experiential duration. Where division creates a rounding difference, the final payment is adjusted so total payments equal the stated Experiential tuition.
 
@@ -824,8 +826,8 @@ Students may apply for **Progressive Experience** or **Rotational Experience** i
 
 | Experiential Option | Pricing Rule | Example |
 |---|---:|---|
-| **Progressive Experience** | **Selected Experiential Level Tuition + $10,000** | Apprentice $2,500 + Progressive Experience $10,000 = **$12,500** |
-| **Rotational Experience** | **Selected Experiential Level Tuition + $5,000** | Associate $10,000 + Rotational Experience $5,000 = **$15,000** |
+| **Progressive Experience** | **Selected Experiential Level Tuition + $10,000** | Apprentice $5,000 + Progressive Experience $10,000 = **$15,000** |
+| **Rotational Experience** | **Selected Experiential Level Tuition + $5,000** | Associate $20,000 + Rotational Experience $5,000 = **$25,000** |
 
 **Progressive Experience** allows an approved participant to begin at the applicable Experiential level and progress through subsequent eligible levels within the RIAH Experiential structure. The additional **$10,000** supports the added placement capacity, supervision, coordination, progression planning, and resources required for the progressive structure. The $10,000 is added to the tuition of the student's approved starting Experiential level.
 

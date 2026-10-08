@@ -214,14 +214,16 @@ tuition reduction maximum.
 
 Experiential Pricing establishes the standard amount and duration for each level of the Experiential pathway. The progression begins with the Apprentice level and continues through Intern, Associate, Senior Associate, Manager, and Executive.
 
+The post-accreditation amounts below are the **total standard program cost** for each selected Experiential level, not an additional annual or monthly charge. Experiential pricing has doubled to reflect the human labor and program resources required for real-world placements, including qualified Managers, Supervisors, Reviewers, placement coordination, and applicable learning materials. Existing Beta and Pre Accreditation pricing-stage rules and the separately listed Progressive and Rotational add-on charges remain unchanged.
+
 | Experiential Selection | Duration | Standard Amount |
 |:---|:---:|---:|
-| Apprentice | one month | \$2,500 |
-| Intern | three months | \$5,000 |
-| Associate | 1 Year | \$10,000 |
-| Senior Associate | 1 Year | \$10,000 |
-| Manager | 1 Year | \$10,000 |
-| Executive | 1 Year | \$10,000 |
+| Apprentice | one month | \$5,000 |
+| Intern | three months | \$10,000 |
+| Associate | 1 Year | \$20,000 |
+| Senior Associate | 1 Year | \$20,000 |
+| Manager | 1 Year | \$20,000 |
+| Executive | 1 Year | \$20,000 |
 | Progressive Experience Add-On | Progression from approved starting level through subsequent eligible levels | **+\$10,000** on top of selected starting-level tuition |
 | Rotational Experience Add-On | Rotation through applicable placements, functions, departments, professional areas, or ecosystem entities | **+\$5,000** on top of selected Experiential tuition |
 
@@ -229,13 +231,13 @@ Experiential Pricing establishes the standard amount and duration for each level
 
 Students may apply for **Progressive Experience** to begin at their approved Experiential level and progress through subsequent eligible Experiential levels. Progressive Experience is an additional **\$10,000** on top of the standard tuition for the student's approved starting level and is subject to capacity, resources, supervision availability, placement availability, eligibility, and applicable requirements.
 
-**Example:** Apprentice Experiential is \$2,500. Apprentice with Progressive Experience is **\$12,500**.
+**Example:** Apprentice Experiential is \$5,000. Apprentice with Progressive Experience is **\$15,000**.
 
 ### Rotational Experience
 
 Students may apply for **Rotational Experience** to rotate through applicable placements, functions, departments, professional areas, or ecosystem entities. Rotational Experience is an additional **\$5,000** on top of the standard tuition for the selected Experiential level and is subject to capacity, resources, supervision availability, placement availability, and applicable requirements.
 
-**Example:** Associate Experiential is \$10,000. Associate with Rotational Experience is **\$15,000**.
+**Example:** Associate Experiential is \$20,000. Associate with Rotational Experience is **\$25,000**.
 
 # VII. 🔄 Integrated Education and Experiential Adjustment
 
@@ -1134,12 +1136,12 @@ The Master Active Number Table consolidates the active numerical records used th
 | Beta Pricing Stage | 25% |
 | Pre Accreditation Pricing Stage | 50% |
 | Post Accreditation | 100% |
-| Apprentice Experiential | \$2,500 |
-| Intern Experiential | \$5,000 |
-| Associate Experiential | \$10,000 |
-| Senior Associate Experiential | \$10,000 |
-| Manager Experiential | \$10,000 |
-| Executive Experiential | \$10,000 |
+| Apprentice Experiential | \$5,000 |
+| Intern Experiential | \$10,000 |
+| Associate Experiential | \$20,000 |
+| Senior Associate Experiential | \$20,000 |
+| Manager Experiential | \$20,000 |
+| Executive Experiential | \$20,000 |
 | Integrated Education and Experiential Adjustment | 5% |
 | Upfront Payment Reduction | 15% |
 | SNAP Reduction | 5% |
