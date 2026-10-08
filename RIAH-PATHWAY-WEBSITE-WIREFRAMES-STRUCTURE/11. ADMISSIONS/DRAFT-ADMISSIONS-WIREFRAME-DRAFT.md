@@ -6,7 +6,10 @@
 
 **Draft — for ongoing review and revision.**
 
-This working draft compiles the complete existing Admissions Markdown sources in one document. The headings below reflect the updated 11–11.7 sitemap order. Original source content, including historical section numbers and CTA routes within each source, is retained verbatim for review; those embedded references still require reconciliation before final publication. No existing source Markdown is changed by this draft.
+This working draft compiles the complete existing Admissions Markdown sources in one document.  
+The headings below reflect the updated 11–11.7 sitemap order.  
+Original source content, including historical section numbers and CTA routes within each source, is retained verbatim for review; those embedded references still require reconciliation before final publication.  
+No existing source Markdown is changed by this draft.
 
 ## Contents
 
@@ -33,7 +36,25 @@ This working draft compiles the complete existing Admissions Markdown sources in
 **ONE DYNASTY. INFINITE LEGACIES.**
 ## I. GLOBAL WEBSITE HEADER
 **[LOGO — RIAH PATHWAY UNIFIED CROWN]**
-**[NAVIGATION — 01 HOME • 02 ABOUT • 03 PATHWAY • 04 DEGREE PROGRAMS • 05 EXPERIENTIAL • 06 HIGH SCHOOL • 07 GED/HSE • 08 CERTIFICATION REVIEW • 09 BAR REVIEW • 10 CURRICULUM • 11 ADMISSIONS • 12 TUITION • 13 DONATIONS • 14 PRODUCTS • 15 ACCREDITATION & AUTHORIZATION • 16 JOIN US • 17 RESOURCES • 18 FAQ • 19 CONTACT]**
+**[NAVIGATION — 01 HOME  
+• 02 ABOUT  
+• 03 PATHWAY  
+• 04 DEGREE PROGRAMS  
+• 05 EXPERIENTIAL  
+• 06 HIGH SCHOOL  
+• 07 GED/HSE  
+• 08 CERTIFICATION REVIEW  
+• 09 BAR REVIEW  
+• 10 CURRICULUM  
+• 11 ADMISSIONS  
+• 12 TUITION  
+• 13 DONATIONS  
+• 14 PRODUCTS  
+• 15 ACCREDITATION & AUTHORIZATION  
+• 16 JOIN US  
+• 17 RESOURCES  
+• 18 FAQ  
+• 19 CONTACT]**
 **[MOBILE NAVIGATION — COLLAPSIBLE MENU]**
 **[BUTTON 11-M01 — APPLY NOW → CLASSE365]**
 **[BUTTON 11-M02 — LOG IN → SUITEDASH]**
@@ -41,7 +62,17 @@ This working draft compiles the complete existing Admissions Markdown sources in
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
-**Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review → Receive Your Decision → Enroll → Welcome Materials → Cohort → Active Student**
+**Explore  
+→ Select Your Pathway  
+→ Review Requirements  
+→ Apply  
+→ Submit Documentation  
+→ Application Review  
+→ Receive Your Decision  
+→ Enroll  
+→ Welcome Materials  
+→ Cohort  
+→ Active Student**
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
@@ -119,11 +150,31 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
 **[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
 **Webflow — Public Website → SuiteDash — Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Records, Degree Audit, Alumni**
-**Parchment — Official Transcripts • National Student Clearinghouse — Enrollment and Degree Verification • LearnWorlds — Courses • Cengage MindTap — Courseware • PebblePad — Portfolios • ProctorU — Proctoring • Tutor.com — Tutoring • PeopleGrove CORE + Experience Hub + CompMS — Experiential • Symplicity CSM — Careers • TouchNet — Finance • Regent Education — Financial Aid • Merit Pages — Recognition**
+**Parchment — Official Transcripts  
+• National Student Clearinghouse — Enrollment and Degree Verification  
+• LearnWorlds — Courses  
+• Cengage MindTap — Courseware  
+• PebblePad — Portfolios  
+• ProctorU — Proctoring  
+• Tutor.com — Tutoring  
+• PeopleGrove CORE + Experience Hub + CompMS — Experiential  
+• Symplicity CSM — Careers  
+• TouchNet — Finance  
+• Regent Education — Financial Aid  
+• Merit Pages — Recognition**
 **[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
 ## XI. TRANSFER STUDENTS OVERVIEW
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
-**Explore Transfer → Review Eligibility → Submit Records → $500 Transfer Evaluation → Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
+**Explore Transfer  
+→ Review Eligibility  
+→ Submit Records  
+→ $500 Transfer Evaluation  
+→ Credit Determination  
+→ Admission  
+→ Enrollment  
+→ Transfer Kit  
+→ Orientation  
+→ Active Student**
 **[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
 **[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
@@ -202,12 +253,33 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 ## XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFERENCES
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
-**Interest → Pathway Selection → Pre-Admissions → Application → Documentation → Review → Acceptance → Commitment → Enrollment → Welcome → Orientation → Active Student → Achievement → Graduation → Alumni.**
-**Monthly cohorts:** Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome Experience → Orientation → Active Student.
+**Interest  
+→ Pathway Selection  
+→ Pre-Admissions  
+→ Application  
+→ Documentation  
+→ Review  
+→ Acceptance  
+→ Commitment  
+→ Enrollment  
+→ Welcome  
+→ Orientation  
+→ Active Student  
+→ Achievement  
+→ Graduation  
+→ Alumni.**
+**Monthly cohorts:** Acceptance  
+→ Enrollment Requirements  
+→ Applicable Deposit  
+→ Cohort or Placement Confirmation  
+→ Welcome Experience  
+→ Orientation  
+→ Active Student.
 **Pre-admissions:** Year 3 requires completed general education and school core; minors require applicable prerequisites; master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
 **High School:** Initial states Ohio, Florida, Texas; eighth-grade transcripts for students entering ninth grade; grades 9–12 transcripts evaluated for grade, credits, remaining requirements, and eligible concurrent college courses.
 **GED/HSE:** Prior high school record demonstrating noncompletion; online preparation and applicable concurrent college coursework offering 12 college credit hours; authorized state examination.
-**Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each. Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
+**Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each.  
+Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
 **[BUTTON — PRE-ADMISSIONS → 11.2]**
 **[BUTTON — APPLICATION → 11.3]**
 **[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]**
@@ -230,7 +302,17 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
-**Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review → Receive Your Decision → Enroll → Welcome Materials → Cohort → Active Student**
+**Explore  
+→ Select Your Pathway  
+→ Review Requirements  
+→ Apply  
+→ Submit Documentation  
+→ Application Review  
+→ Receive Your Decision  
+→ Enroll  
+→ Welcome Materials  
+→ Cohort  
+→ Active Student**
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
@@ -356,7 +438,17 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
-**Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review → Receive Your Decision → Enroll → Welcome Materials → Cohort → Active Student**
+**Explore  
+→ Select Your Pathway  
+→ Review Requirements  
+→ Apply  
+→ Submit Documentation  
+→ Application Review  
+→ Receive Your Decision  
+→ Enroll  
+→ Welcome Materials  
+→ Cohort  
+→ Active Student**
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
@@ -404,7 +496,13 @@ Pre-Admissions helps prospective students understand academic, professional, exp
 **[IMAGE — STUDENT REVIEWING REQUIREMENTS]**
 **[BUTTON 11-P01 — PRE-ADMISSIONS → SUITEDASH FORM]**
 ## II. 11.2.1 — GENERAL ADMISSIONS
-**Academic Eligibility • Pathway Eligibility • Prior Education • Applicable Age and Grade Requirements • Program Prerequisites • Professional Requirements • Jurisdictional Requirements**
+**Academic Eligibility  
+• Pathway Eligibility  
+• Prior Education  
+• Applicable Age and Grade Requirements  
+• Program Prerequisites  
+• Professional Requirements  
+• Jurisdictional Requirements**
 1. **Document Category:** Official Transcripts → **Purpose:** Academic history
 2. **Document Category:** Prior College Records → **Purpose:** Previous coursework
 3. **Document Category:** Academic Credentials → **Purpose:** Completed education
@@ -426,7 +524,13 @@ Missing prerequisite courses must be completed before admission into the request
 ### Year 3
 **[ICON — ACADEMIC PROGRESSION]**
 **Year 3 requires completed General Education AND School Core.**
-**Submit Transcripts → Evaluate General Education → Evaluate School Core → Identify Outstanding Requirements → Complete Requirements → Year 3 Eligibility → Review**
+**Submit Transcripts  
+→ Evaluate General Education  
+→ Evaluate School Core  
+→ Identify Outstanding Requirements  
+→ Complete Requirements  
+→ Year 3 Eligibility  
+→ Review**
 1. **Requirement:** General Education → **Standard:** Completed
 2. **Requirement:** School Core → **Standard:** Completed
 3. **Requirement:** Prior Records → **Standard:** Submitted
@@ -476,7 +580,16 @@ Applicants must meet experience-level requirements AND academic prerequisites; r
 2. **Area:** Computer Science → **Prerequisites:** Introduction to Computer Science
 3. **Area:** Other Majors → **Prerequisites:** Applicable courses
 4. **Area:** Advanced Levels → **Prerequisites:** Coursework plus professional experience
-**Select Area → Select Level → Select Experience Category → Experience Review → Prerequisite Review → Coursework Evaluation → Complete Missing Prerequisites → Capacity and Supervision → Decision → Placement**
+**Select Area  
+→ Select Level  
+→ Select Experience Category  
+→ Experience Review  
+→ Prerequisite Review  
+→ Coursework Evaluation  
+→ Complete Missing Prerequisites  
+→ Capacity and Supervision  
+→ Decision  
+→ Placement**
 ### Rotational Experience
 **Additional Rotational Tuition: $5,000. Associate Experiential $10,000; Associate with Rotational Experience $15,000.**
 Approval subject to capacity, resources, supervision, coordination, requirements.
@@ -514,7 +627,14 @@ Grades 9–12 submit transcripts to evaluate completed courses, credits, grade, 
 # EARN YOUR GED/HSE WHILE PURSUING COLLEGE CREDIT.
 Eligible students who did not complete high school submit prior high school transcript or available academic record showing noncompletion.
 **GED/HSE Preparation + Concurrent College Coursework = 12 COLLEGE CREDIT HOURS.**
-**Noncompletion → Submit Record → Verify Eligibility → GED/HSE Review → GED/HSE Preparation + College Courses → Complete Requirements → Authorized GED/HSE Exam → Credential + Eligible College Credits**
+**Noncompletion  
+→ Submit Record  
+→ Verify Eligibility  
+→ GED/HSE Review  
+→ GED/HSE Preparation + College Courses  
+→ Complete Requirements  
+→ Authorized GED/HSE Exam  
+→ Credential + Eligible College Credits**
 1. **Component:** Prior High School Completion → **Requirement:** Must not already hold diploma
 2. **Component:** Academic Record → **Requirement:** Transcript or available record
 3. **Component:** GED/HSE Preparation → **Requirement:** Applicable preparation
@@ -545,7 +665,14 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 
 ## X. ADDITIONAL PRE-ADMISSIONS FLOW DETAIL
 ### Year 3 Eligibility
-**Submit Academic Transcripts → General Education Evaluation → School Core Evaluation → Identify Completed Requirements → Identify Outstanding Requirements → Complete Outstanding Requirements, If Applicable → Year 3 Admissions Eligibility → Application and Admission Review.**
+**Submit Academic Transcripts  
+→ General Education Evaluation  
+→ School Core Evaluation  
+→ Identify Completed Requirements  
+→ Identify Outstanding Requirements  
+→ Complete Outstanding Requirements, If Applicable  
+→ Year 3 Admissions Eligibility  
+→ Application and Admission Review.**
 1. **Requirement:** General Education → **Admissions Standard:** Must be completed
 2. **Requirement:** School Core → **Admissions Standard:** Must be completed
 3. **Requirement:** Prior Academic Records → **Admissions Standard:** Must be submitted for evaluation
@@ -554,19 +681,47 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 ### Minor Admissions
 **Select Minor → Review Minor Prerequisites → Evaluate Completed Coursework → Complete Outstanding Prerequisites → Minor Program Admission.**
 ### Graduate Admissions
-**Select Master's or MBA → Submit Bachelor's Degree and Academic Records → Evaluate Degree Applicability or Equivalency → Evaluate Program Prerequisites → Complete Missing Prerequisites, If Applicable → Graduate Admissions Eligibility → Application and Admission Review.**
+**Select Master's or MBA  
+→ Submit Bachelor's Degree and Academic Records  
+→ Evaluate Degree Applicability or Equivalency  
+→ Evaluate Program Prerequisites  
+→ Complete Missing Prerequisites, If Applicable  
+→ Graduate Admissions Eligibility  
+→ Application and Admission Review.**
 ### High School Eligibility and Placement
 **Ohio • Florida • Texas**, expanding to all 50 states and Washington, D.C., subject to authorization.
 **Complete Eighth Grade → Submit Eighth-Grade Transcript → Academic Record Evaluation → Ninth-Grade Eligibility Review → Ninth-Grade Enrollment.**
-**Submit Transcript → Review Completed Courses → Evaluate Earned Credits → Determine Applicable Grade Level → Identify Remaining High School Requirements → Determine Concurrent College Course Eligibility → Develop Student Academic Pathway.**
+**Submit Transcript  
+→ Review Completed Courses  
+→ Evaluate Earned Credits  
+→ Determine Applicable Grade Level  
+→ Identify Remaining High School Requirements  
+→ Determine Concurrent College Course Eligibility  
+→ Develop Student Academic Pathway.**
 ### GED/HSE
-**Did Not Complete High School → Submit Prior High School Transcript or Available Academic Record → Verify Noncompletion and Eligibility → GED/HSE Admissions Review → Enroll in GED/HSE Preparation + Applicable Concurrent College Coursework → Complete Preparation and College Courses → Authorized GED/HSE Examination → Applicable Credential + Eligible College Credits.**
+**Did Not Complete High School  
+→ Submit Prior High School Transcript or Available Academic Record  
+→ Verify Noncompletion and Eligibility  
+→ GED/HSE Admissions Review  
+→ Enroll in GED/HSE Preparation + Applicable Concurrent College Coursework  
+→ Complete Preparation and College Courses  
+→ Authorized GED/HSE Examination  
+→ Applicable Credential + Eligible College Credits.**
 ### Experiential Major Prerequisites
 1. **Area:** Accounting → **Required Foundational Coursework:** Financial Accounting and Managerial Accounting
 2. **Area:** Computer Science → **Required Foundational Coursework:** Introduction to Computer Science
 3. **Area:** Other Approved Majors → **Required Foundational Coursework:** Applicable major-specific prerequisite courses
 4. **Area:** Advanced Levels → **Required Foundational Coursework:** Academic prerequisites plus required professional experience
-**Select Experiential Area → Select Level → Select Single-Area, Rotational, or Progressive Experience → Review Experience Requirements → Review Major-Specific Prerequisites → Evaluate Experience and Coursework → Complete Outstanding Prerequisites → Capacity and Supervision Review → Decision → Placement Confirmation.**
+**Select Experiential Area  
+→ Select Level  
+→ Select Single-Area, Rotational, or Progressive Experience  
+→ Review Experience Requirements  
+→ Review Major-Specific Prerequisites  
+→ Evaluate Experience and Coursework  
+→ Complete Outstanding Prerequisites  
+→ Capacity and Supervision Review  
+→ Decision  
+→ Placement Confirmation.**
 **[DOWNLOAD — YEAR 3 PREREQUISITE CHECKLIST]**
 **[DOWNLOAD — MINOR PROGRAM PREREQUISITE CHECKLIST]**
 **[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]**
@@ -604,10 +759,23 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
 **Application Platform: Classe365.**
 **Application Processing Fee: $50 — NON-REFUNDABLE.**
-**Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Student Communications**
+**Student Information  
+• Selected Pathway  
+• Prior Education  
+• Academic History  
+• Required Documentation  
+• Applicable Pathway Questions  
+• Student Communications**
 **[BUTTON 11-A01 — APPLY NOW → CLASSE365]**
 ## II. 11.3.1 — ADMISSIONS PROCESS
-**01 Select Your Pathway → 02 Review Requirements → 03 Submit Application → 04 Submit Documentation → 05 Application Review → 06 Pathway-Specific Review → 07 Admission Decision → 08 Acceptance and Next Steps**
+**01 Select Your Pathway  
+→ 02 Review Requirements  
+→ 03 Submit Application  
+→ 04 Submit Documentation  
+→ 05 Application Review  
+→ 06 Pathway-Specific Review  
+→ 07 Admission Decision  
+→ 08 Acceptance and Next Steps**
 **[IMAGE — ADMISSIONS PROCESS FLOW]**
 ## III. 11.3.2 — APPLICATION FLOW
 **Classe365 Application → Select Pathway → Complete Information → Upload Documents → Pay Processing Fee → Submit → Review → Status and Communications**
@@ -637,7 +805,18 @@ Applicable academic, professional, background, character-and-fitness, supervisio
 2. **Participant:** International Online Student → **Applicable Format:** Remote, subject to requirements
 3. **Participant:** Internal Placement → **Applicable Format:** Remote, hybrid, or on-site
 4. **Participant:** External Placement → **Applicable Format:** Remote, hybrid, or on-site where permitted
-**Application → Eligibility → Level and Placement → Category → Prerequisites → Prior Experience → Capacity and Supervision → Decision → Acceptance → Seat Confirmation → Orientation → Real Work**
+**Application  
+→ Eligibility  
+→ Level and Placement  
+→ Category  
+→ Prerequisites  
+→ Prior Experience  
+→ Capacity and Supervision  
+→ Decision  
+→ Acceptance  
+→ Seat Confirmation  
+→ Orientation  
+→ Real Work**
 Higher-demand opportunities may use automated blind selection; lower-demand opportunities may use first-come, first-served admission until capacity is reached.
 **[BUTTON 11-A03 — EXPERIENTIAL PROCESS → 5.4]**
 ## VI. APPLICATION SUPPORT
@@ -669,7 +848,11 @@ Higher-demand opportunities may use automated blind selection; lower-demand oppo
 8. **Pathway:** Other Experiential Majors → **Admission Review:** Major-specific foundational prerequisites → **Website:** 05
 **Experiential categories:** Single-Area Assignment • Rotational Experience • Progressive Experience.
 **Rotational Experience:** Additional $5,000 tuition. Associate $10,000; Associate with Rotational Experience $15,000. Approval depends on capacity, resources, supervision, coordination, and requirements.
-**Progressive Experience:** Approved Starting Level → Experience and Assessments → Eligibility Verification → Next Approved Level → Continued Progression. Advancement is not automatic.
+**Progressive Experience:** Approved Starting Level  
+→ Experience and Assessments  
+→ Eligibility Verification  
+→ Next Approved Level  
+→ Continued Progression. Advancement is not automatic.
 **Capacity:** High-demand eligible applicants may undergo blind selection; lower-demand opportunities may use first-come, first-served admission until approved capacity is reached.
 **[IMAGE — SINGLE-AREA, ROTATIONAL, AND PROGRESSIVE EXPERIENCE COMPARISON]**
 **[BUTTON — EXPERIENTIAL LEVELS → 5.2]**
@@ -708,7 +891,14 @@ Higher-demand opportunities may use automated blind selection; lower-demand oppo
 **Student Name • School Identity • Selected Pathway • Institutional Branding • Unified Crown • Acceptance Information • Next Steps**
 **[ICON — ACCEPTANCE LETTER WITH SEAL]**
 ## III. 11.4.2 — AFTER ADMISSION
-**Admission Offer → Student Commitment → Applicable Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome Experience**
+**Admission Offer  
+→ Student Commitment  
+→ Applicable Agreement  
+→ Applicable Education Deposit  
+→ Enrollment Deadline  
+→ Enrollment  
+→ Cohort or Seat Confirmation  
+→ Welcome Experience**
 ## IV. EDUCATION DEPOSIT
 **Education Deposit Fee: $500.**
 1. **Pathway:** Minor → **Student Resource Allocation:** $250
@@ -744,7 +934,14 @@ Degree students missing a monthly cohort may complete steps for a later eligible
 3. **Stage:** Enrollment → **Communication:** Digital
 4. **Stage:** Welcome → **Communication:** Digital + Physical + Community
 5. **Stage:** Orientation → **Communication:** Digital + Community
-**Admission Offer → Student Commitment → Applicable Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome Experience.**
+**Admission Offer  
+→ Student Commitment  
+→ Applicable Agreement  
+→ Applicable Education Deposit  
+→ Enrollment Deadline  
+→ Enrollment  
+→ Cohort or Seat Confirmation  
+→ Welcome Experience.**
 **Education Deposit Fee: $500.**
 1. **Pathway:** Minor → **Student Resource Allocation:** $250
 2. **Pathway:** Associate's → **Student Resource Allocation:** $500
@@ -812,7 +1009,18 @@ Transfer students receive applicable transfer materials.
 **Acceptance → Welcome → Orientation → Onboarding → Active Student**
 ## IV. 11.5.3 — COHORT, SCHOOL & COMMUNITY
 **[IMAGE — VIRTUAL STUDENT COMMUNITY]**
-**Monthly Cohorts • Schools • Majors • Student Organizations • Student Governance • Leadership • Honor Societies • Greek Life Where Applicable • Ambassadors • Community Service • Peer Mentorship • Career Development**
+**Monthly Cohorts  
+• Schools  
+• Majors  
+• Student Organizations  
+• Student Governance  
+• Leadership  
+• Honor Societies  
+• Greek Life Where Applicable  
+• Ambassadors  
+• Community Service  
+• Peer Mentorship  
+• Career Development**
 **SuiteDash Community.**
 **Student → School → Monthly Cohort → Peer Connection → SuiteDash Community → Organizations and Leadership**
 **[BUTTON 11-S02 — STUDENT LIFE → 16.2]**
@@ -864,7 +1072,14 @@ Transfer students receive applicable transfer materials.
 **Microsoft Entra ID — Identity and Authentication.** Connections and SSO must be configured before being presented as operational.
 ## VII. 11.5.5 — ACHIEVEMENTS & MILESTONES
 **[IMAGE — ACHIEVEMENT BADGES AND INSTITUTIONAL RECOGNITION]**
-**Academic Achievement • Experiential Achievement • Leadership • Community Service • Mentorship • Career Development • Professional Credentials • Institutional Recognition**
+**Academic Achievement  
+• Experiential Achievement  
+• Leadership  
+• Community Service  
+• Mentorship  
+• Career Development  
+• Professional Credentials  
+• Institutional Recognition**
 1. **Recognition:** Institutional Degrees, Academic Achievements, Recognition → **Platform:** Merit Pages
 2. **Recognition:** Applicable RIAH Credentials → **Platform:** Merit Pages
 3. **Recognition:** External Certifications → **Platform:** Applicable Certification Bodies
@@ -974,7 +1189,12 @@ Transfer students receive applicable transfer materials.
 3. **Function:** Enrollment and Degree Verification → **Platform:** National Student Clearinghouse
 4. **Function:** Institutional Recognition → **Platform:** Merit Pages
 5. **Function:** Portfolio Evidence → **Platform:** PebblePad
-**Student Enrollment → Classe365 → Academic Progress and Degree Audit → Official Academic Record → Registrar Services → Parchment Transcripts / National Student Clearinghouse Verification**
+**Student Enrollment  
+→ Classe365  
+→ Academic Progress and Degree Audit  
+→ Official Academic Record  
+→ Registrar Services  
+→ Parchment Transcripts / National Student Clearinghouse Verification**
 **[ICON — OFFICIAL TRANSCRIPT]**
 **Student or Graduate → Request Transcript → Parchment → Institutional Processing → Official Delivery → Recipient**
 **[BUTTON 11-G04 — REQUEST TRANSCRIPT → PARCHMENT]**
@@ -1065,7 +1285,15 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 2. **Function:** Internal and External Placements → **Platform:** PeopleGrove CORE + Experience Hub + CompMS
 3. **Function:** Placement Employer and Partner Engagement → **Platform:** PeopleGrove CORE + Experience Hub + CompMS
 4. **Function:** Work Assignments, Supervision, Progress, Evaluations → **Platform:** PeopleGrove CORE + Experience Hub + CompMS
-**Application → Placement Review → Internal or External → Single-Area, Rotational, or Progressive → Real Work → Supervision → Evaluation → Documented Experience → Career**
+**Application  
+→ Placement Review  
+→ Internal or External  
+→ Single-Area, Rotational, or Progressive  
+→ Real Work  
+→ Supervision  
+→ Evaluation  
+→ Documented Experience  
+→ Career**
 **[BUTTON 11-H01 — EXPERIENTIAL → 05]**
 ## V. REGISTRAR & RECORDS
 **[IMAGE — DIGITAL ACADEMIC RECORDS AND VERIFICATION FLOW]**
@@ -1074,7 +1302,12 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 3. **Function:** Enrollment and Degree Verification → **Platform:** National Student Clearinghouse
 4. **Function:** Recognition → **Platform:** Merit Pages
 5. **Function:** Portfolio Evidence → **Platform:** PebblePad
-**Student Enrollment → Classe365 → Academic Progress and Degree Audit → Official Record → Registrar → Parchment Transcripts / National Student Clearinghouse Verification**
+**Student Enrollment  
+→ Classe365  
+→ Academic Progress and Degree Audit  
+→ Official Record  
+→ Registrar  
+→ Parchment Transcripts / National Student Clearinghouse Verification**
 **[ICON — OFFICIAL TRANSCRIPT]**
 **Student or Graduate → Request Transcript → Parchment → Institutional Processing → Delivery → Recipient**
 **[BUTTON 11-H02 — REQUEST TRANSCRIPT → PARCHMENT]**
@@ -1110,7 +1343,10 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 **[BUTTON 11-H11 — FUNDING → 12.5]**
 ## IX. PUBLIC INSTITUTIONAL TECHNOLOGY MODEL
 [DIAGRAM — PUBLIC WEBSITE CONNECTED TO STUDENT SERVICES]
-**Webflow → SuiteDash → Classe365 → Parchment + National Student Clearinghouse + LearnWorlds + Cengage MindTap + PebblePad + ProctorU + Tutor.com + PeopleGrove CORE + Experience Hub + CompMS + Symplicity CSM + TouchNet + Regent Education + Merit Pages**
+**Webflow  
+→ SuiteDash  
+→ Classe365  
+→ Parchment + National Student Clearinghouse + LearnWorlds + Cengage MindTap + PebblePad + ProctorU + Tutor.com + PeopleGrove CORE + Experience Hub + CompMS + Symplicity CSM + TouchNet + Regent Education + Merit Pages**
 1. **Function:** Virtual Meetings → **Platform:** Microsoft Teams
 2. **Function:** Productivity → **Platform:** Microsoft 365
 3. **Function:** Internal Working Documents → **Platform:** OneDrive
@@ -1122,11 +1358,29 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 **[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. COMPLETE PUBLIC-FACING SYSTEM FLOW AND RECORDS
-**Webflow — Public Website → SuiteDash — Main Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Academic Records, Degree Audit, Alumni.**
-**Connected services:** Parchment — Official Transcripts • National Student Clearinghouse — Enrollment and Degree Verification • LearnWorlds — Courses and Assessments • Cengage MindTap — Digital Courseware • PebblePad — Portfolios and Evidence • ProctorU — Exam Proctoring • Tutor.com — Supplemental Tutoring • PeopleGrove CORE + Experience Hub + CompMS — Experiential • Symplicity CSM — Career • TouchNet — Student Finance • Regent Education — Financial Aid • Merit Pages — Institutional Recognition.
+**Webflow — Public Website  
+→ SuiteDash — Main Portal, Community, Documents, Forms, Support  
+→ Classe365 — Admissions, SIS, Academic Records, Degree Audit, Alumni.**
+**Connected services:** Parchment — Official Transcripts  
+• National Student Clearinghouse — Enrollment and Degree Verification  
+• LearnWorlds — Courses and Assessments  
+• Cengage MindTap — Digital Courseware  
+• PebblePad — Portfolios and Evidence  
+• ProctorU — Exam Proctoring  
+• Tutor.com — Supplemental Tutoring  
+• PeopleGrove CORE + Experience Hub + CompMS — Experiential  
+• Symplicity CSM — Career  
+• TouchNet — Student Finance  
+• Regent Education — Financial Aid  
+• Merit Pages — Institutional Recognition.
 ### Registrar Flows
 **Student or Graduate → Request Official Transcript → Parchment → Applicable Institutional Processing → Official Transcript Delivery → Authorized Recipient.**
-**Student or Graduate Record → Classe365 → Applicable Institutional Reporting → National Student Clearinghouse → Authorized Verification Request → Enrollment or Degree Verification.**
+**Student or Graduate Record  
+→ Classe365  
+→ Applicable Institutional Reporting  
+→ National Student Clearinghouse  
+→ Authorized Verification Request  
+→ Enrollment or Degree Verification.**
 **Academic Milestone → Institutional Review → Merit Pages → Applicable Recognition.**
 ### Document and Support Flows
 **Institutional Document → Review and Approval → SuiteDash Document / Resource Management → Applicable Access Permissions → Authorized User.**
@@ -1152,7 +1406,18 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
 **[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
 **Webflow — Public Website → SuiteDash — Portal, Community, Documents, Forms, Support → Classe365 — Admissions, SIS, Records, Degree Audit, Alumni**
-**Parchment — Official Transcripts • National Student Clearinghouse — Enrollment and Degree Verification • LearnWorlds — Courses • Cengage MindTap — Courseware • PebblePad — Portfolios • ProctorU — Proctoring • Tutor.com — Tutoring • PeopleGrove CORE + Experience Hub + CompMS — Experiential • Symplicity CSM — Careers • TouchNet — Finance • Regent Education — Financial Aid • Merit Pages — Recognition**
+**Parchment — Official Transcripts  
+• National Student Clearinghouse — Enrollment and Degree Verification  
+• LearnWorlds — Courses  
+• Cengage MindTap — Courseware  
+• PebblePad — Portfolios  
+• ProctorU — Proctoring  
+• Tutor.com — Tutoring  
+• PeopleGrove CORE + Experience Hub + CompMS — Experiential  
+• Symplicity CSM — Careers  
+• TouchNet — Finance  
+• Regent Education — Financial Aid  
+• Merit Pages — Recognition**
 **[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
 
 
@@ -1168,7 +1433,16 @@ RIAH Pathway connects academic administration, curriculum, student support, fina
 # YOUR PREVIOUS EDUCATION CAN HELP SHAPE YOUR NEXT PATHWAY.
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
 ## II. TRANSFER FLOW
-**Explore Transfer Pathway → Review Eligibility → Submit Records → Transfer Evaluation → Applicable Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
+**Explore Transfer Pathway  
+→ Review Eligibility  
+→ Submit Records  
+→ Transfer Evaluation  
+→ Applicable Credit Determination  
+→ Admission  
+→ Enrollment  
+→ Transfer Kit  
+→ Orientation  
+→ Active Student**
 ## III. TRANSFER CREDIT MAXIMUMS
 1. **Credential:** Associate's → **Maximum Transfer Credit:** 30
 2. **Credential:** Bachelor's → **Maximum Transfer Credit:** 60
@@ -1199,7 +1473,16 @@ Transfer students receive applicable transfer materials. After admissions and en
 **[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## X. COMPLETE TRANSFER ELIGIBILITY AND STUDENT FLOW
-**Explore Transfer Pathway → Review Eligibility → Submit Records → Transfer Evaluation → Applicable Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student.**
+**Explore Transfer Pathway  
+→ Review Eligibility  
+→ Submit Records  
+→ Transfer Evaluation  
+→ Applicable Credit Determination  
+→ Admission  
+→ Enrollment  
+→ Transfer Kit  
+→ Orientation  
+→ Active Student.**
 1. **Credential:** Associate's → **Maximum Transfer Credit:** 30
 2. **Credential:** Bachelor's → **Maximum Transfer Credit:** 60
 3. **Credential:** MBA → **Maximum Transfer Credit:** 9
@@ -1221,7 +1504,16 @@ Transfer students receive applicable transfer materials. After admissions and en
 
 ## XI. TRANSFER STUDENTS OVERVIEW
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
-**Explore Transfer → Review Eligibility → Submit Records → $500 Transfer Evaluation → Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
+**Explore Transfer  
+→ Review Eligibility  
+→ Submit Records  
+→ $500 Transfer Evaluation  
+→ Credit Determination  
+→ Admission  
+→ Enrollment  
+→ Transfer Kit  
+→ Orientation  
+→ Active Student**
 **[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
 
 
@@ -1413,7 +1705,10 @@ Transfer students receive applicable transfer materials. After admissions and en
 8. **ID:** 11-E08 → **Platform:** PebblePad → **Purpose:** Portfolios → **Status:** Institutional endpoint to attach / verify
 9. **ID:** 11-E09 → **Platform:** Shopify → **Purpose:** Products → **Status:** Institutional endpoint to attach / verify
 10. **ID:** 11-E10 → **Platform:** Parchment → **Purpose:** Official Transcripts → **Status:** Institutional endpoint to attach / verify
-11. **ID:** 11-E11 → **Platform:** National Student Clearinghouse → **Purpose:** Enrollment Verification → **Status:** Institutional endpoint to attach / verify
+11. **ID:** 11-E11  
+→ **Platform:** National Student Clearinghouse  
+→ **Purpose:** Enrollment Verification  
+→ **Status:** Institutional endpoint to attach / verify
 12. **ID:** 11-E12 → **Platform:** National Student Clearinghouse → **Purpose:** Degree Verification → **Status:** Institutional endpoint to attach / verify
 ## VI. DOWNLOAD ROUTING
 1. **ID:** 11-D01 → **Download:** Admissions Guide → **Status:** TO ATTACH
@@ -1557,7 +1852,10 @@ Transfer students receive applicable transfer materials. After admissions and en
 
 # 👑 APPROVED ADMISSIONS STUDENT EXPERIENCE — 15-STAGE ADDENDUM
 
-**Status:** Approved student-facing updates. This addendum preserves all preceding original draft content verbatim. Where an earlier draft describes a different platform, fee, deadline, or student-experience sequence, the explicitly labeled updates below supersede only that conflicting detail. This is a working website wireframe; unfinalized product mockups remain concepts.
+**Status:** Approved student-facing updates.  
+This addendum preserves all preceding original draft content verbatim.  
+Where an earlier draft describes a different platform, fee, deadline, or student-experience sequence, the explicitly labeled updates below supersede only that conflicting detail.  
+This is a working website wireframe; unfinalized product mockups remain concepts.
 
 **[IMAGE — RIAH PATHWAY COMPLETE 15-STAGE ADMISSIONS-TO-ALUMNI FLOW; RED, BLACK, WHITE, GOLD CROWN; DISTINCT DIGITAL, PHYSICAL AND COMMUNITY ICONS]**
 **[ICON — MONTHLY ADMISSIONS CALENDAR]**
@@ -1610,7 +1908,8 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Required deposit:** $1,000 total = $500 institutional deposit portion + $500 allocation toward the Welcome Experience, applicable materials and software.
 **Sequence:** Enrollment commitment → deposit deadline → payment → seat/cohort confirmation → Welcome Kit preparation and delivery.
 **Welcome Kit restriction:** The full Welcome Kit is not shipped until the required deposit has been paid.
-**Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first deposit deadline or forfeit their reserved seat. Vacancies are offered to other eligible/selected applicants with a second deadline; continue until capacity is reached.
+**Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first deposit deadline or forfeit their reserved seat.  
+Vacancies are offered to other eligible/selected applicants with a second deadline; continue until capacity is reached.
 **Academic cohort timing:** A student missing the applicable academic cohort deadline may enter a subsequent monthly cohort after satisfying requirements.
 **Materials received:** Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice.
 **[ICON — $1,000 DEPOSIT; $500 DEPOSIT + $500 MATERIALS]**
@@ -1622,15 +1921,19 @@ Transfer students receive applicable transfer materials. After admissions and en
 **Schools:** Business; Technology; Law; Homeland Security. School robes, scarves, bags and other items may have distinct school colors; visual designs remain concept-stage.
 **Pathways/levels:** High School, GED, Associate's, Bachelor's, JD, Non-JD and applicable programs.
 **Concept materials received:** Branded Welcome Box and letter; school robe, scarf, backpack/bag and gear; applicable books, workbooks, journals, planners, pathway/major materials, orientation workbook, cohort and student-success materials, ID/badge concepts, applicable software/materials.
-**Transfer branch:** High School, GED, Associate's, Bachelor's, JD and Non-JD transfer entrants receive a transfer-specific welcome letter, transfer materials, orientation/credit-pathway information and resources, plus the standard personalized Welcome Experience. Transfer students then follow the same orientation, cohort, active student, graduation and alumni flow.
+**Transfer branch:** High School, GED, Associate's, Bachelor's, JD and Non-JD transfer entrants receive a transfer-specific welcome letter, transfer materials, orientation/credit-pathway information and resources, plus the standard personalized Welcome Experience.  
+Transfer students then follow the same orientation, cohort, active student, graduation and alumni flow.
 **[IMAGE — WELCOME BOX, ROBE, SCARF, BAG, BOOKS AND ORIENTATION MATERIALS]**
 **[IMAGE — TRANSFER STUDENT BRANCH REJOINS STANDARD STUDENT JOURNEY]**
 
 ## 09 🧭 ONE-WEEK VIRTUAL ORIENTATION, ONBOARDING & TRAINING
 **Delivery:** Digital + Physical + Community. **Duration:** One full week, virtually.
-**Training Pillar:** Supports academic ecosystem orientation, experiential preparation, and applicable JD/Non-JD supervision training. Students already have physical orientation materials in their Welcome Kits and also receive digital training materials.
+**Training Pillar:** Supports academic ecosystem orientation, experiential preparation, and applicable JD/Non-JD supervision training.  
+Students already have physical orientation materials in their Welcome Kits and also receive digital training materials.
 **Academic training (all applicable academic pathways):** Institutional identity/dynasty, school and program expectations, navigating student resources and systems, academic policies, where to find support, opportunities, student organizations, honor societies, ambassadors, leadership, milestones, cohort communities and peer/buddy connections.
-**Experiential training (all four schools and all experiential durations):** Shared cohort orientation plus school/program/assignment-specific breakout sessions. Examples: Business/Finance and Law/Criminal Justice. Training includes expectations, materials, placements and introductions to assigned supervisor, manager and reviewer.
+**Experiential training (all four schools and all experiential durations):** Shared cohort orientation plus school/program/assignment-specific breakout sessions.  
+Examples: Business/Finance and Law/Criminal Justice.  
+Training includes expectations, materials, placements and introductions to assigned supervisor, manager and reviewer.
 **JD / Non-JD:** Applicable law-pathway supervision training, assigned law supervisor, placement/assignment details, expectations and resources.
 **Assignments communicated during onboarding:** Experiential placement, supervisor, manager, reviewer and start details; JD/Non-JD supervisor and applicable assignment information.
 **Materials received:** Orientation workbook, handbook, guide, digital training resources, planners/checklists, policies, student-success and school/program materials, cohort information and buddy details.
@@ -1691,9 +1994,25 @@ Transfer students receive applicable transfer materials. After admissions and en
 
 ## 📅 MONTHLY ADMISSIONS & COHORT CYCLE
 **[ICON — MONTHLY CALENDAR]**
-**All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry. This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation. Accreditation or Title IV participation must not be represented as already approved unless separately verified.
+**All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry.  
+This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation.  
+Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
-**Application + $50 fee → Monthly deadline → Academic review / blind experiential selection → Acceptance → Enrollment commitment → $1,000 deposit deadline → Seat/cohort confirmation → Welcome Kit → One-week virtual orientation/training → School/cohort/buddy community → Applicable experiential/law assignments → Active LMS/program access → Milestones → Graduation → Alumni.**
+**Application + $50 fee  
+→ Monthly deadline  
+→ Academic review / blind experiential selection  
+→ Acceptance  
+→ Enrollment commitment  
+→ $1,000 deposit deadline  
+→ Seat/cohort confirmation  
+→ Welcome Kit  
+→ One-week virtual orientation/training  
+→ School/cohort/buddy community  
+→ Applicable experiential/law assignments  
+→ Active LMS/program access  
+→ Milestones  
+→ Graduation  
+→ Alumni.**
 
 ## 🌐 PUBLIC WEBSITE FLOW — ADMISSIONS
 **[IMAGE — NUMBERED 15-STEP STUDENT JOURNEY WITH EMOJI-STYLE ICONS AND DELIVERY LEGEND]**
@@ -1704,26 +2023,76 @@ Transfer students receive applicable transfer materials. After admissions and en
 5. **#:** 05 ✉️ → **Stage:** Acceptance → **Student-Facing Summary:** Receive digital and mailed acceptance → **Delivery:** Digital + Physical
 6. **#:** 06 ✍️ → **Stage:** Enrollment & Commitment → **Student-Facing Summary:** Accept offer and confirm cohort intentions → **Delivery:** Digital
 7. **#:** 07 💰 → **Stage:** Deposit & Seat Confirmation → **Student-Facing Summary:** Pay $1,000 by deadline; confirm seat → **Delivery:** Digital
-8. **#:** 08 🎁 → **Stage:** Welcome Experience → **Student-Facing Summary:** Receive personalized kit and community information → **Delivery:** Digital + Physical + Community
-9. **#:** 09 🧭 → **Stage:** One-Week Orientation & Training → **Student-Facing Summary:** Academic, experiential and applicable law supervision training; LMS provisioned → **Delivery:** Digital + Physical + Community
-10. **#:** 10 👥 → **Stage:** Cohort, School & Community → **Student-Facing Summary:** School group, cohort group and peer/buddy connection → **Delivery:** Digital + Physical + Community
-11. **#:** 11 🚀 → **Stage:** Active Student Experience → **Student-Facing Summary:** LearnWorlds opens; academics/experiential begin → **Delivery:** Digital + Physical + Community
-12. **#:** 12 📣 → **Stage:** Organizations & Leadership → **Student-Facing Summary:** Ambassadors, honor societies, organizations and leadership → **Delivery:** Digital + Community
-13. **#:** 13 🏆 → **Stage:** Achievements & Milestones → **Student-Facing Summary:** Recognition and qualifying opportunities throughout enrollment → **Delivery:** Digital + Physical + Community
-14. **#:** 14 🎓 → **Stage:** Graduation → **Student-Facing Summary:** Regional in-person or virtual ceremony and materials → **Delivery:** Digital + Physical + Community
-15. **#:** 15 👑 → **Stage:** Alumni & Legacy → **Student-Facing Summary:** Alumni Kit, community, networking and mentorship → **Delivery:** Digital + Physical + Community
+8. **#:** 08 🎁  
+→ **Stage:** Welcome Experience  
+→ **Student-Facing Summary:** Receive personalized kit and community information  
+→ **Delivery:** Digital + Physical + Community
+9. **#:** 09 🧭  
+→ **Stage:** One-Week Orientation & Training  
+→ **Student-Facing Summary:** Academic, experiential and applicable law supervision training; LMS provisioned  
+→ **Delivery:** Digital + Physical + Community
+10. **#:** 10 👥  
+→ **Stage:** Cohort, School & Community  
+→ **Student-Facing Summary:** School group, cohort group and peer/buddy connection  
+→ **Delivery:** Digital + Physical + Community
+11. **#:** 11 🚀  
+→ **Stage:** Active Student Experience  
+→ **Student-Facing Summary:** LearnWorlds opens; academics/experiential begin  
+→ **Delivery:** Digital + Physical + Community
+12. **#:** 12 📣  
+→ **Stage:** Organizations & Leadership  
+→ **Student-Facing Summary:** Ambassadors, honor societies, organizations and leadership  
+→ **Delivery:** Digital + Community
+13. **#:** 13 🏆  
+→ **Stage:** Achievements & Milestones  
+→ **Student-Facing Summary:** Recognition and qualifying opportunities throughout enrollment  
+→ **Delivery:** Digital + Physical + Community
+14. **#:** 14 🎓  
+→ **Stage:** Graduation  
+→ **Student-Facing Summary:** Regional in-person or virtual ceremony and materials  
+→ **Delivery:** Digital + Physical + Community
+15. **#:** 15 👑  
+→ **Stage:** Alumni & Legacy  
+→ **Student-Facing Summary:** Alumni Kit, community, networking and mentorship  
+→ **Delivery:** Digital + Physical + Community
 
 ## 🔄 LIMITED SUPERSEDED TECH STACK REFERENCES — ADMISSIONS ONLY
-1. **Student-facing function:** Applications / admissions → **Superseded reference:** No change → **Current reference:** Classe365 → **Scope:** Retain existing application references
-2. **Student-facing function:** Onboarding / student portal → **Superseded reference:** No change → **Current reference:** SuiteDash → **Scope:** Retain existing onboarding references
-3. **Student-facing function:** Virtual orientation / training / cohort sessions → **Superseded reference:** Zoom → **Current reference:** Microsoft Teams → **Scope:** Use Teams for student-facing virtual sessions
-4. **Student-facing function:** Student school/cohort communities → **Superseded reference:** Slack; Geneva → **Current reference:** SuiteDash → **Scope:** Use SuiteDash for student community
-5. **Student-facing function:** LMS / active course access → **Superseded reference:** No change → **Current reference:** LearnWorlds → **Scope:** Provision during onboarding; open course access at active start
-6. **Student-facing function:** Experiential placement functions → **Superseded reference:** Earlier references if any → **Current reference:** PeopleGrove CORE + Experience Hub + CompMS → **Scope:** Update only existing relevant placement-system mentions
-7. **Student-facing function:** Career services → **Superseded reference:** Earlier references if any → **Current reference:** Symplicity CSM → **Scope:** Update only existing relevant career-service mentions
-8. **Student-facing function:** Student recognition → **Superseded reference:** Earlier references if any → **Current reference:** Merit Pages → **Scope:** Update only existing relevant recognition-system mentions
+1. **Student-facing function:** Applications / admissions  
+→ **Superseded reference:** No change  
+→ **Current reference:** Classe365  
+→ **Scope:** Retain existing application references
+2. **Student-facing function:** Onboarding / student portal  
+→ **Superseded reference:** No change  
+→ **Current reference:** SuiteDash  
+→ **Scope:** Retain existing onboarding references
+3. **Student-facing function:** Virtual orientation / training / cohort sessions  
+→ **Superseded reference:** Zoom  
+→ **Current reference:** Microsoft Teams  
+→ **Scope:** Use Teams for student-facing virtual sessions
+4. **Student-facing function:** Student school/cohort communities  
+→ **Superseded reference:** Slack; Geneva  
+→ **Current reference:** SuiteDash  
+→ **Scope:** Use SuiteDash for student community
+5. **Student-facing function:** LMS / active course access  
+→ **Superseded reference:** No change  
+→ **Current reference:** LearnWorlds  
+→ **Scope:** Provision during onboarding; open course access at active start
+6. **Student-facing function:** Experiential placement functions  
+→ **Superseded reference:** Earlier references if any  
+→ **Current reference:** PeopleGrove CORE + Experience Hub + CompMS  
+→ **Scope:** Update only existing relevant placement-system mentions
+7. **Student-facing function:** Career services  
+→ **Superseded reference:** Earlier references if any  
+→ **Current reference:** Symplicity CSM  
+→ **Scope:** Update only existing relevant career-service mentions
+8. **Student-facing function:** Student recognition  
+→ **Superseded reference:** Earlier references if any  
+→ **Current reference:** Merit Pages  
+→ **Scope:** Update only existing relevant recognition-system mentions
 
-**Technology limitation:** Do not copy the finalized tech-stack document into this wireframe. Do not add internal infrastructure, cybersecurity architecture, private databases, proprietary curriculum systems, or unrelated software. Existing original wireframe source text remains preserved above; this addendum governs only the specifically superseded Admissions student-experience references.
+**Technology limitation:** Do not copy the finalized tech-stack document into this wireframe.  
+Do not add internal infrastructure, cybersecurity architecture, private databases, proprietary curriculum systems, or unrelated software.  
+Existing original wireframe source text remains preserved above; this addendum governs only the specifically superseded Admissions student-experience references.
 
 **[BUTTON — APPLY NOW → CLASSE365]**
 **[BUTTON — PRE-ADMISSIONS → 11.2]**
@@ -1731,3 +2100,34 @@ Transfer students receive applicable transfer materials. After admissions and en
 **[BUTTON — STUDENT EXPERIENCE → 11.5]**
 **[BUTTON — GRADUATION & ALUMNI → 11.6]**
 **[BUTTON — TRANSFER STUDENTS → 11.8]**
+
+
+---
+
+## ADMISSIONS FLOW DIAGRAMS — MERMAID
+
+**[IMAGE — BLACK AND RED ADMISSIONS FLOW DIAGRAMS]**
+
+### FLOW 01 ADMISSIONS TO ALUMNI
+
+![FLOW 01 ADMISSIONS TO ALUMNI](./IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.svg)
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.mmd)
+
+### FLOW 02 EXPERIENTIAL SELECTION AND SEAT
+
+![FLOW 02 EXPERIENTIAL SELECTION AND SEAT](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.svg)
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.mmd)
+
+### FLOW 03 TRANSFER STUDENT JOURNEY
+
+![FLOW 03 TRANSFER STUDENT JOURNEY](./IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY.svg)
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY.mmd)
+
+### FLOW 04 ORIENTATION AND LMS ACCESS
+
+![FLOW 04 ORIENTATION AND LMS ACCESS](./IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS.svg)
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS.mmd)
