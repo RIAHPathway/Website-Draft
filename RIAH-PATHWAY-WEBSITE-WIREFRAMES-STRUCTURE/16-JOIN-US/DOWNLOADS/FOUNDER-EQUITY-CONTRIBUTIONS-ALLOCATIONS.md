@@ -10,6 +10,18 @@
 
 [BUTTON: View Compensation, Equity & Benefits]
 
+[INTERNAL ROUTE: Apply for Internal Equity Team → 16.4.9 — Apply to Join RIAH Pathway → Breezy HR Application (Institutional URL to Configure)]
+
+[DOWNLOAD ROUTE: View Compensation, Equity & Benefits → ./COMPENSATION-EQUITY-BENEFITS.md]
+
+[INTERNAL LINK: Meet the Founder & Leadership → 2.3 — Leadership]
+
+[INTERNAL LINK: Explore Join Our Team → 16.4 — Join Our Team]
+
+[EXTERNAL LINK: Founder GitHub Professional Profile → https://github.com/mariahdominiquerucker]
+
+[EXTERNAL LINK: Founder LinkedIn Professional Profile → https://linkedin.com/in/mariahrucker]
+
 ---
 
 # I. 💰 EQUITY CONTRIBUTION STRUCTURE
@@ -42,6 +54,16 @@ The 48 Pre-Beta internal equity team members collectively contribute toward the 
 [IMAGE: Contribution Pool Allocation Infographic — Illustrate the $300,000 Annual Pool, 48 Internal Equity Team Members, and Eight Funding Categories Using Icons]
 
 [FLOW DIAGRAM: 48 Pre-Beta Equity Team Members → $300,000 Annual Contribution Pool → Approved Organizational Expenses → Pre-Beta Development → Beta Cohort Launch]
+
+[BUTTON: View Accreditation & Authorization → INTERNAL ROUTE 15]
+
+[BUTTON: Explore State Authorization → INTERNAL ROUTE 15.5]
+
+[BUTTON: Review Equity & Four-Year Vesting → DOWNLOAD ./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md]
+
+[INTERNAL LINK: Explore Internal Equity Team Positions → 16.4 — Join Our Team]
+
+[DOWNLOAD: Contribution Pool & Founder Allocation Summary → ./FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md — Current Markdown Wireframe]
 
 ---
 
@@ -77,6 +99,12 @@ The monthly allocation ensures essential living expenses while the Founder conti
 [IMAGE: Founder Monthly Living Expense Infographic — Display Housing, Utilities, Wi-Fi, Phone, Food, Hygiene, Toiletries, and Transportation Using Individual Icons and Dollar Amounts]
 
 [FLOW DIAGRAM: $1,500 Monthly Allocation → Housing + Utilities + Food + Hygiene + Transportation → Essential Living Expenses]
+
+[BUTTON: Review Financial Oversight & Allocation → ON-PAGE SECTION V]
+
+[INTERNAL LINK: Board & Governance → 2.4 — Board & Governance]
+
+[DOWNLOAD: Founder Monthly Living Expense Allocation → Downloadable Allocation Summary — File to Attach; Amounts Must Match Section II]
 
 ---
 
@@ -132,6 +160,14 @@ The Founder will continue developing RIAH Pathway while awaiting final licensing
 
 [FLOW DIAGRAM: Renhill Hiring Confirmation → Educator Licensure Office Approval → Professional Conduct Review → Final License Approval → Daytime Substitute Teaching]
 
+[BUTTON: Review Employment & Licensing Verification → ON-PAGE SECTION III — Supporting Documentation]
+
+[DOWNLOAD: Employment & Licensing Verification Packet → Redacted PDF or ZIP — File to Attach; Do Not Publish Unredacted Screenshots]
+
+[INTERNAL LINK: About Founder & Leadership → 2.3 — Leadership]
+
+[EXTERNAL LINK: Founder Professional Profile → https://linkedin.com/in/mariahrucker]
+
 ---
 
 # IV. 👑 FOUNDER CONTRIBUTIONS & RESPONSIBILITIES
@@ -161,6 +197,16 @@ The Founder contributes leadership, professional skills, management, hiring, tec
 ## Founder Development Schedule
 
 [FLOW DIAGRAM: Daytime Substitute Teaching → Evening & Nighttime RIAH Pathway Development → Weekend & School Off-Day Development → Beta Cohort Launch → Increased Cohort Management]
+
+[BUTTON: View Compensation, Equity & Benefits → DOWNLOAD ./COMPENSATION-EQUITY-BENEFITS.md]
+
+[BUTTON: Review Equity Vesting Terms → DOWNLOAD ./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md]
+
+[BUTTON: Explore Career Opportunities → INTERNAL ROUTE 16.4 — Join Our Team]
+
+[INTERNAL LINK: Executive Leadership Opportunities → 16.4.1 — Executive]
+
+[DOWNLOAD: Internal Team Compensation, Equity & Benefits → ./COMPENSATION-EQUITY-BENEFITS.md]
 
 ---
 
@@ -193,6 +239,16 @@ The Board, CPA, and Attorney oversee monthly allocations, authorization, documen
 [FLOW DIAGRAM: $300,000 Annual Contribution Pool → $18,000 Founder Living Expenses + $282,000 Organizational Expenses]
 
 [FLOW DIAGRAM: Monthly Allocation Approval → Board, CPA & Attorney Oversight → $1,500 Distribution on the 1st of Each Month → Documented Expenses]
+
+[BUTTON: Review Board & Governance → INTERNAL ROUTE 2.4]
+
+[BUTTON: View Accreditation & Authorization → INTERNAL ROUTE 15]
+
+[INTERNAL LINK: Organizational Policies → 17.8 — Policies]
+
+[DOWNLOAD: Founder Equity Contribution Pool & Allocations → ./FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md — Current Markdown Wireframe]
+
+[DOWNLOAD: Equity & Four-Year Vesting Table → ./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md]
 
 ---
 
@@ -261,6 +317,22 @@ ORGANIZATIONAL GROWTH + TEAM EXPANSION
 
 [IMAGE: Pre-Beta to Beta Workforce Expansion — Timeline Showing the 48-Person Internal Equity Team, Contribution Pool, Marketing, Student Deposits, Beta Cohort Launch, and Subsequent Experiential Professional Hiring]
 
+[BUTTON: Explore Pre-Beta Internal Team Opportunities → INTERNAL ROUTE 16.4 — Join Our Team]
+
+[BUTTON: Review Experiential Professional Opportunities → INTERNAL ROUTE 16.4.5 — Experiential Faculty]
+
+[BUTTON: Apply to Join the Internal Equity Team → INTERNAL ROUTE 16.4.9 → EXTERNAL BREEZY HR APPLICATION (Institutional URL to Configure)]
+
+[BUTTON: View At-Scale Staffing & Equity Structure → DOWNLOAD ./RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md]
+
+[INTERNAL LINK: Experiential Programs → 5 — Experiential]
+
+[INTERNAL LINK: Student Admissions & Enrollment → 11 — Admissions]
+
+[DOWNLOAD: All Positions Combined → ./ALL-POSITIONS-COMBINED.md]
+
+[DOWNLOAD: At-Scale Staffing, Assignment & Equity Structure → ./RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md]
+
 ---
 
 # WEBSITE RECRUITMENT & APPLICATION
@@ -279,6 +351,34 @@ Review the Pre-Beta contribution structure, Founder allocations, financial overs
 
 [BUTTON: Explore RIAH Pathway Careers]
 
+[INTERNAL ROUTE: Apply for Internal Equity Team → 16.4.9 — Apply to Join RIAH Pathway → Breezy HR Application (Institutional URL to Configure)]
+
+[DOWNLOAD ROUTE: Review Equity & Compensation → ./COMPENSATION-EQUITY-BENEFITS.md]
+
+[ON-PAGE ROUTE: View Pre-Beta Contribution Pool → SECTION I — Equity Contribution Structure]
+
+[INTERNAL ROUTE: Explore RIAH Pathway Careers → 16.4 — Join Our Team]
+
+[BUTTON: Find Your Fit → INTERNAL ROUTE 16.4.8]
+
+[BUTTON: Contact Human Resources → INTERNAL ROUTE 19.3]
+
+[BUTTON: Express Interest → EXTERNAL SUITEDASH FORM (Institutional URL to Configure)]
+
+[DOWNLOAD: Compensation, Equity & Benefits → ./COMPENSATION-EQUITY-BENEFITS.md]
+
+[DOWNLOAD: Equity & Four-Year Vesting Table → ./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md]
+
+[DOWNLOAD: At-Scale Staffing & Equity Structure → ./RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md]
+
+[EXTERNAL LINK: RIAH Pathway Main Website → https://riahpathway.com]
+
+[EXTERNAL LINK: Founder LinkedIn → https://linkedin.com/in/mariahrucker]
+
+[EXTERNAL LINK: Founder GitHub → https://github.com/mariahdominiquerucker]
+
+[INTERNAL LINK: Recruitment FAQs → 18 — FAQ]
+
 [QR CODE: RIAH Pathway Main Website — RIAHPathway.com]
 
 ---
@@ -296,3 +396,62 @@ Review the Pre-Beta contribution structure, Founder allocations, financial overs
 **Website:** RIAHPathway.com
 
 **POWER. | PEOPLE. | OPPORTUNITY. | WORK. | EQUITY. | RESULTS.**
+
+
+---
+
+# WEBSITE SITEMAP ROUTING, CTA BUTTONS, DOWNLOADS & LINKS — COMBINED REGISTER
+
+| Wireframe Location | Type | CTA, Button, Download or Link | Sitemap Route / Destination | Routing & File Status |
+|---|---|---|---|---|
+| Header — Founder Video | Video | Founder Introduction, Mission, Vision & Ecosystem Goals | Embedded on this page | Founder-created video to upload; playback in place |
+| Header | Button / CTA | Apply for Internal Equity Team | 16.4.9 → Breezy HR | Internal recruitment route; external institutional application URL to configure |
+| Header | Button / Download | View Compensation, Equity & Benefits | `./COMPENSATION-EQUITY-BENEFITS.md` | Existing download file |
+| Header | Internal Link | Meet the Founder & Leadership | 2.3 — Leadership | About page |
+| Header | Internal Link | Explore Join Our Team | 16.4 — Join Our Team | Recruitment page |
+| Header | External Link | Founder GitHub Professional Profile | https://github.com/mariahdominiquerucker | Existing public profile reference |
+| Header | External Link | Founder LinkedIn Professional Profile | https://linkedin.com/in/mariahrucker | Existing public profile reference |
+| I — Equity Contribution Structure | Button / CTA | View Accreditation & Authorization | 15 — Accreditation & Authorization | Internal page |
+| I — Equity Contribution Structure | Button / CTA | Explore State Authorization | 15.5 — State Authorization | Internal subpage |
+| I — Equity Contribution Structure | Button / Download | Review Equity & Four-Year Vesting | `./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md` | Existing download file |
+| I — Equity Contribution Structure | Internal Link | Explore Internal Equity Team Positions | 16.4 — Join Our Team | Recruitment page |
+| I — Equity Contribution Structure | Download | Contribution Pool & Founder Allocation Summary | `./FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md` | Current Markdown document |
+| II — Founder Monthly Living Expenses | Button / CTA | Review Financial Oversight & Allocation | On-page Section V | Scroll within this wireframe |
+| II — Founder Monthly Living Expenses | Internal Link | Board & Governance | 2.4 — Board & Governance | Internal page |
+| II — Founder Monthly Living Expenses | Download | Founder Monthly Living Expense Allocation | File to attach | Downloadable summary not yet supplied |
+| III — Employment & Licensing Verification | Button / CTA | Review Employment & Licensing Verification | On-page Section III | Scroll to screenshot grid |
+| III — Employment & Licensing Verification | Download | Employment & Licensing Verification Packet | Redacted PDF / ZIP — file to attach | Not live until sensitive details are redacted |
+| III — Employment & Licensing Verification | Internal Link | About Founder & Leadership | 2.3 — Leadership | Internal page |
+| III — Employment & Licensing Verification | External Link | Founder Professional Profile | https://linkedin.com/in/mariahrucker | Existing public profile reference |
+| IV — Founder Contributions & Responsibilities | Button / Download | View Compensation, Equity & Benefits | `./COMPENSATION-EQUITY-BENEFITS.md` | Existing download file |
+| IV — Founder Contributions & Responsibilities | Button / Download | Review Equity Vesting Terms | `./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md` | Existing download file |
+| IV — Founder Contributions & Responsibilities | Button / CTA | Explore Career Opportunities | 16.4 — Join Our Team | Internal page |
+| IV — Founder Contributions & Responsibilities | Internal Link | Executive Leadership Opportunities | 16.4.1 — Executive | Recruitment subpage |
+| IV — Founder Contributions & Responsibilities | Download | Internal Team Compensation, Equity & Benefits | `./COMPENSATION-EQUITY-BENEFITS.md` | Existing download file |
+| V — Financial Oversight & Allocation | Button / CTA | Review Board & Governance | 2.4 — Board & Governance | Internal page |
+| V — Financial Oversight & Allocation | Button / CTA | View Accreditation & Authorization | 15 — Accreditation & Authorization | Internal page |
+| V — Financial Oversight & Allocation | Internal Link | Organizational Policies | 17.8 — Policies | Internal subpage |
+| V — Financial Oversight & Allocation | Download | Founder Equity Contribution Pool & Allocations | `./FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md` | Current Markdown document |
+| V — Financial Oversight & Allocation | Download | Equity & Four-Year Vesting Table | `./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md` | Existing download file |
+| VI — Pre-Beta Funding, Revenue & Expansion | Button / CTA | Explore Pre-Beta Internal Team Opportunities | 16.4 — Join Our Team | Internal page |
+| VI — Pre-Beta Funding, Revenue & Expansion | Button / CTA | Review Experiential Professional Opportunities | 16.4.5 — Experiential Faculty | Recruitment subpage |
+| VI — Pre-Beta Funding, Revenue & Expansion | Button / CTA | Apply to Join the Internal Equity Team | 16.4.9 → Breezy HR | External institutional application URL to configure |
+| VI — Pre-Beta Funding, Revenue & Expansion | Button / Download | View At-Scale Staffing & Equity Structure | `./RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md` | Existing download file |
+| VI — Pre-Beta Funding, Revenue & Expansion | Internal Link | Experiential Programs | 5 — Experiential | Internal page |
+| VI — Pre-Beta Funding, Revenue & Expansion | Internal Link | Student Admissions & Enrollment | 11 — Admissions | Internal page |
+| VI — Pre-Beta Funding, Revenue & Expansion | Download | All Positions Combined | `./ALL-POSITIONS-COMBINED.md` | Existing download file |
+| VI — Pre-Beta Funding, Revenue & Expansion | Download | At-Scale Staffing, Assignment & Equity Structure | `./RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md` | Existing download file |
+| Recruitment & Application | Button / CTA | Apply for Internal Equity Team | 16.4.9 → Breezy HR | External institutional application URL to configure |
+| Recruitment & Application | Button / Download | Review Equity & Compensation | `./COMPENSATION-EQUITY-BENEFITS.md` | Existing download file |
+| Recruitment & Application | Button / CTA | View Pre-Beta Contribution Pool | On-page Section I | Scroll within this wireframe |
+| Recruitment & Application | Button / CTA | Explore RIAH Pathway Careers | 16.4 — Join Our Team | Internal page |
+| Recruitment & Application | Button / CTA | Find Your Fit | 16.4.8 — Find Your Fit | Internal recruitment subpage |
+| Recruitment & Application | Button / CTA | Contact Human Resources | 19.3 — Human Resources | Internal contact route |
+| Recruitment & Application | Button / CTA | Express Interest | SuiteDash form | External institutional form URL to configure |
+| Recruitment & Application | Download | Compensation, Equity & Benefits | `./COMPENSATION-EQUITY-BENEFITS.md` | Existing download file |
+| Recruitment & Application | Download | Equity & Four-Year Vesting Table | `./EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md` | Existing download file |
+| Recruitment & Application | Download | At-Scale Staffing & Equity Structure | `./RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md` | Existing download file |
+| Recruitment & Application | QR Code / External Link | RIAH Pathway Main Website | https://riahpathway.com | Existing main website destination |
+| Recruitment & Application | External Link | Founder LinkedIn | https://linkedin.com/in/mariahrucker | Existing public profile reference |
+| Recruitment & Application | External Link | Founder GitHub | https://github.com/mariahdominiquerucker | Existing public profile reference |
+| Recruitment & Application | Internal Link | Recruitment FAQs | 18 — FAQ | Internal page |
