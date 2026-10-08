@@ -718,6 +718,42 @@ Experiential Professionals operate across:
 
 Supervisors, Managers, and Reviewers coordinate with **Experiential Leadership and Academic Faculty** to connect professional experience to education.
 
+## **Join Us Download Alignment — Core Experiential and Academic Faculty Staffing**
+
+The staffing and qualification details below align Experiential operations with the public position postings in **16 Join Us → Downloads → Experiential Positions** and **Academic Faculty Positions**. These position classifications support the existing Experiential structure; they do not change the student placement levels, durations, pricing, supervision requirements, or other provisions in this document.
+
+### **Four-School Core Experiential Professional Allocation**
+
+| School | Core Experiential Professionals | Core Functions | Approved Additional Review Assignment |
+|---|---:|---|---|
+| School of Business | **30** | Manager, Supervisor, Reviewer | Business Certification Review: CPA, CMA, CIA, CFE, IRS Enrolled Agent, CFA, CFP |
+| School of Technology | **30** | Manager, Supervisor, Reviewer | Technology Certification Review: CISA, CISM, CISSP, CRISC, PMP, PgMP, CompTIA, Hack The Box, Microsoft, and other approved technology certifications |
+| School of Homeland Security | **30** | Manager, Supervisor, Reviewer | Homeland Security Certification Review: CLEA, PSP, PCI |
+| School of Law | **30** | Manager, Supervisor, Reviewer | Remote Bar Review covering North, South, East, and West regional assignments |
+| **Total** | **120** | **40 Managers, 40 Supervisors, and 40 Reviewers across the core** | **Additional responsibilities only when approved and assigned** |
+
+**Manager qualifications:** Senior-level, manager-level, or higher professional experience. **Supervisor qualifications:** Manager-level or higher professional experience. **Reviewer qualifications:** At least senior-level professional experience. Each applicant is assigned the function supported by their qualifications. Core Experiential Professional position work is **100% remote**, while student placements continue to follow the separate remote, hybrid, or on-site placement rules already established above.
+
+**Certification Review dual assignments** require the professional to hold the actual assigned certification and have relevant professional experience. **Remote Bar Review dual assignments** require a currently licensed attorney with attorney experience, with an active license maintained during the assignment; a regional reviewer is not automatically required to hold licensure in every jurisdiction of that region.
+
+**Core Experiential Professional equity:** **0.0140%** individual role; **+0.0140%** only for an approved dual-role assignment; **0.0280%** combined when both assignments apply. Existing equity-bearing positions follow their stated **48-month accrual and four-year vesting**, including performance and contribution requirements. Any **additional Experiential Professionals hired as student demand grows** are separate demand-based contract roles, **without RIAH Pathway equity or the internal employee benefits package**, subject to applicable law and their contracts.
+
+### **Academic Faculty Alignment, Growth and Tenure**
+
+| Academic Faculty Group | Designated At-Scale Core Positions | Core Function | Staffing Beyond Core |
+|---|---:|---|---|
+| PhD Academic Faculty | **14** | Faculty-led academic development, validation, curriculum, assessment, academic review, and approved dean assignments | Additional PhD faculty hired on contract as needed |
+| Adjunct Academic Faculty | **14** | Applied instruction, course development, certification or Bar Review support, professional expertise, and approved additional assignments | Additional adjunct faculty hired on contract as needed |
+| **Total Core Academic Faculty** | **28** | **Distinct from the 120 core Experiential Professionals** | **Additional contract positions do not increase the 28 core equity and tenure positions** |
+
+The **14 core PhD and 14 core Adjunct positions**, including beta hires appointed to those core positions, are the designated faculty positions covered by their existing **equity, four-year vesting, employee-benefit eligibility, contribution, and performance requirements**. Core PhD equity is **0.1416% individual** and **0.2832% combined** when an approved dual assignment applies; core Adjunct equity is **approximately 0.100444% individual** and **0.200889% combined** for approved dual assignments. Final awards follow the applicable posting and agreement.
+
+**Four-year core faculty tenure:** Each of the designated **28 core PhD and Adjunct faculty members earns the RIAH Pathway faculty tenure designation after four years**, contingent on completion of the applicable equity vesting, contribution obligations, and required daily, weekly, monthly, and overall performance. The designation is intended to retain their core faculty positions subject to institutional tenure policies, agreements, and law.
+
+**Scalable faculty hiring:** RIAH Pathway hires additional PhD and Adjunct faculty **as student demand in its education pathways increases**, or as required to meet **applicable accreditation, state authorization, licensing, faculty qualification, staffing, or faculty-to-student standards**. Additional hires **beyond the core 14 PhDs and 14 Adjuncts** work **on contract, without RIAH Pathway equity, core faculty tenure, or the employee benefits package**, subject to any applicable legal requirements and individual contracts. These additional contract positions do not alter the existing equity or tenure designations for the 28 core positions.
+
+**Faculty and Experiential collaboration:** PhD faculty provide academic leadership and validation; Adjunct faculty provide applied subject-matter and instructional support; Experiential Managers, Supervisors, and Reviewers maintain real-person supervision, evaluation, and work integration. Academic faculty **remain a separate academic faculty group**, not part of the 120 core Experiential Professional headcount.
+
 ## **Real-Person Experiential Staffing and Work Environment**
 
 At scale, the RIAH Pathway ecosystem is designed to include approximately **225 real people** across the entire ecosystem, including **Experiential Professionals, PhD-qualified faculty, adjunct faculty, the Executive Board of Governance, Experiential Leadership, and other ecosystem roles**.
