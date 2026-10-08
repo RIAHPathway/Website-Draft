@@ -89,6 +89,9 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 4. **11.2.4** — High School — Grades 9–12, transcripts, concurrent coursework
 5. **11.2.5** — GED/HSE — Preparation and 12 college credits
 6. **11.2.6** — Law — J.D., Non-J.D., applicable requirements
+**Under-18 pre-admissions:** Minors may apply to eligible programs. Before Experiential work, obtain signed parent/legal-guardian permission and required forms. Internal RIAH assignments are **remote only**; external approved partners may offer **remote, hybrid, or on-site** placement where minor-work, supervision and jurisdictional rules permit. High school dual enrollment requires **both parent/legal-guardian and guidance counselor approval** before college-course enrollment; prior college coursework may qualify a minor to apply to an eligible degree pathway.
+
+**Formal minor entry** requires the first minor course and its prerequisites (Computer Science: **College Algebra and Principles of Computer Science**). Each Experiential major has both coursework and level-specific experience requirements. **Certification Review and Bar Review are standalone products without RIAH admissions requirements.**
 
 
 **[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
@@ -315,11 +318,12 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-09](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.mmd)
 
-**Pre-admissions:** Year 3 requires completed general education and school core; minors require applicable prerequisites; master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
+**Pre-admissions:** Year 3 requires completed general education and school core; formal admission to a minor requires its first qualifying minor course plus prerequisites (Computer Science: College Algebra and Principles of Computer Science); master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
 **High School:** Initial states Ohio, Florida, Texas; eighth-grade transcripts for students entering ninth grade; grades 9–12 transcripts evaluated for grade, credits, remaining requirements, and eligible concurrent college courses.
 **GED/HSE:** Prior high school record demonstrating noncompletion; online preparation and applicable concurrent college coursework offering 12 college credit hours; authorized state examination.
 **Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each.  
-Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
+Each approved Experiential major requires specific coursework AND verified experience at the requested level. Accounting requires Financial Accounting and Managerial Accounting; Computer Science Experiential requires Introduction to Computer Science; other approved majors require published foundational courses.
+**Under-18 placement:** signed parent/legal-guardian authorization before work; internal remote only; external remote/hybrid/on-site where lawful. High school dual enrollment requires both parental and guidance counselor approval. Certification Review and Bar Review have no admission process.
 
 **[BUTTON — PRE-ADMISSIONS → 11.2]**
 **[BUTTON — APPLICATION → 11.3]**

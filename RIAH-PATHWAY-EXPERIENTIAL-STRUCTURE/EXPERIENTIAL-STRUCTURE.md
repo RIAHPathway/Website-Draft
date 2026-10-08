@@ -300,6 +300,21 @@ Placement is based on the participant's **Experiential pathway, field, major, le
 | **Executive** | **1 Year** | At least one year of Manager-level experience and required prerequisites completed | Executive-level strategy, leadership, oversight, and professional application |
 
 Eligibility for a level does not guarantee a particular placement. RIAH verifies prerequisites, experience, capacity, placement fit, supervision availability, and partner requirements before assignment.
+**Pre-admissions by Experiential major and level:** Every approved major has two required checks: completed **major-specific coursework** and **verified prior experience** required at the selected Experiential level. These standards must be established and documented for every approved major before that major/level is opened for placement.
+
+| Major or Level | Coursework Review | Experience Review |
+|---|---|---|
+| Accounting | Financial Accounting **AND** Managerial Accounting | Verified experience at the selected level |
+| Computer Science | Introduction to Computer Science | Verified experience at the selected level |
+| Every Other Approved Major | Its published major-specific prerequisites | Its published level-specific experience standard |
+| Apprentice | Applicable entry coursework | Little or no previous professional experience |
+| Intern | Foundational coursework/qualifications | Little or no professional experience |
+| Associate | Major prerequisites completed | Some applicable experience |
+| Senior Associate | Major prerequisites completed | At least one year of applicable experience |
+| Manager | Major prerequisites completed | Senior Associate-level experience |
+| Executive | Major prerequisites completed | At least one year of Manager-level experience |
+
+Each major and level's pre-admissions record must specify coursework, experience evidence, supervision and permitted assignment scope; no new majors are implied.
 
 # **III. 🌐 EXPERIENTIAL DELIVERY**
 
@@ -307,16 +322,22 @@ Eligibility for a level does not guarantee a particular placement. RIAH verifies
 |---|---|
 | **United States Student** | Remote, hybrid, or on-site depending on placement |
 | **International Online Student residing outside the United States** | Remote only |
-| **Internal RIAH Placement** | Remote, hybrid, or on-site where applicable |
-| **Employer or Professional Partner Placement** | Remote, hybrid, or on-site where applicable and permitted |
+| **Internal RIAH Placement** | **Remote only**, for all participants |
+| **Employer or Professional Partner Placement** | Remote, hybrid, or on-site when approved and legally permitted |
 
 United States students may participate in paid or unpaid Experiential placements depending on the placement, employer, applicable law, and written placement terms.
+### **Under-18 Participation — Mandatory Parent/Guardian Permission**
+
+Applicants **under 18 are eligible to apply** and may participate when the program, placement and jurisdiction allow. **Before any minor is assigned to or begins Experiential work, their parent or legal guardian must sign the required permission and placement/participation forms.** An application or offer does not replace this prerequisite.
+
+**Internal RIAH Pathway placement is remote only**. Approved **external partner placements may be remote, hybrid, or on-site** only where permitted under laws governing the minor's jurisdiction, age, school attendance, work hours, tasks, required permits, and professional supervision. RIAH and the host must verify the completed authorization forms and restrictions before work starts. These forms do not replace separate guidance counselor approval for high school dual enrollment.
 
 International Online Students residing outside the United States participate remotely and are limited by RIAH policy to unpaid Experiential placements. RIAH does not use the International Online Experiential pathway as U.S. employment or U.S. visa sponsorship. The student's country-of-residence requirements and the legal classification of the activity must still be reviewed before placement.
 
 # **IV. 🏢 INTERNAL PLACEMENT**
 
 Internal Placement provides opportunities throughout eligible **RIAH Pathway ecosystem entities** where legitimate work opportunities are available.
+**All internal Experiential work is remote only** (including meetings, real-work assignments, supervision and reviews); internal hybrid or on-site placements are not offered.
 
 Students perform actual work under the guidance, supervision, management, and review of **internal professionals and Experiential professionals**.
 
@@ -374,6 +395,7 @@ Internal placements involve **actual work that contributes directly to the opera
 # **V. 🤝 EXTERNAL PLACEMENT**
 
 External Placement provides opportunities with **vetted employers, partners, and organizations** aligned with the participant's field, major, Experiential pathway, Experiential level, qualifications, and placement requirements.
+**External placement formats are remote, hybrid, or on-site where lawful.** For a participant under 18, confirm signed parental/legal-guardian forms and all minor-specific work and supervision restrictions before participation.
 
 RIAH vets external employers and Experiential partners to help verify that participating organizations are legitimate and provide legitimate real-work experiences where participants can **learn, contribute, perform actual work, and see the results of their contributions**.
 
@@ -584,7 +606,8 @@ Placement decisions may consider:
 | Applicable coursework | Identifies completed or concurrent courses that relate directly to the placement so assigned work reinforces and applies the knowledge, concepts, methods, and competencies being learned. |
 | Skills | Evaluates demonstrated technical, professional, communication, analytical, leadership, software, research, writing, operational, or other field-specific skills required to perform the proposed assignments successfully. |
 | Placement requirements | Confirms all requirements specific to the placement, which may include eligibility standards, documentation, background or access requirements where lawful and applicable, confidentiality obligations, technology access, professional rules, training, or employer-specific conditions. |
-| Delivery format | Determines whether the approved work can be completed remotely, hybrid, or on-site based on the participant's location, placement duties, employer or entity requirements, legal limitations, technology needs, and supervision structure. |
+| Delivery format | Internal placements are remote only. External placements may be remote, hybrid, or on-site when legal, partner, and supervision requirements allow, including minor-specific restrictions. |
+| Minor authorization | Before assigning work to a minor, verify signed parent/legal-guardian permission, required forms and permits, lawful hours and duties, and appropriate supervision; this is an eligibility gate, not a preferential-selection criterion. |
 | Schedule | Matches participant availability with required work hours, meetings, deadlines, supervision sessions, team schedules, operational needs, and the duration of the selected Experiential level. |
 | Professional supervision | Confirms that qualified Managers, Supervisors, Reviewers, faculty, licensed professionals, employer professionals, or other approved professionals are available to provide the level and type of oversight required for the actual work. |
 | Internal ecosystem needs | Matches internal placements to legitimate current work within RIAH Pathway entities, including operational projects, academic support, technology, products, programs, professional services, nonprofit functions, and other approved ecosystem needs. |
@@ -1003,9 +1026,9 @@ International Online Experiential is not represented as U.S. employment, U.S. wo
 
 # **XXI. 🌐 ACCESSIBILITY AND PLACEMENT FLEXIBILITY**
 
-RIAH uses remote, hybrid, and on-site placement options to expand access for students who may experience geographic, transportation, scheduling, disability-access, family, employment, or other participation barriers.
+RIAH uses **remote-only internal placement** and **remote, hybrid, or on-site external placement** to expand access for students facing geographic, transportation, scheduling, disability-access, family, employment, or other barriers.
 
-Placement format depends on the participant, work, partner, supervision, applicable law, and program requirements.
+External formats depend on the work, partner, supervision, applicable law, and program requirements. For under-18 participants, obtain signed parent/legal-guardian forms and verify jurisdictional work, scheduling, and supervision requirements before work begins.
 
 International Online Students remain remote under the International Online Experiential policy.
 
