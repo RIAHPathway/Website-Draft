@@ -2,9 +2,11 @@
 
 **[SITEMAP WIREFRAME MD — ADMISSIONS-WIREFRAME-MAIN.md]**
 **ONE DYNASTY. INFINITE LEGACIES.**
+
 ## I. GLOBAL WEBSITE HEADER
 
 **[LOGO — RIAH PATHWAY UNIFIED CROWN]**
+
 **[NAVIGATION — 01 HOME  
 • 02 ABOUT  
 • 03 PATHWAY  
@@ -29,9 +31,11 @@
 **[BUTTON 11-M01 — APPLY NOW → CLASSE365]**
 
 **[BUTTON 11-M02 — LOG IN → SUITEDASH]**
+
 ## II. ADMISSIONS HERO & OVERVIEW
 
 **[VIDEO — ADMISSIONS JOURNEY: EXPLORING, APPLYING, ACCEPTANCE, COHORTS, EDUCATION, GRADUATION]**
+
 # FROM INTEREST TO ENROLLMENT. ONE CONNECTED PATH.
 RIAH Pathway provides a structured admissions experience connecting pathway exploration, pre-admissions, eligibility review, applications, documentation, admission decisions, acceptance, enrollment, cohort placement, onboarding, orientation, active student experience, graduation, and alumni engagement.
 **Explore → Select Your Pathway → Review Requirements → Apply → Submit Documentation → Application Review →
@@ -44,6 +48,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
 
 **[BUTTON 11-M05 — PATHWAYS → 03]**
+
 ## III. COMPLETE STUDENT JOURNEY
 1. **Stage:** Interest
    → **Student Experience:** Explore pathways, schools, curriculum, tuition, resources
@@ -92,6 +97,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
    → **Communication:** Digital + Community
 
 **[IMAGE — STUDENT JOURNEY WITH DIGITAL, PHYSICAL, COMMUNITY ICONS]**
+
 ## IV. MONTHLY COHORT MODEL
 
 **[ICON — MONTHLY CALENDAR]**
@@ -113,9 +119,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome → Orientation → Active Student**
 
 **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
+
 ## V. PRE-ADMISSIONS OVERVIEW
 
 **[ICON — ADMISSIONS CHECKLIST]**
+
 # KNOW YOUR PATH BEFORE YOU APPLY.
 1. **Section:** 11.2.1
    → **Category:** General Admissions
@@ -137,20 +145,30 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
    → **Purpose:** J.D., Non-J.D., applicable requirements
 
 **[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
+
 ## VI. APPLICATION OVERVIEW
 
 **[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]**
+
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
 **Classe365 • $50 NON-REFUNDABLE APPLICATION PROCESSING FEE**
-**Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Communications**
+**Student Information
+• Selected Pathway
+• Prior Education
+• Academic History
+• Required Documentation
+• Applicable Pathway Questions
+• Communications**
 **Select Pathway → Review Requirements → Submit Application → Submit Documentation → Application Review → Pathway-Specific Review → Decision → Acceptance**
 
 **[BUTTON 11-M08 — APPLY NOW → CLASSE365]**
 
 **[BUTTON 11-M09 — APPLICATION → 11.3]**
+
 ## VII. ACCEPTANCE & ENROLLMENT OVERVIEW
 
 **[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]**
+
 # WELCOME TO THE PATHWAY.
 **Digital Acceptance + Physical Personalized Acceptance Letter**
 **Student Name • School Identity • Selected Pathway • Institutional Branding • Unified Crown • Acceptance Information • Next Steps**
@@ -159,11 +177,20 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **Admission Offer → Student Commitment → Agreement → Applicable Education Deposit → Enrollment Deadline → Enrollment → Cohort or Seat Confirmation → Welcome**
 
 **[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]**
+
 ## VIII. ONBOARDING & STUDENT EXPERIENCE OVERVIEW
 
 **[IMAGE — RIAH PATHWAY WELCOME KIT]**
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community**
-**Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources**
+**Student ID
+• School Materials
+• Academic Materials
+• Orientation Materials
+• Branded Items
+• Applicable Robe
+• Scarf
+• Bag
+• Student Resources**
 1. **Orientation Area:** Academics
    → **Preparation:** Expectations and resources
 2. **Orientation Area:** Technology
@@ -180,6 +207,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
    → **Preparation:** Career-development resources
 
 **[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
+
 ## IX. GRADUATION & ALUMNI OVERVIEW
 
 **[IMAGE — REGIONAL GRADUATION CEREMONY]**
@@ -188,6 +216,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **Student → Graduate → Classe365 Alumni Record → SuiteDash Alumni Community → Career and Mentorship → Legacy**
 
 **[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]**
+
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
 
 **[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
@@ -198,6 +227,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
     TouchNet — Finance • Regent Education — Financial Aid • Merit Pages — Recognition**
 
 **[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
+
 ## XI. TRANSFER STUDENTS OVERVIEW
 
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
@@ -213,6 +243,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 → Active Student**
 
 **[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
+
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
 
 **[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
@@ -243,6 +274,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M15 — BRAND IDENTITY → 2.6]**
 
 **[BUTTON 11-M16 — STUDENT LIFE → 16.2]**
+
 ## XIII. SUPPORTING RESOURCES
 
 **[ICON — DIGITAL RESOURCE LIBRARY]**
@@ -309,6 +341,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 **[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]**
 **SuiteDash — Authenticated Student Resources, Documents, Policies, Procedures, Guidelines, Forms, Support**
+
 ## XIV. CONTACT ADMISSIONS
 
 **[ICON — ADMISSIONS SUPPORT]**
@@ -321,9 +354,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]**
 
 **[BUTTON 11-M20 — APPLY NOW → CLASSE365]**
+
 ## XV. FINAL CTA
 
 **[CTA BAND — BLACK / RED / GOLD]**
+
 # FIND YOUR PATH. UNDERSTAND THE PROCESS. GET STARTED.
 
 **[BUTTON 11-M21 — PATHWAYS → 03]**
@@ -339,6 +374,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[BUTTON 11-M26 — APPLY NOW → CLASSE365]**
 
 **[BUTTON 11-M27 — TUITION → 12]**
+
 ## XVI. GLOBAL FOOTER
 
 **[LOGO — RIAH PATHWAY]**
@@ -584,3 +620,48 @@ Accreditation or Title IV participation must not be represented as already appro
 ![FLOW 02 EXPERIENTIAL SELECTION AND SEAT](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.svg)
 
 [VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.mmd)
+
+---
+
+## 🔄 LINKED MERMAID FLOW DIAGRAMS
+
+### ADMISSIONS JOURNEY
+
+[MERMAID FLOW — ADMISSIONS-JOURNEY — BLACK AND RED]
+
+```mermaid
+flowchart LR
+    N0["Interest & Inquiry"]
+    N1["Pre-Admissions"]
+    N2["Application"]
+    N3["Review & Selection"]
+    N4["Acceptance"]
+    N5["Enrollment & Commitment"]
+    N6["Deposit & Seat Confirmation"]
+    N7["Welcome Experience"]
+    N8["One-Week Orientation"]
+    N9["Cohort & Community"]
+    N10["Active Student Experience"]
+    N11["Organizations & Leadership"]
+    N12["Achievements & Milestones"]
+    N13["Graduation"]
+    N14["Alumni & Legacy"]
+    N0 --> N1
+    N1 --> N2
+    N2 --> N3
+    N3 --> N4
+    N4 --> N5
+    N5 --> N6
+    N6 --> N7
+    N7 --> N8
+    N8 --> N9
+    N9 --> N10
+    N10 --> N11
+    N11 --> N12
+    N12 --> N13
+    N13 --> N14
+    classDef riah fill:#111111,stroke:#CC0000,color:#FFFFFF,stroke-width:2px;
+    class N0,N1,N2,N3,N4,N5,N6,N7,N8,N9,N10,N11,N12,N13,N14 riah;
+```
+
+[View editable Mermaid diagram](./IMAGES/MERMAIDS/ADMISSIONS-JOURNEY.mmd)
