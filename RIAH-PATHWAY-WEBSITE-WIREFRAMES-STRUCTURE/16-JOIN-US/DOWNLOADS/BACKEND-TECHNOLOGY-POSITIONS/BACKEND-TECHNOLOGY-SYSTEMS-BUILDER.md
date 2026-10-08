@@ -1,7 +1,6 @@
 # BACKEND TECHNOLOGY SYSTEMS BUILDER
 
 **Category:** Backend Technology Team  
-**Individual Role Equity:** **0.25%**
 
 ### Work Model
 **100% remote.**
@@ -15,18 +14,6 @@ Build and maintain RIAH Pathway backend services, APIs, databases, automation, a
 
 ### Preferences
 APIs, databases, automation, AI, cloud, integrations, backend development, workflow engines, or infrastructure.
-
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **0.25%**
-
-**Vesting Individual Equity:** The 0.25% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0625% vests at the completion of each vesting year, and the full 0.25% is vested at the completion of Year 4.**
-
-| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
-|---|---:|---:|
-| Year 1 | **0.0625%** | **0.0625%** |
-| Year 2 | **0.0625%** | **0.125%** |
-| Year 3 | **0.0625%** | **0.1875%** |
-| Year 4 | **0.0625%** | **0.25% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
@@ -44,29 +31,21 @@ Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathwa
 ### Hiring Timeline
 Deadline **October 31, 2026** → Interviews **November 1–15** → Decision **November 16** → Start **December 1, 2026**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 This updated public-facing schedule uses the reconciled at-scale equity award when an older figure elsewhere in this file differs. Equity accrues **monthly for 48 months**, conditional on agreed daily, weekly and monthly performance/contributions. **Year 1, Year 2 and Year 3 are cliff/vesting checkpoints; Year 4 is fully vested.** Prior vested portions remain vested subject to the governing award agreement and law.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Equity Type | Allocation |
+### 💎 Equity Cliff and Vesting
+| Cliff / Vesting | Individual Award |
 |---|---:|
-| Individual | **0.2%** |
-| Dual-Role Add-On | Not applicable |
-| Combined | **0.2%** |
-
-| Cliff / Vesting | Individual Award | Combined Award |
-|---|---:|---:|
-| Approved Equity | 0.2% | 0.2% |
-| Monthly Accrual (÷48) | 0.004167% | 0.004167% |
-| Year 1 Cliff — 25% | 0.05% | 0.05% |
-| Year 2 Cliff — 50% | 0.1% | 0.1% |
-| Year 3 Cliff — 75% | 0.15% | 0.15% |
-| Year 4 — Fully Vested | 0.2% | 0.2% |
+| Approved Equity | 0.2% |
+| Monthly Accrual (÷48) | 0.004167% |
+| Year 1 Cliff — 25% | 0.05% |
+| Year 2 Cliff — 50% | 0.1% |
+| Year 3 Cliff — 75% | 0.15% |
+| Year 4 — Fully Vested | 0.2% |
 
 ### 🩺 Complete Shared Eligible Employee Benefits
 

@@ -19,18 +19,6 @@ Provide attorney or judge supervision for JD and Non-JD law curriculum, supervis
 ### Current Non-JD States
 California, Maine, New York, Vermont, Virginia, Washington, West Virginia.
 
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **0.0025% per approved supervisor**
-
-**Vesting Individual Equity:** The individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.000625% vests at the completion of each vesting year, and the full individual-role equity is vested at the completion of Year 4.**
-
-| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
-|---|---:|---:|
-| Year 1 | **0.000625%** | **0.000625%** |
-| Year 2 | **0.000625%** | **0.00125%** |
-| Year 3 | **0.000625%** | **0.001875%** |
-| Year 4 | **0.000625%** | **0.0025% — Fully Vested** |
-
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
 - **Beta:** **Varies according to the current Contribution Pool structure**
@@ -43,29 +31,21 @@ When RIAH Pathway requires a dedicated work device for the assignment, required 
 ### Hiring Timeline
 **Capacity-based according to student enrollment, state requirements, curriculum demand, and available supervisory capacity.**
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Award | Equity |
+### 💎 Equity Cliff and Vesting
+| Equity Accrual / Vesting | Individual Equity |
 |---|---:|
-| Individual | **0.0025%** |
-| Dual-Role Add-On | Not applicable |
-| Combined | **0.0025%** |
-
-| Equity Accrual / Vesting | Individual Equity | Combined Equity |
-|---|---:|---:|
-| Approved Equity | 0.0025% | 0.0025% |
-| Each Month — Award ÷ 48 | 0.000052% | 0.000052% |
-| Year 1 Cliff — Vested 25% | 0.000625% | 0.000625% |
-| Year 2 Cliff — Vested 50% | 0.00125% | 0.00125% |
-| Year 3 Cliff — Vested 75% | 0.001875% | 0.001875% |
-| Year 4 — Fully Vested 100% | 0.0025% | 0.0025% |
+| Approved Equity | 0.0025% |
+| Each Month — Award ÷ 48 | 0.000052% |
+| Year 1 Cliff — Vested 25% | 0.000625% |
+| Year 2 Cliff — Vested 50% | 0.00125% |
+| Year 3 Cliff — Vested 75% | 0.001875% |
+| Year 4 — Fully Vested 100% | 0.0025% |
 
 ### ⚖️ Supervisor Compensation and Benefits
 

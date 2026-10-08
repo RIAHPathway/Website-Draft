@@ -79,22 +79,6 @@ No separate professional-experience requirement applies to the standard PhD Acad
 ### Dean Dual-Role Assignments
 School of Business, School of Technology, School of Law, School of Homeland Security, School of Diploma, School of GED/HSE.
 
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **0.1416%**  
-**Dual-Role Add-On Equity:** **+0.1416%**  
-**Combined Dual-Role Equity:** **0.2832%**
-
-**Vesting Individual Equity:** The 0.1416% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0354% vests at the completion of each vesting year, and the full 0.1416% individual-role equity is vested at the completion of Year 4.**
-
-**Vesting Dual-Role Equity:** The 0.2832% combined dual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0708% combined equity vests at the completion of each vesting year, and the full 0.2832% combined dual-role equity is vested at the completion of Year 4.**
-
-| Vesting Year | Individual Role Equity Vested | Cumulative Individual Equity | Dual-Role Add-On Vested | Combined Equity Vested That Year | Cumulative Combined Equity |
-|---|---:|---:|---:|---:|---:|
-| Year 1 | **0.0354%** | **0.0354%** | **0.0354%** | **0.0708%** | **0.0708%** |
-| Year 2 | **0.0354%** | **0.0708%** | **0.0354%** | **0.0708%** | **0.1416%** |
-| Year 3 | **0.0354%** | **0.1062%** | **0.0354%** | **0.0708%** | **0.2124%** |
-| Year 4 | **0.0354%** | **0.1416% — Fully Vested** | **0.0354%** | **0.0708%** | **0.2832% — Fully Vested** |
-
 **Contribution Pool:**
 - Pre-Beta: **$520.83 monthly**
 - Beta: **Varies**
@@ -111,21 +95,13 @@ Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathwa
 ### Hiring Timeline
 Deadline **November 30, 2026** → Interviews **December 1–15** → Decision **December 16** → Target Start **January 1, 2027** → Beta **March 1, 2027**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 This updated public-facing schedule uses the reconciled at-scale equity award when an older figure elsewhere in this file differs. Equity accrues **monthly for 48 months**, conditional on agreed daily, weekly and monthly performance/contributions. **Year 1, Year 2 and Year 3 are cliff/vesting checkpoints; Year 4 is fully vested.** Prior vested portions remain vested subject to the governing award agreement and law.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Equity Type | Allocation |
-|---|---:|
-| Individual | **0.1416%** |
-| Dual-Role Add-On | 0.1416% |
-| Combined | **0.2832%** |
-
+### 💎 Equity Cliff and Vesting
 | Cliff / Vesting | Individual Award | Combined Award |
 |---|---:|---:|
 | Approved Equity | 0.1416% | 0.2832% |

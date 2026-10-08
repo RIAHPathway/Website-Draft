@@ -34,27 +34,6 @@ Professionals performing Certification Review must:
 - Hold the **actual certification for the assigned Certification Review**.
 - Have **experience in the professional area connected to that certification**.
 
-### Equity
-- **Individual Role Equity:** **0.0140%**
-- **Dual-Role Add-On Equity:** **+0.0140%**
-- **Combined Dual-Role Equity:** **0.0280%**
-
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **0.0140%**  
-**Dual-Role Add-On Equity:** **+0.0140%**  
-**Combined Dual-Role Equity:** **0.0280%**
-
-**Vesting Individual Equity:** The 0.0140% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0035% vests at the completion of each vesting year, and the full 0.0140% individual-role equity is vested at the completion of Year 4.**
-
-**Vesting Dual-Role Equity:** The 0.0280% combined dual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.0070% combined equity vests at the completion of each vesting year, and the full 0.0280% combined dual-role equity is vested at the completion of Year 4.**
-
-| Vesting Year | Individual Role Equity Vested | Cumulative Individual Equity | Dual-Role Add-On Vested | Combined Equity Vested That Year | Cumulative Combined Equity |
-|---|---:|---:|---:|---:|---:|
-| Year 1 | **0.0035%** | **0.0035%** | **0.0035%** | **0.0070%** | **0.0070%** |
-| Year 2 | **0.0035%** | **0.0070%** | **0.0035%** | **0.0070%** | **0.0140%** |
-| Year 3 | **0.0035%** | **0.0105%** | **0.0035%** | **0.0070%** | **0.0210%** |
-| Year 4 | **0.0035%** | **0.0140% — Fully Vested** | **0.0035%** | **0.0070%** | **0.0280% — Fully Vested** |
-
 **Contribution:** Pre-Beta **$520.83 monthly**; Beta **varies as Experiential Professionals are hired**; Post-Accreditation / At Scale **$595.24 monthly**; due **15th of each month**.
 
 ### Startup Technology Requirement
@@ -67,21 +46,13 @@ Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathwa
 ### Hiring Timeline
 Deadline **November 30, 2026** → Interviews **December 1–15** → Decision **December 16** → Start **January 1, 2027**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Award | Equity |
-|---|---:|
-| Individual | **0.014%** |
-| Dual-Role Add-On | 0.014% |
-| Combined | **0.028%** |
-
+### 💎 Equity Cliff and Vesting
 | Equity Accrual / Vesting | Individual Equity | Combined Equity |
 |---|---:|---:|
 | Approved Equity | 0.014% | 0.028% |

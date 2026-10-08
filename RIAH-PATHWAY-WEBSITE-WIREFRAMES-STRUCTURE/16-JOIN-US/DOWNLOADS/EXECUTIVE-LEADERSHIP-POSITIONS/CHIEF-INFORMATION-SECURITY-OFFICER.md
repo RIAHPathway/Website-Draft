@@ -25,18 +25,6 @@ The CISO leads cybersecurity, information security, infrastructure protection, n
 ### Preferences
 Cybersecurity architecture, security operations, infrastructure security, risk, network security, incident response, or cybersecurity leadership experience.
 
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **1.68%**
-
-**Vesting Individual Equity:** The 1.68% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.42% vests at the completion of each vesting year, and the full 1.68% is vested at the completion of Year 4.**
-
-| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
-|---|---:|---:|
-| Year 1 | **0.42%** | **0.42%** |
-| Year 2 | **0.42%** | **0.84%** |
-| Year 3 | **0.42%** | **1.26%** |
-| Year 4 | **0.42%** | **1.68% — Fully Vested** |
-
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
 - **Beta:** **Varies as Core Experiential Professionals are hired**
@@ -58,29 +46,21 @@ After the first year, the role receives **$5,000 annually — $1,250 quarterly**
 ### Hiring Timeline
 Application Deadline **October 31, 2026** → Interviews **November 1–15** → Decision **November 16** → Start **December 1, 2026** → Beta **March 1, 2027**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Award | Equity |
+### 💎 Equity Cliff and Vesting
+| Equity Accrual / Vesting | Individual Equity |
 |---|---:|
-| Individual | **1.68%** |
-| Dual-Role Add-On | Not applicable |
-| Combined | **1.68%** |
-
-| Equity Accrual / Vesting | Individual Equity | Combined Equity |
-|---|---:|---:|
-| Approved Equity | 1.68% | 1.68% |
-| Each Month — Award ÷ 48 | 0.035% | 0.035% |
-| Year 1 Cliff — Vested 25% | 0.42% | 0.42% |
-| Year 2 Cliff — Vested 50% | 0.84% | 0.84% |
-| Year 3 Cliff — Vested 75% | 1.26% | 1.26% |
-| Year 4 — Fully Vested 100% | 1.68% | 1.68% |
+| Approved Equity | 1.68% |
+| Each Month — Award ÷ 48 | 0.035% |
+| Year 1 Cliff — Vested 25% | 0.42% |
+| Year 2 Cliff — Vested 50% | 0.84% |
+| Year 3 Cliff — Vested 75% | 1.26% |
+| Year 4 — Fully Vested 100% | 1.68% |
 
 ### 🩺 Shared Employee Benefits
 

@@ -1,7 +1,6 @@
 # PROGRAM DIRECTOR — SCHOOL OF HOMELAND SECURITY
 
 **Category:** Program Director  
-**Individual Role Equity:** **0.325%**
 
 ### Work Model
 **100% remote.**
@@ -14,18 +13,6 @@ Coordinate School of HOMELAND SECURITY programs across academic curriculum, Expe
 
 ### Preferences
 Homeland security, intelligence, GRC, physical security, investigations, education, or professional-program operations.
-
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **0.325%**
-
-**Vesting Individual Equity:** The individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.08125% vests at the completion of each vesting year, and the full individual-role equity is vested at the completion of Year 4.**
-
-| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
-|---|---:|---:|
-| Year 1 | **0.08125%** | **0.08125%** |
-| Year 2 | **0.08125%** | **0.1625%** |
-| Year 3 | **0.08125%** | **0.24375%** |
-| Year 4 | **0.08125%** | **0.325% — Fully Vested** |
 
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
@@ -43,29 +30,21 @@ Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathwa
 ### Hiring Timeline
 Deadline **November 30, 2026** → Interviews **December 1–15** → Decision **December 16** → Start **January 1, 2027**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 The reconciled equity allocation below is the current public-facing reference. Monthly equity accrual equals the approved award divided by **48**, subject to performance and contributions under pre-established daily, weekly and monthly goals. Accruals vest at the **Year 1, 2 and 3 cliff/checkpoints**, with the award **fully vested at the end of Year 4**. Already vested equity does not restart. Signed agreements and applicable law control final rights.
 
-### 💎 Individual and Combined Equity
-
-| Equity Type | Allocation |
+### 💎 Equity Cliff and Vesting
+| Cliff and Vesting | Individual Equity |
 |---|---:|
-| Individual Equity | **0.26%** |
-| Dual Role | Not applicable |
-| Combined Equity | **0.26%** |
-
-| Cliff and Vesting | Individual Equity | Combined Equity |
-|---|---:|---:|
-| Approved Total | 0.26% | 0.26% |
-| Monthly Accrual: Award ÷ 48 | 0.005417% | 0.005417% |
-| Year 1 Cliff — 25% | 0.065% | 0.065% |
-| Year 2 Cliff — 50% | 0.13% | 0.13% |
-| Year 3 Cliff — 75% | 0.195% | 0.195% |
-| Year 4 Fully Vested | 0.26% | 0.26% |
+| Approved Total | 0.26% |
+| Monthly Accrual: Award ÷ 48 | 0.005417% |
+| Year 1 Cliff — 25% | 0.065% |
+| Year 2 Cliff — 50% | 0.13% |
+| Year 3 Cliff — 75% | 0.195% |
+| Year 4 Fully Vested | 0.26% |
 
 ### 🩺 Complete Shared Employee Benefits
 

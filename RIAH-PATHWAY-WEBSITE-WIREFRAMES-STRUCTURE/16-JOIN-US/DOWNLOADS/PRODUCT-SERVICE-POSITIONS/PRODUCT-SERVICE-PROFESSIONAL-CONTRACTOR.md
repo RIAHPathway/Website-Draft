@@ -20,38 +20,13 @@ Qualified RIAH Pathway graduates may apply after graduation alongside qualified 
 ### Compensation
 Contract compensation based on product, service, demand, sales, and signed agreement.
 
-### Equity & Contribution Pool
-**No equity. No Contribution Pool requirement.**
-
 ### Technology
 Contractors use technology meeting RIAH Pathway security and service requirements when accessing RIAH Pathway systems.
 
 ### Hiring Timeline
 **Demand-based according to product sales, service utilization, student demand, and operational need.**
 
-
 ---
-
-## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
-
-The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
-
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Award | Equity |
-|---|---:|
-| Individual | **0%** |
-| Dual-Role Add-On | Not applicable |
-| Combined | **0%** |
-
-| Equity Accrual / Vesting | Individual Equity | Combined Equity |
-|---|---:|---:|
-| Approved Equity | 0% | 0% |
-| Each Month — Award ÷ 48 | 0% | 0% |
-| Year 1 Cliff — Vested 25% | 0% | 0% |
-| Year 2 Cliff — Vested 50% | 0% | 0% |
-| Year 3 Cliff — Vested 75% | 0% | 0% |
-| Year 4 — Fully Vested 100% | 0% | 0% |
 
 ### 🛠️ Contractor Compensation & Benefits
 

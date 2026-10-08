@@ -1,7 +1,6 @@
 # ADJUNCT ACADEMIC FACULTY
 
 **Category:** Academic Faculty  
-**Individual Role Equity:** **0.10044%**  
 **Dual-Role Add-On Equity:** **+0.10044%**  
 **Combined Dual-Role Equity:** **0.20088%**
 
@@ -73,22 +72,6 @@ Approved Adjunct dual-role equity reference:
 - **Must have education in the assigned major or an equivalent discipline.**
 - Must have **experience in the major, discipline, or professional area for which they are applying**.
 
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **0.10044%**  
-**Dual-Role Add-On Equity:** **+0.10044%**  
-**Combined Dual-Role Equity:** **0.20088%**
-
-**Vesting Individual Equity:** The 0.10044% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.02511% vests at the completion of each vesting year, and the full 0.10044% individual-role equity is vested at the completion of Year 4.**
-
-**Vesting Dual-Role Equity:** The 0.20088% combined dual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **0.05022% combined equity vests at the completion of each vesting year, and the full 0.20088% combined dual-role equity is vested at the completion of Year 4.**
-
-| Vesting Year | Individual Role Equity Vested | Cumulative Individual Equity | Dual-Role Add-On Vested | Combined Equity Vested That Year | Cumulative Combined Equity |
-|---|---:|---:|---:|---:|---:|
-| Year 1 | **0.02511%** | **0.02511%** | **0.02511%** | **0.05022%** | **0.05022%** |
-| Year 2 | **0.02511%** | **0.05022%** | **0.02511%** | **0.05022%** | **0.10044%** |
-| Year 3 | **0.02511%** | **0.07533%** | **0.02511%** | **0.05022%** | **0.15066%** |
-| Year 4 | **0.02511%** | **0.10044% — Fully Vested** | **0.02511%** | **0.05022%** | **0.20088% — Fully Vested** |
-
 **Contribution Pool:** Pre-Beta **$520.83 monthly**; Beta **varies**; Post-Accreditation / At Scale **$595.24 monthly**; due **15th of each month**.
 
 ### Startup Technology Requirement
@@ -101,21 +84,13 @@ Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathwa
 ### Hiring Timeline
 Deadline **November 30, 2026** → Interviews **December 1–15** → Decision **December 16** → Start **January 1, 2027**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 This updated public-facing schedule uses the reconciled at-scale equity award when an older figure elsewhere in this file differs. Equity accrues **monthly for 48 months**, conditional on agreed daily, weekly and monthly performance/contributions. **Year 1, Year 2 and Year 3 are cliff/vesting checkpoints; Year 4 is fully vested.** Prior vested portions remain vested subject to the governing award agreement and law.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Equity Type | Allocation |
-|---|---:|
-| Individual | **0.100444%** |
-| Dual-Role Add-On | 0.100444% |
-| Combined | **0.200889%** |
-
+### 💎 Equity Cliff and Vesting
 | Cliff / Vesting | Individual Award | Combined Award |
 |---|---:|---:|
 | Approved Equity | 0.100444% | 0.200889% |

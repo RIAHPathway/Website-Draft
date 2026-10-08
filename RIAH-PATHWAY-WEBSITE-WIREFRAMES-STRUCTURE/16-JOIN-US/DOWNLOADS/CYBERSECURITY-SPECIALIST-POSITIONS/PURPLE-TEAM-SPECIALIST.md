@@ -15,18 +15,6 @@ Coordinate Red and Blue Team security functions, validation, testing feedback, c
 ### Preferences
 Red/Blue coordination, security testing, detection engineering, control validation, remediation, or security operations.
 
-### RIAH Pathway Standard Equity Terms for Equity-Bearing Positions
-**Individual Role Equity:** **≈0.373333%**
-
-**Vesting Individual Equity:** The ≈0.373333% individual-role equity accrues monthly throughout each vesting year and is subject to a one-year cliff. **≈0.09333325% vests at the completion of each vesting year, and the full ≈0.373333% is vested at the completion of Year 4.**
-
-| Vesting Year | Equity Vested That Year | Cumulative Vested Equity |
-|---|---:|---:|
-| Year 1 | **≈0.09333325%** | **≈0.09333325%** |
-| Year 2 | **≈0.09333325%** | **≈0.1866665%** |
-| Year 3 | **≈0.09333325%** | **≈0.27999975%** |
-| Year 4 | **≈0.09333325%** | **≈0.373333% — Fully Vested** |
-
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
 - **Beta:** **Varies as Core Experiential Professionals are hired**
@@ -43,29 +31,21 @@ Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathwa
 ### Hiring Timeline
 Deadline **October 31, 2026** → Interviews **November 1–15** → Decision **November 16** → Start **December 1, 2026**.
 
-
 ---
 
 ## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
 
 This updated public-facing schedule uses the reconciled at-scale equity award when an older figure elsewhere in this file differs. Equity accrues **monthly for 48 months**, conditional on agreed daily, weekly and monthly performance/contributions. **Year 1, Year 2 and Year 3 are cliff/vesting checkpoints; Year 4 is fully vested.** Prior vested portions remain vested subject to the governing award agreement and law.
 
-### 💎 Individual, Dual-Role and Combined Equity
-
-| Equity Type | Allocation |
+### 💎 Equity Cliff and Vesting
+| Cliff / Vesting | Individual Award |
 |---|---:|
-| Individual | **0.373333%** |
-| Dual-Role Add-On | Not applicable |
-| Combined | **0.373333%** |
-
-| Cliff / Vesting | Individual Award | Combined Award |
-|---|---:|---:|
-| Approved Equity | 0.373333% | 0.373333% |
-| Monthly Accrual (÷48) | 0.007778% | 0.007778% |
-| Year 1 Cliff — 25% | 0.093333% | 0.093333% |
-| Year 2 Cliff — 50% | 0.186667% | 0.186667% |
-| Year 3 Cliff — 75% | 0.28% | 0.28% |
-| Year 4 — Fully Vested | 0.373333% | 0.373333% |
+| Approved Equity | 0.373333% |
+| Monthly Accrual (÷48) | 0.007778% |
+| Year 1 Cliff — 25% | 0.093333% |
+| Year 2 Cliff — 50% | 0.186667% |
+| Year 3 Cliff — 75% | 0.28% |
+| Year 4 — Fully Vested | 0.373333% |
 
 ### 🩺 Complete Shared Eligible Employee Benefits
 
