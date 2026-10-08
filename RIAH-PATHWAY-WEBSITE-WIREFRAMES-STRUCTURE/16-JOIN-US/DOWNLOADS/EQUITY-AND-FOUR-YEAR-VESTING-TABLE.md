@@ -2,6 +2,8 @@
 
 Monthly equity accrues as **the approved award divided by 48** and is conditioned on performance and contributions against goals agreed upon before the review period. Performance includes daily responsibilities, weekly results, and monthly deliverables. The accrued portion of an award vests at the end of Year 1, Year 2 and Year 3 annual checkpoints, with the award fully vested after Year 4. An earlier vested tranche does not reset when the next year's 12-month accrual period starts.
 
+**Non-core professional contracts — no vesting:** The 168 fixed internal team members and up to 2,000 JD/Non-JD Attorney / Judge supervisors retain their separate existing equity arrangements. Additional PhD/Adjunct faculty, Experiential Managers/Supervisors/Reviewers, Certification/Bar Review professionals, mentors, coaches, live review and other Product and Service professionals are recruited from qualified RIAH Pathway graduates or qualified outside professionals. **These additional positions receive contract compensation only, with 0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**, subject to applicable law.
+
 | Year / Annual Cliff | Accrual Months | Percentage of Award Newly Vested | Cumulative Vested Award |
 |---|---|---:|---:|
 | **Year 1 Cliff** | 1–12 | 25% | **25%** |
@@ -233,7 +235,9 @@ This applies to:
 
 The following positions have **0% organizational equity**, so no equity vesting schedule applies:
 
-- Product & Service Professional Contractor
+- Additional PhD / Adjunct Academic Faculty Contractors
+- Additional Experiential Manager / Supervisor / Reviewer Contractors
+- Certification Review / Bar Review / Mentorship / Coaching / Live Review / Other Product & Service Contractors
 - Board President
 - Board Vice President
 - Board Secretary
