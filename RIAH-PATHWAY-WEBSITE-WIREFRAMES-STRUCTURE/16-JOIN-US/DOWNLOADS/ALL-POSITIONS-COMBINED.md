@@ -274,3 +274,23 @@ The Board of Governance provides governance, fiduciary, administrative, financia
 | Board Secretary | 0% | [BOARD-SECRETARY.md](./BOARD-OF-GOVERNANCE-POSITIONS/BOARD-SECRETARY.md) |
 | Board Treasurer | 0% | [BOARD-TREASURER.md](./BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TREASURER.md) |
 | Board Trustee | 0% | [BOARD-TRUSTEE.md](./BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TRUSTEE.md) |
+
+### Board Governance, Contributions & Financial Transparency
+
+RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization).**
+
+**Board Members:** Founder and Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee.
+
+**Financial Responsibilities:**
+- **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
+- **Contribution Pool:** 168 internal team members, expanding to 2,168 participants at scale, including 2,000 JD and non-JD supervisors.
+- **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
+- **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
+
+**Meetings & Transparency:**
+- Monthly Board financial reviews and quarterly formal Board meetings.
+- Executive Team attends Board meetings, receives meeting minutes, and distributes financial reports to internal team members.
+- Equity holders and future investors receive contribution, donation, accreditation, and expenditure reports.
+- Internal audits conducted internally; independent external CPA firm audits Corporate, Institutional, and Foundation operations.
+
+**Purpose:** Independent financial oversight, conflict-of-interest prevention, and transparency regarding how contributions are collected, authorized, and distributed.
