@@ -57,3 +57,70 @@ After the first year, the role receives **$5,000 annually — $1,250 quarterly**
 
 ### Hiring Timeline
 Application Deadline **October 31, 2026** → Interviews **November 1–15** → Decision **November 16** → Start **December 1, 2026** → Beta **March 1, 2027**.
+
+
+---
+
+## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
+
+The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
+
+### 💎 Individual, Dual-Role and Combined Equity
+
+| Award | Equity |
+|---|---:|
+| Individual | **1.68%** |
+| Dual-Role Add-On | Not applicable |
+| Combined | **1.68%** |
+
+| Equity Accrual / Vesting | Individual Equity | Combined Equity |
+|---|---:|---:|
+| Approved Equity | 1.68% | 1.68% |
+| Each Month — Award ÷ 48 | 0.035% | 0.035% |
+| Year 1 Cliff — Vested 25% | 0.42% | 0.42% |
+| Year 2 Cliff — Vested 50% | 0.84% | 0.84% |
+| Year 3 Cliff — Vested 75% | 1.26% | 1.26% |
+| Year 4 — Fully Vested 100% | 1.68% | 1.68% |
+
+### 🩺 Shared Employee Benefits
+
+All benefits-eligible internal positions have the same proposed package, subject to legal eligibility and plan terms. Funding increases by revenue tier independently of stage and equity.
+
+| Shared Benefit | Proposed Coverage |
+|---|---|
+| Medical | Medical insurance, primary/preventive, specialist, emergency, hospital, prescription and eligible family coverage |
+| Dental | Examinations, cleanings, preventive/restorative services and eligible family coverage |
+| Vision | Exams, eyeglasses, contacts and vision specialists |
+| HSA/FSA | HSA, approved employer HSA contribution, healthcare and dependent-care FSA where available |
+| 401(k) | Retirement plan with 100% match on employee contributions up to 4% of eligible pay |
+| Mental Health | Counseling, therapy, virtual mental health and Employee Assistance Program |
+| Gym/Wellness | Gym, fitness allowance, wellness stipend, prevention programs |
+| Life/Disability | Group life and short-/long-term disability |
+| Paid Leave | PTO, sick, holidays, parental and applicable family/medical leave |
+| Education | $0 internal eligible tuition, 50% product discount, certification preparation and professional development |
+| Technology | Position-based remote work, technology support, training and recognition |
+
+### 💰 Individual Compensation by Revenue Tier — Percentages Only
+
+Beta is lowest, Pre-Accreditation middle, Post-Accreditation highest. At $1 million or below allocations are equal among the 168 internal roles; above $1 million, weight **95/5,963** determines the individual's share of eligible internal revenue.
+
+| Eligible Internal Revenue | Beta | Pre-Accreditation | Post-Accreditation | Employer Benefits |
+|---|---:|---:|---:|---:|
+| $0 | 0% | 0% | 0% | 0% |
+| $50K | 0.14881% | 0.178571% | 0.208333% | 0% |
+| $100K | 0.14881% | 0.178571% | 0.208333% | 0% |
+| $500K | 0.14881% | 0.178571% | 0.208333% | 0% |
+| $1M | 0.14881% | 0.178571% | 0.208333% | 10% |
+| $2M | 0.424842% | 0.5045% | 0.584158% | 20% |
+| $3M | 0.451395% | 0.531053% | 0.61071% | 30% |
+| $4M | 0.477947% | 0.557605% | 0.637263% | 40% |
+| $5M | 0.5045% | 0.584158% | 0.663816% | 50% |
+| $6M | 0.531053% | 0.61071% | 0.690368% | 60% |
+| $7M | 0.557605% | 0.637263% | 0.716921% | 70% |
+| $8M | 0.584158% | 0.663816% | 0.743474% | 80% |
+| $9M | 0.61071% | 0.690368% | 0.770026% | 90% |
+| $10M | 0.637263% | 0.716921% | 0.796579% | 100% |
+| $50M | 0.637263% | 0.716921% | 0.796579% | 100% |
+| $100M | 0.637263% | 0.716921% | 0.796579% | 100% |
+| $500M | 0.637263% | 0.716921% | 0.796579% | 100% |
+| $1B | 0.637263% | 0.716921% | 0.796579% | 100% |

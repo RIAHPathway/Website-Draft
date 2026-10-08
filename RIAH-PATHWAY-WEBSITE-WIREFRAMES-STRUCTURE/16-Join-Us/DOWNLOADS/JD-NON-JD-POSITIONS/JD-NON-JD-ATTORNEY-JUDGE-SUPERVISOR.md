@@ -42,3 +42,66 @@ When RIAH Pathway requires a dedicated work device for the assignment, required 
 
 ### Hiring Timeline
 **Capacity-based according to student enrollment, state requirements, curriculum demand, and available supervisory capacity.**
+
+
+---
+
+## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
+
+The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
+
+### 💎 Individual, Dual-Role and Combined Equity
+
+| Award | Equity |
+|---|---:|
+| Individual | **0.0025%** |
+| Dual-Role Add-On | Not applicable |
+| Combined | **0.0025%** |
+
+| Equity Accrual / Vesting | Individual Equity | Combined Equity |
+|---|---:|---:|
+| Approved Equity | 0.0025% | 0.0025% |
+| Each Month — Award ÷ 48 | 0.000052% | 0.000052% |
+| Year 1 Cliff — Vested 25% | 0.000625% | 0.000625% |
+| Year 2 Cliff — Vested 50% | 0.00125% | 0.00125% |
+| Year 3 Cliff — Vested 75% | 0.001875% | 0.001875% |
+| Year 4 — Fully Vested 100% | 0.0025% | 0.0025% |
+
+### ⚖️ Supervisor Compensation and Benefits
+
+Each stage's percentage is a **total supervision revenue pool** distributed across eligible supervisors. Same benefit categories as the shared package may be offered under a **separately funded and approved supervisor plan**; targets are not guarantees.
+
+| Eligible Supervision Revenue | Beta Pool | Pre-Accreditation Pool | Post-Accreditation Pool | Benefits |
+|---|---:|---:|---:|---:|
+| $0 | 0% | 0% | 0% | 0% |
+| $50K | 25% | 30% | 35% | 0% |
+| $100K | 25% | 30% | 35% | 0% |
+| $500K | 25% | 30% | 35% | 0% |
+| $1M | 25% | 30% | 35% | 10% |
+| $2M | 25% | 30% | 35% | 20% |
+| $3M | 25% | 30% | 35% | 30% |
+| $4M | 25% | 30% | 35% | 40% |
+| $5M | 25% | 30% | 35% | 50% |
+| $6M | 25% | 30% | 35% | 60% |
+| $7M | 25% | 30% | 35% | 70% |
+| $8M | 25% | 30% | 35% | 80% |
+| $9M | 25% | 30% | 35% | 90% |
+| $10M | 25% | 30% | 35% | 100% |
+| $50M | 25% | 30% | 35% | 100% |
+| $100M | 25% | 30% | 35% | 100% |
+| $500M | 25% | 30% | 35% | 100% |
+| $1B | 25% | 30% | 35% | 100% |
+
+| Shared Benefit | Proposed Coverage |
+|---|---|
+| Medical | Medical insurance, primary/preventive, specialist, emergency, hospital, prescription and eligible family coverage |
+| Dental | Examinations, cleanings, preventive/restorative services and eligible family coverage |
+| Vision | Exams, eyeglasses, contacts and vision specialists |
+| HSA/FSA | HSA, approved employer HSA contribution, healthcare and dependent-care FSA where available |
+| 401(k) | Retirement plan with 100% match on employee contributions up to 4% of eligible pay |
+| Mental Health | Counseling, therapy, virtual mental health and Employee Assistance Program |
+| Gym/Wellness | Gym, fitness allowance, wellness stipend, prevention programs |
+| Life/Disability | Group life and short-/long-term disability |
+| Paid Leave | PTO, sick, holidays, parental and applicable family/medical leave |
+| Education | $0 internal eligible tuition, 50% product discount, certification preparation and professional development |
+| Technology | Position-based remote work, technology support, training and recognition |
