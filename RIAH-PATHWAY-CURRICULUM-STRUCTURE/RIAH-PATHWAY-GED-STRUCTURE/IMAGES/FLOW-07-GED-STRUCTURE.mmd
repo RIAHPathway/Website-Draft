@@ -1,0 +1,25 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED7_0["PROCTORED TEST-OUT"]
+    GED7_1["ATTEMPT 1"]
+    GED7_2["PASS?"]
+    GED7_3["24 HOURS"]
+    GED7_4["ATTEMPT 2"]
+    GED7_5["PASS?"]
+    GED7_6["24 HOURS"]
+    GED7_7["ATTEMPT 3"]
+    GED7_8["PASS?"]
+    GED7_9["COMPLETE RIAH COURSE"]
+    GED7_10["REQUIREMENT SATISFIED"]
+    GED7_0 --> GED7_1
+    GED7_1 --> GED7_2
+    GED7_2 -->|YES| GED7_10
+    GED7_2 -->|NO| GED7_3
+    GED7_3 --> GED7_4
+    GED7_4 --> GED7_5
+    GED7_5 -->|YES| GED7_10
+    GED7_5 -->|NO| GED7_6
+    GED7_6 --> GED7_7
+    GED7_7 --> GED7_8
+    GED7_8 -->|YES| GED7_10
+    GED7_8 -->|NO| GED7_9

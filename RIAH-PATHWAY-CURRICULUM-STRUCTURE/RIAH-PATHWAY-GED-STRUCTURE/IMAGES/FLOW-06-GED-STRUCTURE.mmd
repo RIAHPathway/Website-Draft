@@ -1,0 +1,20 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED6_0["RIAH COURSE / PREPARATION"]
+    GED6_1["PROCTORED ASSESSMENTS"]
+    GED6_2["Placement / Diagnostic"]
+    GED6_3["OA / Objective Assessment"]
+    GED6_4["Checkpoint / Midterm"]
+    GED6_5["Final"]
+    GED6_6["80% MASTERY"]
+    GED6_7["PREPARATION / COURSE REQUIREMENT COMPLETE"]
+    GED6_0 --> GED6_1
+    GED6_1 --> GED6_2
+    GED6_1 --> GED6_3
+    GED6_1 --> GED6_4
+    GED6_1 --> GED6_5
+    GED6_2 --> GED6_6
+    GED6_3 --> GED6_6
+    GED6_4 --> GED6_6
+    GED6_5 --> GED6_6
+    GED6_6 --> GED6_7

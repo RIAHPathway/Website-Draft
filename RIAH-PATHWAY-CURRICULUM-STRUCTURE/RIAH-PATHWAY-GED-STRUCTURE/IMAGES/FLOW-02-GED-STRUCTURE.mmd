@@ -1,0 +1,22 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED2_0["GED / HiSET PREPARATION"]
+    GED2_1["GED 101–104"]
+    GED2_2["12 GED PREPARATION CREDITS"]
+    GED2_3["CONCURRENT GENERAL EDUCATION"]
+    GED2_4["MAT 1010 — 3 CR"]
+    GED2_5["ENG 1010 — 3 CR"]
+    GED2_6["SCI 1010 — 3 CR"]
+    GED2_7["HIS 1010 — 3 CR"]
+    GED2_8["UP TO 12 CORRESPONDING GENERAL EDUCATION CREDITS"]
+    GED2_0 --> GED2_1
+    GED2_1 --> GED2_2
+    GED2_2 -->|+| GED2_3
+    GED2_3 --> GED2_4
+    GED2_3 --> GED2_5
+    GED2_3 --> GED2_6
+    GED2_3 --> GED2_7
+    GED2_4 --> GED2_8
+    GED2_5 --> GED2_8
+    GED2_6 --> GED2_8
+    GED2_7 --> GED2_8

@@ -1,0 +1,25 @@
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED15_0["RIAH PATHWAY SECONDARY SCHOOL"]
+    GED15_1["STUDENT PATHWAY"]
+    GED15_2["HIGH SCHOOL DIPLOMA"]
+    GED15_3["GED / HSE PREPARATION"]
+    GED15_4["Grades 9–12"]
+    GED15_5["GED 101–104"]
+    GED15_6["Transcript + GPA"]
+    GED15_7["12 GED Prep Credits"]
+    GED15_8["Concurrent College-Level Coursework"]
+    GED15_9["Concurrent GE Up to 12 Credits"]
+    GED15_10["HIGH SCHOOL DIPLOMA"]
+    GED15_11["SEPARATE OFFICIAL HSE CREDENTIALING"]
+    GED15_0 --> GED15_1
+    GED15_1 --> GED15_2
+    GED15_1 --> GED15_3
+    GED15_2 --> GED15_4
+    GED15_4 --> GED15_6
+    GED15_6 --> GED15_8
+    GED15_8 --> GED15_10
+    GED15_3 --> GED15_5
+    GED15_5 --> GED15_7
+    GED15_7 --> GED15_9
+    GED15_9 --> GED15_11

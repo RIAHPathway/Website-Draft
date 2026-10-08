@@ -294,14 +294,9 @@ Collections include textbooks, workbooks, journals, planners, review guides, and
 | --- | --- |
 | Edmentum | Edmentum resources are integrated into the RIAH curriculum. |
 
-```mermaid
-flowchart TD
-    GED1_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED1_1["RIAH CURRICULUM + RIAH LEARNING PACKAGE + EDMENTUM ECOSYSTEM + HiSET MATERIALS WHERE APPLICABLE"]
-    GED1_2["GED / HSE PREPARATION"]
-    GED1_0 --> GED1_1
-    GED1_1 --> GED1_2
-```
+![RIAH Curriculum + Edmentum Integration](./IMAGES/FLOW-01-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-GED-STRUCTURE.mmd)
 
 ---
 
@@ -335,29 +330,9 @@ flowchart TD
 | Total Concurrent General Education Opportunity | **Total Concurrent General Education Opportunity: 12 Credits** |
 | General Education | The GED Preparation credits and General Education credits remain academically separate. |
 
-```mermaid
-flowchart TD
-    GED2_0["GED / HiSET PREPARATION"]
-    GED2_1["GED 101–104"]
-    GED2_2["12 GED PREPARATION CREDITS"]
-    GED2_3["CONCURRENT GENERAL EDUCATION"]
-    GED2_4["MAT 1010 — 3 CR"]
-    GED2_5["ENG 1010 — 3 CR"]
-    GED2_6["SCI 1010 — 3 CR"]
-    GED2_7["HIS 1010 — 3 CR"]
-    GED2_8["UP TO 12 CORRESPONDING GENERAL EDUCATION CREDITS"]
-    GED2_0 --> GED2_1
-    GED2_1 --> GED2_2
-    GED2_2 -->|+| GED2_3
-    GED2_3 --> GED2_4
-    GED2_3 --> GED2_5
-    GED2_3 --> GED2_6
-    GED2_3 --> GED2_7
-    GED2_4 --> GED2_8
-    GED2_5 --> GED2_8
-    GED2_6 --> GED2_8
-    GED2_7 --> GED2_8
-```
+![Component 2 — Concurrent General Education](./IMAGES/FLOW-02-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-GED-STRUCTURE.mmd)
 
 ---
 
@@ -378,86 +353,17 @@ flowchart TD
 | **Edmentum Courseware** | General Education instructional content and courseware environment |
 | **State Add-On Learning Package** | Applicable state-specific requirements |
 
-```mermaid
-flowchart TD
-    GED3_0["GED / HSE STUDENT"]
-    GED3_1["RIAH LMS"]
-    GED3_2["RIAH Textbook"]
-    GED3_3["RIAH Workbook"]
-    GED3_4["RIAH Journal"]
-    GED3_5["RIAH Planner"]
-    GED3_6["RIAH Study Guide"]
-    GED3_7["RIAH Review Guide"]
-    GED3_8["EDMENTUM"]
-    GED3_9["GED/HSE Preparation Content"]
-    GED3_10["General Education Courseware"]
-    GED3_11["Assessment / Learning Resources"]
-    GED3_12["HiSET MATERIALS"]
-    GED3_13["Where Applicable"]
-    GED3_0 --> GED3_1
-    GED3_1 --> GED3_2
-    GED3_1 --> GED3_3
-    GED3_1 --> GED3_4
-    GED3_1 --> GED3_5
-    GED3_1 --> GED3_6
-    GED3_1 --> GED3_7
-    GED3_1 --> GED3_8
-    GED3_1 --> GED3_12
-    GED3_8 --> GED3_9
-    GED3_8 --> GED3_10
-    GED3_8 --> GED3_11
-    GED3_12 --> GED3_13
-```
+![3. GED/HSE STUDENT LEARNING PACKAGE](./IMAGES/FLOW-03-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-GED-STRUCTURE.mmd)
 
 ---
 
 # 4. GED / HiSET ACADEMIC FLOW HIERARCHY
 
-```mermaid
-flowchart TD
-    GED4_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED4_1["GED / HSE PATHWAY"]
-    GED4_2["GED 101 — MATHEMATICS"]
-    GED4_3["GED 102 — ENGLISH"]
-    GED4_4["GED 103 — SCIENCE"]
-    GED4_5["GED 104 — SOCIAL STUDIES"]
-    GED4_6["Edmentum"]
-    GED4_7["HiSET Mathematics Alignment Where Applicable"]
-    GED4_8["Edmentum"]
-    GED4_9["HiSET Reading + Writing Alignment Where Applicable"]
-    GED4_10["Edmentum"]
-    GED4_11["HiSET Science Alignment Where Applicable"]
-    GED4_12["Edmentum"]
-    GED4_13["HiSET Social Studies Alignment Where Applicable"]
-    GED4_14["RIAH PROCTORED CHECKPOINTS"]
-    GED4_15["RIAH PROCTORED FINAL"]
-    GED4_16["PREPARATION COMPLETE"]
-    GED4_17["OFFICIAL CREDENTIALING SEPARATE FROM PREPARATION"]
-    GED4_0 --> GED4_1
-    GED4_1 --> GED4_2
-    GED4_1 --> GED4_3
-    GED4_1 --> GED4_4
-    GED4_1 --> GED4_5
-    GED4_2 --> GED4_6
-    GED4_2 --> GED4_7
-    GED4_3 --> GED4_8
-    GED4_3 --> GED4_9
-    GED4_4 --> GED4_10
-    GED4_4 --> GED4_11
-    GED4_5 --> GED4_12
-    GED4_5 --> GED4_13
-    GED4_6 --> GED4_14
-    GED4_7 --> GED4_14
-    GED4_8 --> GED4_14
-    GED4_9 --> GED4_14
-    GED4_10 --> GED4_14
-    GED4_11 --> GED4_14
-    GED4_12 --> GED4_14
-    GED4_13 --> GED4_14
-    GED4_14 --> GED4_15
-    GED4_15 --> GED4_16
-    GED4_16 --> GED4_17
-```
+![4. GED / HiSET ACADEMIC FLOW HIERARCHY](./IMAGES/FLOW-04-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-GED-STRUCTURE.mmd)
 
 ---
 
@@ -487,27 +393,9 @@ flowchart TD
 | --- | --- |
 | Edmentum | **Edmentum Social Studies Pre-Assessment → 80%+ Test-Out OR Social Studies Preparation → RIAH Curriculum → Proctored Checkpoint → Proctored Final → GED 104 Complete** |
 
-```mermaid
-flowchart TD
-    GED5_0["DIAGNOSTIC"]
-    GED5_1["80% TEST-OUT"]
-    GED5_2["PREPARATION / REMEDIATION"]
-    GED5_3["RIAH CURRICULUM"]
-    GED5_4["PROCTORED CHECKPOINT"]
-    GED5_5["80% MINIMUM"]
-    GED5_6["PROCTORED FINAL"]
-    GED5_7["80% MINIMUM"]
-    GED5_8["PREPARATION COMPLETE"]
-    GED5_0 -->|OR| GED5_1
-    GED5_0 -->|OR| GED5_2
-    GED5_1 --> GED5_3
-    GED5_2 --> GED5_3
-    GED5_3 --> GED5_4
-    GED5_4 --> GED5_5
-    GED5_5 --> GED5_6
-    GED5_6 --> GED5_7
-    GED5_7 --> GED5_8
-```
+![GED 104 — Social Studies Preparation](./IMAGES/FLOW-05-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-05-GED-STRUCTURE.mmd)
 
 ---
 
@@ -523,27 +411,9 @@ flowchart TD
 | **Regular Course Final** | **80%** | **Unlimited within semester** | **Proctored** |
 | **OA / Objective Assessment** | Applicable RIAH standard | Applicable course policy | **Proctored** |
 
-```mermaid
-flowchart TD
-    GED6_0["RIAH COURSE / PREPARATION"]
-    GED6_1["PROCTORED ASSESSMENTS"]
-    GED6_2["Placement / Diagnostic"]
-    GED6_3["OA / Objective Assessment"]
-    GED6_4["Checkpoint / Midterm"]
-    GED6_5["Final"]
-    GED6_6["80% MASTERY"]
-    GED6_7["PREPARATION / COURSE REQUIREMENT COMPLETE"]
-    GED6_0 --> GED6_1
-    GED6_1 --> GED6_2
-    GED6_1 --> GED6_3
-    GED6_1 --> GED6_4
-    GED6_1 --> GED6_5
-    GED6_2 --> GED6_6
-    GED6_3 --> GED6_6
-    GED6_4 --> GED6_6
-    GED6_5 --> GED6_6
-    GED6_6 --> GED6_7
-```
+![6. GED / HiSET ASSESSMENT + PROCTORING MODEL](./IMAGES/FLOW-06-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-06-GED-STRUCTURE.mmd)
 
 ---
 
@@ -572,32 +442,9 @@ flowchart TD
 | No academic penalty for unsuccessful test-out | - **No academic penalty for unsuccessful test-out** |
 | After 3 unsuccessful attempts: complete the RIAH course | - **After 3 unsuccessful attempts: complete the RIAH course** |
 
-```mermaid
-flowchart TD
-    GED7_0["PROCTORED TEST-OUT"]
-    GED7_1["ATTEMPT 1"]
-    GED7_2["PASS?"]
-    GED7_3["24 HOURS"]
-    GED7_4["ATTEMPT 2"]
-    GED7_5["PASS?"]
-    GED7_6["24 HOURS"]
-    GED7_7["ATTEMPT 3"]
-    GED7_8["PASS?"]
-    GED7_9["COMPLETE RIAH COURSE"]
-    GED7_10["REQUIREMENT SATISFIED"]
-    GED7_0 --> GED7_1
-    GED7_1 --> GED7_2
-    GED7_2 -->|YES| GED7_10
-    GED7_2 -->|NO| GED7_3
-    GED7_3 --> GED7_4
-    GED7_4 --> GED7_5
-    GED7_5 -->|YES| GED7_10
-    GED7_5 -->|NO| GED7_6
-    GED7_6 --> GED7_7
-    GED7_7 --> GED7_8
-    GED7_8 -->|YES| GED7_10
-    GED7_8 -->|NO| GED7_9
-```
+![Placement/Test-Out Policy](./IMAGES/FLOW-07-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-07-GED-STRUCTURE.mmd)
 
 ---
 
@@ -611,16 +458,9 @@ flowchart TD
 | **GED 104 — Social Studies** | **3** | **HIS 1010 — History** | **3** |
 | **TOTAL** | **12** | **TOTAL** | **12** |
 
-```mermaid
-flowchart TD
-    GED8_0["GED 101–104"]
-    GED8_1["12 GED PREPARATION CREDITS + CONCURRENT GENERAL EDUCATION"]
-    GED8_2["MAT + ENG + SCI + HIS"]
-    GED8_3["UP TO 12 GE CREDITS"]
-    GED8_0 --> GED8_1
-    GED8_1 --> GED8_2
-    GED8_2 --> GED8_3
-```
+![8. GED + GENERAL EDUCATION CONCURRENT ACCELERATION](./IMAGES/FLOW-08-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-08-GED-STRUCTURE.mmd)
 
 ---
 
@@ -633,18 +473,9 @@ flowchart TD
 | **GED 103** | Science Preparation Content | Science | Complete RIAH learning package + proctored assessments |
 | **GED 104** | Social Studies Preparation Content | Social Studies | Complete RIAH learning package + proctored assessments |
 
-```mermaid
-flowchart TD
-    GED9_0["EDMENTUM + HiSET MATERIALS WHERE APPLICABLE"]
-    GED9_1["RIAH CURRICULUM"]
-    GED9_2["RIAH LEARNING PACKAGE"]
-    GED9_3["PROCTORED ASSESSMENTS"]
-    GED9_4["PREPARATION COMPLETE"]
-    GED9_0 --> GED9_1
-    GED9_1 --> GED9_2
-    GED9_2 --> GED9_3
-    GED9_3 --> GED9_4
-```
+![9. EDMENTUM + HiSET PREPARATION MAPPING](./IMAGES/FLOW-09-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-09-GED-STRUCTURE.mmd)
 
 ---
 
@@ -684,18 +515,9 @@ flowchart TD
 | Curriculum | **RIAH Curriculum is not an alternative-credit source.** |
 | Curriculum | Sophia Learning remains an external alternative-credit source and is not embedded within the RIAH curriculum. |
 
-```mermaid
-flowchart TD
-    GED10_0["EXTERNAL CREDIT"]
-    GED10_1["RIAH PROCTORED TEST-OUT"]
-    GED10_2["RIAH EVALUATION"]
-    GED10_3["GENERAL EDUCATION + SCHOOL CORE"]
-    GED10_4["YEAR 3 / MAJOR"]
-    GED10_0 -->|OR| GED10_2
-    GED10_1 -->|OR| GED10_2
-    GED10_2 --> GED10_3
-    GED10_3 --> GED10_4
-```
+![11. PRE-ADMISSION + ALTERNATIVE-CREDIT WINDOW](./IMAGES/FLOW-10-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-10-GED-STRUCTURE.mmd)
 
 ---
 
@@ -716,60 +538,17 @@ flowchart TD
 | --- | --- |
 | Student Eligibility | Students may satisfy applicable requirements through accepted transfer/alternative credit or applicable RIAH proctored placement/test-out assessments. |
 
-```mermaid
-flowchart TD
-    GED11_0["RIAH PATHWAY"]
-    GED11_1["SCHOOL CORE"]
-    GED11_2["School of Business"]
-    GED11_3["School of Technology"]
-    GED11_4["School of Law"]
-    GED11_5["School of Homeland Security"]
-    GED11_6["TRANSFER / ALTERNATIVE CREDIT"]
-    GED11_7["PROCTORED TEST-OUT"]
-    GED11_8["MAXIMUM 3 ATTEMPTS"]
-    GED11_9["NOT PASSED"]
-    GED11_10["COMPLETE RIAH COURSE"]
-    GED11_0 --> GED11_1
-    GED11_1 --> GED11_2
-    GED11_1 --> GED11_3
-    GED11_1 --> GED11_4
-    GED11_1 --> GED11_5
-    GED11_2 --> GED11_6
-    GED11_2 --> GED11_7
-    GED11_3 --> GED11_6
-    GED11_3 --> GED11_7
-    GED11_4 --> GED11_6
-    GED11_4 --> GED11_7
-    GED11_5 --> GED11_6
-    GED11_5 --> GED11_7
-    GED11_6 -->|OR| GED11_8
-    GED11_7 -->|OR| GED11_8
-    GED11_8 --> GED11_9
-    GED11_9 --> GED11_10
-```
+![12. SCHOOL CORE ALTERNATIVE CREDIT + PLACEMENT / TEST-OUT](./IMAGES/FLOW-11-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-11-GED-STRUCTURE.mmd)
 
 ---
 
 # 13. COURSE COMPLETION AFTER TEST-OUT ATTEMPTS
 
-```mermaid
-flowchart TD
-    GED12_0["3 UNSUCCESSFUL PROCTORED TEST-OUT ATTEMPTS"]
-    GED12_1["RIAH COURSE"]
-    GED12_2["RIAH LEARNING PACKAGE + EDMENTUM / APPLICABLE DIGITAL RESOURCES"]
-    GED12_3["PROCTORED CHECKPOINTS"]
-    GED12_4["80% MINIMUM"]
-    GED12_5["PROCTORED FINAL"]
-    GED12_6["80% MINIMUM"]
-    GED12_7["COURSE COMPLETE"]
-    GED12_0 --> GED12_1
-    GED12_1 --> GED12_2
-    GED12_2 --> GED12_3
-    GED12_3 --> GED12_4
-    GED12_4 --> GED12_5
-    GED12_5 --> GED12_6
-    GED12_6 --> GED12_7
-```
+![13. COURSE COMPLETION AFTER TEST-OUT ATTEMPTS](./IMAGES/FLOW-12-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-12-GED-STRUCTURE.mmd)
 
 ---
 
@@ -786,32 +565,9 @@ flowchart TD
 | Proctored | - **Proctored** |
 | Unlimited attempts within the applicable six-month semester | - **Unlimited attempts within the applicable six-month semester** |
 
-```mermaid
-flowchart TD
-    GED13_0["RIAH COURSE"]
-    GED13_1["PROCTORED CHECKPOINT"]
-    GED13_2["80%+"]
-    GED13_3["CONTINUE"]
-    GED13_4["REVIEW + RETAKE"]
-    GED13_5["UNLIMITED WITHIN SEMESTER"]
-    GED13_6["PROCTORED FINAL"]
-    GED13_7["80%+"]
-    GED13_8["COURSE COMPLETE"]
-    GED13_9["REVIEW + RETAKE"]
-    GED13_10["UNLIMITED WITHIN SEMESTER"]
-    GED13_0 --> GED13_1
-    GED13_1 --> GED13_2
-    GED13_2 -->|YES| GED13_3
-    GED13_2 -->|NO| GED13_4
-    GED13_4 --> GED13_5
-    GED13_5 --> GED13_1
-    GED13_3 --> GED13_6
-    GED13_6 --> GED13_7
-    GED13_7 -->|YES| GED13_8
-    GED13_7 -->|NO| GED13_9
-    GED13_9 --> GED13_10
-    GED13_10 --> GED13_6
-```
+![14. REGULAR COURSE CHECKPOINTS + FINALS](./IMAGES/FLOW-13-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-13-GED-STRUCTURE.mmd)
 
 ---
 
@@ -839,24 +595,9 @@ flowchart TD
 | Preparation | RIAH Pathway Secondary School provides the **GED/HSE Preparation pathway**. |
 | Preparation | Preparation and official credentialing remain separate. |
 
-```mermaid
-flowchart TD
-    GED14_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED14_1["GED / HSE PREPARATION"]
-    GED14_2["RIAH CURRICULUM + EDMENTUM + HiSET MATERIALS WHERE APPLICABLE"]
-    GED14_3["RIAH PROCTORED PREPARATION ASSESSMENTS"]
-    GED14_4["PREPARATION COMPLETE"]
-    GED14_5["SEPARATE CREDENTIALING"]
-    GED14_6["APPLICABLE OFFICIAL GED / HSE PROCESS"]
-    GED14_7["OFFICIAL HSE CREDENTIAL UNDER APPLICABLE JURISDICTION REQUIREMENTS"]
-    GED14_0 --> GED14_1
-    GED14_1 --> GED14_2
-    GED14_2 --> GED14_3
-    GED14_3 --> GED14_4
-    GED14_4 --> GED14_5
-    GED14_5 --> GED14_6
-    GED14_6 --> GED14_7
-```
+![16. PREPARATION SEPARATE FROM OFFICIAL CREDENTIALING](./IMAGES/FLOW-14-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-14-GED-STRUCTURE.mmd)
 
 ---
 
@@ -898,32 +639,9 @@ flowchart TD
 | Continuation into RIAH Pathway | - Continuation into RIAH Pathway |
 | Admission to other postsecondary institutions accepting the applicable HSE credential | - Admission to other postsecondary institutions accepting the applicable HSE credential |
 
-```mermaid
-flowchart TD
-    GED15_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED15_1["STUDENT PATHWAY"]
-    GED15_2["HIGH SCHOOL DIPLOMA"]
-    GED15_3["GED / HSE PREPARATION"]
-    GED15_4["Grades 9–12"]
-    GED15_5["GED 101–104"]
-    GED15_6["Transcript + GPA"]
-    GED15_7["12 GED Prep Credits"]
-    GED15_8["Concurrent College-Level Coursework"]
-    GED15_9["Concurrent GE Up to 12 Credits"]
-    GED15_10["HIGH SCHOOL DIPLOMA"]
-    GED15_11["SEPARATE OFFICIAL HSE CREDENTIALING"]
-    GED15_0 --> GED15_1
-    GED15_1 --> GED15_2
-    GED15_1 --> GED15_3
-    GED15_2 --> GED15_4
-    GED15_4 --> GED15_6
-    GED15_6 --> GED15_8
-    GED15_8 --> GED15_10
-    GED15_3 --> GED15_5
-    GED15_5 --> GED15_7
-    GED15_7 --> GED15_9
-    GED15_9 --> GED15_11
-```
+![GED/HSE Preparation Pathway](./IMAGES/FLOW-15-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-15-GED-STRUCTURE.mmd)
 
 ---
 
@@ -955,42 +673,9 @@ flowchart TD
 | --- | --- |
 | Student Eligibility | Designed for students who want the HSE pathway and intend to continue through RIAH Pathway or apply to another institution accepting the applicable HSE credential. |
 
-```mermaid
-flowchart TD
-    GED16_0["STUDENT'S POSTSECONDARY GOAL"]
-    GED16_1["TRADITIONAL DIPLOMA ROUTE"]
-    GED16_2["GED / HSE ROUTE"]
-    GED16_3["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED16_4["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED16_5["Grades 9–12"]
-    GED16_6["GED 101–104"]
-    GED16_7["Transcript + GPA"]
-    GED16_8["12 GED Prep Credits"]
-    GED16_9["Concurrent College-Level Coursework"]
-    GED16_10["Concurrent GE Option Up to 12 Credits"]
-    GED16_11["HIGH SCHOOL DIPLOMA"]
-    GED16_12["OFFICIAL HSE CREDENTIALING"]
-    GED16_13["RIAH PATHWAY"]
-    GED16_14["OTHER POSTSECONDARY INSTITUTION"]
-    GED16_15["RIAH PATHWAY"]
-    GED16_16["OTHER POSTSECONDARY INSTITUTION ACCEPTING HSE"]
-    GED16_0 --> GED16_1
-    GED16_0 --> GED16_2
-    GED16_1 --> GED16_3
-    GED16_2 --> GED16_4
-    GED16_3 --> GED16_5
-    GED16_4 --> GED16_6
-    GED16_5 --> GED16_7
-    GED16_6 --> GED16_8
-    GED16_7 --> GED16_9
-    GED16_8 --> GED16_10
-    GED16_9 --> GED16_11
-    GED16_10 --> GED16_12
-    GED16_11 --> GED16_13
-    GED16_11 --> GED16_14
-    GED16_12 --> GED16_15
-    GED16_12 --> GED16_16
-```
+![GED/HSE Student](./IMAGES/FLOW-16-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-16-GED-STRUCTURE.mmd)
 
 ---
 
@@ -998,120 +683,23 @@ flowchart TD
 
 ## High School Diploma Route
 
-```mermaid
-flowchart TD
-    GED17_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED17_1["HIGH SCHOOL DIPLOMA"]
-    GED17_2["CONCURRENT COLLEGE-LEVEL CREDIT WHERE APPLICABLE"]
-    GED17_3["STUDENT CHOOSES"]
-    GED17_4["RIAH PATHWAY"]
-    GED17_5["School of Business"]
-    GED17_6["School of Technology"]
-    GED17_7["School of Law"]
-    GED17_8["School of Homeland Security"]
-    GED17_9["OTHER POSTSECONDARY INSTITUTION"]
-    GED17_0 --> GED17_1
-    GED17_1 --> GED17_2
-    GED17_2 --> GED17_3
-    GED17_3 --> GED17_4
-    GED17_3 --> GED17_9
-    GED17_4 --> GED17_5
-    GED17_4 --> GED17_6
-    GED17_4 --> GED17_7
-    GED17_4 --> GED17_8
-```
+![High School Diploma Route](./IMAGES/FLOW-17-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-17-GED-STRUCTURE.mmd)
 
 ## GED/HSE Route
 
-```mermaid
-flowchart TD
-    GED18_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED18_1["GED / HSE PREPARATION"]
-    GED18_2["12 GED PREPARATION CREDITS + UP TO 12 CONCURRENT GENERAL EDUCATION CREDITS"]
-    GED18_3["SEPARATE OFFICIAL HSE CREDENTIALING"]
-    GED18_4["STUDENT CHOOSES"]
-    GED18_5["RIAH PATHWAY"]
-    GED18_6["School of Business"]
-    GED18_7["School of Technology"]
-    GED18_8["School of Law"]
-    GED18_9["School of Homeland Security"]
-    GED18_10["OTHER POSTSECONDARY INSTITUTION ACCEPTING APPLICABLE HSE CREDENTIAL"]
-    GED18_0 --> GED18_1
-    GED18_1 --> GED18_2
-    GED18_2 --> GED18_3
-    GED18_3 --> GED18_4
-    GED18_4 --> GED18_5
-    GED18_4 --> GED18_10
-    GED18_5 --> GED18_6
-    GED18_5 --> GED18_7
-    GED18_5 --> GED18_8
-    GED18_5 --> GED18_9
-```
+![GED/HSE Route](./IMAGES/FLOW-18-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-18-GED-STRUCTURE.mmd)
 
 ---
 
 # 20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW
 
-```mermaid
-flowchart TD
-    GED19_0["RIAH PATHWAY SECONDARY SCHOOL"]
-    GED19_1["STUDENT SELECTS PATHWAY"]
-    GED19_2["HIGH SCHOOL DIPLOMA"]
-    GED19_3["GED / HSE PREPARATION"]
-    GED19_4["GRADES 9–12"]
-    GED19_5["FULL HIGH SCHOOL CURRICULUM"]
-    GED19_6["TRANSCRIPT + GPA"]
-    GED19_7["CONCURRENT COLLEGE-LEVEL COURSEWORK WHERE APPLICABLE"]
-    GED19_8["HIGH SCHOOL DIPLOMA"]
-    GED19_9["GED 101–104"]
-    GED19_10["McGRAW HILL + HiSET MATERIALS WHERE APPLICABLE"]
-    GED19_11["RIAH PROCTORED CHECKPOINTS + FINALS"]
-    GED19_12["80% MINIMUM"]
-    GED19_13["12 GED PREP CREDITS + UP TO 12 CONCURRENT GE CREDITS"]
-    GED19_14["PREPARATION COMPLETE"]
-    GED19_15["SEPARATE OFFICIAL HSE CREDENTIALING"]
-    GED19_16["POSTSECONDARY PATH"]
-    GED19_17["RIAH PATHWAY"]
-    GED19_18["OTHER POSTSECONDARY INSTITUTION"]
-    GED19_19["School of Business"]
-    GED19_20["School of Technology"]
-    GED19_21["School of Law"]
-    GED19_22["School of Homeland Security"]
-    GED19_23["GENERAL EDUCATION"]
-    GED19_24["SCHOOL CORE"]
-    GED19_25["YEAR 3 / MAJOR PATHWAY"]
-    GED19_26["MAJOR COURSEWORK"]
-    GED19_0 --> GED19_1
-    GED19_1 --> GED19_2
-    GED19_1 --> GED19_3
-    GED19_2 --> GED19_4
-    GED19_4 --> GED19_5
-    GED19_5 --> GED19_6
-    GED19_6 --> GED19_7
-    GED19_7 --> GED19_8
-    GED19_3 --> GED19_9
-    GED19_9 --> GED19_10
-    GED19_10 --> GED19_11
-    GED19_11 --> GED19_12
-    GED19_12 --> GED19_13
-    GED19_13 --> GED19_14
-    GED19_14 --> GED19_15
-    GED19_8 --> GED19_16
-    GED19_15 --> GED19_16
-    GED19_16 --> GED19_17
-    GED19_16 --> GED19_18
-    GED19_17 --> GED19_19
-    GED19_17 --> GED19_20
-    GED19_17 --> GED19_21
-    GED19_17 --> GED19_22
-    GED19_19 --> GED19_23
-    GED19_20 --> GED19_23
-    GED19_21 --> GED19_23
-    GED19_22 --> GED19_23
-    GED19_23 --> GED19_24
-    GED19_24 --> GED19_25
-    GED19_25 --> GED19_26
-```
+![20. COMPLETE RIAH PATHWAY SECONDARY SCHOOL → RIAH PATHWAY FLOW](./IMAGES/FLOW-19-GED-STRUCTURE.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-19-GED-STRUCTURE.mmd)
 
 
 ---
