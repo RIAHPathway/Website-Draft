@@ -1,6 +1,6 @@
 # PRODUCT & SERVICE PROFESSIONAL CONTRACTOR
 
-**Category:** External Team  
+**Category:** Additional Professional Contract Team — Graduate or External Recruitment  
 **Equity:** **0%**
 
 ### Work Model
@@ -8,6 +8,9 @@
 
 ### Description
 Provide demand-based mentorship, coaching, live review, Certification Review, Bar Review, and other professional services sold through the RIAH Pathway product ecosystem.
+
+### Graduate & External Recruitment
+Qualified RIAH Pathway graduates may apply after graduation alongside qualified outside professionals. These positions are **paid contracts only: 0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**, subject to applicable law and demand.
 
 ### Requirements
 - Certification Review contractors must hold the **actual certification being reviewed** and have **experience in the professional area connected to that certification**.
