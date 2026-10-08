@@ -16,6 +16,10 @@ Provide independent financial governance, financial review, budget oversight, fi
 - CPA status must remain current during Board service.
 - Must have **experience working as a CPA**.
 
+### Board Term, Elections and Reelection
+
+**This elected Board of Governance role carries a two-year term.** At the end of each two-year term, the position is subject to a new election; an incumbent may seek **reelection for another two-year term**, but continued service is **not automatic**. Other eligible candidates may also be nominated, considered, and elected to the position. Election, term commencement, vacancies, and transitions follow the applicable governing documents, eligibility requirements, and law. This term policy applies to the elected Board role and does not change the Founder's separate Founder and Chairman position.
+
 ### Responsibilities
 Review budgets, financial reporting, controls, financial governance, fiscal accountability, audits, and Board financial decisions.
 
