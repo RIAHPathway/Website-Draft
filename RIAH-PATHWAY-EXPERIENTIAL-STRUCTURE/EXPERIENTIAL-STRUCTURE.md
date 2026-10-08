@@ -117,9 +117,9 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ## 🔄 RIAH Pathway Whole System Connection
 
-![🔄 RIAH Pathway Whole System Connection](./diagrams/flow-01-riah-pathway-whole-system-connection.svg)
+![🔄 RIAH Pathway Whole System Connection](./DIAGRAMS/FLOW-01-RIAH-PATHWAY-WHOLE-SYSTEM-CONNECTION.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-01-riah-pathway-whole-system-connection.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-01-RIAH-PATHWAY-WHOLE-SYSTEM-CONNECTION.mmd)
 
 ## Comparison Table
 
@@ -487,81 +487,81 @@ The one-month guarantee does not guarantee employment after completion.
 
 ## **Flow 1A — Student Request and Application**
 
-![Flow 1A — Student Request and Application](./diagrams/flow-02-flow-1a-student-request-and-application.svg)
+![Flow 1A — Student Request and Application](./DIAGRAMS/FLOW-02-FLOW-1A-STUDENT-REQUEST-AND-APPLICATION.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-02-flow-1a-student-request-and-application.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-02-FLOW-1A-STUDENT-REQUEST-AND-APPLICATION.mmd)
 
 ## **Flow 1B — Eligibility Verification**
 
-![Flow 1B — Eligibility Verification](./diagrams/flow-03-flow-1b-eligibility-verification.svg)
+![Flow 1B — Eligibility Verification](./DIAGRAMS/FLOW-03-FLOW-1B-ELIGIBILITY-VERIFICATION.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-03-flow-1b-eligibility-verification.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-03-FLOW-1B-ELIGIBILITY-VERIFICATION.mmd)
 
 ## **Flow 2A — Placement Review**
 
-![Flow 2A — Placement Review](./diagrams/flow-04-flow-2a-placement-review.svg)
+![Flow 2A — Placement Review](./DIAGRAMS/FLOW-04-FLOW-2A-PLACEMENT-REVIEW.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-04-flow-2a-placement-review.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-04-FLOW-2A-PLACEMENT-REVIEW.mmd)
 
 ## **Flow 2B — Placement Matching**
 
-![Flow 2B — Placement Matching](./diagrams/flow-05-flow-2b-placement-matching.svg)
+![Flow 2B — Placement Matching](./DIAGRAMS/FLOW-05-FLOW-2B-PLACEMENT-MATCHING.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-05-flow-2b-placement-matching.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-05-FLOW-2B-PLACEMENT-MATCHING.mmd)
 
 ## **Flow 2C — Placement Terms**
 
-![Flow 2C — Placement Terms](./diagrams/flow-06-flow-2c-placement-terms.svg)
+![Flow 2C — Placement Terms](./DIAGRAMS/FLOW-06-FLOW-2C-PLACEMENT-TERMS.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-06-flow-2c-placement-terms.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-06-FLOW-2C-PLACEMENT-TERMS.mmd)
 
 ## **Flow 3A — Orientation and Real-World Work**
 
-![Flow 3A — Orientation and Real-World Work](./diagrams/flow-07-flow-3a-orientation-and-real-world-work.svg)
+![Flow 3A — Orientation and Real-World Work](./DIAGRAMS/FLOW-07-FLOW-3A-ORIENTATION-AND-REAL-WORLD-WORK.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-07-flow-3a-orientation-and-real-world-work.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-07-FLOW-3A-ORIENTATION-AND-REAL-WORLD-WORK.mmd)
 
 ## **Flow 3B — Performance and Requirements**
 
-![Flow 3B — Performance and Requirements](./diagrams/flow-08-flow-3b-performance-and-requirements.svg)
+![Flow 3B — Performance and Requirements](./DIAGRAMS/FLOW-08-FLOW-3B-PERFORMANCE-AND-REQUIREMENTS.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-08-flow-3b-performance-and-requirements.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-08-FLOW-3B-PERFORMANCE-AND-REQUIREMENTS.mmd)
 
 ## **Flow 3C — Completion Record**
 
-![Flow 3C — Completion Record](./diagrams/flow-09-flow-3c-completion-record.svg)
+![Flow 3C — Completion Record](./DIAGRAMS/FLOW-09-FLOW-3C-COMPLETION-RECORD.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-09-flow-3c-completion-record.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-09-FLOW-3C-COMPLETION-RECORD.mmd)
 
 ## **Placement Flow — Qualification**
 
-![Placement Flow — Qualification](./diagrams/flow-10-placement-flow-qualification.svg)
+![Placement Flow — Qualification](./DIAGRAMS/FLOW-10-PLACEMENT-FLOW-QUALIFICATION.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-10-placement-flow-qualification.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-10-PLACEMENT-FLOW-QUALIFICATION.mmd)
 
 ## **Placement Flow — Placement Type**
 
-![Placement Flow — Placement Type](./diagrams/flow-11-placement-flow-placement-type.svg)
+![Placement Flow — Placement Type](./DIAGRAMS/FLOW-11-PLACEMENT-FLOW-PLACEMENT-TYPE.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-11-placement-flow-placement-type.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-11-PLACEMENT-FLOW-PLACEMENT-TYPE.mmd)
 
 ## **Placement Source Flow**
 
-![Placement Source Flow](./diagrams/flow-12-placement-source-flow.svg)
+![Placement Source Flow](./DIAGRAMS/FLOW-12-PLACEMENT-SOURCE-FLOW.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-12-placement-source-flow.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-12-PLACEMENT-SOURCE-FLOW.mmd)
 
 ## **Placement Completion Flow — Start**
 
-![Placement Completion Flow — Start](./diagrams/flow-13-placement-completion-flow-start.svg)
+![Placement Completion Flow — Start](./DIAGRAMS/FLOW-13-PLACEMENT-COMPLETION-FLOW-START.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-13-placement-completion-flow-start.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-13-PLACEMENT-COMPLETION-FLOW-START.mmd)
 
 ## **Placement Completion Flow — Review**
 
-![Placement Completion Flow — Review](./diagrams/flow-14-placement-completion-flow-review.svg)
+![Placement Completion Flow — Review](./DIAGRAMS/FLOW-14-PLACEMENT-COMPLETION-FLOW-REVIEW.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-14-placement-completion-flow-review.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-14-PLACEMENT-COMPLETION-FLOW-REVIEW.mmd)
 
 # **X. 🧭 PLACEMENT SELECTION**
 
@@ -744,15 +744,15 @@ The flow below shows how the Experiential levels connect within the overall stru
 
 ## **Experiential Level Flow — Entry**
 
-![Experiential Level Flow — Entry](./diagrams/flow-15-experiential-level-flow-entry.svg)
+![Experiential Level Flow — Entry](./DIAGRAMS/FLOW-15-EXPERIENTIAL-LEVEL-FLOW-ENTRY.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-15-experiential-level-flow-entry.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-15-EXPERIENTIAL-LEVEL-FLOW-ENTRY.mmd)
 
 ## **Experiential Level Flow — Advanced**
 
-![Experiential Level Flow — Advanced](./diagrams/flow-16-experiential-level-flow-advanced.svg)
+![Experiential Level Flow — Advanced](./DIAGRAMS/FLOW-16-EXPERIENTIAL-LEVEL-FLOW-ADVANCED.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-16-experiential-level-flow-advanced.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-16-EXPERIENTIAL-LEVEL-FLOW-ADVANCED.mmd)
 
 # **XIII. 📚 EXPERIENTIAL CURRICULUM AND COLLECTIONS**
 
@@ -1097,15 +1097,15 @@ The Experiential pathway is:
 
 ### **Experiential Pathway Flow — Entry**
 
-![Experiential Pathway Flow — Entry](./diagrams/flow-17-experiential-pathway-flow-entry.svg)
+![Experiential Pathway Flow — Entry](./DIAGRAMS/FLOW-17-EXPERIENTIAL-PATHWAY-FLOW-ENTRY.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-17-experiential-pathway-flow-entry.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-17-EXPERIENTIAL-PATHWAY-FLOW-ENTRY.mmd)
 
 ### **Experiential Pathway Flow — Advanced**
 
-![Experiential Pathway Flow — Advanced](./diagrams/flow-18-experiential-pathway-flow-advanced.svg)
+![Experiential Pathway Flow — Advanced](./DIAGRAMS/FLOW-18-EXPERIENTIAL-PATHWAY-FLOW-ADVANCED.svg)
 
-[View editable Mermaid diagram](./diagrams/flow-18-experiential-pathway-flow-advanced.mmd)
+[View editable Mermaid diagram](./DIAGRAMS/FLOW-18-EXPERIENTIAL-PATHWAY-FLOW-ADVANCED.mmd)
 
 Placement may be internal to RIAH or through approved employer and professional partners.
 
