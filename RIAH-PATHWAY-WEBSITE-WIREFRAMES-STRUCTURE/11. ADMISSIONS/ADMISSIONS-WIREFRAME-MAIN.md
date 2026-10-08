@@ -5,7 +5,25 @@
 ## I. GLOBAL WEBSITE HEADER
 
 **[LOGO — RIAH PATHWAY UNIFIED CROWN]**
-**[NAVIGATION — 01 HOME • 02 ABOUT • 03 PATHWAY • 04 DEGREE PROGRAMS • 05 EXPERIENTIAL • 06 HIGH SCHOOL • 07 GED/HSE • 08 CERTIFICATION REVIEW • 09 BAR REVIEW • 10 CURRICULUM • 11 ADMISSIONS • 12 TUITION • 13 DONATIONS • 14 PRODUCTS • 15 ACCREDITATION & AUTHORIZATION • 16 JOIN US • 17 RESOURCES • 18 FAQ • 19 CONTACT]**
+**[NAVIGATION — 01 HOME  
+• 02 ABOUT  
+• 03 PATHWAY  
+• 04 DEGREE PROGRAMS  
+• 05 EXPERIENTIAL  
+• 06 HIGH SCHOOL  
+• 07 GED/HSE  
+• 08 CERTIFICATION REVIEW  
+• 09 BAR REVIEW  
+• 10 CURRICULUM  
+• 11 ADMISSIONS  
+• 12 TUITION  
+• 13 DONATIONS  
+• 14 PRODUCTS  
+• 15 ACCREDITATION & AUTHORIZATION  
+• 16 JOIN US  
+• 17 RESOURCES  
+• 18 FAQ  
+• 19 CONTACT]**
 **[MOBILE NAVIGATION — COLLAPSIBLE MENU]**
 
 **[BUTTON 11-M01 — APPLY NOW → CLASSE365]**
@@ -183,7 +201,16 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## XI. TRANSFER STUDENTS OVERVIEW
 
 **[IMAGE — TRANSFER STUDENT JOURNEY]**
-**Explore Transfer → Review Eligibility → Submit Records → $500 Transfer Evaluation → Credit Determination → Admission → Enrollment → Transfer Kit → Orientation → Active Student**
+**Explore Transfer  
+→ Review Eligibility  
+→ Submit Records  
+→ $500 Transfer Evaluation  
+→ Credit Determination  
+→ Admission  
+→ Enrollment  
+→ Transfer Kit  
+→ Orientation  
+→ Active Student**
 
 **[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
@@ -328,11 +355,18 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **Interest → Pathway Selection → Pre-Admissions → Application → Documentation → Review → Acceptance →
     Commitment → Enrollment → Welcome → Orientation → Active Student → Achievement → Graduation → Alumni.**
-**Monthly cohorts:** Acceptance → Enrollment Requirements → Applicable Deposit → Cohort or Placement Confirmation → Welcome Experience → Orientation → Active Student.
+**Monthly cohorts:** Acceptance  
+→ Enrollment Requirements  
+→ Applicable Deposit  
+→ Cohort or Placement Confirmation  
+→ Welcome Experience  
+→ Orientation  
+→ Active Student.
 **Pre-admissions:** Year 3 requires completed general education and school core; minors require applicable prerequisites; master's and MBA require applicable bachelor's degree or accepted equivalent and outstanding prerequisites completed before admission.
 **High School:** Initial states Ohio, Florida, Texas; eighth-grade transcripts for students entering ninth grade; grades 9–12 transcripts evaluated for grade, credits, remaining requirements, and eligible concurrent college courses.
 **GED/HSE:** Prior high school record demonstrating noncompletion; online preparation and applicable concurrent college coursework offering 12 college credit hours; authorized state examination.
-**Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each. Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
+**Experiential:** Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager, Executive 1 year each.  
+Accounting requires Financial Accounting and Managerial Accounting; Computer Science requires Introduction to Computer Science; other majors require their applicable foundational courses.
 
 **[BUTTON — PRE-ADMISSIONS → 11.2]**
 
@@ -355,7 +389,10 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 # APPROVED ADMISSIONS STUDENT EXPERIENCE — 15-STAGE ADDENDUM
 
-**Status:** Approved student-facing updates. This addendum preserves all preceding original draft content verbatim. Where an earlier draft describes a different platform, fee, deadline, or student-experience sequence, the explicitly labeled updates below supersede only that conflicting detail. This is a working website wireframe; unfinalized product mockups remain concepts.
+**Status:** Approved student-facing updates.  
+This addendum preserves all preceding original draft content verbatim.  
+Where an earlier draft describes a different platform, fee, deadline, or student-experience sequence, the explicitly labeled updates below supersede only that conflicting detail.  
+This is a working website wireframe; unfinalized product mockups remain concepts.
 
 **[IMAGE — RIAH PATHWAY COMPLETE 15-STAGE ADMISSIONS-TO-ALUMNI FLOW; RED, BLACK, WHITE, GOLD CROWN; DISTINCT DIGITAL, PHYSICAL AND COMMUNITY ICONS]**
 
@@ -371,7 +408,9 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## MONTHLY ADMISSIONS & COHORT CYCLE
 
 **[ICON — MONTHLY CALENDAR]**
-**All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry. This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation. Accreditation or Title IV participation must not be represented as already approved unless separately verified.
+**All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry.  
+This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation.  
+Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
 **Application + $50 fee → Monthly deadline → Academic review / blind experiential selection → Acceptance →
     Enrollment commitment → $1,000 deposit deadline → Seat/cohort confirmation → Welcome Kit → One-week virtual orientation/training →
@@ -448,12 +487,15 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 # 👑 ADMISSIONS DRAFT — APPROVED UPDATES
 
-**Original content above retained verbatim.** The following approved updates are distributed from `DRAFT-ADMISSIONS-WIREFRAME-DRAFT.md`. Only specifically conflicting student-facing details are superseded; other original content is preserved.
+**Original content above retained verbatim.** The following approved updates are distributed from `DRAFT-ADMISSIONS-WIREFRAME-DRAFT.md`.  
+Only specifically conflicting student-facing details are superseded; other original content is preserved.
 
 ## 📅 MONTHLY ADMISSIONS & COHORT CYCLE
 
 **[ICON — MONTHLY CALENDAR]**
-**All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry. This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation. Accreditation or Title IV participation must not be represented as already approved unless separately verified.
+**All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry.  
+This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation.  
+Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
 **Application + $50 fee → Monthly deadline → Academic review / blind experiential selection → Acceptance →
     Enrollment commitment → $1,000 deposit deadline → Seat/cohort confirmation → Welcome Kit → One-week virtual orientation/training →
@@ -523,3 +565,22 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
    → **Stage:** Alumni & Legacy
    → **Student-Facing Summary:** Alumni Kit, community, networking and mentorship
    → **Delivery:** Digital + Physical + Community
+
+
+---
+
+## ADMISSIONS FLOW DIAGRAMS — MERMAID
+
+**[IMAGE — BLACK AND RED ADMISSIONS FLOW DIAGRAMS]**
+
+### FLOW 01 ADMISSIONS TO ALUMNI
+
+![FLOW 01 ADMISSIONS TO ALUMNI](./IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.svg)
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.mmd)
+
+### FLOW 02 EXPERIENTIAL SELECTION AND SEAT
+
+![FLOW 02 EXPERIENTIAL SELECTION AND SEAT](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.svg)
+
+[VIEW EDITABLE MERMAID DIAGRAM](./IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.mmd)
