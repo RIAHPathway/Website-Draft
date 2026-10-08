@@ -41,7 +41,7 @@ For purposes of this License:
 
 "Licensor" means:
 
-**[LEGAL OWNER NAME]**
+**RIAH Pathway**
 
 and, where applicable, its authorized affiliates, successors, assigns, brands, and intellectual-property holding entities.
 
