@@ -19,6 +19,8 @@ RIAH Pathway's **at-scale core academic faculty allocation is 14 PhD Academic Fa
 
 **Core PhD tenure:** Each of the **14 core PhD Academic Faculty members**, including those hired during beta into a designated core position, **earns the RIAH Pathway faculty tenure designation after four years** upon satisfying the required **four-year equity vesting, ongoing contributions, and documented daily, weekly, monthly, and overall performance responsibilities** under the applicable agreements. Tenure is intended to retain the member's ongoing core faculty position, subject to applicable institutional tenure policies, agreements, and law. **Additional demand-based contract PhD faculty are not included in this 28-position core tenure and equity structure.**
 
+**Additional PhD faculty recruitment:** Qualified RIAH Pathway graduates may apply after graduation, alongside qualified outside professionals. Positions beyond the 14 core PhD roles are **paid contracts only, with 0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**. Academic qualification and legal requirements apply.
+
 ### School of Business — PhD Academic Faculty
 - **Accounting**
 - **Entrepreneurship**
