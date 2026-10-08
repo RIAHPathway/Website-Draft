@@ -94,6 +94,16 @@ All equity-bearing team members are required to contribute their assigned Contri
 
 ---
 
+## Core Capacity & Graduate Recruitment
+
+- **168 fixed internal team members**
+- **Up to 2,000 JD and Non-JD Attorney / Judge curriculum supervisors**, in a separate capacity-based group
+- **Total: Up to 2,168 core internal ecosystem members**
+
+**Additional contract professionals** may be recruited from qualified RIAH Pathway graduates after graduation or qualified outside professionals. These demand-based positions are **paid contracts only, with 0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure**, subject to applicable law.
+
+**Graduate pathway:** Student → Graduation → Qualification Verification → Application & Selection → Available Paid Contract Opportunity. Employment or contracts are not guaranteed.
+
 # II. RIAH PATHWAY AT-SCALE STAFFING STRUCTURE
 
 RIAH Pathway's **core fixed internal team is 168 people**. Within that 168-person core, **120 are core Experiential Professionals**. The 120-person Experiential structure represents the equity-bearing Experiential team at scale. When student enrollment and student demand require additional Experiential Professionals, RIAH Pathway will hire additional professionals according to that demand. Those additional demand-based hires increase the operational Experiential workforce but **do not increase the 168-person equity-bearing core team and do not receive equity under the 20% fixed internal team allocation**.
@@ -114,27 +124,33 @@ All RIAH Pathway team roles operate **100% remotely**, except for required in-pe
 | Adjunct Faculty | **14** | **Academic Faculty — Non-Experiential Team** |
 | **TOTAL FIXED INTERNAL EQUITY-BEARING TEAM AT SCALE** | **168 PEOPLE** | — |
 
-## External Team — Demand-Based Contractors
+## Additional Professional Team — Demand-Based Contracts
 
-| External Team Category | People | Equity | Compensation Structure |
+| Additional Contract Position | People | Equity | Compensation Structure |
 |---|---:|---:|---|
-| Additional Experiential Professionals | **Based on Student Demand** | **0%** | Contract Compensation |
+| PhD Academic Faculty | **Based on Student Demand** | **0%** | Contract Compensation |
+| Adjunct Academic Faculty | **Based on Student Demand** | **0%** | Contract Compensation |
+| Experiential Managers | **Based on Student Demand** | **0%** | Contract Compensation |
+| Experiential Supervisors | **Based on Student Demand** | **0%** | Contract Compensation |
+| Experiential Reviewers | **Based on Student Demand** | **0%** | Contract Compensation |
 | Mentorship Professionals | **Based on Product & Student Demand** | **0%** | Product / Service Contract Compensation |
 | Coaching Professionals | **Based on Product & Student Demand** | **0%** | Product / Service Contract Compensation |
 | Live Review Professionals | **Based on Product & Student Demand** | **0%** | Product / Service Contract Compensation |
 | Certification Review Service Professionals | **Based on Product & Student Demand** | **0%** | Product / Service Contract Compensation |
 | Bar Review Service Professionals | **Based on Product & Student Demand** | **0%** | Product / Service Contract Compensation |
 | Other Product & Service Professionals | **Based on Product & Student Demand** | **0%** | Product / Service Contract Compensation |
-| **TOTAL EXTERNAL TEAM** | **DEMAND-BASED** | **0%** | **CONTRACT COMPENSATION** |
+| **TOTAL ADDITIONAL CONTRACT PROFESSIONALS** | **DEMAND-BASED** | **0%** | **CONTRACT COMPENSATION; NO EMPLOYEE BENEFITS** |
 
-### Internal + External Workforce Structure
+### Core + Additional Workforce Structure
 
 | Workforce Category | Staffing |
 |---|---:|
 | Fixed Internal Equity-Bearing Team | **168** |
+| JD & Non-JD Attorney / Judge Curriculum Supervisors | **Up to 2,000 (separate equity allocation)** |
+| Additional PhD / Adjunct Faculty Contractors | **Demand-Based** |
 | Additional Experiential Contractors | **Demand-Based** |
 | Product & Service Contractors | **Demand-Based** |
-| **Total Operational Workforce** | **168 + Demand-Based External Team** |
+| **Total Operational Workforce** | **Up to 2,168 core positions + demand-based contract professionals** |
 
 ---
 
@@ -232,7 +248,7 @@ RIAH Pathway maintains a **core Experiential team of 120 professionals at scale*
 
 Student demand may require the Experiential workforce to grow beyond the 120-person core. When enrollment, cohort size, program participation, project volume, supervision needs, or student demand increases, RIAH Pathway will hire additional Experiential Professionals accordingly. These additional professionals will perform Experiential work and receive compensation through their contracts, but **they will not receive equity from the fixed internal team equity allocation**.
 
-These additional Experiential Professionals are part of the **RIAH Pathway external team**. The external team also includes additional contractors hired to support **mentorship, coaching, live review, Certification Review, Bar Review, and other service-based products**. Both groups scale according to demand and remain contract-based, non-equity positions.
+These additional Experiential Professionals are **paid contract professionals recruited from qualified RIAH Pathway graduates or qualified outside professionals**. The external team also includes additional contractors hired to support **mentorship, coaching, live review, Certification Review, Bar Review, and other service-based products**. Both groups scale according to demand and remain contract-based, non-equity positions.
 
 | School | Core Experiential Professionals |
 |---|---:|
@@ -250,7 +266,7 @@ These additional Experiential Professionals are part of the **RIAH Pathway exter
 | Additional Experiential Professionals | **Based on Student Demand** |
 | Total Operational Experiential Workforce | **120 + Student-Demand-Based Contractors** |
 | Equity for Additional Demand-Based Hires | **None** |
-| Employment Structure for Additional Demand-Based Hires | **External Team Contractor** |
+| Employment Structure for Additional Demand-Based Hires | **Paid Contract — Graduate or External Recruitment; No Employee Benefits** |
 | Compensation for Additional Demand-Based Hires | **Contract Compensation** |
 
 Each core Experiential Professional maintains the primary Experiential role while also holding one or more Certification Review or Bar Review assignments.
@@ -846,6 +862,8 @@ The six designated PhD Faculty + Dean positions each hold **two functions: PhD C
 | **Experiential Collections** | Workbooks, Journals, Weekly Educational Assessments, Project Materials, Study Guides, Review Materials & Experiential Curriculum Products |
 | **Certification Review Collections** | Review Guides, Study Guides, Textbooks, Workbooks, Practice Materials, Assessments & Certification Review Products |
 | **Bar Review Collections** | Bar Review Guides, Study Guides, Workbooks, Practice Materials, Assessments & Law Curriculum Products |
+
+Additional PhD/Adjunct faculty, Experiential professionals, and Product & Service contractors may be qualified RIAH Pathway graduates or outside professionals. **All additional roles are compensation-and-contract only, without equity, employee benefits, vesting, core Contribution Pool obligations, or core faculty tenure**, subject to applicable law.
 
 ## Product Service Contractor Integration
 
