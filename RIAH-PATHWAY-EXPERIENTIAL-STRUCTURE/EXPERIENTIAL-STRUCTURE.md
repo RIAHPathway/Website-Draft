@@ -142,7 +142,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | 💻 | **Applicable engineers and technology professionals** | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
 | 🛡️ | **Applicable cybersecurity/security professionals** | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ |
 | 👥 | **Approximately 120 dedicated internal Experiential Managers, Supervisors, and Reviewers at planned scale** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
-| 🌐 | **Approximately 225 real people throughout the planned ecosystem at scale** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🌐 | **168 fixed internal team members, up to 2,000 JD/Non-JD supervisors, plus demand-based contract professionals** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🏢 | **Own internal multi-entity placement infrastructure** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 🤝 | **External employer placement capability** | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ |
 | 🏠 | **Not exclusively dependent on external employers for placement infrastructure** | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
@@ -716,9 +716,37 @@ The **14 core PhD and 14 core Adjunct positions**, including beta hires appointe
 
 **Faculty and Experiential collaboration:** PhD faculty provide academic leadership and validation; Adjunct faculty provide applied subject-matter and instructional support; Experiential Managers, Supervisors, and Reviewers maintain real-person supervision, evaluation, and work integration. Academic faculty **remain a separate academic faculty group**, not part of the 120 core Experiential Professional headcount.
 
+## **Core & Additional Professional Staffing — Graduate and External Recruitment**
+
+**Core staffing at scale:**
+
+- **168 fixed internal team members**
+- **Up to 2,000 JD and Non-JD Attorney / Judge curriculum supervisors**, in a separate capacity-based group
+- **Total: Up to 2,168 core internal ecosystem members**
+
+**Additional professional staffing** is demand-based and includes:
+
+1. PhD Academic Faculty
+2. Adjunct Academic Faculty
+3. Experiential Managers
+4. Experiential Supervisors
+5. Experiential Reviewers
+6. Certification Review Professionals
+7. Bar Review Professionals
+8. Professional Mentors
+9. Professional Coaches
+10. Live Review Professionals
+11. Other Product and Service Professionals
+
+**Internal recruitment:** Qualified RIAH Pathway graduates may apply after graduation. **External recruitment:** Qualified professionals outside the ecosystem may apply. Position-specific education, experience, certification, licensing, and professional requirements apply.
+
+**All additional non-core positions provide contract compensation only:** **0% equity, no employee benefits, no vesting, no core Contribution Pool requirement, and no core faculty tenure.** Compensation follows approved contracts and applicable law; these positions do not expand the core allocations.
+
+**Graduate pathway:** Student → Graduation → Qualification Verification → Application & Selection → Available Paid Contract Opportunity. Employment and contracts are not guaranteed.
+
 ## **Real-Person Experiential Staffing and Work Environment**
 
-At scale, the RIAH Pathway ecosystem is designed to include approximately **225 real people** across the entire ecosystem, including **Experiential Professionals, PhD-qualified faculty, adjunct faculty, the Executive Board of Governance, Experiential Leadership, and other ecosystem roles**.
+At scale, RIAH Pathway plans **168 fixed internal team members**, up to **2,000 JD/Non-JD Attorney / Judge curriculum supervisors** under their separate capacity-based allocation, and **demand-based contract professionals** recruited from qualified graduates or outside the ecosystem. Governance positions are separate.
 
 All Experiential placements include **real Managers, Supervisors, and Reviewers**. Experiential Managers, Supervisors, and Reviewers are **actual people and professionals, not AI or AI agents**.
 
