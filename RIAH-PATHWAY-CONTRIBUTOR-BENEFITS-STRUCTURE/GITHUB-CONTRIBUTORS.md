@@ -44,47 +44,29 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ### 💻 High-Level Flow — Contribution
 
-```mermaid
-flowchart TB
-A["💻 GitHub Contributor"] --> B["👑 Confirm Eligibility & Approved Public Scope"]
-B --> C["🧭 Select Authorized Work"]
-C --> D["🛠️ Build Contribution"]
-D --> E["📤 Submit Contribution"]
-```
+![💻 High-Level Flow — Contribution](./IMAGES/FLOW-01-GITHUB-CONTRIBUTORS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-GITHUB-CONTRIBUTORS.mmd)
 
 ### 👀 High-Level Flow — Review & Verification
 
-```mermaid
-flowchart TB
-A["📤 Submitted Contribution"] --> B["👀 Maintainer Review"]
-B --> C["🔄 Revision When Required"]
-C --> D["✅ Accepted, Merged or Formally Verified"]
-D --> E["📋 Add to Contributor Ledger"]
-```
+![👀 High-Level Flow — Review & Verification](./IMAGES/FLOW-02-GITHUB-CONTRIBUTORS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-GITHUB-CONTRIBUTORS.mmd)
 
 ### ⭐ High-Level Flow — Points & Benefits
 
-```mermaid
-flowchart TB
-A["✅ Verified Contribution"] --> B["⭐ Assign Approved Points"]
-B --> C["🏆 Determine Applicable Milestone"]
-C --> D["🎓 Eligible Tuition Benefit"]
-C --> E["🛍️ Eligible Product Benefit"]
-D --> F["👑 Up to Applicable Maximum"]
-E --> F
-```
+![⭐ High-Level Flow — Points & Benefits](./IMAGES/FLOW-03-GITHUB-CONTRIBUTORS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-GITHUB-CONTRIBUTORS.mmd)
 
 ## ⚙️ Flow Metadata
 
 **Flow Configuration:** Track — GitHub Contributor; Profile Category — Contributor; Status — in-progress; Verification Required — true; Points Require Approval — true; Benefit Record Required — true.
 
-```mermaid
-flowchart LR
-    A["Pending"] --> B["Under Review"]
-    B --> C["Revision if Required"]
-    C --> D["Approved"]
-    D --> E["Credited"]
-```
+![⚙️ Flow Metadata](./IMAGES/FLOW-04-GITHUB-CONTRIBUTORS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-GITHUB-CONTRIBUTORS.mmd)
 
 ## 💰 Tuition, Products & Pricing Resources
 
@@ -97,19 +79,9 @@ Contributor benefits in this documentation apply to **eligible tuition and eligi
 
 > **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
 
-```mermaid
-flowchart TB
-    A["👤 Eligible Participant"] --> B["⭐ Earn & Verify Applicable Points"]
-    B --> C["🏆 Determine Applicable Benefit Percentage"]
-    C --> D{"💰 Apply Benefit To"}
-    D --> E["🎓 Eligible Tuition"]
-    D --> F["🛍️ Eligible Products"]
-    E --> G["📊 Review Master Pricing Data Sheet"]
-    F --> G
-    G --> H["🧮 Apply Pricing Engine Rules"]
-    H --> I["💵 Estimate Applicable Tuition & Product Cost"]
-    I --> J["🚧 Interactive Pricing Calculator — In Development"]
-```
+![💰 Tuition, Products & Pricing Resources](./IMAGES/FLOW-05-GITHUB-CONTRIBUTORS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-05-GITHUB-CONTRIBUTORS.mmd)
 
 ## 📑 Index
 
@@ -266,18 +238,9 @@ Eligible work includes approved educational videos, promotional videos, pathway 
 
 ## IX. 🔄 Contributor Workflow
 
-```mermaid
-flowchart LR
-    N1["Identify approved work"] --> N2["Claim or propose"]
-    N2["Claim or propose"] --> N3["Build"]
-    N3["Build"] --> N4["Submit"]
-    N4["Submit"] --> N5["Review"]
-    N5["Review"] --> N6["Revise if required"]
-    N6["Revise if required"] --> N7["Accept or merge"]
-    N7["Accept or merge"] --> N8["Credit points"]
-    N8["Credit points"] --> N9["Check milestone"]
-    N9["Check milestone"] --> N10["Update benefit record."]
-```
+![IX. 🔄 Contributor Workflow](./IMAGES/FLOW-06-GITHUB-CONTRIBUTORS.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-06-GITHUB-CONTRIBUTORS.mmd)
 
 Pull requests should identify what changed, why it changed, the applicable issue, testing performed, screenshots where relevant, responsive behavior, accessibility considerations and the affected page or ecosystem component.
 
