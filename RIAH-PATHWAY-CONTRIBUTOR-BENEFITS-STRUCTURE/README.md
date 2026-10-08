@@ -33,19 +33,9 @@ Contributor benefits in this documentation apply to **eligible tuition and eligi
 
 > **Pricing Calculator Development:** The interactive RIAH Pathway pricing calculator is still being developed. The intended calculator experience will allow eligible participants to apply their verified points and applicable benefit percentage to eligible tuition and product pricing so they can estimate what they may pay. Until that calculator is finalized, use the Master Pricing Data Sheet and Pricing Engine together with the applicable benefit rules in this documentation.
 
-```mermaid
-flowchart TB
-    A["👤 Eligible Participant"] --> B["⭐ Earn & Verify Applicable Points"]
-    B --> C["🏆 Determine Applicable Benefit Percentage"]
-    C --> D{"💰 Apply Benefit To"}
-    D --> E["🎓 Eligible Tuition"]
-    D --> F["🛍️ Eligible Products"]
-    E --> G["📊 Review Master Pricing Data Sheet"]
-    F --> G
-    G --> H["🧮 Apply Pricing Engine Rules"]
-    H --> I["💵 Estimate Applicable Tuition & Product Cost"]
-    I --> J["🚧 Interactive Pricing Calculator — In Development"]
-```
+![💰 Tuition, Products & Pricing Resources](./IMAGES/FLOW-01-README.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-01-README.mmd)
 
 ## 📑 Index
 
@@ -138,36 +128,21 @@ XIII. 📋 Master Record Fields
 
 ### 👥 High-Level Flow — Contributor & Ambassador Categories
 
-```mermaid
-flowchart TB
-A["👑 RIAH Pathway Benefit Framework"] --> B["👥 Contributor & Ambassador Categories"]
-B --> C["⭐ Approved / Verified Points"]
-C --> D["🏆 100 Points = 1%"]
-D --> E["🎓 Tuition + 🛍️ Product Benefit"]
-E --> F["👑 2,500 Points = 25% Maximum"]
-```
+![👥 High-Level Flow — Contributor & Ambassador Categories](./IMAGES/FLOW-02-README.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-02-README.mmd)
 
 ### 🎓 High-Level Flow — Education & Experiential Graduates
 
-```mermaid
-flowchart TB
-A["🎓 Complete Entire Eligible Pathway"] --> B["⭐ 1,000 Graduate Points"]
-B --> C["🎓 Guaranteed 10% Tuition"]
-C --> D["⭐ Additional Approved Graduate Points"]
-D --> E["👑 Up to 50% Tuition Maximum"]
-E --> F["🛍️ Product Benefit Up to 25%"]
-```
+![🎓 High-Level Flow — Education & Experiential Graduates](./IMAGES/FLOW-03-README.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-03-README.mmd)
 
 ### 🤝 High-Level Flow — Partners
 
-```mermaid
-flowchart TB
-A["🤝 Partner"] --> B["📄 Applicable Written Partnership Terms"]
-B --> C["🎓 Eligible Tuition Benefit"]
-B --> D["🛍️ Eligible Product Benefit"]
-C --> E["📋 Apply Authorized Partner Terms"]
-D --> E
-```
+![🤝 High-Level Flow — Partners](./IMAGES/FLOW-04-README.svg)
+
+[View editable Mermaid diagram](./IMAGES/FLOW-04-README.mmd)
 
 
 ## VI. 👑 Shared Rules
