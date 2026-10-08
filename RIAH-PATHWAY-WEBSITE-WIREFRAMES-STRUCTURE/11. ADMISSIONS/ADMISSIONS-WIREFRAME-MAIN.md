@@ -77,6 +77,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
 ## V. PRE-ADMISSIONS OVERVIEW
+**Highly recommended — bachelor's Year 3 preparation:** Complete the applicable **General Education and School Core** requirements before seeking admission into Year 3, with a target of **up to 60 approved foundational transfer credits** where applicable. Sources for individualized evaluation include **Sophia.org, StraighterLine, accredited colleges/universities, AP, IB, SAT, ACT, CLEP, or approved RIAH placement/test-out**. Alternative coursework, examination results, and placement scores require RIAH course-level equivalency review; **SAT/ACT scores do not automatically confer college credit**. Each school's actual core still controls (the School of Technology core, for example, is 39 credits). Applicants without all approved foundational coursework complete the missing General Education and School Core courses through RIAH before Year 3. Submit external credits in the initial transfer evaluation window; **bachelor's Years 3–4 use RIAH-controlled coursework and do not accept outside transfer credit**.
+
+**Accessible, affordable, and rigorous acceleration:** Eligible students may progress through RIAH Year 3–4 courses at an accelerated pace, but must pass each required **proctored objective and performance assessment at 80% or higher**, plus any other required examinations, prerequisites, projects, capstones, and supervision. **One month is the earliest potential curriculum-completion timeframe where permitted**, not a completion promise for every program or credential. All applicable mandatory program-duration, credentialing, authorization, and payment rules still apply.
+
+**Typical completion timeframes:** Associate's — 2 years; Bachelor's — 4 years; Master's/MBA — 1 year; J.D. — 4 years; Minor — 1 semester to 1 year; High School — 4 years; GED/HSE preparation — based on readiness and pace.
 
 **[ICON — ADMISSIONS CHECKLIST]**
 # KNOW YOUR PATH BEFORE YOU APPLY.

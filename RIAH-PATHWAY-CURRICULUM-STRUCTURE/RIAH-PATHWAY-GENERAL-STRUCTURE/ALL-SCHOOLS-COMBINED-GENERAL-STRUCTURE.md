@@ -158,6 +158,7 @@ RIAH Pathway education programs support acceleration based on each student’s a
 | 📜 Other Education Pathways | Based on the applicable curriculum and student pace, with one month as the earliest completion timeframe where permitted |
 
 Typical timeframes describe the standard pace. Students may advance more quickly as they complete the required courses and satisfy the applicable payment requirements.
+**Accessible, affordable, and rigorous acceleration:** Eligible students may progress through RIAH Year 3–4 courses at an accelerated pace, but must pass each required **proctored objective and performance assessment at 80% or higher**, plus any other required examinations, prerequisites, projects, capstones, and supervision. **One month is the earliest potential curriculum-completion timeframe where permitted**, not a completion promise for every program or credential. All applicable mandatory program-duration, credentialing, authorization, and payment rules still apply.
 
 All education pathways retain their required **proctored objective assessments, performance assessments, or both**, including during accelerated progression. Students must achieve at least **80% on every required assessment**. Applicable capstone projects retain their assigned industry-professional supervision.
 
@@ -647,6 +648,9 @@ Detailed course tables remain in the controlling degree curriculum.
 | Transfer / Credit Component | Applicable Requirement |
 | --- | --- |
 | Transfer / Credit | Transfer evaluation remains subject to applicable equivalency review, applicable transfer maximum, applicable admissions transfer-credit evaluation process, applicable prerequisite requirements, and applicable program-specific restrictions. |
+**Highly recommended — bachelor's Year 3 preparation:** Complete the applicable **General Education and School Core** requirements before seeking admission into Year 3, with a target of **up to 60 approved foundational transfer credits** where applicable. Sources for individualized evaluation include **Sophia.org, StraighterLine, accredited colleges/universities, AP, IB, SAT, ACT, CLEP, or approved RIAH placement/test-out**. Alternative coursework, examination results, and placement scores require RIAH course-level equivalency review; **SAT/ACT scores do not automatically confer college credit**. Each school's actual core still controls (the School of Technology core, for example, is 39 credits). Applicants without all approved foundational coursework complete the missing General Education and School Core courses through RIAH before Year 3. Submit external credits in the initial transfer evaluation window; **bachelor's Years 3–4 use RIAH-controlled coursework and do not accept outside transfer credit**.
+
+**Highly recommended rather than required:** Completing foundational courses through outside sources is optional; a student may instead complete the outstanding General Education and School Core within RIAH as permitted by their enrollment pathway. Year 3–4 major credit and assessments remain under RIAH control and intended accreditation-aligned standards.
 
 Transfer Maximums:
 | Curriculum Component | Academic Structure |
