@@ -1,0 +1,14 @@
+%% RIAH Pathway — flow section 1 of 3; original labels and arrows retained
+%%{init: {"theme":"base","themeVariables":{"primaryColor":"#111111","primaryTextColor":"#FFFFFF","primaryBorderColor":"#CC0000","lineColor":"#CC0000","secondaryColor":"#CC0000","tertiaryColor":"#111111"}}}%%
+flowchart TD
+    GED13_0["RIAH COURSE"]
+    GED13_1["PROCTORED CHECKPOINT"]
+    GED13_2["80%+"]
+    GED13_3["CONTINUE"]
+    GED13_4["REVIEW + RETAKE"]
+    GED13_5["UNLIMITED WITHIN SEMESTER"]
+    GED13_0 --> GED13_1
+    GED13_1 --> GED13_2
+    GED13_2 -->|YES| GED13_3
+    GED13_2 -->|NO| GED13_4
+    GED13_4 --> GED13_5
