@@ -1,73 +1,79 @@
 # 👑 RIAH PATHWAY — 11 ADMISSIONS WIREFRAMES CTA LINKS ROUTING
 **[PARENT — 11 ADMISSIONS]**
 ## I. ADMISSIONS WIREFRAMES ROUTING DIRECTORY
-1. **Route:** 11 → **Markdown:** `ADMISSIONS-WIREFRAME-MAIN.md`
-2. **Route:** 11.1 → **Markdown:** `11.1-OVERVIEW-WIREFRAME.md`
-3. **Route:** 11.2 → **Markdown:** `11.2-PRE-ADMISSIONS-WIREFRAME.md`
-4. **Route:** 11.3 → **Markdown:** `11.3-APPLICATION-WIREFRAME.md`
-5. **Route:** 11.4 → **Markdown:** `11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md`
-6. **Route:** 11.5 → **Markdown:** `11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md`
-7. **Route:** 11.6 → **Markdown:** `11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md`
-8. **Route:** 11.7 → **Markdown:** `11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`
-9. **Route:** 11.8 → **Markdown:** `11.8-TRANSFER-STUDENTS-WIREFRAME.md`
+| Route | Markdown |
+| --- | --- |
+| 11 | `ADMISSIONS-WIREFRAME-MAIN.md` |
+| 11.1 | `11.1-OVERVIEW-WIREFRAME.md` |
+| 11.2 | `11.2-PRE-ADMISSIONS-WIREFRAME.md` |
+| 11.3 | `11.3-APPLICATION-WIREFRAME.md` |
+| 11.4 | `11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md` |
+| 11.5 | `11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md` |
+| 11.6 | `11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md` |
+| 11.7 | `11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md` |
+| 11.8 | `11.8-TRANSFER-STUDENTS-WIREFRAME.md` |
 ## II. ADMISSIONS INTERNAL SUBPAGE ROUTING
-1. **Route:** 11 → **Destination:** Admissions
-2. **Route:** 11.2 → **Destination:** Pre-Admissions
-3. **Route:** 11.2.1 → **Destination:** General Admissions
-4. **Route:** 11.2.2 → **Destination:** School and Major Admissions
-5. **Route:** 11.2.3 → **Destination:** Experiential Pre-Admissions
-6. **Route:** 11.2.4 → **Destination:** High School Admissions
-7. **Route:** 11.2.5 → **Destination:** GED/HSE Admissions
-8. **Route:** 11.2.6 → **Destination:** Law Pre-Admissions
-9. **Route:** 11.3 → **Destination:** Application
-10. **Route:** 11.3.1 → **Destination:** Admissions Process
-11. **Route:** 11.3.2 → **Destination:** Application Form
-12. **Route:** 11.3.3 → **Destination:** Admissions by Pathway
-13. **Route:** 11.4 → **Destination:** Acceptance & Enrollment
-14. **Route:** 11.4.1 → **Destination:** Acceptance Experience
-15. **Route:** 11.4.2 → **Destination:** After Admission
-16. **Route:** 11.5 → **Destination:** Onboarding & Student Experience
-17. **Route:** 11.5.1 → **Destination:** Personalized Welcome
-18. **Route:** 11.5.2 → **Destination:** Orientation
-19. **Route:** 11.5.3 → **Destination:** Cohort, School & Community
-20. **Route:** 11.5.4 → **Destination:** Active Student
-21. **Route:** 11.5.5 → **Destination:** Achievements & Milestones
-22. **Route:** 11.6 → **Destination:** Graduation & Alumni
-23. **Route:** 11.6.1 → **Destination:** Graduation Experience
-24. **Route:** 11.6.2 → **Destination:** Alumni & Legacy
-25. **Route:** 11.6.3 → **Destination:** Receive • Earn • Purchase
-26. **Route:** 11.7 → **Destination:** How RIAH Pathway Works
-27. **Route:** 11.8 → **Destination:** Transfer Students
+| Route | Destination |
+| --- | --- |
+| 11 | Admissions |
+| 11.2 | Pre-Admissions |
+| 11.2.1 | General Admissions |
+| 11.2.2 | School and Major Admissions |
+| 11.2.3 | Experiential Pre-Admissions |
+| 11.2.4 | High School Admissions |
+| 11.2.5 | GED/HSE Admissions |
+| 11.2.6 | Law Pre-Admissions |
+| 11.3 | Application |
+| 11.3.1 | Admissions Process |
+| 11.3.2 | Application Form |
+| 11.3.3 | Admissions by Pathway |
+| 11.4 | Acceptance & Enrollment |
+| 11.4.1 | Acceptance Experience |
+| 11.4.2 | After Admission |
+| 11.5 | Onboarding & Student Experience |
+| 11.5.1 | Personalized Welcome |
+| 11.5.2 | Orientation |
+| 11.5.3 | Cohort, School & Community |
+| 11.5.4 | Active Student |
+| 11.5.5 | Achievements & Milestones |
+| 11.6 | Graduation & Alumni |
+| 11.6.1 | Graduation Experience |
+| 11.6.2 | Alumni & Legacy |
+| 11.6.3 | Receive • Earn • Purchase |
+| 11.7 | How RIAH Pathway Works |
+| 11.8 | Transfer Students |
 ## III. CROSS-WEBSITE ROUTING
-1. **Route:** 03 → **Destination:** Pathway
-2. **Route:** 04 → **Destination:** Degree Programs
-3. **Route:** 05 → **Destination:** Experiential
-4. **Route:** 5.2 → **Destination:** Experiential Levels
-5. **Route:** 5.4 → **Destination:** Experiential Process
-6. **Route:** 5.5 → **Destination:** Internal Placements
-7. **Route:** 5.6 → **Destination:** External Placements
-8. **Route:** 06 → **Destination:** High School
-9. **Route:** 07 → **Destination:** GED/HSE
-10. **Route:** 08 → **Destination:** Certification Review
-11. **Route:** 09 → **Destination:** Bar Review
-12. **Route:** 10 → **Destination:** Curriculum
-13. **Route:** 12 → **Destination:** Tuition
-14. **Route:** 12.3 → **Destination:** Fees
-15. **Route:** 12.4 → **Destination:** Payment Options
-16. **Route:** 12.5 → **Destination:** Funding
-17. **Route:** 12.6 → **Destination:** Reimbursement
-18. **Route:** 14 → **Destination:** Products
-19. **Route:** 15 → **Destination:** Accreditation
-20. **Route:** 16.2 → **Destination:** Student Life
-21. **Route:** 16.2.20 → **Destination:** Career Services
-22. **Route:** 17.8 → **Destination:** Policies
-23. **Route:** 17.9 → **Destination:** Procedures
-24. **Route:** 17.10 → **Destination:** Guidelines
-25. **Route:** 18.4 → **Destination:** Admissions FAQ
-26. **Route:** 18.9 → **Destination:** Technical Support FAQ
-27. **Route:** 19.2 → **Destination:** Contact Admissions
-28. **Route:** 19.4 → **Destination:** Technical Support
-29. **Route:** 19.5 → **Destination:** Student Support
+| Route | Destination |
+| --- | --- |
+| 03 | Pathway |
+| 04 | Degree Programs |
+| 05 | Experiential |
+| 5.2 | Experiential Levels |
+| 5.4 | Experiential Process |
+| 5.5 | Internal Placements |
+| 5.6 | External Placements |
+| 06 | High School |
+| 07 | GED/HSE |
+| 08 | Certification Review |
+| 09 | Bar Review |
+| 10 | Curriculum |
+| 12 | Tuition |
+| 12.3 | Fees |
+| 12.4 | Payment Options |
+| 12.5 | Funding |
+| 12.6 | Reimbursement |
+| 14 | Products |
+| 15 | Accreditation |
+| 16.2 | Student Life |
+| 16.2.20 | Career Services |
+| 17.8 | Policies |
+| 17.9 | Procedures |
+| 17.10 | Guidelines |
+| 18.4 | Admissions FAQ |
+| 18.9 | Technical Support FAQ |
+| 19.2 | Contact Admissions |
+| 19.4 | Technical Support |
+| 19.5 | Student Support |
 ## IV. ALL WIREFRAME CTA BUTTONS AND LINKS
 | CTA ID / Label | Destination | Source Markdown |
 |---|---|---|
@@ -169,76 +175,82 @@
 | 11-T05 — APPLY NOW | 11.3 | 11.8-TRANSFER-STUDENTS-WIREFRAME.md |
 | 11-T06 — CONTACT ADMISSIONS | 19.2 | 11.8-TRANSFER-STUDENTS-WIREFRAME.md |
 ## V. EXTERNAL LINK ROUTING
-1. **ID:** 11-E01 → **Platform:** Classe365 → **Purpose:** Applications → **Status:** Institutional endpoint to attach / verify
-2. **ID:** 11-E02 → **Platform:** SuiteDash → **Purpose:** Portal, forms, documents, support → **Status:** Institutional endpoint to attach / verify
-3. **ID:** 11-E03 → **Platform:** LearnWorlds → **Purpose:** Learning → **Status:** Institutional endpoint to attach / verify
-4. **ID:** 11-E04 → **Platform:** SoundBreak → **Purpose:** Original theme song → **Status:** Institutional endpoint to attach / verify
-5. **ID:** 11-E05 → **Platform:** Symplicity CSM → **Purpose:** Career Services → **Status:** Institutional endpoint to attach / verify
-6. **ID:** 11-E06 → **Platform:** PeopleGrove → **Purpose:** Experiential → **Status:** Institutional endpoint to attach / verify
-7. **ID:** 11-E07 → **Platform:** Tutor.com → **Purpose:** Tutoring → **Status:** Institutional endpoint to attach / verify
-8. **ID:** 11-E08 → **Platform:** PebblePad → **Purpose:** Portfolios → **Status:** Institutional endpoint to attach / verify
-9. **ID:** 11-E09 → **Platform:** Shopify → **Purpose:** Products → **Status:** Institutional endpoint to attach / verify
-10. **ID:** 11-E10 → **Platform:** Parchment → **Purpose:** Official Transcripts → **Status:** Institutional endpoint to attach / verify
+| ID | Platform | Purpose | Status |
+| --- | --- | --- | --- |
+| 11-E01 | Classe365 | Applications | Institutional endpoint to attach / verify |
+| 11-E02 | SuiteDash | Portal, forms, documents, support | Institutional endpoint to attach / verify |
+| 11-E03 | LearnWorlds | Learning | Institutional endpoint to attach / verify |
+| 11-E04 | SoundBreak | Original theme song | Institutional endpoint to attach / verify |
+| 11-E05 | Symplicity CSM | Career Services | Institutional endpoint to attach / verify |
+| 11-E06 | PeopleGrove | Experiential | Institutional endpoint to attach / verify |
+| 11-E07 | Tutor.com | Tutoring | Institutional endpoint to attach / verify |
+| 11-E08 | PebblePad | Portfolios | Institutional endpoint to attach / verify |
+| 11-E09 | Shopify | Products | Institutional endpoint to attach / verify |
+| 11-E10 | Parchment | Official Transcripts | Institutional endpoint to attach / verify |
 | Row | ID | Platform | Purpose | Status |
 | --- | --- | --- | --- | --- |
 | 11 | 11-E11   | National Student Clearinghouse   | Enrollment Verification   | Institutional endpoint to attach / verify |
 12. **ID:** 11-E12 → **Platform:** National Student Clearinghouse → **Purpose:** Degree Verification → **Status:** Institutional endpoint to attach / verify
 ## VI. DOWNLOAD ROUTING
-1. **ID:** 11-D01 → **Download:** Admissions Guide → **Status:** TO ATTACH
-2. **ID:** 11-D02 → **Download:** Pre-Admissions Checklist → **Status:** TO ATTACH
-3. **ID:** 11-D03 → **Download:** Student Journey Roadmap → **Status:** TO ATTACH
-4. **ID:** 11-D04 → **Download:** Experiential Admissions and Placement Guide → **Status:** TO ATTACH
-5. **ID:** 11-D05 → **Download:** Transfer Student Checklist → **Status:** TO ATTACH
-6. **ID:** 11-D06 → **Download:** Acceptance and Enrollment Checklist → **Status:** TO ATTACH
-7. **ID:** 11-D07 → **Download:** Orientation and Onboarding Overview → **Status:** TO ATTACH
-8. **ID:** 11-D08 → **Download:** Graduation and Alumni Overview → **Status:** TO ATTACH
-9. **ID:** 11-D09 → **Download:** New Student Guide — SuiteDash Authenticated Portal → **Status:** SuiteDash authenticated portal
-10. **ID:** 11-D10 → **Download:** High School Transcript Evaluation Checklist → **Status:** TO ATTACH
-11. **ID:** 11-D11 → **Download:** GED/HSE Admissions Checklist → **Status:** TO ATTACH
-12. **ID:** 11-D12 → **Download:** Year 3 Prerequisite Checklist → **Status:** TO ATTACH
-13. **ID:** 11-D13 → **Download:** Minor Program Prerequisite Checklist → **Status:** TO ATTACH
-14. **ID:** 11-D14 → **Download:** Master's and MBA Prerequisite Checklist → **Status:** TO ATTACH
-15. **ID:** 11-D15 → **Download:** Experiential Prerequisite Checklist → **Status:** TO ATTACH
+| ID | Download | Status |
+| --- | --- | --- |
+| 11-D01 | Admissions Guide | TO ATTACH |
+| 11-D02 | Pre-Admissions Checklist | TO ATTACH |
+| 11-D03 | Student Journey Roadmap | TO ATTACH |
+| 11-D04 | Experiential Admissions and Placement Guide | TO ATTACH |
+| 11-D05 | Transfer Student Checklist | TO ATTACH |
+| 11-D06 | Acceptance and Enrollment Checklist | TO ATTACH |
+| 11-D07 | Orientation and Onboarding Overview | TO ATTACH |
+| 11-D08 | Graduation and Alumni Overview | TO ATTACH |
+| 11-D09 | New Student Guide — SuiteDash Authenticated Portal | SuiteDash authenticated portal |
+| 11-D10 | High School Transcript Evaluation Checklist | TO ATTACH |
+| 11-D11 | GED/HSE Admissions Checklist | TO ATTACH |
+| 11-D12 | Year 3 Prerequisite Checklist | TO ATTACH |
+| 11-D13 | Minor Program Prerequisite Checklist | TO ATTACH |
+| 11-D14 | Master's and MBA Prerequisite Checklist | TO ATTACH |
+| 11-D15 | Experiential Prerequisite Checklist | TO ATTACH |
 ## VII. MEDIA, IMAGE AND ICON ASSET ROUTING
-1. **ID:** 11-M01 → **Asset:** Admissions Journey Hero Video → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-2. **ID:** 11-M02 → **Asset:** Complete Student Journey Flow → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-3. **ID:** 11-M03 → **Asset:** Monthly Cohort Calendar → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-4. **ID:** 11-M04 → **Asset:** Pre-Admissions Checklist → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-5. **ID:** 11-M05 → **Asset:** Academic School Cards → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-6. **ID:** 11-M06 → **Asset:** Experiential Categories → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-7. **ID:** 11-M07 → **Asset:** Progressive Experience Ladder → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-8. **ID:** 11-M08 → **Asset:** Rotational Experience Flow → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-9. **ID:** 11-M09 → **Asset:** Application Experience → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-10. **ID:** 11-M10 → **Asset:** Six-Level Experiential Ladder → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-11. **ID:** 11-M11 → **Asset:** Acceptance Package → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-12. **ID:** 11-M12 → **Asset:** Welcome Kit → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-13. **ID:** 11-M13 → **Asset:** Orientation Compass → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-14. **ID:** 11-M14 → **Asset:** Virtual Student Community → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-15. **ID:** 11-M15 → **Asset:** Student Dashboard → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-16. **ID:** 11-M16 → **Asset:** Milestone Recognition → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-17. **ID:** 11-M17 → **Asset:** Regional Graduation → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-18. **ID:** 11-M18 → **Asset:** Alumni Network → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-19. **ID:** 11-M19 → **Asset:** Institutional Ecosystem → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-20. **ID:** 11-M20 → **Asset:** Transfer Student Journey → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-21. **ID:** 11-M21 → **Asset:** Unified Crown and Brand Identity → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-22. **ID:** 11-M22 → **Asset:** Resource Library → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-23. **ID:** 11-M23 → **Asset:** Admissions Support → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-24. **ID:** 11-M24 → **Asset:** RIAH Pathway Goat → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-25. **ID:** 11-M25 → **Asset:** Official Transcript Request → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-26. **ID:** 11-M26 → **Asset:** Enrollment Verification → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-27. **ID:** 11-M27 → **Asset:** Degree Verification → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-28. **ID:** 11-M28 → **Asset:** Registrar Technology Flow → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-29. **ID:** 11-M29 → **Asset:** Academic Records and Credentials → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-30. **ID:** 11-M30 → **Asset:** Year 3 Prerequisite Flow → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-31. **ID:** 11-M31 → **Asset:** Minor Program Prerequisites → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-32. **ID:** 11-M32 → **Asset:** Master's and MBA Admissions → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-33. **ID:** 11-M33 → **Asset:** Experiential Prerequisite Evaluation → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-34. **ID:** 11-M34 → **Asset:** Grades 9–12 Progression → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-35. **ID:** 11-M35 → **Asset:** Eighth-to-Ninth-Grade Transition → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-36. **ID:** 11-M36 → **Asset:** High School Transcript Evaluation → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-37. **ID:** 11-M37 → **Asset:** Concurrent High School and College Coursework → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-38. **ID:** 11-M38 → **Asset:** GED/HSE and College Credit → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
-39. **ID:** 11-M39 → **Asset:** GED/HSE Concurrent Coursework Flow → **Status:** IMAGE OR MEDIA TO CREATE / ATTACH
+| ID | Asset | Status |
+| --- | --- | --- |
+| 11-M01 | Admissions Journey Hero Video | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M02 | Complete Student Journey Flow | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M03 | Monthly Cohort Calendar | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M04 | Pre-Admissions Checklist | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M05 | Academic School Cards | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M06 | Experiential Categories | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M07 | Progressive Experience Ladder | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M08 | Rotational Experience Flow | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M09 | Application Experience | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M10 | Six-Level Experiential Ladder | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M11 | Acceptance Package | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M12 | Welcome Kit | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M13 | Orientation Compass | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M14 | Virtual Student Community | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M15 | Student Dashboard | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M16 | Milestone Recognition | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M17 | Regional Graduation | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M18 | Alumni Network | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M19 | Institutional Ecosystem | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M20 | Transfer Student Journey | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M21 | Unified Crown and Brand Identity | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M22 | Resource Library | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M23 | Admissions Support | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M24 | RIAH Pathway Goat | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M25 | Official Transcript Request | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M26 | Enrollment Verification | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M27 | Degree Verification | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M28 | Registrar Technology Flow | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M29 | Academic Records and Credentials | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M30 | Year 3 Prerequisite Flow | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M31 | Minor Program Prerequisites | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M32 | Master's and MBA Admissions | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M33 | Experiential Prerequisite Evaluation | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M34 | Grades 9–12 Progression | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M35 | Eighth-to-Ninth-Grade Transition | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M36 | High School Transcript Evaluation | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M37 | Concurrent High School and College Coursework | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M38 | GED/HSE and College Credit | IMAGE OR MEDIA TO CREATE / ATTACH |
+| 11-M39 | GED/HSE Concurrent Coursework Flow | IMAGE OR MEDIA TO CREATE / ATTACH |
 ## VIII. CTA AUDIT
 | CTA Family | Status | Purpose |
 |---|---|---|
@@ -248,36 +260,40 @@
 | LOG IN | Included | SuiteDash and LearnWorlds |
 | SHOP NOW | Included | Shopify |
 ## IX. DOWNLOAD AUDIT
-1. **Category:** Admissions Guide → **Status:** PLANNED ASSET
-2. **Category:** Pre-Admissions Checklist → **Status:** PLANNED ASSET
-3. **Category:** Student Journey Roadmap → **Status:** PLANNED ASSET
-4. **Category:** Experiential Admissions and Placement Guide → **Status:** PLANNED ASSET
-5. **Category:** Transfer Student Checklist → **Status:** PLANNED ASSET
-6. **Category:** Acceptance and Enrollment Checklist → **Status:** PLANNED ASSET
-7. **Category:** Orientation and Onboarding Overview → **Status:** PLANNED ASSET
-8. **Category:** Graduation and Alumni Overview → **Status:** PLANNED ASSET
-9. **Category:** New Student Guide — SuiteDash Authenticated Portal → **Status:** AUTHENTICATED
-10. **Category:** High School Transcript Evaluation Checklist → **Status:** PLANNED ASSET
-11. **Category:** GED/HSE Admissions Checklist → **Status:** PLANNED ASSET
-12. **Category:** Year 3 Prerequisite Checklist → **Status:** PLANNED ASSET
-13. **Category:** Minor Program Prerequisite Checklist → **Status:** PLANNED ASSET
-14. **Category:** Master's and MBA Prerequisite Checklist → **Status:** PLANNED ASSET
-15. **Category:** Experiential Prerequisite Checklist → **Status:** PLANNED ASSET
+| Category | Status |
+| --- | --- |
+| Admissions Guide | PLANNED ASSET |
+| Pre-Admissions Checklist | PLANNED ASSET |
+| Student Journey Roadmap | PLANNED ASSET |
+| Experiential Admissions and Placement Guide | PLANNED ASSET |
+| Transfer Student Checklist | PLANNED ASSET |
+| Acceptance and Enrollment Checklist | PLANNED ASSET |
+| Orientation and Onboarding Overview | PLANNED ASSET |
+| Graduation and Alumni Overview | PLANNED ASSET |
+| New Student Guide — SuiteDash Authenticated Portal | AUTHENTICATED |
+| High School Transcript Evaluation Checklist | PLANNED ASSET |
+| GED/HSE Admissions Checklist | PLANNED ASSET |
+| Year 3 Prerequisite Checklist | PLANNED ASSET |
+| Minor Program Prerequisite Checklist | PLANNED ASSET |
+| Master's and MBA Prerequisite Checklist | PLANNED ASSET |
+| Experiential Prerequisite Checklist | PLANNED ASSET |
 ## X. ROUTING AND CONTENT AUDIT
-1. **Component:** Global Header, Admissions Hero, Journey, Monthly Cohorts → **Placement:** 11 Main
-2. **Component:** General Admissions → **Placement:** 11.2.1
-3. **Component:** Year 3, Minor, Master's, MBA → **Placement:** 11.2.2
-4. **Component:** Experiential Prerequisites → **Placement:** 11.2.3
-5. **Component:** High School → **Placement:** 11.2.4
-6. **Component:** GED/HSE → **Placement:** 11.2.5
-7. **Component:** Law → **Placement:** 11.2.6
-8. **Component:** Application and Experiential by Level → **Placement:** 11.3
-9. **Component:** Acceptance, Deposits, Enrollment → **Placement:** 11.4
-10. **Component:** Welcome, Orientation, Community, Active Student, Milestones → **Placement:** 11.5
-11. **Component:** Graduation, Alumni, Receive • Earn • Purchase → **Placement:** 11.6
-12. **Component:** Technology, Registrar, Policies, Career, Finance → **Placement:** 11.7
-13. **Component:** Optional Transfer Credit Evaluation ($125) and Processing/Administration ($125 upon applicable admission; $250 total when both apply) → **Placement:** 11.8
-14. **Component:** CTA Links, Downloads, Images, Audits → **Placement:** This Routing Markdown
+| Component | Placement |
+| --- | --- |
+| Global Header, Admissions Hero, Journey, Monthly Cohorts | 11 Main |
+| General Admissions | 11.2.1 |
+| Year 3, Minor, Master's, MBA | 11.2.2 |
+| Experiential Prerequisites | 11.2.3 |
+| High School | 11.2.4 |
+| GED/HSE | 11.2.5 |
+| Law | 11.2.6 |
+| Application and Experiential by Level | 11.3 |
+| Acceptance, Deposits, Enrollment | 11.4 |
+| Welcome, Orientation, Community, Active Student, Milestones | 11.5 |
+| Graduation, Alumni, Receive • Earn • Purchase | 11.6 |
+| Technology, Registrar, Policies, Career, Finance | 11.7 |
+| Optional Transfer Credit Evaluation ($125) and Processing/Administration ($125 upon applicable admission; $250 total when both apply) | 11.8 |
+| CTA Links, Downloads, Images, Audits | This Routing Markdown |
 ## XI. PLACEHOLDER STANDARDS
 
 **[BUTTON NUMBER — CTA LABEL → DESTINATION]**
@@ -291,33 +307,35 @@
 **[QR CODE — DESTINATION DESCRIPTION]**
 
 ## XII. ADDITIONAL ADMISSIONS CONTENT AND ASSET ROUTING
-1. **ID:** 11-B38 → **Element:** Registrar and Records → **Destination:** 11.7.4
-2. **ID:** 11-B39 → **Element:** Request Transcript → **Destination:** Parchment
-3. **ID:** 11-B40 → **Element:** Enrollment Verification → **Destination:** National Student Clearinghouse
-4. **ID:** 11-B41 → **Element:** Degree Verification → **Destination:** National Student Clearinghouse
-5. **ID:** 11-B42 → **Element:** Year 3 Admissions → **Destination:** 11.2.2
-6. **ID:** 11-B43 → **Element:** Minor Program Admissions → **Destination:** 11.2.2
-7. **ID:** 11-B44 → **Element:** Master's and MBA Admissions → **Destination:** 11.2.2
-8. **ID:** 11-B45 → **Element:** High School Pre-Admissions → **Destination:** SuiteDash Form
-9. **ID:** 11-B46 → **Element:** GED/HSE Pre-Admissions → **Destination:** SuiteDash Form
-10. **ID:** 11-B47 → **Element:** Experiential Prerequisites → **Destination:** 11.2.3
-11. **ID:** 11-E04 → **Element:** Pathway to Success — SoundBreak → **Destination:** https://app.soundbreak.ai/listen/365e6a20
-12. **ID:** 11-D10 → **Element:** High School Transcript Evaluation Checklist → **Destination:** 11.2.4 / Resources
-13. **ID:** 11-D11 → **Element:** GED/HSE Admissions Checklist → **Destination:** 11.2.5 / Resources
-14. **ID:** 11-D12 → **Element:** Year 3 Prerequisite Checklist → **Destination:** 11.2.2 / Resources
-15. **ID:** 11-D13 → **Element:** Minor Program Prerequisite Checklist → **Destination:** 11.2.2 / Resources
-16. **ID:** 11-D14 → **Element:** Master's and MBA Prerequisite Checklist → **Destination:** 11.2.2 / Resources
-17. **ID:** 11-D15 → **Element:** Experiential Prerequisite Checklist → **Destination:** 11.2.3 / Resources
-18. **ID:** 11-M30 → **Element:** Year 3 Prerequisite Flow → **Destination:** 11.2.2
-19. **ID:** 11-M31 → **Element:** Minor Program Prerequisites → **Destination:** 11.2.2
-20. **ID:** 11-M32 → **Element:** Master's and MBA Admissions → **Destination:** 11.2.2
-21. **ID:** 11-M33 → **Element:** Experiential Prerequisite Evaluation → **Destination:** 11.2.3
-22. **ID:** 11-M34 → **Element:** Grades 9–12 Progression → **Destination:** 11.2.4
-23. **ID:** 11-M35 → **Element:** Eighth-to-Ninth-Grade Transition → **Destination:** 11.2.4
-24. **ID:** 11-M36 → **Element:** High School Transcript Evaluation → **Destination:** 11.2.4
-25. **ID:** 11-M37 → **Element:** High School and College Concurrent Coursework → **Destination:** 11.2.4
-26. **ID:** 11-M38 → **Element:** GED/HSE and College Credit → **Destination:** 11.2.5
-27. **ID:** 11-M39 → **Element:** GED/HSE Concurrent Coursework Flow → **Destination:** 11.2.5
+| ID | Element | Destination |
+| --- | --- | --- |
+| 11-B38 | Registrar and Records | 11.7.4 |
+| 11-B39 | Request Transcript | Parchment |
+| 11-B40 | Enrollment Verification | National Student Clearinghouse |
+| 11-B41 | Degree Verification | National Student Clearinghouse |
+| 11-B42 | Year 3 Admissions | 11.2.2 |
+| 11-B43 | Minor Program Admissions | 11.2.2 |
+| 11-B44 | Master's and MBA Admissions | 11.2.2 |
+| 11-B45 | High School Pre-Admissions | SuiteDash Form |
+| 11-B46 | GED/HSE Pre-Admissions | SuiteDash Form |
+| 11-B47 | Experiential Prerequisites | 11.2.3 |
+| 11-E04 | Pathway to Success — SoundBreak | https://app.soundbreak.ai/listen/365e6a20 |
+| 11-D10 | High School Transcript Evaluation Checklist | 11.2.4 / Resources |
+| 11-D11 | GED/HSE Admissions Checklist | 11.2.5 / Resources |
+| 11-D12 | Year 3 Prerequisite Checklist | 11.2.2 / Resources |
+| 11-D13 | Minor Program Prerequisite Checklist | 11.2.2 / Resources |
+| 11-D14 | Master's and MBA Prerequisite Checklist | 11.2.2 / Resources |
+| 11-D15 | Experiential Prerequisite Checklist | 11.2.3 / Resources |
+| 11-M30 | Year 3 Prerequisite Flow | 11.2.2 |
+| 11-M31 | Minor Program Prerequisites | 11.2.2 |
+| 11-M32 | Master's and MBA Admissions | 11.2.2 |
+| 11-M33 | Experiential Prerequisite Evaluation | 11.2.3 |
+| 11-M34 | Grades 9–12 Progression | 11.2.4 |
+| 11-M35 | Eighth-to-Ninth-Grade Transition | 11.2.4 |
+| 11-M36 | High School Transcript Evaluation | 11.2.4 |
+| 11-M37 | High School and College Concurrent Coursework | 11.2.4 |
+| 11-M38 | GED/HSE and College Credit | 11.2.5 |
+| 11-M39 | GED/HSE Concurrent Coursework Flow | 11.2.5 |
 **CTA Families:** APPLY NOW • LEARN MORE • GET STARTED • LOG IN • SHOP NOW.
 **Public downloads are planned wireframe assets until created, approved, and attached. Authenticated student guide remains a SuiteDash portal resource.**
 
@@ -597,13 +615,15 @@ Accreditation or Title IV participation must not be represented as already appro
 
 
 **[IMAGE — NUMBERED 15-STEP STUDENT JOURNEY WITH EMOJI-STYLE ICONS AND DELIVERY LEGEND]**
-1. **#:** 01 🔎 → **Stage:** Interest & Inquiry → **Student-Facing Summary:** Discover RIAH Pathway and its schools/programs → **Delivery:** Digital
-2. **#:** 02 📋 → **Stage:** Pre-Admissions & Preparation → **Student-Facing Summary:** Review academic/experiential requirements → **Delivery:** Digital
-3. **#:** 03 📝 → **Stage:** Application → **Student-Facing Summary:** Apply for monthly cohort; $50 non-refundable fee → **Delivery:** Digital
-4. **#:** 04 ⚙️ → **Stage:** Review & Selection → **Student-Facing Summary:** Academic review; automated blind experiential selection → **Delivery:** Digital
-5. **#:** 05 ✉️ → **Stage:** Acceptance → **Student-Facing Summary:** Receive digital and mailed acceptance → **Delivery:** Digital + Physical
-6. **#:** 06 ✍️ → **Stage:** Enrollment & Commitment → **Student-Facing Summary:** Accept offer and confirm cohort intentions → **Delivery:** Digital
-7. **#:** 07 💰 → **Stage:** Deposit & Seat Confirmation → **Student-Facing Summary:** Pay $1,000 by deadline; confirm seat → **Delivery:** Digital
+| # | Stage | Student-Facing Summary | Delivery |
+| --- | --- | --- | --- |
+| 01 🔎 | Interest & Inquiry | Discover RIAH Pathway and its schools/programs | Digital |
+| 02 📋 | Pre-Admissions & Preparation | Review academic/experiential requirements | Digital |
+| 03 📝 | Application | Apply for monthly cohort; $50 non-refundable fee | Digital |
+| 04 ⚙️ | Review & Selection | Academic review; automated blind experiential selection | Digital |
+| 05 ✉️ | Acceptance | Receive digital and mailed acceptance | Digital + Physical |
+| 06 ✍️ | Enrollment & Commitment | Accept offer and confirm cohort intentions | Digital |
+| 07 💰 | Deposit & Seat Confirmation | Pay $1,000 by deadline; confirm seat | Digital |
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |

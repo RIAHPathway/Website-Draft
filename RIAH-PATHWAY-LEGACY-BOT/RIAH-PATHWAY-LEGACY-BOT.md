@@ -16,6 +16,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Instagram:** https://instagram.com/heymariahrucker
 - **Linktree:** https://linktr.ee/mariahrucker
 
+**Message — Same-Day Filing Notice:** RIAH Pathway reserves the right to pursue same-day legal filings, where legally permissible and supported by documented evidence, against any platform, organization, or individual involved in unauthorized use, reproduction, distribution, or exploitation of materials protected by this license in violation of applicable laws, regulations, or enforceable license terms. This notice applies regardless of an entity’s enrollment activity, accreditation status, or stage of operation. Any action against involved parties will be subject to verification, applicable procedural requirements, and legal review; no violation or liability is presumed solely from similarity or public access.
+
 ---
 
 # 👑 LEGACY — RIAH Pathway Replica Bot

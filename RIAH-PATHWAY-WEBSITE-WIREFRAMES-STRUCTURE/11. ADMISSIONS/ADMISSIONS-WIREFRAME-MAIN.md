@@ -64,11 +64,13 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## IV. MONTHLY COHORT MODEL
 
 **[ICON — MONTHLY CALENDAR]**
-1. **Academic Preparation:** Orientation → **Student Community:** Cohort identity → **Institutional Operations:** Enrollment processing
-2. **Academic Preparation:** Academic readiness → **Student Community:** School connection → **Institutional Operations:** Student account preparation
-3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
-4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
-5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
+| Academic Preparation | Student Community | Institutional Operations |
+| --- | --- | --- |
+| Orientation | Cohort identity | Enrollment processing |
+| Academic readiness | School connection | Student account preparation |
+| Pathway preparation | Peer connection | Portal access |
+| Resource training | Community participation | Academic-system access |
+| Student expectations | Student organizations | Placement coordination |
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-02](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.mmd)
@@ -78,12 +80,14 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 **[ICON — ADMISSIONS CHECKLIST]**
 # KNOW YOUR PATH BEFORE YOU APPLY.
-1. **Section:** 11.2.1 → **Category:** General Admissions → **Purpose:** Eligibility, documentation, academic standing
-2. **Section:** 11.2.2 → **Category:** School and Major → **Purpose:** Year 3, minors, master's, MBA, prerequisites
-3. **Section:** 11.2.3 → **Category:** Experiential → **Purpose:** Levels, placements, prerequisites
-4. **Section:** 11.2.4 → **Category:** High School → **Purpose:** Grades 9–12, transcripts, concurrent coursework
-5. **Section:** 11.2.5 → **Category:** GED/HSE → **Purpose:** Preparation and 12 college credits
-6. **Section:** 11.2.6 → **Category:** Law → **Purpose:** J.D., Non-J.D., applicable requirements
+| Section | Category | Purpose |
+| --- | --- | --- |
+| 11.2.1 | General Admissions | Eligibility, documentation, academic standing |
+| 11.2.2 | School and Major | Year 3, minors, master's, MBA, prerequisites |
+| 11.2.3 | Experiential | Levels, placements, prerequisites |
+| 11.2.4 | High School | Grades 9–12, transcripts, concurrent coursework |
+| 11.2.5 | GED/HSE | Preparation and 12 college credits |
+| 11.2.6 | Law | J.D., Non-J.D., applicable requirements |
 
 **[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
 ## VI. APPLICATION OVERVIEW
@@ -116,13 +120,15 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[IMAGE — RIAH PATHWAY WELCOME KIT]**
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community**
 **Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources**
-1. **Orientation Area:** Academics → **Preparation:** Expectations and resources
-2. **Orientation Area:** Technology → **Preparation:** Systems and access
-3. **Orientation Area:** Institution → **Preparation:** Institutional identity
-4. **Orientation Area:** Community → **Preparation:** School, cohort, organizations
-5. **Orientation Area:** Experiential → **Preparation:** Placement and supervision
-6. **Orientation Area:** Law → **Preparation:** Legal supervision requirements
-7. **Orientation Area:** Career → **Preparation:** Career-development resources
+| Orientation Area | Preparation |
+| --- | --- |
+| Academics | Expectations and resources |
+| Technology | Systems and access |
+| Institution | Institutional identity |
+| Community | School, cohort, organizations |
+| Experiential | Placement and supervision |
+| Law | Legal supervision requirements |
+| Career | Career-development resources |
 
 **[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
 ## IX. GRADUATION & ALUMNI OVERVIEW
@@ -200,15 +206,17 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
 
 **[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
-1. **Standard:** Slogan → **RIAH Pathway:** ONE DYNASTY. INFINITE LEGACIES.
-2. **Standard:** Logo → **RIAH Pathway:** RP • Stacked • Horizontal
-3. **Standard:** Colors → **RIAH Pathway:** Black • Red • Gold • White • Silver
-4. **Standard:** Symbol → **RIAH Pathway:** Unified Crown
-5. **Standard:** Mascot → **RIAH Pathway:** RIAH Pathway Goat
-6. **Standard:** Value → **RIAH Pathway:** PERSEVERANCE
-7. **Standard:** POWER → **RIAH Pathway:** People • Ownership • Work • Equity • Results
-8. **Standard:** Student Message → **RIAH Pathway:** STUDENTS BUILD DYNASTIES TOO.
-9. **Standard:** Brand Message → **RIAH Pathway:** BUILT DIFFERENT
+| Standard | RIAH Pathway |
+| --- | --- |
+| Slogan | ONE DYNASTY. INFINITE LEGACIES. |
+| Logo | RP • Stacked • Horizontal |
+| Colors | Black • Red • Gold • White • Silver |
+| Symbol | Unified Crown |
+| Mascot | RIAH Pathway Goat |
+| Value | PERSEVERANCE |
+| POWER | People • Ownership • Work • Equity • Results |
+| Student Message | STUDENTS BUILD DYNASTIES TOO. |
+| Brand Message | BUILT DIFFERENT |
 10. **Standard:** Career Sequence → **RIAH Pathway:** Education → Experience → Certification → Opportunity → Career
 11. **Standard:** Theme Song → **RIAH Pathway:** Pathway to Success — Original SoundBreak Creation
 **[EXTERNAL LINK — THEME SONG → SOUNDBREAK]**
@@ -218,23 +226,25 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 ## XIII. SUPPORTING RESOURCES
 
 **[ICON — DIGITAL RESOURCE LIBRARY]**
-1. **Resource:** Pathway → **Destination:** 03
-2. **Resource:** Degree Programs → **Destination:** 04
-3. **Resource:** Experiential → **Destination:** 05
-4. **Resource:** High School → **Destination:** 06
-5. **Resource:** GED/HSE → **Destination:** 07
-6. **Resource:** Certification Review → **Destination:** 08
-7. **Resource:** Bar Review → **Destination:** 09
-8. **Resource:** Curriculum → **Destination:** 10
-9. **Resource:** Tuition → **Destination:** 12
-10. **Resource:** Accreditation → **Destination:** 15
-11. **Resource:** Student Life → **Destination:** 16.2
-12. **Resource:** Policies → **Destination:** 17.8
-13. **Resource:** Procedures → **Destination:** 17.9
-14. **Resource:** Guidelines → **Destination:** 17.10
-15. **Resource:** Admissions FAQ → **Destination:** 18.4
-16. **Resource:** Technical FAQ → **Destination:** 18.9
-17. **Resource:** Contact Admissions → **Destination:** 19.2
+| Resource | Destination |
+| --- | --- |
+| Pathway | 03 |
+| Degree Programs | 04 |
+| Experiential | 05 |
+| High School | 06 |
+| GED/HSE | 07 |
+| Certification Review | 08 |
+| Bar Review | 09 |
+| Curriculum | 10 |
+| Tuition | 12 |
+| Accreditation | 15 |
+| Student Life | 16.2 |
+| Policies | 17.8 |
+| Procedures | 17.9 |
+| Guidelines | 17.10 |
+| Admissions FAQ | 18.4 |
+| Technical FAQ | 18.9 |
+| Contact Admissions | 19.2 |
 
 **[DOWNLOAD — ADMISSIONS GUIDE]**
 **[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
@@ -366,11 +376,13 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## III. MONTHLY COHORT MODEL
 
 **[ICON — MONTHLY CALENDAR]**
-1. **Academic Preparation:** Orientation → **Student Community:** Cohort identity → **Institutional Operations:** Enrollment processing
-2. **Academic Preparation:** Academic readiness → **Student Community:** School connection → **Institutional Operations:** Student account preparation
-3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
-4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
-5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
+| Academic Preparation | Student Community | Institutional Operations |
+| --- | --- | --- |
+| Orientation | Cohort identity | Enrollment processing |
+| Academic readiness | School connection | Student account preparation |
+| Pathway preparation | Peer connection | Portal access |
+| Resource training | Community participation | Academic-system access |
+| Student expectations | Student organizations | Placement coordination |
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-11](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.mmd)
@@ -380,15 +392,17 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## IV. BRAND & STUDENT EXPERIENCE STANDARDS
 
 **[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
-1. **Standard:** Slogan → **RIAH Pathway:** ONE DYNASTY. INFINITE LEGACIES.
-2. **Standard:** Logo → **RIAH Pathway:** RP • Stacked • Horizontal
-3. **Standard:** Colors → **RIAH Pathway:** Black • Red • Gold • White • Silver
-4. **Standard:** Symbol → **RIAH Pathway:** Unified Crown
-5. **Standard:** Mascot → **RIAH Pathway:** RIAH Pathway Goat
-6. **Standard:** Value → **RIAH Pathway:** PERSEVERANCE
-7. **Standard:** POWER → **RIAH Pathway:** People • Ownership • Work • Equity • Results
-8. **Standard:** Student Message → **RIAH Pathway:** STUDENTS BUILD DYNASTIES TOO.
-9. **Standard:** Brand Message → **RIAH Pathway:** BUILT DIFFERENT
+| Standard | RIAH Pathway |
+| --- | --- |
+| Slogan | ONE DYNASTY. INFINITE LEGACIES. |
+| Logo | RP • Stacked • Horizontal |
+| Colors | Black • Red • Gold • White • Silver |
+| Symbol | Unified Crown |
+| Mascot | RIAH Pathway Goat |
+| Value | PERSEVERANCE |
+| POWER | People • Ownership • Work • Equity • Results |
+| Student Message | STUDENTS BUILD DYNASTIES TOO. |
+| Brand Message | BUILT DIFFERENT |
 10. **Standard:** Career Sequence → **RIAH Pathway:** Education → Experience → Certification → Opportunity → Career
 11. **Standard:** Theme Song → **RIAH Pathway:** Pathway to Success — Original SoundBreak Creation
 **[EXTERNAL LINK — THEME SONG → SOUNDBREAK]**
@@ -398,23 +412,25 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## V. SUPPORTING RESOURCES
 
 **[ICON — DIGITAL RESOURCE LIBRARY]**
-1. **Resource:** Pathway → **Destination:** 03
-2. **Resource:** Degree Programs → **Destination:** 04
-3. **Resource:** Experiential → **Destination:** 05
-4. **Resource:** High School → **Destination:** 06
-5. **Resource:** GED/HSE → **Destination:** 07
-6. **Resource:** Certification Review → **Destination:** 08
-7. **Resource:** Bar Review → **Destination:** 09
-8. **Resource:** Curriculum → **Destination:** 10
-9. **Resource:** Tuition → **Destination:** 12
-10. **Resource:** Accreditation → **Destination:** 15
-11. **Resource:** Student Life → **Destination:** 16.2
-12. **Resource:** Policies → **Destination:** 17.8
-13. **Resource:** Procedures → **Destination:** 17.9
-14. **Resource:** Guidelines → **Destination:** 17.10
-15. **Resource:** Admissions FAQ → **Destination:** 18.4
-16. **Resource:** Technical FAQ → **Destination:** 18.9
-17. **Resource:** Contact Admissions → **Destination:** 19.2
+| Resource | Destination |
+| --- | --- |
+| Pathway | 03 |
+| Degree Programs | 04 |
+| Experiential | 05 |
+| High School | 06 |
+| GED/HSE | 07 |
+| Certification Review | 08 |
+| Bar Review | 09 |
+| Curriculum | 10 |
+| Tuition | 12 |
+| Accreditation | 15 |
+| Student Life | 16.2 |
+| Policies | 17.8 |
+| Procedures | 17.9 |
+| Guidelines | 17.10 |
+| Admissions FAQ | 18.4 |
+| Technical FAQ | 18.9 |
+| Contact Admissions | 19.2 |
 
 **[DOWNLOAD — ADMISSIONS GUIDE]**
 **[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
@@ -527,11 +543,13 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ## IV. MONTHLY COHORT MODEL
 
 **[ICON — MONTHLY CALENDAR]**
-1. **Academic Preparation:** Orientation → **Student Community:** Cohort identity → **Institutional Operations:** Enrollment processing
-2. **Academic Preparation:** Academic readiness → **Student Community:** School connection → **Institutional Operations:** Student account preparation
-3. **Academic Preparation:** Pathway preparation → **Student Community:** Peer connection → **Institutional Operations:** Portal access
-4. **Academic Preparation:** Resource training → **Student Community:** Community participation → **Institutional Operations:** Academic-system access
-5. **Academic Preparation:** Student expectations → **Student Community:** Student organizations → **Institutional Operations:** Placement coordination
+| Academic Preparation | Student Community | Institutional Operations |
+| --- | --- | --- |
+| Orientation | Cohort identity | Enrollment processing |
+| Academic readiness | School connection | Student account preparation |
+| Pathway preparation | Peer connection | Portal access |
+| Resource training | Community participation | Academic-system access |
+| Student expectations | Student organizations | Placement coordination |
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-13](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.mmd)
