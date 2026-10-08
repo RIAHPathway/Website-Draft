@@ -15,6 +15,10 @@ Maintain Board minutes, records, notices, resolutions, meeting documentation, an
 - **Bachelor's degree**
 - Must have **experience performing secretary duties, records management, meeting documentation, governance documentation, or comparable administrative responsibilities**.
 
+### Board Term, Elections and Reelection
+
+**This elected Board of Governance role carries a two-year term.** At the end of each two-year term, the position is subject to a new election; an incumbent may seek **reelection for another two-year term**, but continued service is **not automatic**. Other eligible candidates may also be nominated, considered, and elected to the position. Election, term commencement, vacancies, and transitions follow the applicable governing documents, eligibility requirements, and law. This term policy applies to the elected Board role and does not change the Founder's separate Founder and Chairman position.
+
 ### Responsibilities
 Maintain governance documentation, meeting records, resolutions, notices, and minutes.
 
