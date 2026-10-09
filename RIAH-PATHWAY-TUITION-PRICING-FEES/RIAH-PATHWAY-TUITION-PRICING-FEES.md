@@ -187,12 +187,12 @@ The Pricing Stage applies after determining applicable Non JD tuition.
 
 # IV. 🎓 Primary and Secondary Degree Pricing
 
-Primary and Secondary Degree Pricing allows an academically applicable secondary degree to receive the established 5% tuition reduction. The secondary degree may be at the same or a different degree level where academically applicable, and its reduction counts toward the ordinary tuition reduction maximum.
+Primary and Secondary Degree Pricing allows an academically applicable secondary degree to receive the established 25% tuition reduction. The secondary degree may be at the same or a different degree level where academically applicable, and its reduction counts toward the ordinary tuition reduction maximum.
 
 | Component | Base Price | Tuition Reduction |
 |:---|---:|---:|
 | Primary Degree | Applicable Degree Price | 0% |
-| Secondary Degree | Applicable Degree Price | 5% |
+| Secondary Degree | Applicable Degree Price | 25% |
 
 The Secondary Degree reduction counts toward the ordinary
 tuition reduction maximum. The Secondary Degree may be the same or a
@@ -200,12 +200,12 @@ different degree level where academically applicable.
 
 # V. 🎓 Minor Pricing
 
-Minor Pricing establishes the standard \$5,000 price for a primary or secondary minor. A secondary minor receives the established 5% reduction, which counts toward the ordinary tuition reduction maximum.
+Minor Pricing establishes the standard \$5,000 price for a primary or secondary minor. A secondary minor receives the established 25% reduction, which counts toward the ordinary tuition reduction maximum.
 
 | Minor Type | Standard Price | Tuition Reduction |
 |:---|---:|---:|
 | Primary Minor | \$5,000 | 0% |
-| Secondary Minor | \$5,000 | 5% |
+| Secondary Minor | \$5,000 | 25% |
 
 The Secondary Minor reduction counts toward the ordinary
 tuition reduction maximum.
@@ -264,8 +264,8 @@ Ordinary Tuition Reductions are applied to qualifying tuition according to the e
 | TANF | 5% | Yes |
 | WIC | 5% | Yes |
 | Qualifying Housing or Homelessness | 5% | Yes |
-| Secondary Degree | 5% | Yes |
-| Secondary Minor | 5% | Yes |
+| Secondary Degree | 25% | Yes |
+| Secondary Minor | 25% | Yes |
 | Partner Employee | 15% | Yes |
 | Community Contributor | 1%–25% | Yes |
 | Substitute Teacher Ambassador | 1%–25% | Yes |
@@ -1146,9 +1146,9 @@ The Master Active Number Table consolidates the active numerical records used th
 | TANF Reduction | 5% |
 | WIC Reduction | 5% |
 | Housing or Homelessness Reduction | 5% |
-| Secondary Degree Reduction | 5% |
+| Secondary Degree Reduction | 25% |
 | Primary Minor Reduction | 0% |
-| Secondary Minor Reduction | 5% |
+| Secondary Minor Reduction | 25% |
 | Partner Employee Tuition Reduction | 15% |
 | Partner Employee Product Reduction | 15% |
 | Community Contributor Tuition Reduction | 1%–25% |
