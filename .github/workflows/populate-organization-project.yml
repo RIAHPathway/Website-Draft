@@ -1,0 +1,34 @@
+name: Populate RIAHPathway Project 1
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/populate-organization-project.yml
+permissions:
+  contents: read
+  issues: read
+jobs:
+  populate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Synchronize existing issues
+        env:
+          GH_TOKEN: ${{ secrets.RIAH_PROJECTS_TOKEN }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$GH_TOKEN" || { echo 'Missing RIAH_PROJECTS_TOKEN secret'; exit 1; }
+          gh project link 1 --owner RIAHPathway --repo RIAHPathway/Website-Draft
+          for issue in $(seq 1 31); do
+            labels=$(gh issue view "$issue" --repo RIAHPathway/Website-Draft --json labels --jq '[.labels[].name] | join("|")')
+            status=''
+            for choice in 'Backlog' 'Ready' 'In Progress' 'In Review' 'Done'; do
+              if [[ "|$labels|" == *"|$choice|"* ]]; then status="$choice"; break; fi
+            done
+            test -n "$status" || { echo "Missing status label for issue #$issue"; exit 1; }
+            url="https://github.com/RIAHPathway/Website-Draft/issues/$issue"
+            gh project item-add 1 --owner RIAHPathway --url "$url"
+            gh project item-edit 1 --owner RIAHPathway --url "$url" --field Status --value "$status"
+            echo "Issue #$issue status: $status"
+          done
+          gh project item-list 1 --owner RIAHPathway --format json --limit 100
