@@ -418,12 +418,12 @@ This GitHub repository supports development of RIAH Pathway's website, wireframe
 
 ## 🎓 Education Pathways
 
-**School of Foundations:** RIAH diploma = eligible grade 8→9 entrants only; existing grades 9–12 students stay at their current high school for diploma and may use RIAH college dual enrollment. GED/HSE = pre-launch high school dropouts without diploma or GED only; dropping out after launch does not establish eligibility. Eligible new ninth graders and eligible previous dropouts may select concurrent college credit.
+**School of Foundations:** RIAH diploma entry from grade 8→9 requires **3.0 GPA**; transfer at grade 11 or later requires **two completed high school years and 3.0 cumulative GPA**. Others stay at their high school and may take RIAH college dual enrollment. GED/HSE requires **pre-launch withdrawal, no diploma/GED, two completed high school years, and ≥80% attendance in each of those years**; no GED for new ninth graders, unqualified ninth/tenth graders, post-launch dropouts, or RIAH diploma students. Eligible GED students may take concurrent college credits.
 
 | Pathway | Purpose |
 |---|---|
-| 🎓 **High School** | RIAH diploma starts only for eligible grade 8→9 entrants; existing high school students stay at their school and may take RIAH college dual enrollment |
-| 📘 **GED / HSE** | Second chance only for pre-launch dropouts without diploma/GED; optional concurrent college credits; no GED admission for post-launch withdrawal |
+| 🎓 **High School** | Grade 8→9 diploma entry GPA ≥3.0; grade 11+ transfer consideration after two completed high school years and cumulative GPA ≥3.0; other students may stay at existing high school with RIAH college dual enrollment |
+| 📘 **GED / HSE** | Second chance for pre-launch dropouts with no diploma/GED, two completed high school years, and ≥80% attendance each year; no internal diploma-to-GED transfer; optional 12 concurrent college credits |
 | 📚 **Certificates** | Focused educational credentials |
 | 🎓 **Associate's** | Undergraduate education |
 | 🎓 **Bachelor's** | Undergraduate education |
@@ -552,7 +552,7 @@ Public GitHub resources may support eligible development of curriculum structure
 |---|---|
 | 📘 **GED** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GED-STRUCTURE/) |
 | 📚 **General Curriculum** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GENERAL-STRUCTURE/) |
-| 🎓 **High School** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-HIGH-SCHOOL-STRUCTURE/) |
+| 🎓 **High School** | Grade 8→9 diploma entry GPA ≥3.0; grade 11+ transfer consideration after two completed high school years and cumulative GPA ≥3.0; other students may stay at existing high school with RIAH college dual enrollment |
 | 💼 **Business** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-BUSINESS-STRUCTURE/) |
 | 💻 **Technology** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-TECHNOLOGY-STRUCTURE/) |
 | ⚖️ **Law** | [View Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-SCHOOL-OF-LAW-STRUCTURE/) |

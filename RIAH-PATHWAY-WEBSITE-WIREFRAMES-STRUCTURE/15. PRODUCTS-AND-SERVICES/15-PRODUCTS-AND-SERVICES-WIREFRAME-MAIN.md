@@ -212,7 +212,7 @@ Bundles: workbook $49.99; question $69.99; simulation $149.99; mini exam $149.99
 
 **Collection availability:** Internal student resources only; not standalone retail products.
 
-**School of Foundations access:** High School Diploma collections apply only to eligible eighth-grade students entering ninth grade. GED/HSE collections apply only to students who left high school before launch and have neither diploma nor GED. Both groups may opt into eligible college dual enrollment. Existing grades 9–12 students taking RIAH college dual enrollment stay enrolled at their original high school and receive their applicable college-course resources, not RIAH diploma or GED collections.
+**School of Foundations access:** High School Diploma collections serve eligible eighth-grade-to-ninth-grade entrants with ≥3.0 GPA and admitted grade 11+ transfers with two completed academic high school years and cumulative GPA ≥3.0. GED/HSE collections serve pre-launch dropouts with no diploma/GED, two full completed high school years, and ≥80% attendance in each year. GED is unavailable to post-launch dropouts or RIAH diploma students. All eligible groups may use the corresponding college dual-enrollment resources; students remaining at outside schools receive college-course resources only.
 
 | Student Collection | Collection Scope |
 |:---|:---|
