@@ -299,7 +299,7 @@
 | Welcome, Orientation, Community, Active Student, Milestones | 11.5 |
 | Graduation, Alumni, Receive • Earn • Purchase | 11.6 |
 | Technology, Registrar, Policies, Career, Finance | 11.7 |
-| Optional Transfer Credit Evaluation ($125) and Processing/Administration ($125 upon applicable admission; $250 total when both apply) | 11.8 |
+| Optional transcript/transfer evaluation ($50) and processing ($50 upon applicable admission; $100 total when both apply) | 11.8 |
 | CTA Links, Downloads, Images, Audits | This Routing Markdown |
 ## XI. PLACEHOLDER STANDARDS
 
@@ -412,9 +412,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 [View editable Mermaid diagram](./IMAGES/APPLICATION-REVIEW.mmd)
 
 **Delivery:** Digital. **Platform:** Classe365. **Frequency:** Monthly admission cohorts for academic and experiential programs.
-**Fee:** $50 non-refundable application processing fee for all academic and experiential programs.
+**Fee:** $0 to apply — no application fee for academic or experiential programs.
 **General testing:** No SAT, ACT or general writing assessment. Applicable pathway-specific requirements remain separate.
-**Student actions:** Select school/pathway/major or experiential program, submit application and required documentation, pay application fee, meet applicable monthly deadline.
+**Student actions:** Select school/pathway/major or experiential program, submit application and required documentation, apply at no cost, meet applicable monthly deadline.
 | Receive | Items Received |
 | --- | --- |
 | Materials received | Application checklist, required-document information, payment confirmation, application updates, intended cohort and next steps. |
@@ -446,7 +446,7 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **Delivery:** Digital + Physical. **First mailed student touchpoint.**
 | Receive | Items Received |
 | --- | --- |
-| Materials received | Digital acceptance, personalized mailed acceptance letter, branded envelope and seal, school-specific presentation, acceptance folder/package, congratulations materials, enrollment instructions, cohort/start information, deposit deadline. |
+| Materials received | Digital acceptance, personalized mailed acceptance letter, branded envelope and seal, school-specific presentation, acceptance folder/package, congratulations materials, enrollment instructions, cohort/start information, resource allocation deadline. |
 **Experiential:** Selected applicants also receive experiential acceptance and next-step information.
 
 **[IMAGE — SCHOOL-SPECIFIC ACCEPTANCE LETTER AND SEALED ENVELOPE WITH UNIFIED CROWN]**
@@ -456,42 +456,48 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 **Student actions:** Accept offer, commit to RIAH Pathway, complete enrollment requirements and confirm upcoming monthly cohort; accept experiential offer where applicable.
 | Receive | Items Received |
 | --- | --- |
-| Materials received | Enrollment confirmation, checklist, tuition and fee information, required-material information, deposit instructions and deadline, cohort/start details and next steps. |
+| Materials received | Enrollment confirmation, checklist, tuition and fee information, required-material information, resource allocation payment instructions and deadline, cohort/start details and next steps. |
 
 **[BUTTON — ENROLLMENT & COMMITMENT]**
 
-## 07 💰 DEPOSIT & SEAT CONFIRMATION
+## 07 💰 STUDENT RESOURCE ALLOCATION & SEAT CONFIRMATION
 **Delivery:** Digital / Financial.
-**Academic Education Deposit:** One **$500 RIAH Education Deposit Fee** for institutional administration, processing, and personalized-resource coordination **plus** the Student Resource Allocation(s) for the selected education pathway(s). The fee is charged once per applicable deposit, even when more than one educational pathway is selected.
+**Application fee:** $0 — free to apply for all education and Experiential pathways.
+**Student Resource Allocation Fee:** The resource allocation payment/deposit covers student resources from enrollment through graduation. There is no separate $500 RIAH Education Deposit Fee; allocations depend on the selected program.
 
-| Education Pathway | Resource Allocation | Total With One $500 RIAH Fee |
-| --- | ---: | ---: |
-| Minor | $250 | $750 |
-| Associate's | $500 | $1,000 |
-| Bachelor's | $1,000 | $1,500 |
-| Master's | $1,000 | $1,500 |
-| MBA | $1,000 | $1,500 |
+| Selected Pathway | Student Resource Allocation Fee |
+| --- | ---: |
+| GED / HSE | $250 |
+| High School Diploma | $500 |
+| Minor | $250 |
+| Associate's | $500 |
+| Bachelor's | $1,000 |
+| Master's | $1,000 |
+| MBA | $1,000 |
+| J.D. (JD) | $1,000 |
+| Non-J.D. (Non-JD) | $1,000 |
+| Experiential | $500–$1,500, estimated; varies by level and approved resources |
 
-**Student resource allocation covers applicable items from enrollment through graduation**, including personalized textbooks/workbooks and educational collections, laptop/technology, software/subscriptions, applicable assessments/certification resources, Welcome/Transfer Kit items, standard transcripts, and graduation hat/cap, tassel, gown/robe, applicable cords, and graduation/completion resources. **[FINAL ITEM NUMBERING, PRECISE CONTENTS, QUANTITIES, AND FINAL ADMINISTRATIVE TASK BREAKDOWN: TO BE FINALIZED.]** See the Acceptance & Enrollment wireframe, Section IV, and controlling Tuition/Pricing Fees structure.
+**Student resource allocation covers applicable items from enrollment through graduation**, including personalized textbooks/workbooks and educational collections, laptop/technology, software/subscriptions, applicable assessments and certification resources, Welcome/Transfer Kit items, standard transcripts, and graduation cap, tassel, gown, applicable cords, diploma and completion materials. Exact items vary by pathway, and every student does not necessarily receive all listed resources. Additional resources or services outside the allocation are charged separately at their disclosed price; items included in the allocation are not double-billed.
 
-**Experiential:** Separate Experiential education collection/deposit requirements continue to apply under their controlling pricing documentation; the academic allocation amounts above do not replace those rules.
+**Optional transcript/transfer credit services:** $50 evaluation plus $50 processing ($100 combined when both apply), only where needed and not already included in the student's published allocation. **Experiential allocations:** Estimated $500–$1,500 by applicable program, without any separate education-deposit or application fee. Existing seat-confirmation and welcome-kit timelines apply.
 
 ![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
 [Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
 
-**Welcome Kit restriction:** The full Welcome Kit is not shipped until the required deposit has been paid.
-**Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first deposit deadline or forfeit their reserved seat.  
+**Welcome Kit restriction:** The full Welcome Kit is not shipped until the applicable Student Resource Allocation Fee has been paid.
+**Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first resource allocation deadline or forfeit their reserved seat.  
 Vacancies are offered to other eligible/selected applicants with a second deadline; continue until capacity is reached.
 **Academic cohort timing:** A student missing the applicable academic cohort deadline may enter a subsequent monthly cohort after satisfying requirements.
 | Receive | Items Received |
 | --- | --- |
 | Materials received | Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice. |
 
-**[ICON — EDUCATION DEPOSIT: ONE $500 RIAH FEE + APPLICABLE PATHWAY RESOURCE ALLOCATION(S)]**
-**[BUTTON — DEPOSIT INFORMATION → 12]**
+**[ICON — STUDENT RESOURCE ALLOCATION: PROGRAM-SPECIFIC; NO SEPARATE DEPOSIT FEE]**
+**[BUTTON — STUDENT ALLOCATION INFORMATION → 12]**
 
 ## 08 🎁 WELCOME EXPERIENCE
-**Delivery:** Digital + Physical + Community. **Trigger:** Deposit paid.
+**Delivery:** Digital + Physical + Community. **Trigger:** Student Resource Allocation Fee paid.
 **Personalization layers:** RIAH Pathway core + entry status (new/transfer) + pathway/level + school + major/program + monthly cohort + orientation/community.
 **Schools:** Business; Technology; Law; Homeland Security. School robes, scarves, bags and other items may have distinct school colors; visual designs remain concept-stage.
 **Pathways/levels:** High School, GED, Associate's, Bachelor's, JD, Non-JD and applicable programs.
@@ -606,10 +612,10 @@ Training includes expectations, materials, placements and introductions to assig
 
 **[ICON — MONTHLY CALENDAR]**
 **All academic and experiential programs use monthly admissions cohorts**, rather than unrestricted daily entry.  
-This allows time for application processing, decisions, applicable aid and accreditation-related preparation, deposit deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation.  
+This allows time for application processing, decisions, applicable aid and accreditation-related preparation, resource allocation deadlines, seat/capacity confirmation, Welcome Kit fulfillment, one-week orientation/training, student-community placement and program activation.  
 Accreditation or Title IV participation must not be represented as already approved unless separately verified.
 
-**Application + $50 fee**  
+**Application — $0 (free to apply)**  
 
 ![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
 [Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
@@ -638,11 +644,11 @@ Accreditation or Title IV participation must not be represented as already appro
 | --- | --- | --- | --- |
 | 01 🔎 | Interest & Inquiry | Discover RIAH Pathway and its schools/programs | Digital |
 | 02 📋 | Pre-Admissions & Preparation | Review academic/experiential requirements | Digital |
-| 03 📝 | Application | Apply for monthly cohort; $50 non-refundable fee | Digital |
+| 03 📝 | Application | Apply for monthly cohort; $0 application fee | Digital |
 | 04 ⚙️ | Review & Selection | Academic review; automated blind experiential selection | Digital |
 | 05 ✉️ | Acceptance | Receive digital and mailed acceptance | Digital + Physical |
 | 06 ✍️ | Enrollment & Commitment | Accept offer and confirm cohort intentions | Digital |
-| 07 💰 | Deposit & Seat Confirmation | Pay applicable academic deposit ($500 RIAH fee once + selected pathway resource allocation(s)); Experiential follows its own deposit requirements; confirm seat | Digital |
+| 07 💰 | Student Allocation & Seat Confirmation | Pay only the selected Student Resource Allocation Fee (no separate education-deposit fee); Experiential allocation varies by program; confirm seat | Digital |
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |
@@ -772,11 +778,11 @@ Existing original wireframe source text remains preserved above; this addendum g
 
 | Component | Fee | Timing |
 | --- | ---: | --- |
-| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $125 | After prerequisite/transcript eligibility review and before determining which credits apply |
-| Processing and administration | $125 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
-| **Total when both services apply** | **$250** | **One-time; not charged twice for the same evaluation** |
+| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $50 | After prerequisite/transcript eligibility review and before determining which credits apply |
+| Processing and administration | $50 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
+| **Total when both services apply** | **$100** | **One-time; not charged twice for the same evaluation** |
 
-The $250 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $125 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
+The $100 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $50 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
 
 **Admissions positioning:** Accessible education for applicants who meet program prerequisites; affordable program pricing; rigorous proctored assessments, performance assessments, and capstones. Educational admission is based on meeting published prerequisites and transcript requirements, not on purchasing the optional transfer credit evaluation service.
 

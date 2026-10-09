@@ -47,8 +47,8 @@ independently recreating or inventing financial values.
 **XIII. 🏫 SUBSTITUTE TEACHER AMBASSADOR DISCOUNTS**  
 **XIV. 🚗 RIDESHARE AND DELIVERY AMBASSADOR DISCOUNTS**  
 **XV. 🛍️ PRODUCT REDUCTION VALUES**  
-**XVI. 🧾 EDUCATION DEPOSIT RESOURCE ALLOCATIONS**  
-**XVII. 🧾 EDUCATION DEPOSIT**  
+**XVI. 🧾 STUDENT RESOURCE ALLOCATIONS**  
+**XVII. 🧾 STUDENT RESOURCE ALLOCATION FEE**  
 **XVIII. 💵 FEES**  
 **XIX. 🔄 COMPLETE TRANSFER FEE INTERNAL ALLOCATION**  
 **XX. 🔄 TRANSFER CREDIT MAXIMUMS**  
@@ -98,7 +98,7 @@ independently recreating or inventing financial values.
 | 🏫 | Ambassador | Substitute Teacher Ambassador pricing |
 | 🚗 | Ambassador | Rideshare and Delivery Ambassador pricing |
 | 🛍️ | Products | Product reduction values |
-| 🧾 | Deposit | Education Deposit and resource allocations |
+| 🧾 | Student Allocation | Program-based student resources and allocation payment |
 | 💵 | Fees and Reimbursement | Fees, stipends, reimbursement, and recovery |
 | 📚 | Review | Certification Review, Bar Review, and per-course configuration |
 | 🎁 | Funding | Scholarships, grants, stipends, and funding pools |
@@ -116,7 +116,7 @@ independently recreating or inventing financial values.
 
 ## 🖼️ Image 1 — Example Student Complete RIAH Pathway, Tuition & Reimbursement Journey.
 
-- Criminal Justice pathway, and $20,000 for her experiential pathway, plus separate application fees and deposits.
+- Criminal Justice pathway, and $20,000 for her experiential pathway, with $0 to apply and applicable student resource allocations.
 - By completing her required monthly and annual milestones throughout the four-year journey, she qualifies for the maximum 50% tuition reimbursement—$35,000—reducing her $70,000 tuition to $35,000 after reimbursement.
 
 ![RIAH Pathway Tuition Example Student](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES/IMAGES/RIAH-PATHWAY-TUITION-I-EXAMPLE-STUDENT.png?raw=true)
@@ -274,7 +274,7 @@ Ordinary Tuition Reductions are applied to qualifying tuition according to the e
 # IX. 🛡️ Ordinary Tuition Reduction Cap
 
 - The Pricing Engine may identify multiple qualifying ordinary tuition reductions, but their combined applied value cannot exceed 25%.
-- Pricing Stages, the Integrated Education and Experiential Adjustment, Scholarships, Grants, Stipends, other applicable funding, Education Deposit, Student Resource Allocations, and financing remain outside this cap.
+- Pricing Stages, the Integrated Education and Experiential Adjustment, Scholarships, Grants, Stipends, other applicable funding, Student Resource Allocation Fees, and financing remain outside this cap.
 
 | Rule | Value |
 |:---|---:|
@@ -285,7 +285,7 @@ ordinary tuition reduction actually applied cannot exceed 25%.
 
 The Pricing Stage, Integrated Education and Experiential Adjustment,
 Scholarships, Grants, Stipends, other applicable funding, Education
-Deposit, Student Resource Allocations, and financing do not count toward
+Student Resource Allocation Fees, and financing do not count toward
 the 25% ordinary tuition reduction maximum.
 
 # X. 🤝 Partner Employee Pricing
@@ -359,58 +359,49 @@ Product reductions are separate from tuition reductions. Taxes,
 shipping, handling, and applicable checkout charges remain outside
 tuition calculations.
 
-# XVI. 🧾 Education Deposit Resource Allocations
+# XVI. 🧾 Student Resource Allocations
 
 - Student Resource Allocations are **separate from tuition** and provide **pathway-based funding for applicable student resources from enrollment through graduation**, not solely the initial Welcome Kit.
 - Depending on the student's approved pathway and individualized courses, allocations support applicable **customized textbooks and workbooks; study guides, journals, planners, flashcards, school core/major/minor/capstone collections; laptop/computer and technology; software, licenses and subscriptions; certification/review and proctoring resources; Welcome/Transfer Kit materials, student ID and orientation items; standard transcripts and graduation records; graduation hat/cap, tassel, gown/robe, applicable earned cords/honor cords, diploma/completion and graduation resources; and other applicable academic materials and support resources**.
 - The resource list is **pathway- and student-specific**, including transfer-credit adjustments. It does not guarantee every resource listed to every student or require all resources to ship during the Welcome stage.
-- **[RESOURCE ITEM NUMBERING, EXACT CONTENTS AND QUANTITIES, SPECIFICATIONS, TIMING, AND PATHWAY-SPECIFIC ALLOCATION BREAKDOWN: TO BE FINALIZED.]** The established allocations below remain unchanged.
+- **[RESOURCE ITEM NUMBERING, EXACT CONTENTS AND QUANTITIES, SPECIFICATIONS, TIMING, AND PATHWAY-SPECIFIC ALLOCATION BREAKDOWN: TO BE FINALIZED.]**
 
-| Pathway | Student Resource Allocation |
-|:---|---:|
-| Minor | \$250 |
-| Associate’s | \$500 |
-| Bachelor’s | \$1,000 |
-| Master’s | \$1,000 |
-| MBA | \$1,000 |
+| Selected Pathway | Student Resource Allocation Fee |
+| --- | ---: |
+| GED / HSE | $250 |
+| High School Diploma | $500 |
+| Minor | $250 |
+| Associate's | $500 |
+| Bachelor's | $1,000 |
+| Master's | $1,000 |
+| MBA | $1,000 |
+| J.D. (JD) | $1,000 |
+| Non-J.D. (Non-JD) | $1,000 |
+| Experiential | $500–$1,500, estimated; varies by level and approved resources |
 
-# XVII. 🧾 Education Deposit
+# XVII. 🧾 Student Resource Allocation Fee (Resource Allocation Payment)
 
-The Education Deposit combines one \$500 RIAH Education Deposit Fee with the Student Resource Allocation for the selected applicable education pathway or pathways. The \$500 RIAH Fee is charged once per applicable Education Deposit rather than once for every selected pathway.
-**Purpose of the separate $500 RIAH Education Deposit Fee:** Institutional administration and processing of the Education Deposit and coordination/preparation of the student's individualized resources, including administrative activities needed to organize personalized educational materials and applicable enrollment-to-graduation student resources. **[DETAILED ADMINISTRATIVE SERVICES, TASK-BY-TASK FEE COVERAGE, AND ITEM NUMBERING: TO BE FINALIZED.]** The fee is separate from the Student Resource Allocation; it does **not** establish an additional Admissions Fee or Enrollment Fee, which remain $0. This clarification does not modify the $50 Application Fee, optional transfer-credit charges, or separately governed Experiential deposits.
+The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $250 exceptions**. Combined pathway allocations are additive and may exceed the single-pathway range.
 
-| Deposit Component | Amount |
-|:---|---:|
-| RIAH Education Deposit Fee | \$500 Once |
-| Student Resource Allocation | Sum of Applicable Pathway Allocations |
-| Total Education Deposit | \$500 + Applicable Resource Allocations |
-
-| Selected Education | Resource Allocation | RIAH Fee | Education Deposit |
-|:---|---:|---:|---:|
-| Minor | \$250 | \$500 | \$750 |
-| Associate’s | \$500 | \$500 | \$1,000 |
-| Bachelor’s | \$1,000 | \$500 | \$1,500 |
-| Master’s | \$1,000 | \$500 | \$1,500 |
-| MBA | \$1,000 | \$500 | \$1,500 |
-| Bachelor’s + Minor | \$1,250 | \$500 | \$1,750 |
-| Bachelor’s + Master’s | \$2,000 | \$500 | \$2,500 |
-| Double Bachelor’s + Minor | \$2,250 | \$500 | \$2,750 |
-
-The \$500 RIAH Fee is charged once per applicable Education Deposit
-rather than once for every selected pathway.
+**Combined pathways:** Sum the published allocations for each applicable selected pathway. For example, Bachelor's + Minor = $1,250; Bachelor's + Master's = $2,000; Double Bachelor's + Minor = $2,250. **There is no separate $500 RIAH Education Deposit Fee or other institutional education deposit charge.** Experiential students pay only their applicable estimated program-specific resource allocation in addition to published program tuition and any optional services not already included.
 
 # XVIII. 💵 Fees
 
-The fee structure identifies the established application, admissions, enrollment, transfer, and Education Deposit fees. The optional transfer credit evaluation and processing fee is charged only when applicable, while admissions and enrollment have no separate fee.
+RIAH Pathway prioritizes **affordable, accessible enrollment**. It is **$0 to apply** for all education and Experiential pathways; there is no admissions, enrollment, or separate education-deposit fee. The **Student Resource Allocation Fee** is the resource allocation payment/deposit based on the selected program, not an added $500 administration charge. Optional transcript/transfer-credit evaluation is $50 and subsequent processing is $50 (**$100 total** only when both services apply); no double charge applies to services already included in a published allocation.
 
-| Fee | Amount |
+| Fee or Student Allocation | Amount |
 |:---|---:|
-| Application Fee | \$50 |
+| Application Fee | \$0 (Free to Apply) |
 | Admissions Fee | \$0 |
 | Enrollment Fee | \$0 |
-| Optional Transfer Credit Evaluation and Processing | \$250 Total When Both Apply (\$125 + \$125) |
+| Separate Education Deposit / RIAH Administrative Fee | \$0 (Eliminated) |
+| Student Resource Allocation Fee | Program-specific; normally \$500–\$1,500, except GED / standalone Minor \$250 |
+| Optional Transcript / Transfer Credit Evaluation | \$50 |
+| Optional Transcript / Transfer Credit Processing | \$50 |
+| Optional Evaluation + Processing, When Both Apply | \$100 Total |
 | Transfer Tuition Reduction | \$0 |
-| RIAH Education Deposit Fee | \$500 Once |
+
+The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $250 exceptions**. Combined pathway allocations are additive and may exceed the single-pathway range.
 
 # XIX. 🔄 Transfer Credit Evaluation and Processing Fee
 
@@ -418,11 +409,11 @@ The fee structure identifies the established application, admissions, enrollment
 
 | Component | Fee | Timing |
 | --- | ---: | --- |
-| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $125 | After prerequisite/transcript eligibility review and before determining which credits apply |
-| Processing and administration | $125 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
-| **Total when both services apply** | **$250** | **One-time; not charged twice for the same evaluation** |
+| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $50 | After prerequisite/transcript eligibility review and before determining which credits apply |
+| Processing and administration | $50 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
+| **Total when both services apply** | **$100** | **One-time; not charged twice for the same evaluation** |
 
-The $250 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $125 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
+The $100 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $50 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
 
 **Admissions positioning:** Accessible education for applicants who meet program prerequisites; affordable program pricing; rigorous proctored assessments, performance assessments, and capstones. Educational admission is based on meeting published prerequisites and transcript requirements, not on purchasing the optional transfer credit evaluation service.
 
@@ -431,7 +422,7 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 
 **Accessible, affordable, and rigorous acceleration:** Eligible students may progress through RIAH Year 3–4 courses at an accelerated pace, but must pass each required **proctored objective and performance assessment at 80% or higher**, plus any other required examinations, prerequisites, projects, capstones, and supervision. **One month is the earliest potential curriculum-completion timeframe where permitted**, not a completion promise for every program or credential. All applicable mandatory program-duration, credentialing, authorization, and payment rules still apply.
 
-**Existing tuition, transfer-fee amounts, and $0 transfer-tuition reduction are unchanged.**
+**Existing tuition and the $0 transfer-tuition reduction are unchanged; optional transcript/transfer evaluation and processing now total $100 ($50 + $50).**
 **Tuition is the same with or without approved transfer or alternative credits.** Transfer credits can reduce the number of RIAH courses remaining and **change the student's pacing and entry point, not the published program tuition**; the established Transfer Tuition Reduction remains **$0**. Any applicable application, resource-allocation, or optional transfer-evaluation fees remain governed by their separate schedules.
 
 **Acceleration example (not a guarantee):** A student might finish the eligible outside General Education/School Core courses in **one month**, complete the initial transfer-credit review, and—if the school-specific prerequisites are satisfied—complete the remaining approved RIAH curriculum in **another month**. The actual outside-learning period may instead take two years or longer, and the RIAH portion may take longer. A one-month RIAH coursework benchmark applies **only where academic, accreditation, supervision, minimum-duration, payment, and other credentialing requirements permit**; it does not promise a one-month bachelor's, master's, MBA, or J.D. award.
@@ -441,7 +432,7 @@ The $250 is **not charged to every applicant**. It applies only to students requ
 **Final transfer-credit restrictions (education pathways):** Associate's — up to 30 credits from general education, school core, or a combination of both. Bachelor's — up to 60 credits applicable only to general education and school core. Bachelor's Years 3 and 4 consist of RIAH Pathway coursework and do not accept transfer credits; no additional transfer credits may be added after the initial transfer evaluation and placement. Master's — up to 9 credits. MBA — up to 9 credits. J.D. — up to 27 approved first-year (1L) credits for entry after Year 1 only; no J.D. transfer into Years 2, 3, or 4. Transfer credit is determined once as part of the initial transfer evaluation; later additional transfer-credit submissions are not accepted. High School and GED/HSE admission and transfer parameters remain subject to separate review and are not changed by this clarification.
 
 
-Transfer credits may accelerate applicable academic progress up to the established maximum for each pathway. **The published tuition amount remains the same whether a student transfers credits or completes all applicable courses within RIAH Pathway.** The configured **Transfer Tuition Reduction remains \$0**: accepted external credit changes remaining required coursework and possible completion timing, **not program tuition**. The existing optional transfer evaluation and other fees remain separately governed by their published schedules.
+Transfer credits may accelerate applicable academic progress up to the established maximum for each pathway. **The published tuition amount remains the same whether a student transfers credits or completes all applicable courses within RIAH Pathway.** The configured **Transfer Tuition Reduction remains \$0**: accepted external credit changes remaining required coursework and possible completion timing, **not program tuition**. Optional transcript/transfer-credit evaluation and processing cost $50 each ($100 total when both apply); published allocation inclusions must not be double-charged.
 
 | Pathway | Maximum Transfer Credits |
 |:---|---:|
@@ -1169,17 +1160,24 @@ The Master Active Number Table consolidates the active numerical records used th
 | Team Tuition | \$0 |
 | Team Product Reduction | 50% |
 | Team Reimbursement | \$0 |
-| Application Fee | \$50 |
+| Application Fee | \$0 |
 | Admissions Fee | \$0 |
 | Enrollment Fee | \$0 |
-| Complete Transfer Fee | \$500 |
+| Optional Transcript / Transfer Evaluation and Processing | \$100 Total When Both Apply |
 | Transfer Tuition Reduction | \$0 |
 | Minor Resource Allocation | \$250 |
 | Associate’s Resource Allocation | \$500 |
 | Bachelor’s Resource Allocation | \$1,000 |
 | Master’s Resource Allocation | \$1,000 |
 | MBA Resource Allocation | \$1,000 |
-| RIAH Education Deposit Fee | \$500 Once |
+| GED / HSE Resource Allocation | \$250 |
+| High School Resource Allocation | \$500 |
+| JD Resource Allocation | \$1,000 |
+| Non-JD Resource Allocation | \$1,000 |
+| Experiential Resource Allocation | \$500–\$1,500 (estimated, program-specific) |
+| Optional Transfer Evaluation | \$50 |
+| Optional Transfer Processing | \$50 |
+| Optional Evaluation and Processing Total | \$100 |
 | Basic Certification or Bar Review | \$500 |
 | Standard Certification or Bar Review | \$1,000 |
 | Premium Certification or Bar Review | \$1,500 |

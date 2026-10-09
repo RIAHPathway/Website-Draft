@@ -878,30 +878,13 @@ Students may apply for **Progressive Experience** or **Rotational Experience** i
 **Rotational Experience** allows an approved participant to rotate through applicable placements, functions, departments, professional areas, or ecosystem entities during the Experiential experience. The additional **$5,000** supports the added capacity, supervision, coordination, placement management, and resources required for rotation. The $5,000 is added to the standard tuition of the selected Experiential level.
 
 
-### Experiential Education Collection Deposit
+### Experiential Student Resource Allocation Fee
 
-Each Experiential level also has its applicable deposit associated with the Experiential education collection and materials.
+Each Experiential level has a **program-specific Student Resource Allocation Fee (resource allocation payment/deposit)**, estimated at **$500–$1,500** according to the approved level and resources. **There is no separate Education Deposit Fee, no added $500 institutional charge, and applications cost $0.** The actual amount and included items must be disclosed for the student's selected Experiential program.
 
-The deposit supports the applicable collection components established for the participant's level, which may include:
+The allocation supports applicable experiential textbooks, workbooks, journals, planners, review/study guides and flashcards, learning-management materials, laptop or required technology, software/subscriptions, enrollment and orientation resources, academic transcripts, and graduation/completion materials such as a cap and gown where applicable. Allocation items vary by program, level, and approved resource needs; they are not a guaranteed identical bundle for every participant.
 
-### **Experiential Education Collection Components**
-
-| Collection Component | Included Education Material |
-|---|---|
-| Experiential Textbook | The primary Experiential instructional text containing applicable concepts, professional context, guidance, examples, and learning content aligned to the participant's field and Experiential level. |
-| Experiential Workbook | The applied workbook used to complete structured exercises, reflections, activities, documentation, and learning tasks that connect Experiential instruction to the participant's real placement work. |
-| Experiential Journal | The structured record used to document observations, professional development, reflections, challenges, decisions, lessons learned, and growth throughout the Experiential experience. |
-| Experiential Planner | The planning resource used to organize objectives, assignments, deadlines, meetings, placement responsibilities, assessments, deliverables, supervision activities, and Experiential milestones. |
-| Review materials where applicable | Applicable materials designed to reinforce, revisit, and organize key Experiential concepts, competencies, professional standards, or assessment content for review. |
-| Study materials where applicable | Applicable supplementary resources used to help participants learn, practice, retain, and apply concepts or competencies connected to their Experiential curriculum and placement. |
-| Flashcards where applicable | Applicable concise study prompts and answers used to reinforce terminology, concepts, standards, procedures, competencies, or other knowledge relevant to the Experiential pathway. |
-| LMS learning materials | Digital instructional content, resources, assignments, assessments, and supporting materials made available through the applicable learning-management system for the Experiential curriculum. |
-| Other applicable Experiential education collection | Other applicable Experiential education collection components |
-
-
-The applicable deposit amount is controlled by the RIAH Pathway Master Pricing Data Sheet and Pricing Engine and is separate from the Experiential tuition amounts shown above unless the controlling pricing documentation states otherwise.
-
-Current Experiential tuition, deposits, and pricing remain controlled by the RIAH Pathway Master Pricing Data Sheet and Pricing Engine.
+Any additional item or service outside the student's published allocation is billed separately at its disclosed price. Items already included in the allocation are not charged again. Optional transcript/transfer-credit evaluation is $50 and processing is $50 (**$100 total when both apply**) if required and not already included in the student's published allocation. The allocation is separate from published Experiential tuition; applicable payment and placement deadlines remain governed by the existing Experiential policies.
 
 # **XV. 📚 EXPERIENTIAL AND EDUCATION INTEGRATION**
 

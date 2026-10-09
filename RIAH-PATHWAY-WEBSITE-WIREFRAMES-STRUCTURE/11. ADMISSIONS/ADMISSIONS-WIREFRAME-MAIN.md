@@ -109,7 +109,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 **[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]**
 # YOUR FORMAL ENTRY INTO THE ADMISSIONS PROCESS.
-**Classe365 • $50 NON-REFUNDABLE APPLICATION PROCESSING FEE**
+**Classe365 • $0 TO APPLY — NO APPLICATION FEE**
 **Student Information • Selected Pathway • Prior Education • Academic History • Required Documentation • Applicable Pathway Questions • Communications**
 
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-03](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.svg)
@@ -135,7 +135,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[IMAGE — RIAH PATHWAY WELCOME KIT]**
 **Physical Welcome Materials + Digital Access + School Identity + Cohort Community**
 **Student ID • School Materials • Academic Materials • Orientation Materials • Branded Items • Applicable Robe • Scarf • Bag • Student Resources**
-**Deposit/resource distinction:** The one-time $500 RIAH Education Deposit Fee covers administrative processing and coordination of personalized resource preparation; the separate applicable pathway-based Student Resource Allocation funds student resources across **enrollment through graduation** (applicable individualized textbooks/workbooks, laptop/technology, software/subscriptions, academic supports, standard transcripts, graduation cap/gown/cords and related resources). The detailed item numbering, exact inclusions, quantities, fulfillment stages and administrative-fee task list are **TO BE FINALIZED**. See Acceptance & Enrollment, Section IV; not all resources are included in the initial Welcome Kit.
+**Student allocation / fee distinction:** $0 to apply and no separate $500 RIAH Education Deposit Fee. Students pay only their selected Student Resource Allocation Fee (resource allocation payment/deposit), generally $500–$1,500 by program, with GED and Minor at $250, High School at $500, J.D. and Non-J.D. at $1,000 each. The allocation supports applicable laptops, personalized books, transcripts, graduation cap and gown, software/subscriptions, Welcome/Transfer Kit and other approved enrollment-through-graduation resources. Additional non-included items carry their disclosed separate price; no double charges for included resources. Optional transcript/transfer evaluation costs $50 and processing $50 ($100 total when both apply).
 | Orientation Area | Preparation |
 | --- | --- |
 | Academics | Expectations and resources |
@@ -198,11 +198,11 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 | Component | Fee | Timing |
 | --- | ---: | --- |
-| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $125 | After prerequisite/transcript eligibility review and before determining which credits apply |
-| Processing and administration | $125 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
-| **Total when both services apply** | **$250** | **One-time; not charged twice for the same evaluation** |
+| Transfer credit evaluation (including alternative credit, prior learning, and applicable previous coursework) | $50 | After prerequisite/transcript eligibility review and before determining which credits apply |
+| Processing and administration | $50 | Once the student is admitted to the applicable program/year and the transfer credit determination is processed |
+| **Total when both services apply** | **$100** | **One-time; not charged twice for the same evaluation** |
 
-The $250 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $125 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
+The $100 is **not charged to every applicant**. It applies only to students requesting transfer credit evaluation and subsequent processing. Transcripts are submitted during pre-admissions and reviewed for prerequisite eligibility and outstanding requirements. Students meeting the applicable education admission requirements are admitted; the transfer credit evaluation determines which previous credits apply and which courses remain, rather than determining whether the student is admitted. Students with missing prerequisites are informed of the deficiencies and may return after completing them for a follow-up review without a second evaluation charge. For a Year 3 placement, the transfer evaluation and required prerequisites must be completed before Year 3 admission/placement. The $50 processing and administration portion is assessed only once the student is admitted to the applicable year or master's/MBA program. J.D. transfers are limited to up to 27 Year 1 (1L) credits and entry after Year 1; no transfers into J.D. Years 2–4. Master's and MBA transfer limits are 9 credits each.
 
 **Admissions positioning:** Accessible education for applicants who meet program prerequisites; affordable program pricing; rigorous proctored assessments, performance assessments, and capstones. Educational admission is based on meeting published prerequisites and transcript requirements, not on purchasing the optional transfer credit evaluation service.
 
