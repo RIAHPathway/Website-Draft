@@ -274,6 +274,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 11.6 — How RIAH Pathway Works — [`11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`](11.%20ADMISSIONS/11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md)
 - 11.7 — Transfer Students — [`11.7-TRANSFER-STUDENTS-WIREFRAME.md`](11.%20ADMISSIONS/11.7-TRANSFER-STUDENTS-WIREFRAME.md)
 - **Entrepreneurship admissions — separate Spring/Fall intake:** Track requirements, business verification, assessments, enrollment deposit and $75 application are described in [11 Admissions Main](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md) and [14.4 Entrepreneurship](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md). This is not a replacement for 11.1–11.7 or the monthly academic/Experiential admissions routes.
+- **Entrepreneurship payments at enrollment:** Applicants select upfront 25% discount or monthly; overdue installments pause the program and cancellation refunds unused prepaid tuition after the used portion is earned.
 - **11 image and flow inventory:** All existing Admissions illustrations, SVG diagrams and Mermaid sources remain linked to their existing image directory [11. ADMISSIONS/IMAGES](11.%20ADMISSIONS/IMAGES/). The new entrepreneurship admissions preview is an [IMAGE PLACEHOLDER] pending production.
   - 11.7.1 — Transfer Students Hero
   - 11.7.2 — Transfer Admissions Overview
@@ -432,6 +433,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 12.1 — Tuition 
 - 12.2 — Fees 
 - 12.3 — Payment Options
+  - **Entrepreneurship-only payment options:** upfront 25% discount or monthly full tuition; late monthly payments pause access; prepaid cancellations return unused tuition after delivered program work is earned. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
 - 12.4 — Funding
 - 12.5 — Reimbursement
 - 12.6 — Costs
@@ -447,6 +449,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 14.2 — Pricing
 - 14.3 — Justice-Impacted Community Services (attorney-assisted sealing and expungement)
 - **14.4 — Entrepreneurship Program:** Startup Launch (12 weeks; **$5,000**) and Small Business Recovery & Growth (16 weeks; **$10,000**) with Spring/Fall cohorts; remote, hybrid and on-site entrepreneurship work; concurrent coursework, Experiential professionals and independently contracted professional affiliates.
+- **14.4 — Payment Options:** Pay **upfront / save 25%**: Startup **$3,750**, Small Business **$7,500**; or **monthly at full tuition**: 3 Startup or 4 Small Business installments. Existing $500 enrollment deposit is credited toward either plan. Nonpayment pauses courses/program until paid. Upfront cancellation is allowed anytime; delivered/used program periods are earned revenue and unused prepaid tuition refunded. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
 - **14.5 — Extended Services — Business Affiliate Connections:** Startup and verified-small-business matching with vetted MSSPs, CPA/accounting firms, development firms and law firms. Business intake **$49**; affiliate recruitment/vetting **$99** and qualified connection **$50** (affiliate-paid).
 - **14 wireframe, images and CTAs:** [Main Products & Services wireframe](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md) includes SECTION 16A and SECTION 16B, their [IMAGE PLACEHOLDER], [ICON], [FLOW] and [BUTTON] specifications, fee tables and routing audit. No 14 image binaries are yet published; image references are placeholders, not broken URLs.
 - **Related records:** [Admissions 11](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 16.3](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
@@ -514,6 +517,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 16.3.15 — Small Businesses
   - 16.3.16 — Entrepreneurship Ventures
     - Entrepreneurship Program collaboration → **14.4**; Extended Services affiliate introductions → **14.5**.
+    - Entrepreneurship payment cross-reference → **14.4 / 12**, including upfront 25% discount, monthly payments, missed-payment pause and refund of unused prepaid tuition.
     - [16.3 Partnerships wireframe](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md) includes a new collaboration [IMAGE PLACEHOLDER], [FLOW] and link buttons.
   - 16.3.17 — Employers
 - 16.4 — Join Our Team — [`16.4-JOIN-OUR-TEAM-WIREFRAME.md`](16-JOIN-US/16.4-JOIN-OUR-TEAM-WIREFRAME.md)
