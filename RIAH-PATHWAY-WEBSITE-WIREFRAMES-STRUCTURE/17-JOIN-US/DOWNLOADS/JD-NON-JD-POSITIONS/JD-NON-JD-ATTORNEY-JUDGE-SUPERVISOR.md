@@ -1,108 +1,199 @@
-# JD & NON-JD ATTORNEY / JUDGE SUPERVISOR
+# 👑 JD & NON-JD ATTORNEY / JUDGE SUPERVISOR
 
-**Category:** Capacity-Based Law Curriculum Supervision  
-**Individual Role Equity:** **0.0025% per approved supervisor**  
-**Capacity:** Up to 2,000 JD and Non-JD attorney/judge supervisors, in a separate equity group from the 168 fixed internal positions; full-capacity ecosystem total is **2,168**.
+**RIAH Pathway | Attorney / Judge Supervisors**
 
-### Work Model
-**100% remote**, subject to supervision requirements governing the assigned JD or Non-JD pathway.
+| # | Position Information | Details |
+|---:|---|---|
+| 1 | Position | JD & Non-JD Attorney / Judge Supervisor |
+| 2 | Category | Attorney / Judge Supervisors |
+| 3 | Location | 100% Remote (LinkedIn: Cleveland, Ohio) |
+| 4 | Work Model | Remote, subject to applicable role and quarterly executive/board meeting requirements |
+| 5 | Individual Equity | 0.0025% |
+| 6 | Hiring Team | Founder/CEO + Program Directors + Project Directors |
+| 7 | Recruitment | Demand-based, with dates announced after approved staffing need |
 
-### Description
-Provide attorney or judge supervision for JD and Non-JD law curriculum, supervised legal work, documentation, review, practical legal training, and student progression.
+## I. 🛡️ ABOUT THE POSITION
 
-### Requirements
-- Must meet the professional attorney or judge requirements for the assigned function.
-- Non-JD supervisors must satisfy the student's applicable state-specific supervision and professional-eligibility requirements, together with RIAH Pathway's curriculum, reporting, review, and program supervision requirements.
-- JD supervisors must meet applicable professional requirements and RIAH Pathway's JD curricular supervision and oversight requirements.
-- Attorneys must maintain the required active license and have **experience as an attorney**.
-- Judges must have **experience performing judicial duties** required for the assigned supervision function.
+Provide attorney or judge supervision for JD and non-JD law curriculum, legal experiential practice, documentation, review, practical legal training, and student progression.
 
-### Current Non-JD States
-California, Maine, New York, Vermont, Virginia, Washington, West Virginia.
+## II. 🔐 KEY RESPONSIBILITIES
 
-**Contribution Pool:**
-- **Pre-Beta:** **$520.83 per month**
-- **Beta:** **Varies according to the current Contribution Pool structure**
-- **Post-Accreditation / At Scale:** **$92.25 per month**
-- **Due Date:** **15th of each month**
+| # | Responsibility / Expectation |
+|---:|---|
+| 1 | Supervise assigned JD or non-JD educational work and maintain suitable documentation and reporting. |
+| 2 | Comply with applicable state supervision, curriculum, eligibility, and professional requirements. |
+| 3 | Up to 2,000 equity-bearing supervisors in a separate group from the 168 internal positions, recruited by enrollment and capacity. |
 
-### Startup Technology Requirement
-When RIAH Pathway requires a dedicated work device for the assignment, required technology and security controls are configured by the CTO/CISO under authorized administrative access and reimbursement procedures.
+## III. 🎓 QUALIFICATIONS & EXPERIENCE
 
-### Hiring Timeline
-**Capacity-based according to student enrollment, state requirements, curriculum demand, and available supervisory capacity.**
+| # | Qualification | Position Requirement |
+|---:|---|---|
+| 1 | Required | Meet professional attorney or judge requirements; attorneys must hold required active licenses and |
+| 2 | Relevant experience / preference | Non-JD states cited by the source: California, Maine, New York, Vermont, Virginia, Washington and |
 
----
+**Professional eligibility:** Active law licenses, applicable judicial experience, JD/non-JD supervision rules and state-specific requirements govern acceptance. Up to 2,000 supervisory positions are separate from the 168 internal staff allocation.
 
-## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
+## IV. 🌐 WORK MODEL & EXECUTIVE MEETINGS
 
-The reconciled individual and combined awards in this section are the current public-facing position equity reference. Approved equity accrues monthly over **48 months** based on pre-established daily, weekly and monthly performance requirements and contributions. Equity vests at **Year 1 cliff (25%), Year 2 cliff (50% cumulative), Year 3 cliff (75% cumulative), Year 4 full vesting (100%)**. Previously vested amounts do not reset. Final rights follow the award agreement.
+| # | Work Model | Arrangement |
+|---:|---|---|
+| 1 | Position Work Requirements | 100% remote, subject to approved role access, project needs, security policies, and applicable professional or supervision rules. |
 
-### 💎 Equity Cliff and Vesting
-| Equity Accrual / Vesting | Individual Equity |
-|---|---:|
-| Approved Equity | 0.0025% |
-| Each Month — Award ÷ 48 | 0.000052% |
-| Year 1 Cliff — Vested 25% | 0.000625% |
-| Year 2 Cliff — Vested 50% | 0.00125% |
-| Year 3 Cliff — Vested 75% | 0.001875% |
-| Year 4 — Fully Vested 100% | 0.0025% |
+## V. 💎 EQUITY & VESTING
 
-### ⚖️ Supervisor Compensation and Benefits
+| # | Equity Accrual / Vesting | Individual Equity |
+|---:|---|---|
+| 1 | Approved award | 0.0025% |
+| 2 | Monthly accrual (award / 48) | 0.000052% |
+| 3 | Year 1 cliff (25%) | 0.000625% |
+| 4 | Year 2 cumulative (50%) | 0.00125% |
+| 5 | Year 3 cumulative (75%) | 0.001875% |
+| 6 | Year 4 cumulative (100%) | 0.0025% |
 
-Each stage's percentage is a **total supervision revenue pool** distributed across eligible supervisors. Same benefit categories as the shared package may be offered under a **separately funded and approved supervisor plan**; targets are not guarantees.
+Eligible equity accrues over 48 months with Year One through Year Four vesting cliffs, subject to documented daily, weekly and monthly performance requirements and the signed award agreement. Previously vested amounts do not reset.
 
-| Eligible Supervision Revenue | Beta Pool | Pre-Accreditation Pool | Post-Accreditation Pool | Benefits |
-|---|---:|---:|---:|---:|
-| $0 | 0% | 0% | 0% | 0% |
-| $50K | 25% | 30% | 35% | 0% |
-| $100K | 25% | 30% | 35% | 0% |
-| $500K | 25% | 30% | 35% | 0% |
-| $1M | 25% | 30% | 35% | 10% |
-| $2M | 25% | 30% | 35% | 20% |
-| $3M | 25% | 30% | 35% | 30% |
-| $4M | 25% | 30% | 35% | 40% |
-| $5M | 25% | 30% | 35% | 50% |
-| $6M | 25% | 30% | 35% | 60% |
-| $7M | 25% | 30% | 35% | 70% |
-| $8M | 25% | 30% | 35% | 80% |
-| $9M | 25% | 30% | 35% | 90% |
-| $10M | 25% | 30% | 35% | 100% |
-| $50M | 25% | 30% | 35% | 100% |
-| $100M | 25% | 30% | 35% | 100% |
-| $500M | 25% | 30% | 35% | 100% |
-| $1B | 25% | 30% | 35% | 100% |
+## VI. 💰 REVENUE-BASED COMPENSATION
 
-| Shared Benefit | Proposed Coverage |
-|---|---|
-| Medical | Medical insurance, primary/preventive, specialist, emergency, hospital, prescription and eligible family coverage |
-| Dental | Examinations, cleanings, preventive/restorative services and eligible family coverage |
-| Vision | Exams, eyeglasses, contacts and vision specialists |
-| HSA/FSA | HSA, approved employer HSA contribution, healthcare and dependent-care FSA where available |
-| 401(k) | Retirement plan with 100% match on employee contributions up to 4% of eligible pay |
-| Mental Health | Counseling, therapy, virtual mental health and Employee Assistance Program |
-| Gym/Wellness | Gym, fitness allowance, wellness stipend, prevention programs |
-| Life/Disability | Group life and short-/long-term disability |
-| Paid Leave | PTO, sick, holidays, parental and applicable family/medical leave |
-| Education | $0 internal eligible tuition, 50% product discount, certification preparation and professional development |
-| Technology | Position-based remote work, technology support, training and recognition |
+| # | Compensation Terms | Position Policy |
+|---:|---|---|
+| 1 | Contract / Role-Specific Compensation | The attorney/judge Markdown describes supervision revenue pools of 25% in Beta, 30% in Pre-Accreditation, and 35% in Post-Accreditation. Each is a pool shared among eligible supervisors; these figures are not individual compensation rates. ELIGIBLE SUPERVISION REVENUE BETA POOL PRE-ACCREDITATION POOL POST-ACCREDITATION POOL $0 0% 0% 0% $50K-$1B (nonzero tiers) 25% 30% 35% A separately approved benefits plan may apply to qualified supervisors; target benefit funding rises with eligible supervision revenues. Proposed targets are not guarantees. |
 
-### Board Governance, Contributions & Financial Transparency
+## VII. 🩺 PROPOSED EMPLOYEE BENEFITS
 
-RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization).**
+| # | Benefit Category | Proposed Coverage |
+|---:|---|---|
+| 1 | Healthcare & Wellness | Medical, dental, vision, eligible family coverage, HSA/FSA, preventive care, mental health, counseling, gym/wellness allowances. |
+| 2 | Retirement & Insurance | Proposed 401(k) and 100% employer match on employee contributions up to 4% of eligible pay; life and disability coverage. |
+| 3 | Paid Leave | PTO, sick leave, holidays, parental leave and applicable legally required leave. |
+| 4 | Education & Technology | $0 eligible internal tuition, 50% product discounts, certification preparation, training and technology support. |
 
-**Board Members:** Founder and Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee.
+Employer benefits funding increases from 10% at $1 million to 100% at $10 million in eligible internal revenue. Benefits are proposed and subject to funding, eligibility, law and signed plan terms.
 
-**Financial Responsibilities:**
-- **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
-- **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
-- **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
+## VIII. 💵 MONTHLY CONTRIBUTION POOL
 
-**Meetings & Transparency:**
-- Monthly Board financial reviews and quarterly formal Board meetings.
-- Executive Team attends Board meetings, receives meeting minutes, and distributes financial reports to internal team members.
-- Equity holders and future investors receive contribution, donation, accreditation, and expenditure reports.
-- Internal audits conducted internally; independent external CPA firm audits Corporate, Institutional, and Foundation operations.
+| # | Contribution Stage | Monthly Amount / Rule |
+|---:|---|---|
+| 1 | Pre-Beta | $520.83 |
+| 2 | Beta | Recalculated as qualifying Core Experiential Professionals are hired |
+| 3 | Post-Accreditation / At Scale | Approximately $92.25 |
+| 4 | Recurring Due Date | 15th of each month |
 
-**Purpose:** Independent financial oversight, conflict-of-interest prevention, and transparency regarding how contributions are collected, authorized, and distributed.
+The pool covers legal fees, registrations, operational expenses, technology, subscriptions, marketing, advertising, accreditation, state authorization and the Founder/CEO's basic living expenses while building the organization, alongside 48 other pre-beta team members.
+
+| # | Full-Scale Pool Reference | Amount |
+|---:|---|---|
+| 1 | Annual Pool | $2,400,000 |
+| 2 | Equity-Bearing Contributors | 2,168 |
+| 3 | Internal Team | 168 |
+| 4 | JD/Non-JD Attorney/Judge Supervisors | 2,000 |
+| 5 | Annual Equal Share | Approximately $1,107.01 |
+| 6 | Monthly Equal Share | Approximately $92.25 |
+
+Contributions are adjusted as roles fill, held in escrow and distributed with Board and Chairman authorization and CPA Treasurer/Attorney Trustee oversight.
+
+## IX. 💻 STARTUP TECHNOLOGY & REIMBURSEMENT
+
+| # | Technology / Reimbursement | Position-Specific Terms |
+|---:|---|---|
+| 1 | Equipment, Security Access and Reimbursement | When dedicated work devices are required, the CTO/CISO coordinate approved technology configuration, cybersecurity controls, authorized access, and any applicable reimbursement process. |
+
+## X. 🏛️ BOARD GOVERNANCE & FINANCIAL TRANSPARENCY
+
+| # | Division | Scope |
+|---:|---|---|
+| 1 | Corporate | Ecosystem Corporation |
+| 2 | Institutional | Education, Experiential Programs and Products |
+| 3 | Foundation | Accreditation and State Authorization |
+
+The organizational divisions referenced by the source are Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization). The Board oversees review, approval, financial reporting and audits. The source identifies the Founder/Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee. Source oversight includes monthly financial review, quarterly formal governance meetings, escrow and board-authorized disbursement of contribution funds, plus internal reviews and independent external CPA audits. Details require governing documents and applicable agreements.
+
+## XI. 👩🏽‍💻 ABOUT THE FOUNDER & CURRENT DEVELOPMENT
+
+| # | Category | Information |
+|---:|---|---|
+| 1 | Founder/CEO | Mariah Dominique Rucker |
+| 2 | Organizational Development | The Founder/CEO oversees RIAH Pathway development, recruitment, education programs, technology infrastructure, operational services and launch preparations. Authorized executives, directors, and specialized teams collaborate according to the hiring responsibility matrix in Part A. |
+| 3 | Current Build | The Founder/CEO dedicates 48+ hours weekly to RIAH Pathway while awaiting substitute teaching license approval for daytime employment. |
+| 4 | Hiring Responsibility | Founder/CEO + Program Directors + Project Directors |
+
+## XII. 📅 HIRING TIMELINE
+
+| # | Hiring Phase | Demand-Based Procedure |
+|---:|---|---|
+| 1 | Application Opening | Announced when hiring is approved based on enrollment, capacity, contracts, sales and operational demand. |
+| 2 | Monday–Tuesday | Public first-round Zoom interviews. |
+| 3 | Wednesday | Candidate evaluation, rejection emails and selected finalists' private invitations. |
+| 4 | Thursday–Friday | Private second-round Zoom interviews. |
+| 5 | Weekend / Next Monday | Review and final decision notifications; start the following Monday subject to onboarding and agreements. |
+
+## XIII. 🎤 INTERVIEW PROCESS
+
+| # | Interview Stage | Date / Availability | Assessment |
+|---:|---|---|---|
+| 1 | First Round — Technical / Professional | Announced when open | Public 30-minute Zoom interview; 9:00 AM–5:00 PM ET, first come, first served. |
+| 2 | Wednesday Shortlisting | Wednesday | No interviews; email first-round rejections and private finalist links. |
+| 3 | Second Round — Behavioral / Communication | Thursday–Friday | Private Zoom; communication, collaboration, expectations and management style. |
+| 4 | Weekend Deliberation | Weekend | Final candidate review; no interviews. |
+| 5 | Final Notifications | Monday | Send congratulations / offer and rejection notices; initiate onboarding. |
+
+**Hiring Team:** Founder/CEO + Program Directors + Project Directors. The Founder/CEO makes executive hiring decisions. Board selection remains subject to governing documents and applicable law.
+
+## XIV. 📆 APPLICATIONS & INTERVIEW SCHEDULING
+
+**[📅 Schedule Your First-Round Zoom Interview](https://calendly.com/riahpathway/30min)**
+
+| # | Application Step | Instructions |
+|---:|---|---|
+| 1 | Reserve Appointment | Use the advertised dates when demand-based recruitment opens. |
+| 2 | Provide Résumé | Submit an accessible link to your résumé in the Calendly booking form. |
+| 3 | Hours / Duration | 9:00 AM–5:00 PM ET; 30 minutes per first interview, Zoom. |
+| 4 | Scheduling Policy | First come, first served. Once booked, an appointment is unavailable. Slots close by Tuesday 5:00 PM ET or earlier when filled. |
+| 5 | Second-Round Scheduling | Selected finalists receive private Calendly links by email on Wednesday. |
+| 6 | Recruitment Platform | Calendly currently; Breezy HR transition planned. |
+
+No separate initial application is required during the current Calendly recruitment process.
+
+## XV. 💼 ADDITIONAL CAREER OPPORTUNITIES
+
+Candidates not selected can apply for other positions matching their qualifications.
+
+| # | Category | Upcoming Opportunities |
+|---:|---|---|
+| 1 | Internal Staffing | Up to 168 internal positions across Corporate, Institutional and Foundation divisions. |
+| 2 | Executive Leadership | CISO, CTO, CFO, CLO and COO. |
+| 3 | Academic Faculty | 14 PhD and 14 adjunct faculty roles across designated majors. |
+| 4 | Cybersecurity / Technology | 3 cybersecurity specialists; 4 technology builders and architect. |
+| 5 | Program / Project Directors | 4 Program Directors and 4 Project Directors. |
+| 6 | Experiential Professionals | 120 planned roles: 42 initial managers, supervisors and reviewers plus 78 additional planned roles; hires beyond 120 are demand-based separate contracts. |
+| 7 | Board / Contractors / Legal Supervisors | 5 Board roles, demand-based contractors and up to 2,000 separate JD/Non-JD attorney or judge supervisors. |
+
+Dates, qualifications and future openings will be posted in the GitHub repositories as RIAH Pathway builds its website and operating teams.
+
+## XVI. 📩 CONTACT & SOCIAL MEDIA
+
+| # | Contact | Information |
+|---:|---|---|
+| 1 | Human Resources | [hr@RiahPathway.com](mailto:hr@RiahPathway.com) |
+| 2 | Phone | 877-245-RIAH (877-245-7424) |
+| 3 | Calendly | [calendly.com/riahpathway/30min](https://calendly.com/riahpathway/30min) |
+| 4 | GitHub | [github.com/RiahPathway](https://github.com/RiahPathway) |
+| 5 | Website | [RiahPathway.com](https://RiahPathway.com) |
+| 6 | Social Media | @RiahPathway |
+| 7 | Founder LinkedIn | [linkedin.com/in/mariahrucker](https://linkedin.com/in/mariahrucker) |
+| 8 | Founder Linktree | [linktr.ee/mariahrucker](https://linktr.ee/mariahrucker) |
+
+## 👑 RIAH PATHWAY — POSITION SUMMARY
+
+| # | Position | Summary |
+|---:|---|---|
+| 1 | Role | JD & Non-JD Attorney / Judge Supervisor |
+| 2 | Category | Attorney / Judge Supervisors |
+| 3 | Location | 100% Remote (LinkedIn: Cleveland, Ohio) |
+| 4 | Equity | 0.0025% |
+| 5 | Hiring Team | Founder/CEO + Program Directors + Project Directors |
+| 6 | Final Hiring Notification | Demand-based; announced when open |
+| 7 | Start | Demand-based; subject to appointment and onboarding |
+
+### 📅 SCHEDULE YOUR INTERVIEW
+
+**https://calendly.com/riahpathway/30min**

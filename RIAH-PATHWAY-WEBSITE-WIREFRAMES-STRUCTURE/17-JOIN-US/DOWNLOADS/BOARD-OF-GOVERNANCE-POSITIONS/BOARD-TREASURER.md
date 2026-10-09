@@ -1,52 +1,179 @@
-# BOARD TREASURER
+# 👑 BOARD TREASURER
 
-**Category:** Board of Governance  
-**Equity:** **0%**
+**RIAH Pathway | Board of Governance**
 
-### Work Model
-Board service is **100% remote during the first year of operations**. Board meetings are conducted remotely throughout the first year.
+| # | Position Information | Details |
+|---:|---|---|
+| 1 | Position | Board Treasurer |
+| 2 | Category | Board of Governance |
+| 3 | Location | 100% Remote (LinkedIn: Cleveland, Ohio) |
+| 4 | Work Model | Remote, subject to applicable role and quarterly executive/board meeting requirements |
+| 5 | Individual Equity | 0% |
+| 6 | Hiring Team | Founder/CEO + all five executives |
+| 7 | Applications Open | Dec 4, 2026 |
+| 8 | First Interviews | Dec 7–8, 2026 |
+| 9 | Final Notification | Dec 14, 2026 |
+| 10 | Official Start | Dec 21, 2026 |
 
-After the first year of operations, the Board begins required **quarterly in-person meetings in Cleveland, Ohio** with Executive Leadership.
+## I. 🛡️ ABOUT THE POSITION
 
-### Description
-Provide independent financial governance, financial review, budget oversight, fiscal accountability, and Board-level financial oversight.
+Provide independent financial governance, budget review, fiscal accountability, and board-level financial oversight.
 
-### Requirements
-- Must be a **Certified Public Accountant — CPA**.
-- CPA status must remain current during Board service.
-- Must have **experience working as a CPA**.
+## II. 🔐 KEY RESPONSIBILITIES
 
-### Board Term, Elections and Reelection
+| # | Responsibility / Expectation |
+|---:|---|
+| 1 | Review budgets, controls, reporting, audits, accountability, and financial decisions. |
+| 2 | Serve an elected two-year term, subject to re-election, governing documents, and applicable requirements. |
 
-**This elected Board of Governance role carries a two-year term.** At the end of each two-year term, the position is subject to a new election; an incumbent may seek **reelection for another two-year term**, but continued service is **not automatic**. Other eligible candidates may also be nominated, considered, and elected to the position. Election, term commencement, vacancies, and transitions follow the applicable governing documents, eligibility requirements, and law. This term policy applies to the elected Board role and does not change the Founder's separate Founder and Chairman position.
+## III. 🎓 QUALIFICATIONS & EXPERIENCE
 
-### Responsibilities
-Review budgets, financial reporting, controls, financial governance, fiscal accountability, audits, and Board financial decisions.
+| # | Qualification | Position Requirement |
+|---:|---|---|
+| 1 | Required | Current CPA credential and professional experience as a CPA. |
+| 2 | Relevant experience / preference | Governance, independence, oversight, ethics, and the duties of the respective board office. |
 
-### Compensation
-The Board stipend **does not take effect during the first year of operations while Board meetings remain remote**.
+## IV. 🌐 WORK MODEL & EXECUTIVE MEETINGS
 
-After the first year, when quarterly in-person meetings begin, the position receives a **$5,000 annual stipend**, divided into **four $1,250 quarterly stipends** for lodging, food, and transportation.
+| # | Period | Arrangement |
+|---:|---|---|
+| 1 | Year One | 100% remote, including Executive Leadership and Board of Governance meetings. |
+| 2 | After Year One | Primarily remote with required quarterly in-person meetings in Cleveland, Ohio. |
+| 3 | Meeting Stipend | $0 during Year One; after Year One, $5,000 annually ($1,250 quarterly) for transportation, food and lodging. |
 
-### Hiring Timeline
-Hiring Opens **January 1, 2027** → Deadline **January 31** → Interviews **February 1–15** → Decision **February 16** → Onboarding **February 17–28** → Start **March 1, 2027**.
+## V. 💎 EQUITY & VESTING
 
-### Board Governance, Contributions & Financial Transparency
+| # | Equity Accrual / Vesting | Individual Equity |
+|---:|---|---|
+| 1 | Approved Equity | 0% |
+| 2 | Cliff and Vesting | 0% individual equity for this role. No stock award, vesting schedule, or employee-equity cliff applies to this appointment. |
 
-RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization).**
+## VI. 💰 REVENUE-BASED COMPENSATION
 
-**Board Members:** Founder and Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee.
+| # | Compensation Terms | Position Policy |
+|---:|---|---|
+| 1 | Contract / Role-Specific Compensation | Board service is documented as non-equity governance service. The source Markdown describes the Year Two onward quarterly travel/meeting stipend above, not an individual revenue-percentage salary. |
 
-**Financial Responsibilities:**
-- **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
-- **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
-- **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
+## VII. 🩺 PROPOSED EMPLOYEE BENEFITS
 
-**Meetings & Transparency:**
-- Monthly Board financial reviews and quarterly formal Board meetings.
-- Executive Team attends Board meetings, receives meeting minutes, and distributes financial reports to internal team members.
-- Equity holders and future investors receive contribution, donation, accreditation, and expenditure reports.
-- Internal audits conducted internally; independent external CPA firm audits Corporate, Institutional, and Foundation operations.
+| # | Benefit Category | Position Policy |
+|---:|---|---|
+| 1 | Employee Benefits | No employee benefit package is assigned to this board service or independent-contractor role by the individual Markdown. Legally required rights, expense reimbursement and any negotiated terms follow applicable law and agreements. |
 
-**Purpose:** Independent financial oversight, conflict-of-interest prevention, and transparency regarding how contributions are collected, authorized, and distributed.
+## VIII. 💵 MONTHLY CONTRIBUTION POOL
+
+| # | Contribution Rule | Position Policy |
+|---:|---|---|
+| 1 | Monthly Core Pool | The board/contractor position posting does not establish an equity-bearing internal staff monthly contribution requirement. |
+
+## IX. 💻 STARTUP TECHNOLOGY & REIMBURSEMENT
+
+| # | Technology / Reimbursement | Position-Specific Terms |
+|---:|---|---|
+| 1 | Equipment, Security Access and Reimbursement | Technology and information access is granted according to the relevant board, service, or contractor agreement and security needs. No automatic executive-device reimbursement is assumed. |
+
+## X. 🏛️ BOARD GOVERNANCE & FINANCIAL TRANSPARENCY
+
+| # | Division | Scope |
+|---:|---|---|
+| 1 | Corporate | Ecosystem Corporation |
+| 2 | Institutional | Education, Experiential Programs and Products |
+| 3 | Foundation | Accreditation and State Authorization |
+
+The organizational divisions referenced by the source are Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization). The Board oversees review, approval, financial reporting and audits. The source identifies the Founder/Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee. Source oversight includes monthly financial review, quarterly formal governance meetings, escrow and board-authorized disbursement of contribution funds, plus internal reviews and independent external CPA audits. Details require governing documents and applicable agreements.
+
+**Board elections:** Elected Board positions carry two-year terms, with reelection subject to a new election, governing documents, eligibility requirements and applicable law. Continued service is not automatic, and governance appointments are subject to the authorized appointment process.
+
+## XI. 👩🏽‍💻 ABOUT THE FOUNDER & CURRENT DEVELOPMENT
+
+| # | Category | Information |
+|---:|---|---|
+| 1 | Founder/CEO | Mariah Dominique Rucker |
+| 2 | Organizational Development | The Founder/CEO oversees RIAH Pathway development, recruitment, education programs, technology infrastructure, operational services and launch preparations. Authorized executives, directors, and specialized teams collaborate according to the hiring responsibility matrix in Part A. |
+| 3 | Current Build | The Founder/CEO dedicates 48+ hours weekly to RIAH Pathway while awaiting substitute teaching license approval for daytime employment. |
+| 4 | Hiring Responsibility | Founder/CEO + all five executives |
+
+## XII. 📅 HIRING TIMELINE
+
+| # | Milestone | 2026 Date |
+|---:|---|---|
+| 1 | Applications Open | Dec 4, 2026 |
+| 2 | Applications Close — Tuesday 5:00 PM ET or earlier when slots fill | Dec 8, 2026 |
+| 3 | First-Round Public Zoom Interviews | Dec 7–8, 2026 |
+| 4 | Wednesday Selection / Private Invitations | Dec 9, 2026 |
+| 5 | Second-Round Private Zoom Interviews | Dec 10–11, 2026 |
+| 6 | Weekend Review | Dec 12–13, 2026 |
+| 7 | Monday Hiring Decision & Notifications | Dec 14, 2026 |
+| 8 | Official Start — Following Monday | Dec 21, 2026 |
+
+## XIII. 🎤 INTERVIEW PROCESS
+
+| # | Interview Stage | Date / Availability | Assessment |
+|---:|---|---|---|
+| 1 | First Round — Technical / Professional | Dec 7–8, 2026 | Public 30-minute Zoom interview; 9:00 AM–5:00 PM ET, first come, first served. |
+| 2 | Wednesday Shortlisting | Dec 9, 2026 | No interviews; email first-round rejections and private finalist links. |
+| 3 | Second Round — Behavioral / Communication | Dec 10–11, 2026 | Private Zoom; communication, collaboration, expectations and management style. |
+| 4 | Weekend Deliberation | Dec 12–13, 2026 | Final candidate review; no interviews. |
+| 5 | Final Notifications | Dec 14, 2026 | Send congratulations / offer and rejection notices; initiate onboarding. |
+
+**Hiring Team:** Founder/CEO + all five executives. The Founder/CEO makes executive hiring decisions. Board selection remains subject to governing documents and applicable law.
+
+## XIV. 📆 APPLICATIONS & INTERVIEW SCHEDULING
+
+**[📅 Schedule Your First-Round Zoom Interview](https://calendly.com/riahpathway/30min)**
+
+| # | Application Step | Instructions |
+|---:|---|---|
+| 1 | Reserve Appointment | Dec 7–8, 2026 |
+| 2 | Provide Résumé | Submit an accessible link to your résumé in the Calendly booking form. |
+| 3 | Hours / Duration | 9:00 AM–5:00 PM ET; 30 minutes per first interview, Zoom. |
+| 4 | Scheduling Policy | First come, first served. Once booked, an appointment is unavailable. Slots close by Tuesday 5:00 PM ET or earlier when filled. |
+| 5 | Second-Round Scheduling | Selected finalists receive private Calendly links by email on Wednesday. |
+| 6 | Recruitment Platform | Calendly currently; Breezy HR transition planned. |
+
+No separate initial application is required during the current Calendly recruitment process.
+
+## XV. 💼 ADDITIONAL CAREER OPPORTUNITIES
+
+Candidates not selected can apply for other positions matching their qualifications.
+
+| # | Category | Upcoming Opportunities |
+|---:|---|---|
+| 1 | Internal Staffing | Up to 168 internal positions across Corporate, Institutional and Foundation divisions. |
+| 2 | Executive Leadership | CISO, CTO, CFO, CLO and COO. |
+| 3 | Academic Faculty | 14 PhD and 14 adjunct faculty roles across designated majors. |
+| 4 | Cybersecurity / Technology | 3 cybersecurity specialists; 4 technology builders and architect. |
+| 5 | Program / Project Directors | 4 Program Directors and 4 Project Directors. |
+| 6 | Experiential Professionals | 120 planned roles: 42 initial managers, supervisors and reviewers plus 78 additional planned roles; hires beyond 120 are demand-based separate contracts. |
+| 7 | Board / Contractors / Legal Supervisors | 5 Board roles, demand-based contractors and up to 2,000 separate JD/Non-JD attorney or judge supervisors. |
+
+Dates, qualifications and future openings will be posted in the GitHub repositories as RIAH Pathway builds its website and operating teams.
+
+## XVI. 📩 CONTACT & SOCIAL MEDIA
+
+| # | Contact | Information |
+|---:|---|---|
+| 1 | Human Resources | [hr@RiahPathway.com](mailto:hr@RiahPathway.com) |
+| 2 | Phone | 877-245-RIAH (877-245-7424) |
+| 3 | Calendly | [calendly.com/riahpathway/30min](https://calendly.com/riahpathway/30min) |
+| 4 | GitHub | [github.com/RiahPathway](https://github.com/RiahPathway) |
+| 5 | Website | [RiahPathway.com](https://RiahPathway.com) |
+| 6 | Social Media | @RiahPathway |
+| 7 | Founder LinkedIn | [linkedin.com/in/mariahrucker](https://linkedin.com/in/mariahrucker) |
+| 8 | Founder Linktree | [linktr.ee/mariahrucker](https://linktr.ee/mariahrucker) |
+
+## 👑 RIAH PATHWAY — POSITION SUMMARY
+
+| # | Position | Summary |
+|---:|---|---|
+| 1 | Role | Board Treasurer |
+| 2 | Category | Board of Governance |
+| 3 | Location | 100% Remote (LinkedIn: Cleveland, Ohio) |
+| 4 | Equity | 0% |
+| 5 | Hiring Team | Founder/CEO + all five executives |
+| 6 | Final Hiring Notification | Dec 14, 2026 |
+| 7 | Start | Dec 21, 2026 |
+
+### 📅 SCHEDULE YOUR INTERVIEW
+
+**https://calendly.com/riahpathway/30min**

@@ -1,125 +1,224 @@
-# CHIEF FINANCIAL OFFICER
+# 👑 CHIEF FINANCIAL OFFICER (CFO)
 
-**Category:** Executive Leadership  
-**Individual Role Equity:** **1.52%**
+**RIAH Pathway | Executive Leadership**
 
-### Work Model
-**100% remote during the first year of operations**, including Executive Leadership and Board of Governance meetings.
+| # | Position Information | Details |
+|---:|---|---|
+| 1 | Position | Chief Financial Officer (CFO) |
+| 2 | Category | Executive Leadership |
+| 3 | Location | 100% Remote (LinkedIn: Cleveland, Ohio) |
+| 4 | Work Model | Remote, subject to applicable role and quarterly executive/board meeting requirements |
+| 5 | Individual Equity | 1.52% |
+| 6 | Hiring Team | Founder/CEO + CISO + CTO |
+| 7 | Applications Open | Oct 23, 2026 |
+| 8 | First Interviews | Oct 26–27, 2026 |
+| 9 | Final Notification | Nov 2, 2026 |
+| 10 | Official Start | Nov 9, 2026 |
 
-After the first year, required **quarterly in-person meetings in Cleveland, Ohio** begin.
+## I. 🛡️ ABOUT THE POSITION
 
-### Description
-The CFO leads finance, accounting, budgets, financial controls, reporting, forecasting, audits, financial governance, and financial operations.
+Lead finance, accounting, budgets, financial controls, reporting, forecasting, audits, financial governance, and financial operations.
 
-### Responsibilities
-- Manage budgeting, reporting, planning, controls, and accounting operations.
-- Support audits and financial documentation.
-- Manage forecasting and financial planning.
-- Coordinate with the Founder / CEO / Chairman and Executive Leadership.
+## II. 🔐 KEY RESPONSIBILITIES
 
-### Requirements
-- **Must have management experience in accounting.**
-- Must have experience leading or managing an accounting team and accounting operations.
+| # | Responsibility / Expectation |
+|---:|---|
+| 1 | Manage budgeting, financial reporting, planning, controls, and accounting operations. |
+| 2 | Support financial audits and maintain audit-ready reporting and documentation. |
+| 3 | Lead forecasts, financial planning, and coordination with the Founder/CEO and Executive Leadership. |
 
-### Preferences
-Accounting, finance, budgeting, audit, controls, forecasting, financial operations, or accounting leadership experience.
+## III. 🎓 QUALIFICATIONS & EXPERIENCE
 
-**Contribution Pool:**
-- **Pre-Beta:** **$520.83 per month**
-- **Beta:** **Varies as Core Experiential Professionals are hired**
-- **Post-Accreditation / At Scale:** **$92.25 per month**
-- **Due Date:** **15th of each month**
+| # | Qualification | Position Requirement |
+|---:|---|---|
+| 1 | Required | Accounting management experience leading an accounting team and accounting operations. |
+| 2 | Relevant experience / preference | Finance, budgeting, audits, internal controls, financial projections and executive-level accounting. |
 
-### Startup Technology Requirement
-The team member purchases their required **work laptop and inexpensive work phone** during startup. The CTO and CISO ensure required software, security controls, applications, access controls, and technology tools are installed and configured.
+## IV. 🌐 WORK MODEL & EXECUTIVE MEETINGS
 
-The CTO maintains authorized remote administrative access for technology setup, maintenance, software installation, updates, troubleshooting, and support. The CISO maintains authorized security access needed to protect and maintain required cybersecurity controls.
+| # | Period | Arrangement |
+|---:|---|---|
+| 1 | Year One | 100% remote, including Executive Leadership and Board of Governance meetings. |
+| 2 | After Year One | Primarily remote with required quarterly in-person meetings in Cleveland, Ohio. |
+| 3 | Meeting Stipend | $0 during Year One; after Year One, $5,000 annually ($1,250 quarterly) for transportation, food and lodging. |
 
-Approved laptop and work-phone purchases are **reimbursed during the RIAH Pathway reimbursement period after student revenues begin**, according to the reimbursement process and required documentation.
+## V. 💎 EQUITY & VESTING
 
-### Executive Meeting Stipend
-The stipend **does not take effect during the first year of operations**.
+| # | Equity Accrual / Vesting | Individual Equity |
+|---:|---|---|
+| 1 | Approved award | 1.52% |
+| 2 | Monthly accrual (award / 48) | 0.031667% |
+| 3 | Year 1 cliff (25%) | 0.38% |
+| 4 | Year 2 cumulative (50%) | 0.76% |
+| 5 | Year 3 cumulative (75%) | 1.14% |
+| 6 | Year 4 cumulative (100%) | 1.52% |
 
-After the first year, when quarterly in-person Cleveland meetings begin, the role receives **$5,000 annually — $1,250 quarterly** for lodging, food, and transportation.
+Eligible equity accrues over 48 months with Year One through Year Four vesting cliffs, subject to documented daily, weekly and monthly performance requirements and the signed award agreement. Previously vested amounts do not reset.
 
-### Hiring Timeline
-Hiring Opens **January 1, 2027** → Deadline **January 31** → Interviews **February 1–15** → Decision **February 16** → Onboarding **February 17–28** → Start **March 1, 2027**.
+## VI. 💰 REVENUE-BASED COMPENSATION
 
----
+| # | Eligible Internal Revenue | Beta | Pre-Accreditation | Post-Accreditation | Employer Benefits Funding |
+|---:|---|---|---|---|---|
+| 1 | $0 | 0% | 0% | 0% | 0% |
+| 2 | $50K | 0.14881% | 0.178571% | 0.208333% | 0% |
+| 3 | $100K | 0.14881% | 0.178571% | 0.208333% | 0% |
+| 4 | $500K | 0.14881% | 0.178571% | 0.208333% | 0% |
+| 5 | $1M | 0.14881% | 0.178571% | 0.208333% | 10% |
+| 6 | $2M | 0.380122% | 0.451395% | 0.522668% | 20% |
+| 7 | $3M | 0.40388% | 0.475153% | 0.546425% | 30% |
+| 8 | $4M | 0.427637% | 0.49891% | 0.570183% | 40% |
+| 9 | $5M | 0.451395% | 0.522668% | 0.593941% | 50% |
+| 10 | $6M | 0.475153% | 0.546425% | 0.617698% | 60% |
+| 11 | $7M | 0.49891% | 0.570183% | 0.641456% | 70% |
+| 12 | $8M | 0.522668% | 0.593941% | 0.665214% | 80% |
+| 13 | $9M | 0.546425% | 0.617698% | 0.688971% | 90% |
+| 14 | $10M | 0.570183% | 0.641456% | 0.712729% | 100% |
+| 15 | $50M | 0.570183% | 0.641456% | 0.712729% | 100% |
+| 16 | $100M | 0.570183% | 0.641456% | 0.712729% | 100% |
+| 17 | $500M | 0.570183% | 0.641456% | 0.712729% | 100% |
+| 18 | $1B | 0.570183% | 0.641456% | 0.712729% | 100% |
 
-## 👑 PUBLIC POSITION COMPENSATION, EQUITY, VESTING & BENEFITS — OCTOBER 2026
+At $1 million or less, allocations follow the equal-share structure for 168 internal roles. Above $1 million, this position uses the **85/5,963** allocation weight. Compensation is revenue-dependent, with no guaranteed fixed salary; $0 eligible internal revenue results in $0 under this model.
 
-This updated public-facing schedule uses the reconciled at-scale equity award when an older figure elsewhere in this file differs. Equity accrues **monthly for 48 months**, conditional on agreed daily, weekly and monthly performance/contributions. **Year 1, Year 2 and Year 3 are cliff/vesting checkpoints; Year 4 is fully vested.** Prior vested portions remain vested subject to the governing award agreement and law.
+## VII. 🩺 PROPOSED EMPLOYEE BENEFITS
 
-### 💎 Equity Cliff and Vesting
-| Cliff / Vesting | Individual Award |
-|---|---:|
-| Approved Equity | 1.52% |
-| Monthly Accrual (÷48) | 0.031667% |
-| Year 1 Cliff — 25% | 0.38% |
-| Year 2 Cliff — 50% | 0.76% |
-| Year 3 Cliff — 75% | 1.14% |
-| Year 4 — Fully Vested | 1.52% |
+| # | Benefit Category | Proposed Coverage |
+|---:|---|---|
+| 1 | Healthcare & Wellness | Medical, dental, vision, eligible family coverage, HSA/FSA, preventive care, mental health, counseling, gym/wellness allowances. |
+| 2 | Retirement & Insurance | Proposed 401(k) and 100% employer match on employee contributions up to 4% of eligible pay; life and disability coverage. |
+| 3 | Paid Leave | PTO, sick leave, holidays, parental leave and applicable legally required leave. |
+| 4 | Education & Technology | $0 eligible internal tuition, 50% product discounts, certification preparation, training and technology support. |
 
-### 🩺 Complete Shared Eligible Employee Benefits
+Employer benefits funding increases from 10% at $1 million to 100% at $10 million in eligible internal revenue. Benefits are proposed and subject to funding, eligibility, law and signed plan terms.
 
-All benefits-eligible internal positions receive the same proposed benefits menu; approved employer-funded shares follow the revenue tier. Benefits are separate from equity and compensation percentages.
+## VIII. 💵 MONTHLY CONTRIBUTION POOL
 
-| Benefit Category | Shared Proposed Coverage |
-|---|---|
-| Medical | Primary/preventive care, hospital, emergency, prescription, specialist and eligible family coverage |
-| Dental | Dental exams, cleanings, restorative care and eligible family coverage |
-| Vision | Eye exams, lenses, glasses, contacts and eligible family coverage |
-| HSA and FSA | Eligible HSA, approved employer contributions, healthcare and dependent-care FSA where offered |
-| 401(k) | Retirement and 100% employer match on eligible contributions up to 4% of eligible pay |
-| Mental Health | Counseling, therapy, virtual care, Employee Assistance Program and wellness |
-| Fitness | Gym membership, fitness allowance, wellness stipend and preventive programs |
-| Life & Disability | Group life, short- and long-term disability and available supplemental coverages |
-| Paid Leave | PTO, holidays, sick leave, parental leave and applicable family/medical leave |
-| Education | $0 eligible team tuition, 50% products discount, certification preparation, continuing education and leadership development |
-| Workplace | Approved remote work, technology support, training and recognition |
+| # | Contribution Stage | Monthly Amount / Rule |
+|---:|---|---|
+| 1 | Pre-Beta | $520.83 |
+| 2 | Beta | Recalculated as qualifying Core Experiential Professionals are hired |
+| 3 | Post-Accreditation / At Scale | Approximately $92.25 |
+| 4 | Recurring Due Date | 15th of each month |
 
-### 💰 Individual Compensation Percentages by Revenue Tier
+The pool covers legal fees, registrations, operational expenses, technology, subscriptions, marketing, advertising, accreditation, state authorization and the Founder/CEO's basic living expenses while building the organization, alongside 48 other pre-beta team members.
 
-Beta is lowest, Pre-Accreditation middle and Post-Accreditation highest. Through $1 million, the internal pool is divided equally among 168 at-scale positions; above $1 million the role's weight is **85/5,963**. Salary dollar projections are not included.
+| # | Full-Scale Pool Reference | Amount |
+|---:|---|---|
+| 1 | Annual Pool | $2,400,000 |
+| 2 | Equity-Bearing Contributors | 2,168 |
+| 3 | Internal Team | 168 |
+| 4 | JD/Non-JD Attorney/Judge Supervisors | 2,000 |
+| 5 | Annual Equal Share | Approximately $1,107.01 |
+| 6 | Monthly Equal Share | Approximately $92.25 |
 
-| Eligible Revenue | Beta | Pre-Accreditation | Post-Accreditation | Employer Benefits |
-|---|---:|---:|---:|---:|
-| $0 | 0% | 0% | 0% | 0% |
-| $50K | 0.14881% | 0.178571% | 0.208333% | 0% |
-| $100K | 0.14881% | 0.178571% | 0.208333% | 0% |
-| $500K | 0.14881% | 0.178571% | 0.208333% | 0% |
-| $1M | 0.14881% | 0.178571% | 0.208333% | 10% |
-| $2M | 0.380122% | 0.451395% | 0.522668% | 20% |
-| $3M | 0.403879% | 0.475152% | 0.546425% | 30% |
-| $4M | 0.427637% | 0.49891% | 0.570183% | 40% |
-| $5M | 0.451395% | 0.522668% | 0.59394% | 50% |
-| $6M | 0.475152% | 0.546425% | 0.617698% | 60% |
-| $7M | 0.49891% | 0.570183% | 0.641456% | 70% |
-| $8M | 0.522668% | 0.59394% | 0.665213% | 80% |
-| $9M | 0.546425% | 0.617698% | 0.688971% | 90% |
-| $10M | 0.570183% | 0.641456% | 0.712728% | 100% |
-| $50M | 0.570183% | 0.641456% | 0.712728% | 100% |
-| $100M | 0.570183% | 0.641456% | 0.712728% | 100% |
-| $500M | 0.570183% | 0.641456% | 0.712728% | 100% |
-| $1B | 0.570183% | 0.641456% | 0.712728% | 100% |
+Contributions are adjusted as roles fill, held in escrow and distributed with Board and Chairman authorization and CPA Treasurer/Attorney Trustee oversight.
 
-### Board Governance, Contributions & Financial Transparency
+## IX. 💻 STARTUP TECHNOLOGY & REIMBURSEMENT
 
-RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization).**
+| # | Technology / Reimbursement | Position-Specific Terms |
+|---:|---|---|
+| 1 | Equipment, Security Access and Reimbursement | The team member purchases a required work laptop and inexpensive work phone during startup. The CTO and CISO configure required software, cybersecurity controls, authentication and authorized administration. Approved purchases may be reimbursed after student revenues begin, subject to documentation and reimbursement policy. |
 
-**Board Members:** Founder and Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee.
+## X. 🏛️ BOARD GOVERNANCE & FINANCIAL TRANSPARENCY
 
-**Financial Responsibilities:**
-- **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
-- **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
-- **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
+| # | Division | Scope |
+|---:|---|---|
+| 1 | Corporate | Ecosystem Corporation |
+| 2 | Institutional | Education, Experiential Programs and Products |
+| 3 | Foundation | Accreditation and State Authorization |
 
-**Meetings & Transparency:**
-- Monthly Board financial reviews and quarterly formal Board meetings.
-- Executive Team attends Board meetings, receives meeting minutes, and distributes financial reports to internal team members.
-- Equity holders and future investors receive contribution, donation, accreditation, and expenditure reports.
-- Internal audits conducted internally; independent external CPA firm audits Corporate, Institutional, and Foundation operations.
+The organizational divisions referenced by the source are Corporate (Ecosystem Corporation), Institutional (Education, Experiential Programs, and Products), and Foundation (Accreditation and State Authorization). The Board oversees review, approval, financial reporting and audits. The source identifies the Founder/Chairman, President, Vice President, Secretary, independent CPA Treasurer, and independent Attorney-at-Law Trustee. Source oversight includes monthly financial review, quarterly formal governance meetings, escrow and board-authorized disbursement of contribution funds, plus internal reviews and independent external CPA audits. Details require governing documents and applicable agreements.
 
-**Purpose:** Independent financial oversight, conflict-of-interest prevention, and transparency regarding how contributions are collected, authorized, and distributed.
+## XI. 👩🏽‍💻 ABOUT THE FOUNDER & CURRENT DEVELOPMENT
+
+| # | Category | Information |
+|---:|---|---|
+| 1 | Founder/CEO | Mariah Dominique Rucker |
+| 2 | Organizational Development | The Founder/CEO oversees RIAH Pathway development, recruitment, education programs, technology infrastructure, operational services and launch preparations. Authorized executives, directors, and specialized teams collaborate according to the hiring responsibility matrix in Part A. |
+| 3 | Current Build | The Founder/CEO dedicates 48+ hours weekly to RIAH Pathway while awaiting substitute teaching license approval for daytime employment. |
+| 4 | Hiring Responsibility | Founder/CEO + CISO + CTO |
+
+## XII. 📅 HIRING TIMELINE
+
+| # | Milestone | 2026 Date |
+|---:|---|---|
+| 1 | Applications Open | Oct 23, 2026 |
+| 2 | Applications Close — Tuesday 5:00 PM ET or earlier when slots fill | Oct 27, 2026 |
+| 3 | First-Round Public Zoom Interviews | Oct 26–27, 2026 |
+| 4 | Wednesday Selection / Private Invitations | Oct 28, 2026 |
+| 5 | Second-Round Private Zoom Interviews | Oct 29–30, 2026 |
+| 6 | Weekend Review | Oct 31–Nov 1, 2026 |
+| 7 | Monday Hiring Decision & Notifications | Nov 2, 2026 |
+| 8 | Official Start — Following Monday | Nov 9, 2026 |
+
+## XIII. 🎤 INTERVIEW PROCESS
+
+| # | Interview Stage | Date / Availability | Assessment |
+|---:|---|---|---|
+| 1 | First Round — Technical / Professional | Oct 26–27, 2026 | Public 30-minute Zoom interview; 9:00 AM–5:00 PM ET, first come, first served. |
+| 2 | Wednesday Shortlisting | Oct 28, 2026 | No interviews; email first-round rejections and private finalist links. |
+| 3 | Second Round — Behavioral / Communication | Oct 29–30, 2026 | Private Zoom; communication, collaboration, expectations and management style. |
+| 4 | Weekend Deliberation | Oct 31–Nov 1, 2026 | Final candidate review; no interviews. |
+| 5 | Final Notifications | Nov 2, 2026 | Send congratulations / offer and rejection notices; initiate onboarding. |
+
+**Hiring Team:** Founder/CEO + CISO + CTO. The Founder/CEO makes executive hiring decisions. Board selection remains subject to governing documents and applicable law.
+
+## XIV. 📆 APPLICATIONS & INTERVIEW SCHEDULING
+
+**[📅 Schedule Your First-Round Zoom Interview](https://calendly.com/riahpathway/30min)**
+
+| # | Application Step | Instructions |
+|---:|---|---|
+| 1 | Reserve Appointment | Oct 26–27, 2026 |
+| 2 | Provide Résumé | Submit an accessible link to your résumé in the Calendly booking form. |
+| 3 | Hours / Duration | 9:00 AM–5:00 PM ET; 30 minutes per first interview, Zoom. |
+| 4 | Scheduling Policy | First come, first served. Once booked, an appointment is unavailable. Slots close by Tuesday 5:00 PM ET or earlier when filled. |
+| 5 | Second-Round Scheduling | Selected finalists receive private Calendly links by email on Wednesday. |
+| 6 | Recruitment Platform | Calendly currently; Breezy HR transition planned. |
+
+No separate initial application is required during the current Calendly recruitment process.
+
+## XV. 💼 ADDITIONAL CAREER OPPORTUNITIES
+
+Candidates not selected can apply for other positions matching their qualifications.
+
+| # | Category | Upcoming Opportunities |
+|---:|---|---|
+| 1 | Internal Staffing | Up to 168 internal positions across Corporate, Institutional and Foundation divisions. |
+| 2 | Executive Leadership | CISO, CTO, CFO, CLO and COO. |
+| 3 | Academic Faculty | 14 PhD and 14 adjunct faculty roles across designated majors. |
+| 4 | Cybersecurity / Technology | 3 cybersecurity specialists; 4 technology builders and architect. |
+| 5 | Program / Project Directors | 4 Program Directors and 4 Project Directors. |
+| 6 | Experiential Professionals | 120 planned roles: 42 initial managers, supervisors and reviewers plus 78 additional planned roles; hires beyond 120 are demand-based separate contracts. |
+| 7 | Board / Contractors / Legal Supervisors | 5 Board roles, demand-based contractors and up to 2,000 separate JD/Non-JD attorney or judge supervisors. |
+
+Dates, qualifications and future openings will be posted in the GitHub repositories as RIAH Pathway builds its website and operating teams.
+
+## XVI. 📩 CONTACT & SOCIAL MEDIA
+
+| # | Contact | Information |
+|---:|---|---|
+| 1 | Human Resources | [hr@RiahPathway.com](mailto:hr@RiahPathway.com) |
+| 2 | Phone | 877-245-RIAH (877-245-7424) |
+| 3 | Calendly | [calendly.com/riahpathway/30min](https://calendly.com/riahpathway/30min) |
+| 4 | GitHub | [github.com/RiahPathway](https://github.com/RiahPathway) |
+| 5 | Website | [RiahPathway.com](https://RiahPathway.com) |
+| 6 | Social Media | @RiahPathway |
+| 7 | Founder LinkedIn | [linkedin.com/in/mariahrucker](https://linkedin.com/in/mariahrucker) |
+| 8 | Founder Linktree | [linktr.ee/mariahrucker](https://linktr.ee/mariahrucker) |
+
+## 👑 RIAH PATHWAY — POSITION SUMMARY
+
+| # | Position | Summary |
+|---:|---|---|
+| 1 | Role | Chief Financial Officer (CFO) |
+| 2 | Category | Executive Leadership |
+| 3 | Location | 100% Remote (LinkedIn: Cleveland, Ohio) |
+| 4 | Equity | 1.52% |
+| 5 | Hiring Team | Founder/CEO + CISO + CTO |
+| 6 | Final Hiring Notification | Nov 2, 2026 |
+| 7 | Start | Nov 9, 2026 |
+
+### 📅 SCHEDULE YOUR INTERVIEW
+
+**https://calendly.com/riahpathway/30min**
