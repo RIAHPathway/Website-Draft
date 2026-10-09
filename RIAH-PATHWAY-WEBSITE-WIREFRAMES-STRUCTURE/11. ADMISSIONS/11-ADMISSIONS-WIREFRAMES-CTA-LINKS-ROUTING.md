@@ -19,6 +19,7 @@
 | 14.4 | Startup Launch (12 weeks; $5,000) and Small Business Recovery & Growth (16 weeks; $10,000) |
 | 11 / Entrepreneurship | Spring/Fall application, readiness/needs assessment and business verification |
 | 12 / Entrepreneurship | $75 Entrepreneurship Program application fee; $500 enrollment deposit credited toward tuition |
+| 12 / Entrepreneurship Payment Options | 25% upfront tuition discount or monthly at full tuition; nonpayment program pause; upfront cancellation and unused prepaid tuition refund |
 | 14.5 | Business Affiliate Connections through independent Extended Services intake |
 | 16.3 | Experiential professional collaboration and external partnership network |
 
