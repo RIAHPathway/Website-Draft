@@ -323,7 +323,7 @@ The Founder remains subject to applicable admissions, curriculum, assessment, gr
 ### BACHELOR'S IN FINANCE  
 ### + CFA CERTIFICATION MAPPING
 
-The Founder has already earned a **Bachelor's in Accounting with a minor in International Business Spanish** and an **MBA in Organizational Management**, and is pursuing a **Bachelor's in Finance at RIAH Pathway** as the School of Business bona fide student pathway used for accreditation evidence.
+The Founder has already earned a **Bachelor's in Accounting with a minor in International Business Spanish at Kent State University** and an **MBA in Organizational Management at Eastern University** and is pursuing a **Bachelor's in Finance at RIAH Pathway, her own pre-accredited institution**, as the School of Business bona fide student pathway utilized for accreditation evidence.
 
 Finance extends the Founder's accounting background while allowing RIAH Pathway to document:
 
@@ -359,7 +359,7 @@ RIAH Pathway does not itself award the external CFA designation.
 ### BACHELOR'S IN CYBERSECURITY  
 ### + RED TEAM CPTS CERTIFICATION MAPPING
 
-The Founder has already earned a **Bachelor's in Computer Science** and is pursuing a **Bachelor's in Cybersecurity (Red Team track) at RIAH Pathway** as the School of Technology bona fide student pathway used for accreditation evidence.
+The Founder has already earned a **Bachelor's in Computer Science at Central Methodist University** and is pursuing a **Bachelor's in Cybersecurity (Red Team track) at RIAH Pathway, her own pre-accredited institution**, as the School of Technology bona fide student pathway utilized for accreditation evidence.
 
 Cybersecurity builds directly on the Founder's computer-science education while allowing RIAH Pathway to document:
 
