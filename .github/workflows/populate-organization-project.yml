@@ -18,7 +18,7 @@ jobs:
         run: |
           set -euo pipefail
           test -n "$GH_TOKEN" || { echo 'Missing RIAH_PROJECTS_TOKEN secret'; exit 1; }
-          gh project link 1 --owner RIAHPathway --repo RIAHPathway/Website-Draft
+          gh project link 1 --owner RIAHPathway --repo RIAHPathway/Website-Draft || echo 'Project association requires additional token permissions; continuing to add issues.'
           for issue in $(seq 1 31); do
             labels=$(gh issue view "$issue" --repo RIAHPathway/Website-Draft --json labels --jq '[.labels[].name] | join("|")')
             status=''
