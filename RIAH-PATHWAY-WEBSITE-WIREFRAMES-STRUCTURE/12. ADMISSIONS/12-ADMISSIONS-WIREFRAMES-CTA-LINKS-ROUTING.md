@@ -1,61 +1,61 @@
-# 👑 RIAH PATHWAY — 11 ADMISSIONS WIREFRAMES CTA LINKS ROUTING
-**[PARENT — 11 ADMISSIONS]**
+# 👑 RIAH PATHWAY — 12 ADMISSIONS WIREFRAMES CTA LINKS ROUTING
+**[PARENT — 12 ADMISSIONS]**
 ## I. ADMISSIONS WIREFRAMES ROUTING DIRECTORY
 | Route | Markdown |
 | --- | --- |
-| 11 | `ADMISSIONS-WIREFRAME-MAIN.md` |
-| 11.1 | `11.1-OVERVIEW-WIREFRAME.md` |
-| 11.2 | `11.2-PRE-ADMISSIONS-WIREFRAME.md` |
-| 11.3 | `11.3-APPLICATION-WIREFRAME.md` |
-| 11.4 | `11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md` |
-| 11.5 | `11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md` |
-| 11.6 | `11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md` |
-| 11.7 | `11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md` |
-| 11.8 | `11.8-TRANSFER-STUDENTS-WIREFRAME.md` |
+| 12 | `ADMISSIONS-WIREFRAME-MAIN.md` |
+| 12.1 | `12.1-OVERVIEW-WIREFRAME.md` |
+| 12.2 | `12.2-PRE-ADMISSIONS-WIREFRAME.md` |
+| 12.3 | `12.3-APPLICATION-WIREFRAME.md` |
+| 12.4 | `12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md` |
+| 12.5 | `12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md` |
+| 12.6 | `12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md` |
+| 12.7 | `12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md` |
+| 12.8 | `12.8-TRANSFER-STUDENTS-WIREFRAME.md` |
 ### Entrepreneurship Program — Separate Spring/Fall Admissions Routing
 
 | Route | Purpose |
 |---|---|
-| 14.4 | Startup Launch (12 weeks; $5,000) and Small Business Recovery & Growth (16 weeks; $10,000) |
+| 15.4 | Startup Launch (12 weeks; $5,000) and Small Business Recovery & Growth (16 weeks; $10,000) |
 | 11 / Entrepreneurship | Spring/Fall application, readiness/needs assessment and business verification |
 | 12 / Entrepreneurship | $75 Entrepreneurship Program application fee; $500 enrollment deposit credited toward tuition |
 | 12 / Entrepreneurship Payment Options | 25% upfront tuition discount or monthly at full tuition; nonpayment program pause; upfront cancellation and unused prepaid tuition refund |
-| 14.5 | Business Affiliate Connections through independent Extended Services intake |
-| 16.3 | Experiential professional collaboration and external partnership network |
+| 15.5 | Business Affiliate Connections through independent Extended Services intake |
+| 17.3 | Experiential professional collaboration and external partnership network |
 
 ## II. ADMISSIONS INTERNAL SUBPAGE ROUTING
 | Route | Destination |
 | --- | --- |
-| 11 | Admissions |
-| 11.2 | Pre-Admissions |
-| 11.3 | Application |
-| 11.4 | Acceptance & Enrollment |
-| 11.5 | Onboarding & Student Experience |
-| 11.6 | Graduation & Alumni |
-| 11.7 | How RIAH Pathway Works |
-| 11.8 | Transfer Students |
+| 12 | Admissions |
+| 12.2 | Pre-Admissions |
+| 12.3 | Application |
+| 12.4 | Acceptance & Enrollment |
+| 12.5 | Onboarding & Student Experience |
+| 12.6 | Graduation & Alumni |
+| 12.7 | How RIAH Pathway Works |
+| 12.8 | Transfer Students |
 
 ### Numbered Subpage References
 
-1. **11.2.1** — General Admissions
-2. **11.2.2** — School and Major Admissions
-3. **11.2.3** — Experiential Pre-Admissions
-4. **11.2.4** — High School Admissions
-5. **11.2.5** — GED/HSE Admissions
-6. **11.2.6** — Law Pre-Admissions
-7. **11.3.1** — Admissions Process
-8. **11.3.2** — Application Form
-9. **11.3.3** — Admissions by Pathway
-10. **11.4.1** — Acceptance Experience
-11. **11.4.2** — After Admission
-12. **11.5.1** — Personalized Welcome
-13. **11.5.2** — Orientation
-14. **11.5.3** — Cohort, School & Community
-15. **11.5.4** — Active Student
-16. **11.5.5** — Achievements & Milestones
-17. **11.6.1** — Graduation Experience
-18. **11.6.2** — Alumni & Legacy
-19. **11.6.3** — Receive • Earn • Purchase
+1. **12.2.1** — General Admissions
+2. **12.2.2** — School and Major Admissions
+3. **12.2.3** — Experiential Pre-Admissions
+4. **12.2.4** — High School Admissions
+5. **12.2.5** — GED/HSE Admissions
+6. **12.2.6** — Law Pre-Admissions
+7. **12.3.1** — Admissions Process
+8. **12.3.2** — Application Form
+9. **12.3.3** — Admissions by Pathway
+10. **12.4.1** — Acceptance Experience
+11. **12.4.2** — After Admission
+12. **12.5.1** — Personalized Welcome
+13. **12.5.2** — Orientation
+14. **12.5.3** — Cohort, School & Community
+15. **12.5.4** — Active Student
+16. **12.5.5** — Achievements & Milestones
+17. **12.6.1** — Graduation Experience
+18. **12.6.2** — Alumni & Legacy
+19. **12.6.3** — Receive • Earn • Purchase
 
 ## III. CROSS-WEBSITE ROUTING
 | Route | Destination |
@@ -67,131 +67,131 @@
 | 5.4 | Experiential Process |
 | 5.5 | Internal Placements |
 | 5.6 | External Placements |
-| 06 | High School |
-| 07 | GED/HSE |
-| 08 | Certification Review |
-| 09 | Bar Review |
-| 10 | Curriculum |
-| 12 | Tuition |
-| 12.3 | Fees |
-| 12.4 | Payment Options |
-| 12.5 | Funding |
-| 12.6 | Reimbursement |
-| 14 | Products |
-| 15 | Accreditation |
-| 16.2 | Student Life |
-| 17.8 | Policies |
-| 17.9 | Procedures |
-| 17.10 | Guidelines |
-| 18.4 | Admissions FAQ |
-| 18.9 | Technical Support FAQ |
-| 19.2 | Contact Admissions |
-| 19.4 | Technical Support |
-| 19.5 | Student Support |
+| 07 | High School |
+| 08 | GED/HSE |
+| 09 | Certification Review |
+| 10 | Bar Review |
+| 11 | Curriculum |
+| 13 | Tuition |
+| 13.3 | Fees |
+| 13.4 | Payment Options |
+| 13.5 | Funding |
+| 13.6 | Reimbursement |
+| 15 | Products |
+| 16 | Accreditation |
+| 17.2 | Student Life |
+| 18.8 | Policies |
+| 18.9 | Procedures |
+| 18.10 | Guidelines |
+| 19.4 | Admissions FAQ |
+| 19.9 | Technical Support FAQ |
+| 20.2 | Contact Admissions |
+| 20.4 | Technical Support |
+| 20.5 | Student Support |
 
 ### Numbered Subpage References
 
-1. **16.2.20** — Career Services
+1. **17.2.20** — Career Services
 
 ## IV. ALL WIREFRAME CTA BUTTONS AND LINKS
 ### Button Routing — Wireframe CTA References
 1. **[BUTTON 11-M01 — APPLY NOW → CLASSE365]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 2. **[BUTTON 11-M02 — LOG IN → SUITEDASH]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 3. **[BUTTON 11-M03 — APPLY NOW → CLASSE365]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-4. **[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+4. **[BUTTON 11-M04 — PRE-ADMISSIONS → 12.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 5. **[BUTTON 11-M05 — PATHWAYS → 03]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-6. **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-7. **[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+6. **[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 12.4]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+7. **[BUTTON 11-M07 — PRE-ADMISSIONS → 12.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 8. **[BUTTON 11-M08 — APPLY NOW → CLASSE365]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-9. **[BUTTON 11-M09 — APPLICATION → 11.3]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-10. **[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-11. **[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-12. **[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-13. **[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-14. **[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+9. **[BUTTON 11-M09 — APPLICATION → 12.3]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+10. **[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 12.4]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+11. **[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 12.5]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+12. **[BUTTON 11-M12 — GRADUATION & ALUMNI → 12.6]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+13. **[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 12.7]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+14. **[BUTTON 11-M14 — TRANSFER STUDENTS → 12.8]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 15. **[BUTTON 11-M15 — BRAND IDENTITY → 2.6]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-16. **[BUTTON 11-M16 — STUDENT LIFE → 16.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-17. **[BUTTON 11-M17 — CONTACT ADMISSIONS → 19.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-18. **[BUTTON 11-M18 — STUDENT SUPPORT → 19.5]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-19. **[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+16. **[BUTTON 11-M16 — STUDENT LIFE → 17.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+17. **[BUTTON 11-M17 — CONTACT ADMISSIONS → 20.2]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+18. **[BUTTON 11-M18 — STUDENT SUPPORT → 20.5]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+19. **[BUTTON 11-M19 — TECHNICAL SUPPORT → 20.4]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 20. **[BUTTON 11-M20 — APPLY NOW → CLASSE365]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 21. **[BUTTON 11-M21 — PATHWAYS → 03]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 22. **[BUTTON 11-M22 — DEGREE PROGRAMS → 04]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 23. **[BUTTON 11-M23 — EXPERIENTIAL → 05]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-24. **[BUTTON 11-M24 — CURRICULUM → 10]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+24. **[BUTTON 11-M24 — CURRICULUM → 11]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 25. **[BUTTON 11-M25 — PRE-ADMISSIONS → SUITEDASH]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
 26. **[BUTTON 11-M26 — APPLY NOW → CLASSE365]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-27. **[BUTTON 11-M27 — TUITION → 12]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
-28. **[BUTTON 11-P01 — PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-29. **[BUTTON 11-P02 — PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-30. **[BUTTON 11-P03 — DEGREE PROGRAMS → 04]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-31. **[BUTTON 11-P04 — CURRICULUM → 10]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-32. **[BUTTON 11-P05 — MINOR PROGRAMS → 04]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-33. **[BUTTON 11-P06 — MASTER'S → 04]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-34. **[BUTTON 11-P07 — MBA → 04]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-35. **[BUTTON 11-P08 — EXPERIENTIAL → 05]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-36. **[BUTTON 11-P09 — LEVELS AND DURATIONS → 5.2]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-37. **[BUTTON 11-P10 — INTERNAL PLACEMENTS → 5.5]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-38. **[BUTTON 11-P11 — EXTERNAL PLACEMENTS → 5.6]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-39. **[BUTTON 11-P12 — HIGH SCHOOL → 06]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-40. **[BUTTON 11-P13 — HIGH SCHOOL PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-41. **[BUTTON 11-P14 — GED/HSE → 07]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-42. **[BUTTON 11-P15 — GED/HSE PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-43. **[BUTTON 11-P16 — LAW PATHWAYS → 4.4]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-44. **[BUTTON 11-P17 — BAR REVIEW → 09]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-45. **[BUTTON 11-P18 — APPLY NOW → 11.3]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-46. **[BUTTON 11-P19 — CONTACT ADMISSIONS → 19.2]** — Source Markdown: 11.2-PRE-ADMISSIONS-WIREFRAME.md
-47. **[BUTTON 11-A01 — APPLY NOW → CLASSE365]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-48. **[BUTTON 11-A02 — APPLY NOW → CLASSE365]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-49. **[BUTTON 11-A03 — EXPERIENTIAL PROCESS → 5.4]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-50. **[BUTTON 11-A04 — CONTACT ADMISSIONS → 19.2]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-51. **[BUTTON 11-A05 — TECHNICAL SUPPORT → 19.4]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-52. **[BUTTON 11-A06 — PRE-ADMISSIONS → 11.2]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-53. **[BUTTON 11-A07 — TUITION → 12]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-54. **[BUTTON 11-A08 — ACCEPTANCE & ENROLLMENT → 11.4]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-55. **[BUTTON 11-A09 — APPLY NOW → CLASSE365]** — Source Markdown: 11.3-APPLICATION-WIREFRAME.md
-56. **[BUTTON 11-E01 — TUITION → 12]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-57. **[BUTTON 11-E02 — FEES → 12.3]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-58. **[BUTTON 11-E03 — PAYMENT OPTIONS → 12.4]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-59. **[BUTTON 11-E04 — CONTACT ADMISSIONS → 19.2]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-60. **[BUTTON 11-E05 — POLICIES → 17.8]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-61. **[BUTTON 11-E06 — STUDENT SUPPORT → 19.5]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-62. **[BUTTON 11-E07 — ONBOARDING & STUDENT EXPERIENCE → 11.5]** — Source Markdown: 11.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
-63. **[BUTTON 11-S01 — TRANSFER STUDENTS → 11.8]** — Source Markdown: 11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
-64. **[BUTTON 11-S02 — STUDENT LIFE → 16.2]** — Source Markdown: 11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
-65. **[BUTTON 11-S03 — REIMBURSEMENT → 12.6]** — Source Markdown: 11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
-66. **[BUTTON 11-S04 — STUDENT LIFE → 16.2]** — Source Markdown: 11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
-67. **[BUTTON 11-S05 — CAREER SERVICES → 16.2.20]** — Source Markdown: 11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
-68. **[BUTTON 11-S06 — GRADUATION & ALUMNI → 11.6]** — Source Markdown: 11.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
-69. **[BUTTON 11-G01 — STUDENT LIFE → 16.2]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-70. **[BUTTON 11-G02 — SHOP NOW → SHOPIFY]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-71. **[BUTTON 11-G03 — PRODUCTS → 14]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-72. **[BUTTON 11-G04 — REQUEST TRANSCRIPT → PARCHMENT]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-73. **[BUTTON 11-G05 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-74. **[BUTTON 11-G06 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-75. **[BUTTON 11-G07 — ACHIEVEMENTS → 11.5.5]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-76. **[BUTTON 11-G08 — STUDENT SUPPORT → 19.5]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-77. **[BUTTON 11-G09 — CAREER SERVICES → 16.2.20]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-78. **[BUTTON 11-G10 — STUDENT LIFE → 16.2]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-79. **[BUTTON 11-G11 — PRODUCTS → 14]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-80. **[BUTTON 11-G12 — ALUMNI & LEGACY → 11.6.2]** — Source Markdown: 11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
-81. **[BUTTON 11-H01 — EXPERIENTIAL → 05]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-82. **[BUTTON 11-H02 — REQUEST TRANSCRIPT → PARCHMENT]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-83. **[BUTTON 11-H03 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-84. **[BUTTON 11-H04 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-85. **[BUTTON 11-H05 — ACHIEVEMENTS → 11.5.5]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-86. **[BUTTON 11-H06 — POLICIES → 17.8]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-87. **[BUTTON 11-H07 — PROCEDURES → 17.9]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-88. **[BUTTON 11-H08 — GUIDELINES → 17.10]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-89. **[BUTTON 11-H09 — CAREER SERVICES → 16.2.20]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-90. **[BUTTON 11-H10 — TUITION → 12]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-91. **[BUTTON 11-H11 — FUNDING → 12.5]** — Source Markdown: 11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
-92. **[BUTTON 11-T01 — ONBOARDING & STUDENT EXPERIENCE → 11.5]** — Source Markdown: 11.8-TRANSFER-STUDENTS-WIREFRAME.md
-93. **[BUTTON 11-T02 — TRANSFER ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 11.8-TRANSFER-STUDENTS-WIREFRAME.md
-94. **[BUTTON 11-T03 — DEGREE PROGRAMS → 04]** — Source Markdown: 11.8-TRANSFER-STUDENTS-WIREFRAME.md
-95. **[BUTTON 11-T04 — TUITION → 12]** — Source Markdown: 11.8-TRANSFER-STUDENTS-WIREFRAME.md
-96. **[BUTTON 11-T05 — APPLY NOW → 11.3]** — Source Markdown: 11.8-TRANSFER-STUDENTS-WIREFRAME.md
-97. **[BUTTON 11-T06 — CONTACT ADMISSIONS → 19.2]** — Source Markdown: 11.8-TRANSFER-STUDENTS-WIREFRAME.md
+27. **[BUTTON 11-M27 — TUITION → 13]** — Source Markdown: ADMISSIONS-WIREFRAME-MAIN.md
+28. **[BUTTON 11-P01 — PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+29. **[BUTTON 11-P02 — PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+30. **[BUTTON 11-P03 — DEGREE PROGRAMS → 04]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+31. **[BUTTON 11-P04 — CURRICULUM → 11]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+32. **[BUTTON 11-P05 — MINOR PROGRAMS → 04]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+33. **[BUTTON 11-P06 — MASTER'S → 04]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+34. **[BUTTON 11-P07 — MBA → 04]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+35. **[BUTTON 11-P08 — EXPERIENTIAL → 05]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+36. **[BUTTON 11-P09 — LEVELS AND DURATIONS → 5.2]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+37. **[BUTTON 11-P10 — INTERNAL PLACEMENTS → 5.5]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+38. **[BUTTON 11-P11 — EXTERNAL PLACEMENTS → 5.6]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+39. **[BUTTON 11-P12 — HIGH SCHOOL → 07]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+40. **[BUTTON 11-P13 — HIGH SCHOOL PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+41. **[BUTTON 11-P14 — GED/HSE → 08]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+42. **[BUTTON 11-P15 — GED/HSE PRE-ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+43. **[BUTTON 11-P16 — LAW PATHWAYS → 4.4]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+44. **[BUTTON 11-P17 — BAR REVIEW → 10]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+45. **[BUTTON 11-P18 — APPLY NOW → 12.3]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+46. **[BUTTON 11-P19 — CONTACT ADMISSIONS → 20.2]** — Source Markdown: 12.2-PRE-ADMISSIONS-WIREFRAME.md
+47. **[BUTTON 11-A01 — APPLY NOW → CLASSE365]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+48. **[BUTTON 11-A02 — APPLY NOW → CLASSE365]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+49. **[BUTTON 11-A03 — EXPERIENTIAL PROCESS → 5.4]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+50. **[BUTTON 11-A04 — CONTACT ADMISSIONS → 20.2]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+51. **[BUTTON 11-A05 — TECHNICAL SUPPORT → 20.4]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+52. **[BUTTON 11-A06 — PRE-ADMISSIONS → 12.2]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+53. **[BUTTON 11-A07 — TUITION → 13]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+54. **[BUTTON 11-A08 — ACCEPTANCE & ENROLLMENT → 12.4]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+55. **[BUTTON 11-A09 — APPLY NOW → CLASSE365]** — Source Markdown: 12.3-APPLICATION-WIREFRAME.md
+56. **[BUTTON 11-E01 — TUITION → 13]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+57. **[BUTTON 11-E02 — FEES → 13.3]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+58. **[BUTTON 11-E03 — PAYMENT OPTIONS → 13.4]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+59. **[BUTTON 11-E04 — CONTACT ADMISSIONS → 20.2]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+60. **[BUTTON 11-E05 — POLICIES → 18.8]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+61. **[BUTTON 11-E06 — STUDENT SUPPORT → 20.5]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+62. **[BUTTON 11-E07 — ONBOARDING & STUDENT EXPERIENCE → 12.5]** — Source Markdown: 12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md
+63. **[BUTTON 11-S01 — TRANSFER STUDENTS → 12.8]** — Source Markdown: 12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
+64. **[BUTTON 11-S02 — STUDENT LIFE → 17.2]** — Source Markdown: 12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
+65. **[BUTTON 11-S03 — REIMBURSEMENT → 13.6]** — Source Markdown: 12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
+66. **[BUTTON 11-S04 — STUDENT LIFE → 17.2]** — Source Markdown: 12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
+67. **[BUTTON 11-S05 — CAREER SERVICES → 17.2.20]** — Source Markdown: 12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
+68. **[BUTTON 11-S06 — GRADUATION & ALUMNI → 12.6]** — Source Markdown: 12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md
+69. **[BUTTON 11-G01 — STUDENT LIFE → 17.2]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+70. **[BUTTON 11-G02 — SHOP NOW → SHOPIFY]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+71. **[BUTTON 11-G03 — PRODUCTS → 15]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+72. **[BUTTON 11-G04 — REQUEST TRANSCRIPT → PARCHMENT]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+73. **[BUTTON 11-G05 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+74. **[BUTTON 11-G06 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+75. **[BUTTON 11-G07 — ACHIEVEMENTS → 12.5.5]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+76. **[BUTTON 11-G08 — STUDENT SUPPORT → 20.5]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+77. **[BUTTON 11-G09 — CAREER SERVICES → 17.2.20]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+78. **[BUTTON 11-G10 — STUDENT LIFE → 17.2]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+79. **[BUTTON 11-G11 — PRODUCTS → 15]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+80. **[BUTTON 11-G12 — ALUMNI & LEGACY → 12.6.2]** — Source Markdown: 12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md
+81. **[BUTTON 11-H01 — EXPERIENTIAL → 05]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+82. **[BUTTON 11-H02 — REQUEST TRANSCRIPT → PARCHMENT]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+83. **[BUTTON 11-H03 — ENROLLMENT VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+84. **[BUTTON 11-H04 — DEGREE VERIFICATION → NATIONAL STUDENT CLEARINGHOUSE]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+85. **[BUTTON 11-H05 — ACHIEVEMENTS → 12.5.5]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+86. **[BUTTON 11-H06 — POLICIES → 18.8]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+87. **[BUTTON 11-H07 — PROCEDURES → 18.9]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+88. **[BUTTON 11-H08 — GUIDELINES → 18.10]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+89. **[BUTTON 11-H09 — CAREER SERVICES → 17.2.20]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+90. **[BUTTON 11-H10 — TUITION → 13]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+91. **[BUTTON 11-H11 — FUNDING → 13.5]** — Source Markdown: 12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md
+92. **[BUTTON 11-T01 — ONBOARDING & STUDENT EXPERIENCE → 12.5]** — Source Markdown: 12.8-TRANSFER-STUDENTS-WIREFRAME.md
+93. **[BUTTON 11-T02 — TRANSFER ADMISSIONS → SUITEDASH FORM]** — Source Markdown: 12.8-TRANSFER-STUDENTS-WIREFRAME.md
+94. **[BUTTON 11-T03 — DEGREE PROGRAMS → 04]** — Source Markdown: 12.8-TRANSFER-STUDENTS-WIREFRAME.md
+95. **[BUTTON 11-T04 — TUITION → 13]** — Source Markdown: 12.8-TRANSFER-STUDENTS-WIREFRAME.md
+96. **[BUTTON 11-T05 — APPLY NOW → 12.3]** — Source Markdown: 12.8-TRANSFER-STUDENTS-WIREFRAME.md
+97. **[BUTTON 11-T06 — CONTACT ADMISSIONS → 20.2]** — Source Markdown: 12.8-TRANSFER-STUDENTS-WIREFRAME.md
 ## V. EXTERNAL LINK ROUTING
 | ID | Platform | Purpose | Status |
 | --- | --- | --- | --- |
@@ -299,18 +299,18 @@
 | Component | Placement |
 | --- | --- |
 | Global Header, Admissions Hero, Journey, Monthly Cohorts | 11 Main |
-| General Admissions | 11.2.1 |
-| Year 3, Minor, Master's, MBA | 11.2.2 |
-| Experiential Prerequisites | 11.2.3 |
-| High School | 11.2.4 |
-| GED/HSE | 11.2.5 |
-| Law | 11.2.6 |
-| Application and Experiential by Level | 11.3 |
-| Acceptance, Deposits, Enrollment | 11.4 |
-| Welcome, Orientation, Community, Active Student, Milestones | 11.5 |
-| Graduation, Alumni, Receive • Earn • Purchase | 11.6 |
-| Technology, Registrar, Policies, Career, Finance | 11.7 |
-| Optional transcript/transfer evaluation ($50) and processing ($50 upon applicable admission; $100 total when both apply) | 11.8 |
+| General Admissions | 12.2.1 |
+| Year 3, Minor, Master's, MBA | 12.2.2 |
+| Experiential Prerequisites | 12.2.3 |
+| High School | 12.2.4 |
+| GED/HSE | 12.2.5 |
+| Law | 12.2.6 |
+| Application and Experiential by Level | 12.3 |
+| Acceptance, Deposits, Enrollment | 12.4 |
+| Welcome, Orientation, Community, Active Student, Milestones | 12.5 |
+| Graduation, Alumni, Receive • Earn • Purchase | 12.6 |
+| Technology, Registrar, Policies, Career, Finance | 12.7 |
+| Optional transcript/transfer evaluation ($50) and processing ($50 upon applicable admission; $100 total when both apply) | 12.8 |
 | CTA Links, Downloads, Images, Audits | This Routing Markdown |
 ## XI. PLACEHOLDER STANDARDS
 
@@ -327,33 +327,33 @@
 ## XII. ADDITIONAL ADMISSIONS CONTENT AND ASSET ROUTING
 | ID | Element | Destination |
 | --- | --- | --- |
-| 11-B38 | Registrar and Records | 11.7.4 |
+| 11-B38 | Registrar and Records | 12.7.4 |
 | 11-B39 | Request Transcript | Parchment |
 | 11-B40 | Enrollment Verification | National Student Clearinghouse |
 | 11-B41 | Degree Verification | National Student Clearinghouse |
-| 11-B42 | Year 3 Admissions | 11.2.2 |
-| 11-B43 | Minor Program Admissions | 11.2.2 |
-| 11-B44 | Master's and MBA Admissions | 11.2.2 |
+| 11-B42 | Year 3 Admissions | 12.2.2 |
+| 11-B43 | Minor Program Admissions | 12.2.2 |
+| 11-B44 | Master's and MBA Admissions | 12.2.2 |
 | 11-B45 | High School Pre-Admissions | SuiteDash Form |
 | 11-B46 | GED/HSE Pre-Admissions | SuiteDash Form |
-| 11-B47 | Experiential Prerequisites | 11.2.3 |
+| 11-B47 | Experiential Prerequisites | 12.2.3 |
 | 11-E04 | Pathway to Success — SoundBreak | https://app.soundbreak.ai/listen/365e6a20 |
-| 11-D10 | High School Transcript Evaluation Checklist | 11.2.4 / Resources |
-| 11-D11 | GED/HSE Admissions Checklist | 11.2.5 / Resources |
-| 11-D12 | Year 3 Prerequisite Checklist | 11.2.2 / Resources |
-| 11-D13 | Minor Program Prerequisite Checklist | 11.2.2 / Resources |
-| 11-D14 | Master's and MBA Prerequisite Checklist | 11.2.2 / Resources |
-| 11-D15 | Experiential Prerequisite Checklist | 11.2.3 / Resources |
-| 11-M30 | Year 3 Prerequisite Flow | 11.2.2 |
-| 11-M31 | Minor Program Prerequisites | 11.2.2 |
-| 11-M32 | Master's and MBA Admissions | 11.2.2 |
-| 11-M33 | Experiential Prerequisite Evaluation | 11.2.3 |
-| 11-M34 | Grades 9–12 Progression | 11.2.4 |
-| 11-M35 | Eighth-to-Ninth-Grade Transition | 11.2.4 |
-| 11-M36 | High School Transcript Evaluation | 11.2.4 |
-| 11-M37 | High School and College Concurrent Coursework | 11.2.4 |
-| 11-M38 | GED/HSE and College Credit | 11.2.5 |
-| 11-M39 | GED/HSE Concurrent Coursework Flow | 11.2.5 |
+| 11-D10 | High School Transcript Evaluation Checklist | 12.2.4 / Resources |
+| 11-D11 | GED/HSE Admissions Checklist | 12.2.5 / Resources |
+| 11-D12 | Year 3 Prerequisite Checklist | 12.2.2 / Resources |
+| 11-D13 | Minor Program Prerequisite Checklist | 12.2.2 / Resources |
+| 11-D14 | Master's and MBA Prerequisite Checklist | 12.2.2 / Resources |
+| 11-D15 | Experiential Prerequisite Checklist | 12.2.3 / Resources |
+| 11-M30 | Year 3 Prerequisite Flow | 12.2.2 |
+| 11-M31 | Minor Program Prerequisites | 12.2.2 |
+| 11-M32 | Master's and MBA Admissions | 12.2.2 |
+| 11-M33 | Experiential Prerequisite Evaluation | 12.2.3 |
+| 11-M34 | Grades 9–12 Progression | 12.2.4 |
+| 11-M35 | Eighth-to-Ninth-Grade Transition | 12.2.4 |
+| 11-M36 | High School Transcript Evaluation | 12.2.4 |
+| 11-M37 | High School and College Concurrent Coursework | 12.2.4 |
+| 11-M38 | GED/HSE and College Credit | 12.2.5 |
+| 11-M39 | GED/HSE Concurrent Coursework Flow | 12.2.5 |
 **CTA Families:** APPLY NOW • LEARN MORE • GET STARTED • LOG IN • SHOP NOW.
 **Public downloads are planned wireframe assets until created, approved, and attached. Authenticated student guide remains a SuiteDash portal resource.**
 
@@ -412,7 +412,7 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 | --- | --- |
 | Materials received | Pre-admissions guides, eligibility checklists, transcript and documentation requirements, pathway/school/major information, program-specific preparation materials. |
 
-**[BUTTON — PRE-ADMISSIONS → 11.2]**
+**[BUTTON — PRE-ADMISSIONS → 12.2]**
 
 ## 03 📝 APPLICATION
 
@@ -435,8 +435,8 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 ## 04 ⚙️ ADMISSIONS REVIEW & EXPERIENTIAL SELECTION
 **Delivery:** Digital.
 
-![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
 
 **Schools:** School of Business; School of Technology; School of Homeland Security; School of Law.
 **Experiential selection:** Do not describe a general selection interview. Selection is automated and blind under applicable eligibility and capacity rules.
@@ -493,8 +493,8 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 
 **Optional transcript/transfer credit services:** $50 evaluation plus $50 processing ($100 combined when both apply), only where needed and not already included in the student's published allocation. **Experiential allocations:** Estimated $500–$1,500 by applicable program, without any separate education-deposit or application fee. Existing seat-confirmation and welcome-kit timelines apply.
 
-![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
 
 **Welcome Kit restriction:** The full Welcome Kit is not shipped until the applicable Student Resource Allocation Fee has been paid.
 **Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first resource allocation deadline or forfeit their reserved seat.  
@@ -505,7 +505,7 @@ Vacancies are offered to other eligible/selected applicants with a second deadli
 | Materials received | Payment confirmation, seat/cohort confirmation, Welcome Kit preparation notice. |
 
 **[ICON — STUDENT RESOURCE ALLOCATION: PROGRAM-SPECIFIC; NO SEPARATE DEPOSIT FEE]**
-**[BUTTON — STUDENT ALLOCATION INFORMATION → 12]**
+**[BUTTON — STUDENT ALLOCATION INFORMATION → 13]**
 
 ## 08 🎁 WELCOME EXPERIENCE
 **Delivery:** Digital + Physical + Community. **Trigger:** Student Resource Allocation Fee paid.
@@ -550,8 +550,8 @@ Training includes expectations, materials, placements and introductions to assig
 ## 10 👥 COHORT, SCHOOL & COMMUNITY
 **Delivery:** Digital + Physical + Community.
 
-![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
 
 **Experience:** Human camaraderie, student-to-student engagement, school identity, group activities, shared cohort progress, student support.
 | Receive | Items Received |
@@ -628,8 +628,8 @@ Accreditation or Title IV participation must not be represented as already appro
 
 **Application — $0 (free to apply)**  
 
-![11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
 
 ## 🌐 PUBLIC WEBSITE FLOW — ADMISSIONS
 
@@ -663,9 +663,9 @@ Accreditation or Title IV participation must not be represented as already appro
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |
-| 9 | 09 🧭   | One-Week Orientation & Training   | Academic, experiential and applicable law supervision training; LMS provisioned   | Digital + Physical + Community |
+| 10 | 09 🧭   | One-Week Orientation & Training   | Academic, experiential and applicable law supervision training; LMS provisioned   | Digital + Physical + Community |
 | 10 | 10 👥   | Cohort, School & Community   | School group, cohort group and peer/buddy connection   | Digital + Physical + Community |
-| 11 | 11 🚀   | Active Student Experience   | LearnWorlds opens; academics/experiential begin   | Digital + Physical + Community |
+| 12 | 11 🚀   | Active Student Experience   | LearnWorlds opens; academics/experiential begin   | Digital + Physical + Community |
 | 12 | 12 📣   | Organizations & Leadership   | Ambassadors, honor societies, organizations and leadership   | Digital + Community |
 | 13 | 13 🏆   | Achievements & Milestones   | Recognition and qualifying opportunities throughout enrollment   | Digital + Physical + Community |
 | 14 | 14 🎓   | Graduation   | Regional in-person or virtual ceremony and materials   | Digital + Physical + Community |
@@ -686,7 +686,7 @@ Accreditation or Title IV participation must not be represented as already appro
 | 3 | Virtual orientation / training / cohort sessions   | Zoom   | Microsoft Teams   | Use Teams for student-facing virtual sessions |
 | 4 | Student school/cohort communities   | Slack; Geneva   | SuiteDash   | Use SuiteDash for student community |
 | 5 | LMS / active course access   | No change   | LearnWorlds   | Provision during onboarding; open course access at active start |
-| 6 | Experiential placement functions   | Earlier references if any   | PeopleGrove CORE + Experience Hub + CompMS   | Update only existing relevant placement-system mentions |
+| 7 | Experiential placement functions   | Earlier references if any   | PeopleGrove CORE + Experience Hub + CompMS   | Update only existing relevant placement-system mentions |
 | 7 | Career services   | Earlier references if any   | Symplicity CSM   | Update only existing relevant career-service mentions |
 | 8 | Student recognition   | Earlier references if any   | Merit Pages   | Update only existing relevant recognition-system mentions |
 
@@ -696,13 +696,13 @@ Existing original wireframe source text remains preserved above; this addendum g
 
 **[BUTTON — APPLY NOW → CLASSE365]**
 
-**[BUTTON — PRE-ADMISSIONS → 11.2]**
-**[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]**
+**[BUTTON — PRE-ADMISSIONS → 12.2]**
+**[BUTTON — ACCEPTANCE & ENROLLMENT → 12.4]**
 
-**[BUTTON — STUDENT EXPERIENCE → 11.5]**
-**[BUTTON — GRADUATION & ALUMNI → 11.6]**
+**[BUTTON — STUDENT EXPERIENCE → 12.5]**
+**[BUTTON — GRADUATION & ALUMNI → 12.6]**
 
-**[BUTTON — TRANSFER STUDENTS → 11.8]**
+**[BUTTON — TRANSFER STUDENTS → 12.8]**
 
 
 ---
@@ -815,16 +815,16 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 
 | Admissions Source Markdown | Added CTA / Link / Download | Route / Destination |
 |---|---|---|
-| ADMISSIONS-WIREFRAME-MAIN.md | Tuition, pricing stages and Experiential / academic costs | 12 |
-| ADMISSIONS-WIREFRAME-MAIN.md | Verified tuition reimbursement and contributor milestones | 12.6; 16.2.15 |
-| ADMISSIONS-WIREFRAME-MAIN.md | Founder contributions and financial transparency | 16.6 |
-| 11.1-PRE-ADMISSIONS-WIREFRAME.md | Tuition before applying / contributor benefits / Founder | 12; 12.6; 16.6 |
-| 11.2-APPLICATION-WIREFRAME.md | Program prices / reimbursement / Founder | 12; 12.6; 16.6 |
-| 11.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md | Enrollment pricing / contribution milestones / Founder | 12; 12.6; 16.6 |
-| 11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md | Verified milestones / reimbursement / Founder | 16.2.15; 12.6; 16.6 |
-| 11.5-GRADUATION-AND-ALUMNI-WIREFRAME.md | Guaranteed qualifying 10% completion / up to 50% approved milestones | 12.6; 16.2.15 |
-| 11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md | Student financial reimbursements / Founder equity pool | 12.6; 16.6 |
-| 11.7-TRANSFER-STUDENTS-WIREFRAME.md | Published tuition / milestone reimbursement / Founder | 12; 12.6; 16.6 |
+| ADMISSIONS-WIREFRAME-MAIN.md | Tuition, pricing stages and Experiential / academic costs | 13 |
+| ADMISSIONS-WIREFRAME-MAIN.md | Verified tuition reimbursement and contributor milestones | 13.6; 17.2.15 |
+| ADMISSIONS-WIREFRAME-MAIN.md | Founder contributions and financial transparency | 17.6 |
+| 12.1-PRE-ADMISSIONS-WIREFRAME.md | Tuition before applying / contributor benefits / Founder | 12; 13.6; 17.6 |
+| 12.2-APPLICATION-WIREFRAME.md | Program prices / reimbursement / Founder | 12; 13.6; 17.6 |
+| 12.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md | Enrollment pricing / contribution milestones / Founder | 12; 13.6; 17.6 |
+| 12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md | Verified milestones / reimbursement / Founder | 17.2.15; 13.6; 17.6 |
+| 12.5-GRADUATION-AND-ALUMNI-WIREFRAME.md | Guaranteed qualifying 10% completion / up to 50% approved milestones | 13.6; 17.2.15 |
+| 12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md | Student financial reimbursements / Founder equity pool | 13.6; 17.6 |
+| 12.7-TRANSFER-STUDENTS-WIREFRAME.md | Published tuition / milestone reimbursement / Founder | 12; 13.6; 17.6 |
 
 [DOWNLOAD: Current Academic and Experiential Tuition Prices and Pricing Stages → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
 
@@ -832,6 +832,25 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 
 [DOWNLOAD: Student and Experiential Qualifying Completion Benefits → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
 
-[INTERNAL LINK: Founder Equity Contributions & Allocations → ../16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
+[INTERNAL LINK: Founder Equity Contributions & Allocations → ../17-JOIN-US/17.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
 
-[INTERNAL ROUTE: Tuition → 12; Tuition Reimbursement → 12.6; Student Milestones → 16.2.15; Founder Contributions → 16.6]
+[INTERNAL ROUTE: Tuition → 13; Tuition Reimbursement → 13.6; Student Milestones → 17.2.15; Founder Contributions → 17.6]
+
+
+## Entrepreneurship Admissions — Page 6
+
+| Pool | Level | Duration | Stage |
+| --- | --- | --- | --- |
+| Startup | 6.2.1 Apprentice Startup | 1 Month | Pre-launch / just starting |
+| Startup | 6.2.2 New Startup | 12 Weeks | Under 1 year |
+| Startup | 6.2.3 One-Year Startup | 12 Weeks | At least 1 year |
+| Startup | 6.2.4 Growth Startup | 16 Weeks | Over 1 year |
+| Small Business | 6.3.1 Apprentice Small Business | 1 Month | Forming / restarting |
+| Small Business | 6.3.2 New Small Business | 12 Weeks | Under 1 year |
+| Small Business | 6.3.3 Established Small Business | 12 Weeks | At least 1 year |
+| Small Business | 6.3.4 Recovery & Growth | 16 Weeks | Over 1 year |
+
+Spring/Fall entrepreneurship admission and verification are distinct from monthly Professional Experiential intake.
+
+[BUTTON — ENTREPRENEURSHIP → 6]
+[BUTTON — ENTREPRENEURSHIP TUITION → 13]

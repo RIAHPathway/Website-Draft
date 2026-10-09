@@ -1,7 +1,7 @@
-# 👑 RIAH PATHWAY — 14 / PRODUCTS AND SERVICES
+# 👑 RIAH PATHWAY — 15 / PRODUCTS AND SERVICES
 ## COMPLETE WEBSITE WIREFRAME
 
-**Page:** 14 — Products and Services  
+**Page:** 15 — Products and Services  
 **Page Type:** Main Website Page  
 **Institutional Colors:** Black • Red • Gold • White • Silver  
 **Institutional Symbol:** Crown  
@@ -24,55 +24,55 @@
 
 [INTERNAL LINK — 05 / EXPERIENTIAL]
 
-[INTERNAL LINK — 06 / HIGH SCHOOL]
+[INTERNAL LINK — 07 / HIGH SCHOOL]
 
-[INTERNAL LINK — 07 / GED-HSE]
+[INTERNAL LINK — 08 / GED-HSE]
 
-[INTERNAL LINK — 08 / CERTIFICATION REVIEW]
+[INTERNAL LINK — 09 / CERTIFICATION REVIEW]
 
-[INTERNAL LINK — 09 / BAR REVIEW]
+[INTERNAL LINK — 10 / BAR REVIEW]
 
-[INTERNAL LINK — 10 / CURRICULUM]
+[INTERNAL LINK — 11 / CURRICULUM]
 
-[INTERNAL LINK — 11 / ADMISSIONS]
+[INTERNAL LINK — 12 / ADMISSIONS]
 
-[INTERNAL LINK — 12 / TUITION]
+[INTERNAL LINK — 13 / TUITION]
 
-[INTERNAL LINK — 13 / DONATIONS]
+[INTERNAL LINK — 14 / DONATIONS]
 
-[INTERNAL LINK — 14 / PRODUCTS AND SERVICES]
+[INTERNAL LINK — 15 / PRODUCTS AND SERVICES]
 
-[INTERNAL LINK — 15 / ACCREDITATION & AUTHORIZATION]
+[INTERNAL LINK — 16 / ACCREDITATION & AUTHORIZATION]
 
-[INTERNAL LINK — 16 / JOIN US]
+[INTERNAL LINK — 17 / JOIN US]
 
-[INTERNAL LINK — 17 / RESOURCES]
+[INTERNAL LINK — 18 / RESOURCES]
 
-[INTERNAL LINK — 18 / FAQ]
+[INTERNAL LINK — 19 / FAQ]
 
-[INTERNAL LINK — 19 / CONTACT]
+[INTERNAL LINK — 20 / CONTACT]
 
-[BUTTON — APPLY NOW → 11 / ADMISSIONS]
+[BUTTON — APPLY NOW → 12 / ADMISSIONS]
 
 # PRODUCTS AND SERVICES SUBPAGE NAVIGATION
 
 | Route | Page | Function |
 |---|---|---|
-| 14.1 | Products | Educational products, certification and Bar Review products, internal collections, bundles |
-| 14.2 | Pricing | Product pricing, shipping, package comparisons, reductions |
-| 14.3 | Justice-Impacted Community Services | Community give-back through partner law firms; attorney-assisted sealing and expungement |
-| 14.4 | Entrepreneurship Program | Startup Launch (12 weeks) and Small Business Recovery & Growth (16 weeks) |
-| 14.5 | Extended Services — Business Affiliate Connections | Vetted MSSP, CPA, development and law-firm introductions |
+| 15.1 | Products | Educational products, certification and Bar Review products, internal collections, bundles |
+| 15.2 | Pricing | Product pricing, shipping, package comparisons, reductions |
+| 15.3 | Justice-Impacted Community Services | Community give-back through partner law firms; attorney-assisted sealing and expungement |
+| 15.4 | Entrepreneurship Program | Startup Launch (12 weeks) and Small Business Recovery & Growth (16 weeks) |
+| 15.5 | Extended Services — Business Affiliate Connections | Vetted MSSP, CPA, development and law-firm introductions |
 
-[BUTTON — 14.1 / PRODUCTS]
+[BUTTON — 15.1 / PRODUCTS]
 
-[BUTTON — 14.2 / PRICING]
+[BUTTON — 15.2 / PRICING]
 
-[PROPOSED BUTTON — 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+[PROPOSED BUTTON — 15.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
-[BUTTON — 14.4 / ENTREPRENEURSHIP PROGRAM]
+[BUTTON — 15.4 / ENTREPRENEURSHIP PROGRAM]
 
-[BUTTON — 14.5 / EXTENDED SERVICES — BUSINESS AFFILIATE CONNECTIONS]
+[BUTTON — 15.5 / EXTENDED SERVICES — BUSINESS AFFILIATE CONNECTIONS]
 
 # SECTION 01 HERO
 
@@ -84,7 +84,7 @@
 RIAH Pathway connects educational resources, certification preparation, professional products, academic collections, and community-focused legal assistance. Our physical-first products support students and professionals throughout education, certification, experiential learning and career development. **Our justice-impacted record-relief pathway remains a community give-back service. Separately, our Entrepreneurship Program and Extended Services connect eligible businesses with vetted professional partners. RIAH does not directly provide these independent firms' professional services.**
 [BUTTON — SHOP NOW → SHOPIFY]
 
-[BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+[BUTTON — GET STARTED → 15.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 ---
 
@@ -117,7 +117,7 @@ Products are sold through the external storefront, except internal student colle
 Physical products may offer limited digital previews without granting a full digital copy.
 [IMAGE PLACEHOLDER — Printed book and sample preview]
 
-[BUTTON — LEARN MORE → 14.2 / PRICING]
+[BUTTON — LEARN MORE → 15.2 / PRICING]
 
 ---
 
@@ -146,7 +146,7 @@ Show applicable Microsoft foundational and associate progression before Azure So
 
 [IMAGE PLACEHOLDER — Homeland Security certification]
 
-[BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
+[BUTTON — LEARN MORE → 09 / CERTIFICATION REVIEW]
 
 ---
 
@@ -165,11 +165,11 @@ Show applicable Microsoft foundational and associate progression before Azure So
 Included review with applicable pathway: $0 additional. Standalone multiple review percentages: first 100%, second 50%, third 25%. Qualifying unsuccessful exam after 100% course completion: 3 additional months access, not refund.
 [IMAGE PLACEHOLDER — Three review tiers]
 
-[BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
+[BUTTON — LEARN MORE → 09 / CERTIFICATION REVIEW]
 
 ---
 
-# SECTION 06 BAR REVIEW
+# SECTION 07 BAR REVIEW
 
 | Bar Review Offering | Jurisdiction / Coverage | Basic | Standard | Premium |
 |:---|:---|---:|---:|---:|
@@ -184,7 +184,7 @@ Included review with applicable pathway: $0 additional. Standalone multiple revi
 
 [IMAGE PLACEHOLDER — Bar Review jurisdiction map]
 
-[BUTTON — LEARN MORE → 09 / BAR REVIEW]
+[BUTTON — LEARN MORE → 10 / BAR REVIEW]
 
 ---
 
@@ -244,7 +244,7 @@ Bundles: workbook $49.99; question $69.99; simulation $149.99; mini exam $149.99
 
 [IMAGE PLACEHOLDER — Academic collections]
 
-[BUTTON — LEARN MORE → 10 / CURRICULUM]
+[BUTTON — LEARN MORE → 11 / CURRICULUM]
 
 ---
 
@@ -287,7 +287,7 @@ A person's criminal history should not automatically define their future or prev
 **DIGNITY. ACCESS. OPPORTUNITY.** No sealing, expungement, eligibility or court outcome is guaranteed.
 [IMAGE PLACEHOLDER — Welcoming attorney consultation]
 
-[BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+[BUTTON — GET STARTED → 15.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 ---
 
@@ -321,22 +321,22 @@ RIAH's proposed **community give-back, reduced-fee partner-law-firm arrangement*
 | Fee Recipient / Role | Proposed Amount | Purpose |
 |---|---:|---|
 | Participating partner law firm / attorney | $125 | Attorney legal assistance for an agreed eligible matter |
-| RIAH Pathway Foundation | Optional $25 VRS-designated contribution | Voluntary donation directed to the Foundation's need-based student financial-assistance and community-support fund through 13 / Donations; not a charge for attorney referral or representation |
+| RIAH Pathway Foundation | Optional $25 VRS-designated contribution | Voluntary donation directed to the Foundation's need-based student financial-assistance and community-support fund through 14 / Donations; not a charge for attorney referral or representation |
 | Court | Actual court charge | Pass-through government filing fee, without markup |
 | RIAH Pathway | $0 from Foundation contributions | RIAH does not retain the VRS-designated Foundation contribution as an administrative or referral fee |
 
-**Legal-ethics and donations condition:** The optional $25 VRS-designated contribution is made separately and voluntarily to the RIAH Pathway Foundation through 13 / Donations. It is not required to access attorney intake, obtain a referral, or receive legal representation, and cannot be consideration for recommending a lawyer, selling a lead, or prohibited fee sharing. The Foundation independently manages donated funds for eligible need-based student assistance and community benefit, subject to its charitable rules, available funding, and any required 501(c)(3) recognition. Charitable tax treatment must not be promised without verification. Partner firms and independent counsel must approve a jurisdiction-compliant model before launch.
+**Legal-ethics and donations condition:** The optional $25 VRS-designated contribution is made separately and voluntarily to the RIAH Pathway Foundation through 14 / Donations. It is not required to access attorney intake, obtain a referral, or receive legal representation, and cannot be consideration for recommending a lawyer, selling a lead, or prohibited fee sharing. The Foundation independently manages donated funds for eligible need-based student assistance and community benefit, subject to its charitable rules, available funding, and any required 501(c)(3) recognition. Charitable tax treatment must not be promised without verification. Partner firms and independent counsel must approve a jurisdiction-compliant model before launch.
 
 ### EXAMPLE — ILLUSTRATIVE ONLY
 | Component | Amount |
 |---|---:|
 | Attorney-assistance fee | $125 |
-| Optional VRS contribution to RIAH Pathway Foundation (13 / Donations) | $25 |
+| Optional VRS contribution to RIAH Pathway Foundation (14 / Donations) | $25 |
 | Applicable court filing fee* | $50 |
 | **Estimated total with optional Foundation donation*** | **$200** |
 | **Estimated total without optional donation*** | **$175** |
 
-*The $50 filing cost is an illustration only, not a verified charge for any particular court. The actual court fee may differ or be zero and is passed through without markup. The $25 Foundation contribution is voluntary, routed to 13 / Donations, and is not required for attorney access. Any other required charges must be disclosed before engagement. No legal outcome is guaranteed.*
+*The $50 filing cost is an illustration only, not a verified charge for any particular court. The actual court fee may differ or be zero and is passed through without markup. The $25 Foundation contribution is voluntary, routed to 14 / Donations, and is not required for attorney access. Any other required charges must be disclosed before engagement. No legal outcome is guaranteed.*
 [IMAGE PLACEHOLDER — Transparent $125 attorney fee + optional $25 Foundation donation + actual court cost breakdown]
 
 [BUTTON — GET STARTED → CONFIDENTIAL ATTORNEY INTAKE]
@@ -370,7 +370,7 @@ Select State → Review Guide → Secure Intake → Attorney Eligibility Assessm
 
 ### FOUNDATION NEED-BASED SUPPORT
 
-VRS-designated voluntary contributions are directed through **13 / DONATIONS** to the **RIAH Pathway Foundation's 501(c)(3) charitable financial-assistance program**, dedicated to helping students who demonstrate financial need with eligible attorney and court-related costs and supporting the community give-back pathway. Eligibility, awards, and use of funds are determined independently under Foundation policies and applicable nonprofit requirements.
+VRS-designated voluntary contributions are directed through **14 / DONATIONS** to the **RIAH Pathway Foundation's 501(c)(3) charitable financial-assistance program**, dedicated to helping students who demonstrate financial need with eligible attorney and court-related costs and supporting the community give-back pathway. Eligibility, awards, and use of funds are determined independently under Foundation policies and applicable nonprofit requirements.
 
 | Applicant | Possible Support | Condition |
 |---|---|---|
@@ -380,11 +380,11 @@ VRS-designated voluntary contributions are directed through **13 / DONATIONS** t
 
 [IMAGE PLACEHOLDER — Foundation assistance and student access]
 
-[BUTTON — LEARN MORE → 13 / DONATIONS]
+[BUTTON — LEARN MORE → 14 / DONATIONS]
 
-[BUTTON — DONATE → 13 / DONATIONS]
+[BUTTON — DONATE → 14 / DONATIONS]
 
-[BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+[BUTTON — GET STARTED → 15.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 [IMAGE PLACEHOLDER — Community members in education and careers]
 
@@ -400,16 +400,16 @@ VRS-designated voluntary contributions are directed through **13 / DONATIONS** t
 | Faculty guidance, live review and experiential supervision | Enrolled students | Internal academic/experiential pathway | No |
 | Certification Review, Bar Review, textbooks and bundles | Eligible customers | Educational products/courses | Products, not external professional services |
 | Record sealing/expungement | Eligible students and members of the public | Referral-free administrative connection to independent partner law firms; attorney representation by firms | **Community give-back legal-assistance pathway** |
-| Entrepreneurship Program | Eligible startups and verified small businesses | Remote, hybrid or on-site courses and concurrent applied work with qualified professionals and affiliates | Standalone non-degree program (14.4) |
-| Entrepreneur Affiliate Connections | Startups and verified small businesses | Business intake and vetted MSSP, CPA, development and law-firm introductions | Extended Services (14.5) |
+| Entrepreneurship Program | Eligible startups and verified small businesses | Remote, hybrid or on-site courses and concurrent applied work with qualified professionals and affiliates | Standalone non-degree program (15.4) |
+| Entrepreneur Affiliate Connections | Startups and verified small businesses | Business intake and vetted MSSP, CPA, development and law-firm introductions | Extended Services (15.5) |
 
 RIAH connects interested individuals with participating law firms and does not itself offer legal advice or representation.
-[BUTTON — LEARN MORE → 14.1 / PRODUCTS]
+[BUTTON — LEARN MORE → 15.1 / PRODUCTS]
 
 ---
 
 
-# SECTION 16A ENTREPRENEURSHIP PROGRAM — 14.4
+# SECTION 16A ENTREPRENEURSHIP PROGRAM — 15.4
 
 ## LAUNCH. STABILIZE. GROW.
 
@@ -422,6 +422,25 @@ RIAH Pathway supports **launch-ready startups** and **verified small businesses*
 |---|---|---|---:|
 | Startup Launch | Founders with a developed concept and tangible preparation; work toward business launch | **12 weeks** | **$5,000** |
 | Small Business Recovery & Growth | Operating verified small businesses; stabilize, improve and grow | **16 weeks** | **$10,000** |
+
+### Entrepreneurship Experiential — Two Pools and Eight Levels
+
+| Pool | Level | Duration | Stage |
+| --- | --- | --- | --- |
+| Startup | 6.2.1 Apprentice Startup | 1 Month | Pre-launch / just starting |
+| Startup | 6.2.2 New Startup | 12 Weeks | Under 1 year |
+| Startup | 6.2.3 One-Year Startup | 12 Weeks | At least 1 year |
+| Startup | 6.2.4 Growth Startup | 16 Weeks | Over 1 year |
+| Small Business | 6.3.1 Apprentice Small Business | 1 Month | Forming / restarting |
+| Small Business | 6.3.2 New Small Business | 12 Weeks | Under 1 year |
+| Small Business | 6.3.3 Established Small Business | 12 Weeks | At least 1 year |
+| Small Business | 6.3.4 Recovery & Growth | 16 Weeks | Over 1 year |
+
+Existing published 12-week Startup Launch $5,000 and 16-week Small Business Recovery & Growth $10,000 tuition is preserved. New level-specific prices require approval. Independent affiliates remain separately contracted.
+
+[BUTTON — ENTREPRENEURSHIP MAIN PAGE → 6]
+[BUTTON — STARTUP LEVELS → 6.2]
+[BUTTON — SMALL BUSINESS LEVELS → 6.3]
 
 ### Concurrent Courses, Applied Work and Professional Collaboration
 
@@ -467,21 +486,21 @@ The **$500 enrollment deposit is a tuition credit** under either plan, not an ad
 
 [ICON — UPFRONT 25% SAVINGS] [ICON — MONTHLY INSTALLMENTS] [ICON — PAUSED PROGRAM ACCESS] [ICON — PREPAID UNUSED TUITION REFUND]
 [FLOW — PAYMENT CHOICE → TUITION DEPOSIT CREDIT → COURSES / CURRICULUM / PROFESSIONAL PROGRAM ACTIVE → PAYMENT CHECK / EARNED PERIOD → PAUSE, CONTINUE OR CANCEL]
-[BUTTON — PAY UPFRONT / SAVE 25% → 11 / ENTREPRENEURSHIP ENROLLMENT]
-[BUTTON — CHOOSE MONTHLY PAYMENTS → 11 / ENTREPRENEURSHIP ENROLLMENT]
-[BUTTON — FULL PAYMENT TERMS → 12 / TUITION AND FEES]
+[BUTTON — PAY UPFRONT / SAVE 25% → 12 / ENTREPRENEURSHIP ENROLLMENT]
+[BUTTON — CHOOSE MONTHLY PAYMENTS → 12 / ENTREPRENEURSHIP ENROLLMENT]
+[BUTTON — FULL PAYMENT TERMS → 13 / TUITION AND FEES]
 
 
 A program completion certificate is awarded when required business milestones are met. Independent partner firms deliver their own contracted services. **Remote, hybrid and on-site Entrepreneurship Program delivery does not change the existing remote-only rule for internal RIAH Experiential placements.** Standard Education/Experiential tuition benefits are not automatically extended to this separate program.
 
-[BUTTON — APPLY FOR ENTREPRENEURSHIP → 11 / ADMISSIONS]
-[BUTTON — VIEW PROGRAM TUITION → 12 / TUITION]
-[BUTTON — EXPLORE VETTED AFFILIATE SERVICES → 14.5]
-[BUTTON — EXPLORE OUR PARTNER NETWORK → 16.3]
+[BUTTON — APPLY FOR ENTREPRENEURSHIP → 12 / ADMISSIONS]
+[BUTTON — VIEW PROGRAM TUITION → 13 / TUITION]
+[BUTTON — EXPLORE VETTED AFFILIATE SERVICES → 15.5]
+[BUTTON — EXPLORE OUR PARTNER NETWORK → 17.3]
 
 ---
 
-# SECTION 16B EXTENDED SERVICES — ENTREPRENEUR AFFILIATE CONNECTIONS — 14.5
+# SECTION 16B EXTENDED SERVICES — ENTREPRENEUR AFFILIATE CONNECTIONS — 15.5
 
 RIAH Pathway helps **startups and verified small businesses** identify professional needs and connects them with **qualified, vetted independent affiliates**. The Extended Services connection process may be used independently of enrollment in the Entrepreneurship Program.
 
@@ -505,16 +524,16 @@ RIAH Pathway helps **startups and verified small businesses** identify professio
 
 The above fees are **separate from the Entrepreneurship Program's tuition and admissions fees**. Professional engagements are independently quoted and fulfilled by the relevant affiliate firms; RIAH facilitates assessment, vetting, introductions and coordination.
 
-[BUTTON — REQUEST AFFILIATE CONNECTION → 14.5 / BUSINESS INTAKE]
-[BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 14.4]
-[BUTTON — BECOME AN AFFILIATE PARTNER → 16.3]
+[BUTTON — REQUEST AFFILIATE CONNECTION → 15.5 / BUSINESS INTAKE]
+[BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 15.4]
+[BUTTON — BECOME AN AFFILIATE PARTNER → 17.3]
 
 ---
 
 # SECTION 17 PRODUCT REDUCTIONS
 
 RIAH team 50%; partner employees 15%; community contributors 1%–25%; substitute teacher ambassadors 1%–25%; rideshare/delivery ambassadors 1%–25%. Separate from tuition; applicable taxes, shipping and checkout fees not included in tuition. Do not charge twice for resources already included in student allocations.
-[BUTTON — LEARN MORE → 12 / TUITION]
+[BUTTON — LEARN MORE → 13 / TUITION]
 
 ---
 
@@ -526,7 +545,7 @@ RIAH team 50%; partner employees 15%; community contributors 1%–25%; substitut
 | RIAH Website | Select complete digital products | Shopify checkout | Applicable digital delivery |
 | RIAH Website | Certification/Bar Review | Review page and package | Applicable course access/materials |
 | RIAH Website | Justice-Impacted Community Service | Confidential consent-based intake | Connection to independent participating law firm |
-| RIAH Website | Student in financial need | Foundation information and 13 / Donations funding route | Possible Foundation funding assessment; not guaranteed |
+| RIAH Website | Student in financial need | Foundation information and 14 / Donations funding route | Possible Foundation funding assessment; not guaranteed |
 [IMAGE PLACEHOLDER — Product and services dashboard]
 
 [BUTTON — SHOP NOW → SHOPIFY]
@@ -553,7 +572,7 @@ RIAH team 50%; partner employees 15%; community contributors 1%–25%; substitut
 
 [DOWNLOAD — ATTORNEY ASSISTANCE PROCESS GUIDE]
 Legal downloads must include jurisdiction, official sources, review date and disclaimer.
-[BUTTON — LEARN MORE → 17 / RESOURCES]
+[BUTTON — LEARN MORE → 18 / RESOURCES]
 
 ---
 
@@ -565,13 +584,13 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 | Certification/Bar Review | School, review, package and jurisdiction | Review information team |
 | Community record relief | State, type of relief sought, secure contact and consent | Confidential intake to participating partner law firm |
 | Foundation assistance | Student status and request for need-based support | Foundation assessment under approved policy |
-| Entrepreneurship Program | Startup readiness or verified business; Spring/Fall cohort | Entrepreneurship admissions → 14.4 / 11 |
-| Business affiliate connection | Business needs, partner category and contact information | Extended Services intake → 14.5 |
+| Entrepreneurship Program | Startup readiness or verified business; Spring/Fall cohort | Entrepreneurship admissions → 15.4 / 12 |
+| Business affiliate connection | Business needs, partner category and contact information | Extended Services intake → 15.5 |
 
 **Privacy:** Do not collect sensitive criminal-history records through unsecured product forms. RIAH does not provide legal advice or promise attorney acceptance. The law firm determines legal scope, engagement, fees and representation.
 [BUTTON — GET STARTED → APPROVED INQUIRY SYSTEM]
 
-[INTERNAL LINK — 19 / CONTACT]
+[INTERNAL LINK — 20 / CONTACT]
 
 ---
 
@@ -603,7 +622,7 @@ It is a reduced-fee community-benefit arrangement, not strictly pro bono when an
 
 **Fee?**
 
-$125 partner-attorney assistance plus actual court fees; an optional $25 VRS-designated contribution goes directly to the RIAH Pathway Foundation through 13 / Donations for need-based student financial assistance and community benefit. The $150 example includes the optional donation.
+$125 partner-attorney assistance plus actual court fees; an optional $25 VRS-designated contribution goes directly to the RIAH Pathway Foundation through 14 / Donations for need-based student financial assistance and community benefit. The $150 example includes the optional donation.
 
 **Can the Foundation help?**
 
@@ -613,7 +632,7 @@ Yes, the Foundation may use eligible donations, including VRS-designated contrib
 
 No.
 
-[BUTTON — LEARN MORE → 18 / FAQ]
+[BUTTON — LEARN MORE → 19 / FAQ]
 
 ---
 
@@ -623,17 +642,17 @@ No.
 
 [BUTTON — LEARN MORE → 05 / EXPERIENTIAL]
 
-[BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
+[BUTTON — LEARN MORE → 09 / CERTIFICATION REVIEW]
 
-[BUTTON — LEARN MORE → 09 / BAR REVIEW]
+[BUTTON — LEARN MORE → 10 / BAR REVIEW]
 
-[BUTTON — LEARN MORE → 10 / CURRICULUM]
+[BUTTON — LEARN MORE → 11 / CURRICULUM]
 
-[BUTTON — LEARN MORE → 11 / ADMISSIONS]
+[BUTTON — LEARN MORE → 12 / ADMISSIONS]
 
-[BUTTON — LEARN MORE → 12 / TUITION]
+[BUTTON — LEARN MORE → 13 / TUITION]
 
-[BUTTON — LEARN MORE → 17 / RESOURCES]
+[BUTTON — LEARN MORE → 18 / RESOURCES]
 
 ---
 
@@ -644,11 +663,11 @@ No.
 **ONE DYNASTY. INFINITE LEGACIES.**
 [BUTTON — SHOP NOW → SHOPIFY]
 
-[BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
+[BUTTON — LEARN MORE → 09 / CERTIFICATION REVIEW]
 
-[BUTTON — LEARN MORE → 09 / BAR REVIEW]
+[BUTTON — LEARN MORE → 10 / BAR REVIEW]
 
-[BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+[BUTTON — GET STARTED → 15.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 # GLOBAL FOOTER
 [LOGO PLACEHOLDER — RIAH PATHWAY]
@@ -663,33 +682,33 @@ No.
 
 [INTERNAL LINK — 05 / EXPERIENTIAL]
 
-[INTERNAL LINK — 06 / HIGH SCHOOL]
+[INTERNAL LINK — 07 / HIGH SCHOOL]
 
-[INTERNAL LINK — 07 / GED-HSE]
+[INTERNAL LINK — 08 / GED-HSE]
 
-[INTERNAL LINK — 08 / CERTIFICATION REVIEW]
+[INTERNAL LINK — 09 / CERTIFICATION REVIEW]
 
-[INTERNAL LINK — 09 / BAR REVIEW]
+[INTERNAL LINK — 10 / BAR REVIEW]
 
-[INTERNAL LINK — 10 / CURRICULUM]
+[INTERNAL LINK — 11 / CURRICULUM]
 
-[INTERNAL LINK — 11 / ADMISSIONS]
+[INTERNAL LINK — 12 / ADMISSIONS]
 
-[INTERNAL LINK — 12 / TUITION]
+[INTERNAL LINK — 13 / TUITION]
 
-[INTERNAL LINK — 13 / DONATIONS]
+[INTERNAL LINK — 14 / DONATIONS]
 
-[INTERNAL LINK — 14 / PRODUCTS AND SERVICES]
+[INTERNAL LINK — 15 / PRODUCTS AND SERVICES]
 
-[INTERNAL LINK — 15 / ACCREDITATION & AUTHORIZATION]
+[INTERNAL LINK — 16 / ACCREDITATION & AUTHORIZATION]
 
-[INTERNAL LINK — 16 / JOIN US]
+[INTERNAL LINK — 17 / JOIN US]
 
-[INTERNAL LINK — 17 / RESOURCES]
+[INTERNAL LINK — 18 / RESOURCES]
 
-[INTERNAL LINK — 18 / FAQ]
+[INTERNAL LINK — 19 / FAQ]
 
-[INTERNAL LINK — 19 / CONTACT]
+[INTERNAL LINK — 20 / CONTACT]
 
 [EXTERNAL LINK — SHOPIFY]
 
@@ -703,21 +722,21 @@ No.
 | Label | Route | Type |
 |---|---|---|
 | Shop Now | Shopify | External |
-| Apply Now | 11 / Admissions | Internal |
-| Certification Review | 08 / Certification Review | Internal |
-| Bar Review | 09 / Bar Review | Internal |
-| Curriculum | 10 / Curriculum | Internal |
-| Tuition | 12 / Tuition | Internal |
-| Products | 14.1 | Internal |
-| Pricing | 14.2 | Internal |
-| Justice-Impacted Community Services | Proposed 14.3 | Internal |
-| Entrepreneurship Program | 14.4; Admissions 11 | Internal |
-| Entrepreneurship Payment Options (25% Upfront / Monthly) | 14.4; 12 / Tuition and Fees | Internal |
-| Extended Services — Business Affiliate Connections | 14.5 | Internal |
-| Entrepreneurship Partnerships | 16.3 | Internal |
-| Resources | 17 | Internal |
-| FAQ | 18 | Internal |
-| Contact | 19 | Internal |
+| Apply Now | 12 / Admissions | Internal |
+| Certification Review | 09 / Certification Review | Internal |
+| Bar Review | 10 / Bar Review | Internal |
+| Curriculum | 11 / Curriculum | Internal |
+| Tuition | 13 / Tuition | Internal |
+| Products | 15.1 | Internal |
+| Pricing | 15.2 | Internal |
+| Justice-Impacted Community Services | Proposed 15.3 | Internal |
+| Entrepreneurship Program | 15.4; Admissions 11 | Internal |
+| Entrepreneurship Payment Options (25% Upfront / Monthly) | 15.4; 13 / Tuition and Fees | Internal |
+| Extended Services — Business Affiliate Connections | 15.5 | Internal |
+| Entrepreneurship Partnerships | 17.3 | Internal |
+| Resources | 18 | Internal |
+| FAQ | 19 | Internal |
+| Contact | 20 | Internal |
 | Record Relief Intake | Confidential Attorney Intake | External |
 | Products and Services Catalog | File Placeholder | Download |
 | Certification Review Package Comparison | File Placeholder | Download |
@@ -737,7 +756,7 @@ No.
 | 03 PRODUCT FORMATS | [IMAGE PLACEHOLDER — Printed book and sample preview] |
 | 04 CERTIFICATION REVIEW BY SCHOOL | [IMAGE PLACEHOLDER — Business certification]; [IMAGE PLACEHOLDER — Azure and Hack The Box certification map]; [IMAGE PLACEHOLDER — Homeland Security certification] |
 | 05 CERTIFICATION PACKAGES | [IMAGE PLACEHOLDER — Three review tiers] |
-| 06 BAR REVIEW | [IMAGE PLACEHOLDER — Bar Review jurisdiction map] |
+| 07 BAR REVIEW | [IMAGE PLACEHOLDER — Bar Review jurisdiction map] |
 | 07 EXTERNAL PRICING | Contextual icon |
 | 08 STUDENT COLLECTIONS | [IMAGE PLACEHOLDER — Academic collections] |
 | 09 EXPERIENTIAL COLLECTIONS | [IMAGE PLACEHOLDER — Experiential supervised learning] |
@@ -765,4 +784,4 @@ Apply Now: Yes; Learn More: Yes; Get Started: Yes; Log In: No; Shop Now: Yes. 4/
 Nine download categories; individual state guide count pending verified legal coverage.
 
 # LEGAL IMPLEMENTATION
-Confirm jurisdiction-specific state laws and current court fees; licensed partner law firms; voluntary partner attorney acceptance; compliant $125 legal fee and optional $25 VRS-designated Foundation contribution routed through 13 / Donations (no prohibited referral payments or fee sharing); foundation aid eligibility, charitable receipt treatment, 501(c)(3) status and nonprofit restrictions; secure consent-based intake; attorney-client engagement terms; official citations; no guaranteed outcomes. **All proposed state guides, fees and legal-service workflows require jurisdiction-specific attorney verification before publication.**
+Confirm jurisdiction-specific state laws and current court fees; licensed partner law firms; voluntary partner attorney acceptance; compliant $125 legal fee and optional $25 VRS-designated Foundation contribution routed through 14 / Donations (no prohibited referral payments or fee sharing); foundation aid eligibility, charitable receipt treatment, 501(c)(3) status and nonprofit restrictions; secure consent-based intake; attorney-client engagement terms; official citations; no guaranteed outcomes. **All proposed state guides, fees and legal-service workflows require jurisdiction-specific attorney verification before publication.**

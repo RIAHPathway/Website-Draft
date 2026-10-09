@@ -27,26 +27,27 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 3 — Pathway
 4 — Degree Programs
 5 — Experiential
-6 — High School
-7 — GED/HSE
-8 — Certification Review
-9 — Bar Review
-10 — Curriculum
-11 — Admissions
-12 — Tuition
-13 — Donations
-14 — Products
-15 — Accreditation & Authorization
-16 — Join Us
-17 — Resources
-18 — FAQ
-19 — Contact
+6 — Entrepreneurship
+7 — High School
+8 — GED/HSE
+9 — Certification Review
+10 — Bar Review
+11 — Curriculum
+12 — Admissions
+13 — Tuition
+14 — Donations
+15 — Products
+16 — Accreditation & Authorization
+17 — Join Us
+18 — Resources
+19 — FAQ
+20 — Contact
 
 ## Sitemap Classification
 
-- **MAIN PAGE WIREFRAME** = one of the 19 primary website pages.
+- **MAIN PAGE WIREFRAME** = one of the 20 primary website pages.
 - Numbered items beneath each main page are suboages and page details within that page hierarchy.
-- **Home 1.1–1.19** = content sections inside the Home wireframe, not separate page folders.
+- **Home 1.1–1.20** = content sections inside the Home wireframe, not separate page folders.
 - **3 Pathway** remains the combined pathway hub while Degree Programs, Experiential, High School, GED/HSE, Certification Review, and Bar Review also have their own main pages.
 
 ## Detailed Sitemap
@@ -58,20 +59,21 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 1.3 — Pathway
 - 1.4 — Degree Programs
 - 1.5 — Experiential
-- 1.6 — High School
-- 1.7 — GED/HSE
-- 1.8 — Certification Review
-- 1.9 — Bar Review
-- 1.10 — Curriculum
-- 1.11 — Admissions (Entrepreneurship Spring/Fall cross-reference → 14.4)
-- 1.12 — Tuition
-- 1.13 — Donations
-- 1.14 — Products & Services (14.3 Justice-Impacted; 14.4 Entrepreneurship; 14.5 Extended Services)
-- 1.15 — Accreditation & Authorization
-- 1.16 — Join Us (Partnerships and Entrepreneurship Collaboration → 16.3)
-- 1.17 — Resources
-- 1.18 — FAQ
-- 1.19 — Contact
+- 1.6 — Entrepreneurship (Page 6, two business pools)
+- 1.7 — High School
+- 1.8 — GED/HSE
+- 1.9 — Certification Review
+- 1.10 — Bar Review
+- 1.11 — Curriculum
+- 1.12 — Admissions (Entrepreneurship Spring/Fall cross-reference → 15.4)
+- 1.13 — Tuition
+- 1.14 — Donations
+- 1.15 — Products & Services (15.3 Justice-Impacted; 15.4 Entrepreneurship; 15.5 Extended Services)
+- 1.16 — Accreditation & Authorization
+- 1.17 — Join Us (Partnerships and Entrepreneurship Collaboration → 17.3)
+- 1.18 — Resources
+- 1.19 — FAQ
+- 1.20 — Contact
 - **Home images/icons:** Existing [IMAGE], [ICON] and visual-flow placeholders remain in the linked Home wireframe and its media/CTA directory. No image binaries are currently published in 1. HOME, so no unverified image URLs are introduced.
 
 ### 2 — ABOUT — MAIN PAGE WIREFRAME — `About-Wireframe-Main.md`
@@ -91,10 +93,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 3.1.6 — J.D. Pathway
   - 3.1.7 — Non-J.D. Bar License Pathway
 - 3.2 — Experiential — ROUTE TO MAIN PAGE 5 — `3.2-Experiential-Wireframe.md`
-- 3.3 — High School — ROUTE TO MAIN PAGE 6 — `3.3-High-School-Wireframe.md`
-- 3.4 — GED/HSE — ROUTE TO MAIN PAGE 7 — `3.4-GED-HSE-Wireframe.md`
-- 3.5 — Certification Review — ROUTE TO MAIN PAGE 8 — `3.5-Certification-Review-Wireframe.md`
-- 3.6 — Bar Review — ROUTE TO MAIN PAGE 9 — `3.6-Bar-Review-Wireframe.md`
+- 3.3 — High School — ROUTE TO MAIN PAGE 7 — `3.3-High-School-Wireframe.md`
+- 3.4 — GED/HSE — ROUTE TO MAIN PAGE 8 — `3.4-GED-HSE-Wireframe.md`
+- 3.5 — Certification Review — ROUTE TO MAIN PAGE 9 — `3.5-Certification-Review-Wireframe.md`
+- 3.6 — Bar Review — ROUTE TO MAIN PAGE 10 — `3.6-Bar-Review-Wireframe.md`
 - 3.7 — Schools — `3.7-Schools-Wireframe.md`
   - 3.7.1 — School of Business
   - 3.7.2 — School of Homeland Security
@@ -134,523 +136,549 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 5.4 — Internal Placement — `5.4-Internal-Placement-Wireframe.md`
 - 5.5 — External Placement — `5.5-External-Placement-Wireframe.md`
 
-### 6 — HIGH SCHOOL — MAIN PAGE WIREFRAME — `High-School-Wireframe-Main.md`
-- 6.1 — High School Diploma Program
-- 6.2 — High School Diploma Pathway
-- 6.3 — Curriculum 
-- 6.4 — Admissions
-- 6.5 — Authorization & Recognition
+### 6 — ENTREPRENEURSHIP — MAIN PAGE WIREFRAME — [`6-ENTREPRENEURSHIP-WIREFRAME.md`](6.%20ENTREPRENEURSHIP/6-ENTREPRENEURSHIP-WIREFRAME.md)
+- 6.1 — Overview and two business pools.
+- 6.2 — Startup Entrepreneurship.
+  - 6.2.1 — Apprentice Startup — 1 Month.
+  - 6.2.2 — New Startup — 12 Weeks.
+  - 6.2.3 — One-Year Startup — 12 Weeks.
+  - 6.2.4 — Growth Startup — 16 Weeks.
+- 6.3 — Small Business Entrepreneurship.
+  - 6.3.1 — Apprentice Small Business — 1 Month.
+  - 6.3.2 — New Small Business — 12 Weeks.
+  - 6.3.3 — Established Small Business — 12 Weeks.
+  - 6.3.4 — Small Business Recovery & Growth — 16 Weeks.
+- 6.4 — Curriculum and Collections.
+- 6.5 — Durations and Milestones.
+- 6.6 — Professional Team and Affiliates.
+- 6.7 — Remote, Hybrid, On-Site.
+- 6.8 — Spring/Fall Admissions (12).
+- 6.9 — Tuition (13).
+- 6.10 — Upfront/Monthly Payments, Pause, Cancellation.
+- 6.11 — Capstone/Completion.
+- 6.12 — Extended Services Affiliates (15.5).
+- 6.13 — Images and Downloads.
+- 6.14 — FAQ.
+- 6.15 — CTA and Routing.
+- Related pages: Experiential (5); Admissions (12); Tuition (13); Products (15.4/15.5); Partnerships (17.3); Contact (20).
 
-### 7 — GED/HSE — MAIN PAGE WIREFRAME — `GED-HSE-Wireframe-Main.md`
-- 7.1 — GED/HSE Program 
-- 7.2 — GED/HSE Pathway 
-- 7.3 — Curriculum & Preparation 
-- 7.4 — Admissions 
+### 7 — HIGH SCHOOL — MAIN PAGE WIREFRAME — `High-School-Wireframe-Main.md`
+- 7.1 — High School Diploma Program
+- 7.2 — High School Diploma Pathway
+- 7.3 — Curriculum 
+- 7.4 — Admissions
+- 7.5 — Authorization & Recognition
 
-### 8 — CERTIFICATION REVIEW — MAIN PAGE WIREFRAME — `Certification-Review-Wireframe-Main.md`
-- 8.1 — Certification Review
-- 8.2 — Certification Mapping 
-- 8.3 — School of Business
-- 8.4 — School of Homeland Security 
-- 8.5 — School of Technology 
-- 8.6 — Basic 
-- 8.7 — Standard 
-- 8.8 — Premium 
+### 8 — GED/HSE — MAIN PAGE WIREFRAME — `GED-HSE-Wireframe-Main.md`
+- 8.1 — GED/HSE Program 
+- 8.2 — GED/HSE Pathway 
+- 8.3 — Curriculum & Preparation 
+- 8.4 — Admissions 
 
-### 9 — BAR REVIEW — MAIN PAGE WIREFRAME — `Bar-Review-Wireframe-Main.md`
-- 9.1 — Bar Review 
-- 9.2 — 50-State Bar Review 
-- 9.3 — State Modules 
-- 9.4 — California Baby Bar 
-- 9.5 — Basic
-- 9.6 — Standard
-- 9.7 — Premium 
+### 9 — CERTIFICATION REVIEW — MAIN PAGE WIREFRAME — `Certification-Review-Wireframe-Main.md`
+- 9.1 — Certification Review
+- 9.2 — Certification Mapping 
+- 9.3 — School of Business
+- 9.4 — School of Homeland Security 
+- 9.5 — School of Technology 
+- 9.6 — Basic 
+- 9.7 — Standard 
+- 9.8 — Premium 
 
-### 10 — CURRICULUM — MAIN PAGE WIREFRAME — `Curriculum-Wireframe-Main.md`
-- 10.1 — Academic Structure — `10.1-Academic-Structure-Wireframe.md`
-      - 10.1.1 — Majors
-      - 10.1.2 — Minors
-      - 10.1.3 — Associate's
-      - 10.1.4 — Bachelor's
-      - 10.1.5 — Master's
-      - 10.1.6 — MBA
-      - 10.1.7 - JD
-      - 10.1.8 - Non-JD
-  - 10.1.9 — General Education Curriculum
-  - 10.1.10 — School Core Curriculum
-  - 10.1.11 — Major Curriculum
-  - 10.1.12 — Upper-Division Curriculum
-  - 10.1.13 — Minor Curriculum
-  - 10.1.14 — Master's Curriculum
-  - 10.1.15 — MBA Curriculum
-- 10.2 — School of Business — `10.2-School-Of-Business-Wireframe.md`
-  - 10.2.1 — Curriculum
-  - 10.2.2 — Business Core
-  - 10.2.3 — Accounting
-  - 10.2.4 — Business Management
-  - 10.2.5 — Entrepreneurship
-  - 10.2.6 — Finance
-- 10.3 — School of Homeland Security — `10.3-School-Of-Homeland-Security-Wireframe.md`
-  - 10.3.1 — Curriculum
-  - 10.3.2 — Homeland Security Core
-  - 10.3.3 — Governance, Risk & Compliance (GRC)
-  - 10.3.4 — Intelligence
-  - 10.3.5 — Physical Security
-  - 10.3.6 — Private Investigator
-- 10.4 — School of Technology — `10.4-School-Of-Technology-Wireframe.md`
-  - 10.4.1 — Curriculum
-  - 10.4.2 — Technology Core
-  - 10.4.3 — Computer Science
-  - 10.4.4 — Cybersecurity
-  - 10.4.5 — Data Analytics
-  - 10.4.6 — Data Science
-  - 10.4.7 — Information Systems
-  - 10.4.8 — Program Management
-  - 10.4.9 — Project Management
-  - 10.4.10 — Software Development
-  - 10.4.11 — Software Engineering
-- 10.5 — School of Law — `10.5-School-Of-Law-Wireframe.md`
-  - 10.5.1 — Curriculum
-  - 10.5.2 — Law Core
-  - 10.5.3 — Criminal Justice
-  - 10.5.4 — J.D.
-  - 10.5.5 — Non-J.D. Bar License
-  - 10.5.6 — Bar Review
-- 10.6 — High School — `10.6-High-School-Wireframe.md`
-  - 10.6.1 — Curriculum
-  - 10.6.2 — High School Diploma
-- 10.7 — GED/HSE — `10.7-GED-HSE-Wireframe.md`
-  - 10.7.1 — Curriculum
-  - 10.7.2 — GED/HSE
-- 10.8 — Experiential — `10.8-Experiential-Wireframe.md`
-  - 10.8.1 — Curriculum
-  - 10.8.2 — Apprentice — 1 Month
-  - 10.8.3 — Intern — 3 Months
-  - 10.8.4 — Associate — 1 Year
-  - 10.8.5 — Senior Associate — 1 Year
-  - 10.8.6 — Manager — 1 Year
-  - 10.8.7 — Executive — 1 Year
-- 10.9 — Certification & Review — `10.9-Certification-And-Review-Wireframe.md`
-  - 10.9.1 — Curriculum
-  - 10.9.2 — Certification Review
-    - 10.9.3.1 — Certification Mapping
-  - 10.9.3 — Bar Review
-- 10.10 — Curriculum Architecture — `10.10-Curriculum-Architecture-Wireframe.md`
-  - 10.10.1 — Course Numbering
-  - 10.10.2 — Prerequisites
-  - 10.10.3 — Certification Mapping
-  - 10.10.4 — Assessment
-  - 10.10.5 — Projects
-  - 10.10.6 — Capstones
-  - 10.10.7 — Experiential Integration
+### 10 — BAR REVIEW — MAIN PAGE WIREFRAME — `Bar-Review-Wireframe-Main.md`
+- 10.1 — Bar Review 
+- 10.2 — 50-State Bar Review 
+- 10.3 — State Modules 
+- 10.4 — California Baby Bar 
+- 10.5 — Basic
+- 10.6 — Standard
+- 10.7 — Premium 
 
-### 11 — ADMISSIONS — MAIN PAGE WIREFRAME — [`ADMISSIONS-WIREFRAME-MAIN.md`](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
-- **11 — Admissions main wireframe:** [`ADMISSIONS-WIREFRAME-MAIN.md`](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
-- **11 — CTA, links & routing directory:** [`11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md`](11.%20ADMISSIONS/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md)
-- 11.1 — Pre-Admissions — [`11.1-PRE-ADMISSIONS-WIREFRAME.md`](11.%20ADMISSIONS/11.1-PRE-ADMISSIONS-WIREFRAME.md)
-  - 11.1.1 — General Admissions
-  - 11.1.2 — School and Major Admission
-  - 11.1.3 — Experiential Pre-Admissions
-  - 11.1.4 — High School Admissions
-  - 11.1.5 — GED/HSE Admissions
-  - 11.1.6 — Law Pre-Admissions
-- 11.2 — Application — [`11.2-APPLICATION-WIREFRAME.md`](11.%20ADMISSIONS/11.2-APPLICATION-WIREFRAME.md)
-  - 11.2.1 — Admissions Process
-  - 11.2.2 — Application
-  - 11.2.3 — Admissions by Pathway
-- 11.3 — Acceptance & Enrollment — [`11.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md`](11.%20ADMISSIONS/11.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md)
-  - 11.3.1 — Acceptance Experience
-  - 11.3.2 — After Admission
-- 11.4 — Onboarding & Student Experience — [`11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md`](11.%20ADMISSIONS/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md)
-  - 11.4.1 — Personalized Welcome Experience
-  - 11.4.2 — Onboarding & Orientation
-  - 11.4.3 — Cohort, School & Community
-  - 11.4.4 — Active Student Experience
-  - 11.4.5 — Achievements & Milestones
-- 11.5 — Graduation & Alumni — [`11.5-GRADUATION-AND-ALUMNI-WIREFRAME.md`](11.%20ADMISSIONS/11.5-GRADUATION-AND-ALUMNI-WIREFRAME.md)
-  - 11.5.1 — Graduation Experience
-  - 11.5.2 — Alumni & Legacy
-  - 11.5.3 — Receive • Earn • Purchase
-- 11.6 — How RIAH Pathway Works — [`11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`](11.%20ADMISSIONS/11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md)
-- 11.7 — Transfer Students — [`11.7-TRANSFER-STUDENTS-WIREFRAME.md`](11.%20ADMISSIONS/11.7-TRANSFER-STUDENTS-WIREFRAME.md)
-- **Entrepreneurship admissions — separate Spring/Fall intake:** Track requirements, business verification, assessments, enrollment deposit and $75 application are described in [11 Admissions Main](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md) and [14.4 Entrepreneurship](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md). This is not a replacement for 11.1–11.7 or the monthly academic/Experiential admissions routes.
+### 11 — CURRICULUM — MAIN PAGE WIREFRAME — `Curriculum-Wireframe-Main.md`
+- 11.1 — Academic Structure — `12.1-Academic-Structure-Wireframe.md`
+      - 11.1.1 — Majors
+      - 11.1.2 — Minors
+      - 11.1.3 — Associate's
+      - 11.1.4 — Bachelor's
+      - 11.1.5 — Master's
+      - 11.1.6 — MBA
+      - 11.1.7 - JD
+      - 11.1.8 - Non-JD
+  - 11.1.9 — General Education Curriculum
+  - 11.1.10 — School Core Curriculum
+  - 11.1.11 — Major Curriculum
+  - 11.1.12 — Upper-Division Curriculum
+  - 11.1.13 — Minor Curriculum
+  - 11.1.14 — Master's Curriculum
+  - 11.1.15 — MBA Curriculum
+- 11.2 — School of Business — `12.2-School-Of-Business-Wireframe.md`
+  - 11.2.1 — Curriculum
+  - 11.2.2 — Business Core
+  - 11.2.3 — Accounting
+  - 11.2.4 — Business Management
+  - 11.2.5 — Entrepreneurship
+  - 11.2.6 — Finance
+- 11.3 — School of Homeland Security — `12.3-School-Of-Homeland-Security-Wireframe.md`
+  - 11.3.1 — Curriculum
+  - 11.3.2 — Homeland Security Core
+  - 11.3.3 — Governance, Risk & Compliance (GRC)
+  - 11.3.4 — Intelligence
+  - 11.3.5 — Physical Security
+  - 11.3.6 — Private Investigator
+- 11.4 — School of Technology — `12.4-School-Of-Technology-Wireframe.md`
+  - 11.4.1 — Curriculum
+  - 11.4.2 — Technology Core
+  - 11.4.3 — Computer Science
+  - 11.4.4 — Cybersecurity
+  - 11.4.5 — Data Analytics
+  - 11.4.6 — Data Science
+  - 11.4.7 — Information Systems
+  - 11.4.8 — Program Management
+  - 11.4.9 — Project Management
+  - 11.4.10 — Software Development
+  - 11.4.11 — Software Engineering
+- 11.5 — School of Law — `12.5-School-Of-Law-Wireframe.md`
+  - 11.5.1 — Curriculum
+  - 11.5.2 — Law Core
+  - 11.5.3 — Criminal Justice
+  - 11.5.4 — J.D.
+  - 11.5.5 — Non-J.D. Bar License
+  - 11.5.6 — Bar Review
+- 11.6 — High School — `12.6-High-School-Wireframe.md`
+  - 11.6.1 — Curriculum
+  - 11.6.2 — High School Diploma
+- 11.7 — GED/HSE — `12.7-GED-HSE-Wireframe.md`
+  - 11.7.1 — Curriculum
+  - 11.7.2 — GED/HSE
+- 11.8 — Experiential — `12.8-Experiential-Wireframe.md`
+  - 11.8.1 — Curriculum
+  - 11.8.2 — Apprentice — 1 Month
+  - 11.8.3 — Intern — 3 Months
+  - 11.8.4 — Associate — 1 Year
+  - 11.8.5 — Senior Associate — 1 Year
+  - 11.8.6 — Manager — 1 Year
+  - 11.8.7 — Executive — 1 Year
+- 11.9 — Certification & Review — `12.9-Certification-And-Review-Wireframe.md`
+  - 11.9.1 — Curriculum
+  - 11.9.2 — Certification Review
+    - 11.9.3.1 — Certification Mapping
+  - 11.9.3 — Bar Review
+- 11.10 — Curriculum Architecture — `11.10-Curriculum-Architecture-Wireframe.md`
+  - 11.10.1 — Course Numbering
+  - 11.10.2 — Prerequisites
+  - 11.10.3 — Certification Mapping
+  - 11.10.4 — Assessment
+  - 11.10.5 — Projects
+  - 11.10.6 — Capstones
+  - 11.10.7 — Experiential Integration
+
+### 12 — ADMISSIONS — MAIN PAGE WIREFRAME — [`ADMISSIONS-WIREFRAME-MAIN.md`](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
+- **12 — Admissions main wireframe:** [`ADMISSIONS-WIREFRAME-MAIN.md`](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
+- **11 — CTA, links & routing directory:** [`12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md`](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md)
+- 12.1 — Pre-Admissions — [`12.1-PRE-ADMISSIONS-WIREFRAME.md`](12.%20ADMISSIONS/12.1-PRE-ADMISSIONS-WIREFRAME.md)
+  - 12.1.1 — General Admissions
+  - 12.1.2 — School and Major Admission
+  - 12.1.3 — Experiential Pre-Admissions
+  - 12.1.4 — High School Admissions
+  - 12.1.5 — GED/HSE Admissions
+  - 12.1.6 — Law Pre-Admissions
+- 12.2 — Application — [`12.2-APPLICATION-WIREFRAME.md`](12.%20ADMISSIONS/12.2-APPLICATION-WIREFRAME.md)
+  - 12.2.1 — Admissions Process
+  - 12.2.2 — Application
+  - 12.2.3 — Admissions by Pathway
+- 12.3 — Acceptance & Enrollment — [`12.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md`](12.%20ADMISSIONS/12.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md)
+  - 12.3.1 — Acceptance Experience
+  - 12.3.2 — After Admission
+- 12.4 — Onboarding & Student Experience — [`12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md`](12.%20ADMISSIONS/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md)
+  - 12.4.1 — Personalized Welcome Experience
+  - 12.4.2 — Onboarding & Orientation
+  - 12.4.3 — Cohort, School & Community
+  - 12.4.4 — Active Student Experience
+  - 12.4.5 — Achievements & Milestones
+- 12.5 — Graduation & Alumni — [`12.5-GRADUATION-AND-ALUMNI-WIREFRAME.md`](12.%20ADMISSIONS/12.5-GRADUATION-AND-ALUMNI-WIREFRAME.md)
+  - 12.5.1 — Graduation Experience
+  - 12.5.2 — Alumni & Legacy
+  - 12.5.3 — Receive • Earn • Purchase
+- 12.6 — How RIAH Pathway Works — [`12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`](12.%20ADMISSIONS/12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md)
+- 12.7 — Transfer Students — [`12.7-TRANSFER-STUDENTS-WIREFRAME.md`](12.%20ADMISSIONS/12.7-TRANSFER-STUDENTS-WIREFRAME.md)
+- **Entrepreneurship admissions — separate Spring/Fall intake:** Track requirements, business verification, assessments, enrollment deposit and $75 application are described in [12 Admissions Main](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md) and [15.4 Entrepreneurship](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md). This is not a replacement for 12.1–12.7 or the monthly academic/Experiential admissions routes.
 - **Entrepreneurship payments at enrollment:** Applicants select upfront 25% discount or monthly; overdue installments pause the program and cancellation refunds unused prepaid tuition after the used portion is earned.
-- **11 image and flow inventory:** All existing Admissions illustrations, SVG diagrams and Mermaid sources remain linked to their existing image directory [11. ADMISSIONS/IMAGES](11.%20ADMISSIONS/IMAGES/). The new entrepreneurship admissions preview is an [IMAGE PLACEHOLDER] pending production.
-  - 11.7.1 — Transfer Students Hero
-  - 11.7.2 — Transfer Admissions Overview
-  - 11.7.3 — Transfer Credit Maximums and Requirements
-  - 11.7.4 — Bachelor's Year 3 Preparation — Highly Recommended
-  - 11.7.5 — Approved Alternative Credit Sources
-  - 11.7.6 — ALEKS and RIAH Placement Assessments
-  - 11.7.7 — Academic Assessments and Proctoring
-  - 11.7.8 — Supervised Capstones — Bachelor's, Master's, MBA, and Minors
-  - 11.7.9 — Bachelor's Year 3 and Year 4 Curriculum
-  - 11.7.10 — Non-J.D. Transfer Admissions
-  - 11.7.11 — J.D. Transfer Admissions
-  - 11.7.12 — High School Transfer Admissions
-  - 11.7.13 — GED/HSE Transfer and Dual Enrollment
-  - 11.7.14 — Transfer Credits, Acceleration, Tuition, and Student Allocation
-  - 11.7.15 — Academic Acceleration Timeline
-  - 11.7.16 — Transfer Evaluation and Personalized Curriculum
-  - 11.7.17 — Transfer Welcome, Enrollment, and Orientation
-  - 11.7.18 — Transfer Admissions Resources
-  - 11.7.19 — Website Navigation and Cross-Page Routing
-  - 11.7.20 — Final Website CTA
+- **11 image and flow inventory:** All existing Admissions illustrations, SVG diagrams and Mermaid sources remain linked to their existing image directory [12. ADMISSIONS/IMAGES](12.%20ADMISSIONS/IMAGES/). The new entrepreneurship admissions preview is an [IMAGE PLACEHOLDER] pending production.
+  - 12.7.1 — Transfer Students Hero
+  - 12.7.2 — Transfer Admissions Overview
+  - 12.7.3 — Transfer Credit Maximums and Requirements
+  - 12.7.4 — Bachelor's Year 3 Preparation — Highly Recommended
+  - 12.7.5 — Approved Alternative Credit Sources
+  - 12.7.6 — ALEKS and RIAH Placement Assessments
+  - 12.7.7 — Academic Assessments and Proctoring
+  - 12.7.8 — Supervised Capstones — Bachelor's, Master's, MBA, and Minors
+  - 12.7.9 — Bachelor's Year 3 and Year 4 Curriculum
+  - 12.7.10 — Non-J.D. Transfer Admissions
+  - 12.7.11 — J.D. Transfer Admissions
+  - 12.7.12 — High School Transfer Admissions
+  - 12.7.13 — GED/HSE Transfer and Dual Enrollment
+  - 12.7.14 — Transfer Credits, Acceleration, Tuition, and Student Allocation
+  - 12.7.15 — Academic Acceleration Timeline
+  - 12.7.16 — Transfer Evaluation and Personalized Curriculum
+  - 12.7.17 — Transfer Welcome, Enrollment, and Orientation
+  - 12.7.18 — Transfer Admissions Resources
+  - 12.7.19 — Website Navigation and Cross-Page Routing
+  - 12.7.20 — Final Website CTA
 
-- **Downloads folder:** [`DOWNLOADS/`](11.%20ADMISSIONS/DOWNLOADS/) — currently contains `.gitkeep`; no published download assets.
-- **Images and flow diagram library:** [`IMAGES/`](11.%20ADMISSIONS/IMAGES/) — 115 rendered SVG flows and 115 editable Mermaid `.mmd` sources.
+- **Downloads folder:** [`DOWNLOADS/`](12.%20ADMISSIONS/DOWNLOADS/) — currently contains `.gitkeep`; no published download assets.
+- **Images and flow diagram library:** [`IMAGES/`](12.%20ADMISSIONS/IMAGES/) — 115 rendered SVG flows and 115 editable Mermaid `.mmd` sources.
   - **11 — CTA and routing flows**
-    - `11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
-    - `11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
-    - `11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
-    - `11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
-  - **11.1 — Pre-Admissions**
-    - `11.1-PRE-ADMISSIONS-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-01.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-02.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-03.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-04.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-05.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-06` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-06.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-06.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-07` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-07.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-07.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-08` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-08.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-08.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-09` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-09.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-09.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-10` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-10.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-10.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-11` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-11.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-11.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-12` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-12.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-12.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-13` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-13.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-13.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-14` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-14.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-14.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-15` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-15.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-15.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-16` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-16.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-16.mmd)
-    - `11.1-PRE-ADMISSIONS-FLOW-17` — [SVG](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-17.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.1-PRE-ADMISSIONS-FLOW-17.mmd)
-  - **11.2 — Application**
-    - `11.2-APPLICATION-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-01.mmd)
-    - `11.2-APPLICATION-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-02.mmd)
-    - `11.2-APPLICATION-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-03.mmd)
-    - `11.2-APPLICATION-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-04.mmd)
-    - `11.2-APPLICATION-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.2-APPLICATION-FLOW-05.mmd)
-  - **11.3 — Acceptance and Enrollment**
-    - `11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-01.mmd)
-    - `11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-02.mmd)
-    - `11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-03.mmd)
-    - `11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-04.mmd)
-  - **11.4 — Onboarding and Student Experience**
-    - `11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-01.mmd)
-    - `11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-02.mmd)
-    - `11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-03.mmd)
-    - `11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-04.mmd)
-    - `11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-05.mmd)
-  - **11.5 — Graduation and Alumni**
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-01.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-02.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-03.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-04.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-05.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-06` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-06.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-06.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-07` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-07.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-07.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-08` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-08.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-08.mmd)
-    - `11.5-GRADUATION-AND-ALUMNI-FLOW-09` — [SVG](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-09.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.5-GRADUATION-AND-ALUMNI-FLOW-09.mmd)
-  - **11.6 — How RIAH Pathway Works**
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-01.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-02.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-03.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-04.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-05.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-06` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-06.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-06.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-07` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-07.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-07.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-08` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-08.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-08.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-09` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-09.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-09.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-10` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-10.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-10.mmd)
-    - `11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-11` — [SVG](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-11.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.6-HOW-RIAH-PATHWAY-WORKS-FLOW-11.mmd)
-  - **11.7 — Transfer Students**
-    - `11.7-TRANSFER-STUDENTS-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-01.mmd)
-    - `11.7-TRANSFER-STUDENTS-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-02.mmd)
-    - `11.7-TRANSFER-STUDENTS-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-03.mmd)
-    - `11.7-TRANSFER-STUDENTS-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-04.mmd)
-    - `11.7-TRANSFER-STUDENTS-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-05.mmd)
-    - `11.7-TRANSFER-STUDENTS-FLOW-06` — [SVG](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-06.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/11.7-TRANSFER-STUDENTS-FLOW-06.mmd)
+    - `12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
+    - `12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
+    - `12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
+    - `12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
+  - **12.1 — Pre-Admissions**
+    - `12.1-PRE-ADMISSIONS-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-01.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-02.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-03.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-04.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-05.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-06` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-06.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-06.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-07` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-07.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-07.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-08` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-08.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-08.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-09` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-09.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-09.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-10` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-10.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-10.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-11` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-11.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-11.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-12` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-12.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-12.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-13` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-13.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-13.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-14` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-14.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-14.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-15` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-15.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-15.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-16` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-16.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-16.mmd)
+    - `12.1-PRE-ADMISSIONS-FLOW-17` — [SVG](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-17.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.1-PRE-ADMISSIONS-FLOW-17.mmd)
+  - **12.2 — Application**
+    - `12.2-APPLICATION-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-01.mmd)
+    - `12.2-APPLICATION-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-02.mmd)
+    - `12.2-APPLICATION-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-03.mmd)
+    - `12.2-APPLICATION-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-04.mmd)
+    - `12.2-APPLICATION-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.2-APPLICATION-FLOW-05.mmd)
+  - **12.3 — Acceptance and Enrollment**
+    - `12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-01.mmd)
+    - `12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-02.mmd)
+    - `12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-03.mmd)
+    - `12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.3-ACCEPTANCE-AND-ENROLLMENT-FLOW-04.mmd)
+  - **12.4 — Onboarding and Student Experience**
+    - `12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-01.mmd)
+    - `12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-02.mmd)
+    - `12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-03.mmd)
+    - `12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-04.mmd)
+    - `12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-FLOW-05.mmd)
+  - **12.5 — Graduation and Alumni**
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-01.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-02.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-03.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-04.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-05.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-06` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-06.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-06.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-07` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-07.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-07.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-08` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-08.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-08.mmd)
+    - `12.5-GRADUATION-AND-ALUMNI-FLOW-09` — [SVG](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-09.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.5-GRADUATION-AND-ALUMNI-FLOW-09.mmd)
+  - **12.6 — How RIAH Pathway Works**
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-01.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-02.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-03.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-04.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-05.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-06` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-06.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-06.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-07` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-07.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-07.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-08` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-08.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-08.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-09` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-09.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-09.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-10` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-10.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-10.mmd)
+    - `12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-11` — [SVG](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-11.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.6-HOW-RIAH-PATHWAY-WORKS-FLOW-11.mmd)
+  - **12.7 — Transfer Students**
+    - `12.7-TRANSFER-STUDENTS-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-01.mmd)
+    - `12.7-TRANSFER-STUDENTS-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-02.mmd)
+    - `12.7-TRANSFER-STUDENTS-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-03.mmd)
+    - `12.7-TRANSFER-STUDENTS-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-04.mmd)
+    - `12.7-TRANSFER-STUDENTS-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-05.mmd)
+    - `12.7-TRANSFER-STUDENTS-FLOW-06` — [SVG](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-06.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/12.7-TRANSFER-STUDENTS-FLOW-06.mmd)
   - **11 — Shared and additional admissions flows**
-    - `ACCEPTANCE-ENROLLMENT` — [SVG](11.%20ADMISSIONS/IMAGES/ACCEPTANCE-ENROLLMENT.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ACCEPTANCE-ENROLLMENT.mmd)
-    - `APPLICATION-REVIEW` — [SVG](11.%20ADMISSIONS/IMAGES/APPLICATION-REVIEW.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/APPLICATION-REVIEW.mmd)
-    - `FLOW-01-11-3-APPLICATION-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-11-3-APPLICATION-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-11-3-APPLICATION-WIREFRAME.mmd)
-    - `FLOW-01-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.mmd)
-    - `FLOW-01-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.mmd)
-    - `FLOW-01-11-6-GRADUATION-AND-ALUMNI-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.mmd)
-    - `FLOW-01-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.mmd)
-    - `FLOW-01-11-8-TRANSFER-STUDENTS-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-11-8-TRANSFER-STUDENTS-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-11-8-TRANSFER-STUDENTS-WIREFRAME.mmd)
-    - `FLOW-01-ADMISSIONS-TO-ALUMNI` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.mmd)
-    - `FLOW-01-ADMISSIONS-TO-ALUMNI-PART-01` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-01.mmd)
-    - `FLOW-01-ADMISSIONS-TO-ALUMNI-PART-02` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-02.mmd)
-    - `FLOW-01-ADMISSIONS-TO-ALUMNI-PART-03` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-03.mmd)
-    - `FLOW-02-11-3-APPLICATION-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-11-3-APPLICATION-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-11-3-APPLICATION-WIREFRAME.mmd)
-    - `FLOW-02-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.mmd)
-    - `FLOW-02-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.mmd)
-    - `FLOW-02-11-6-GRADUATION-AND-ALUMNI-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.mmd)
-    - `FLOW-02-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.mmd)
-    - `FLOW-02-11-8-TRANSFER-STUDENTS-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-11-8-TRANSFER-STUDENTS-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-11-8-TRANSFER-STUDENTS-WIREFRAME.mmd)
-    - `FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.mmd)
-    - `FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-01` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-01.mmd)
-    - `FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-02` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-02.mmd)
-    - `FLOW-03-11-8-TRANSFER-STUDENTS-WIREFRAME` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-03-11-8-TRANSFER-STUDENTS-WIREFRAME.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-03-11-8-TRANSFER-STUDENTS-WIREFRAME.mmd)
-    - `FLOW-03-TRANSFER-STUDENT-JOURNEY` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY.mmd)
-    - `FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-01` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-01.mmd)
-    - `FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-02` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-02.mmd)
-    - `FLOW-04-ORIENTATION-AND-LMS-ACCESS` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS.mmd)
-    - `FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-01` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-01.mmd)
-    - `FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-02` — [SVG](11.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-02.mmd)
-    - `GRADUATION-ALUMNI` — [SVG](11.%20ADMISSIONS/IMAGES/GRADUATION-ALUMNI.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/GRADUATION-ALUMNI.mmd)
-    - `ONBOARDING-STUDENT-EXPERIENCE` — [SVG](11.%20ADMISSIONS/IMAGES/ONBOARDING-STUDENT-EXPERIENCE.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ONBOARDING-STUDENT-EXPERIENCE.mmd)
-    - `TECHNOLOGY-STUDENT-FLOW` — [SVG](11.%20ADMISSIONS/IMAGES/TECHNOLOGY-STUDENT-FLOW.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/TECHNOLOGY-STUDENT-FLOW.mmd)
-    - `TRANSFER-STUDENT-JOURNEY` — [SVG](11.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY.mmd)
-    - `TRANSFER-STUDENT-JOURNEY-PART-01` — [SVG](11.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-01.mmd)
-    - `TRANSFER-STUDENT-JOURNEY-PART-02` — [SVG](11.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-02.mmd)
-  - **11 — Admissions main and journey**
-    - `ADMISSIONS-JOURNEY` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY.mmd)
-    - `ADMISSIONS-JOURNEY-PART-01` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-01.mmd)
-    - `ADMISSIONS-JOURNEY-PART-02` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-02.mmd)
-    - `ADMISSIONS-JOURNEY-PART-03` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-03.mmd)
-    - `ADMISSIONS-PHASE-01-ENTRY` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-01-ENTRY.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-01-ENTRY.mmd)
-    - `ADMISSIONS-PHASE-02-ENROLLMENT` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-02-ENROLLMENT.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-02-ENROLLMENT.mmd)
-    - `ADMISSIONS-PHASE-03-COMPLETION` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-03-COMPLETION.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-03-COMPLETION.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-01` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-02` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-03` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-04` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-05` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-06` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-07` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-08` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-09` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-10` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-11` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-12` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.mmd)
-    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-13` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.mmd)
+    - `ACCEPTANCE-ENROLLMENT` — [SVG](12.%20ADMISSIONS/IMAGES/ACCEPTANCE-ENROLLMENT.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ACCEPTANCE-ENROLLMENT.mmd)
+    - `APPLICATION-REVIEW` — [SVG](12.%20ADMISSIONS/IMAGES/APPLICATION-REVIEW.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/APPLICATION-REVIEW.mmd)
+    - `FLOW-01-11-3-APPLICATION-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-11-3-APPLICATION-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-11-3-APPLICATION-WIREFRAME.mmd)
+    - `FLOW-01-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.mmd)
+    - `FLOW-01-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.mmd)
+    - `FLOW-01-11-6-GRADUATION-AND-ALUMNI-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.mmd)
+    - `FLOW-01-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.mmd)
+    - `FLOW-01-11-8-TRANSFER-STUDENTS-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-11-8-TRANSFER-STUDENTS-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-11-8-TRANSFER-STUDENTS-WIREFRAME.mmd)
+    - `FLOW-01-ADMISSIONS-TO-ALUMNI` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI.mmd)
+    - `FLOW-01-ADMISSIONS-TO-ALUMNI-PART-01` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-01.mmd)
+    - `FLOW-01-ADMISSIONS-TO-ALUMNI-PART-02` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-02.mmd)
+    - `FLOW-01-ADMISSIONS-TO-ALUMNI-PART-03` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-01-ADMISSIONS-TO-ALUMNI-PART-03.mmd)
+    - `FLOW-02-11-3-APPLICATION-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-11-3-APPLICATION-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-11-3-APPLICATION-WIREFRAME.mmd)
+    - `FLOW-02-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-11-4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.mmd)
+    - `FLOW-02-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-11-5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.mmd)
+    - `FLOW-02-11-6-GRADUATION-AND-ALUMNI-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-11-6-GRADUATION-AND-ALUMNI-WIREFRAME.mmd)
+    - `FLOW-02-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-11-7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.mmd)
+    - `FLOW-02-11-8-TRANSFER-STUDENTS-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-11-8-TRANSFER-STUDENTS-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-11-8-TRANSFER-STUDENTS-WIREFRAME.mmd)
+    - `FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT.mmd)
+    - `FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-01` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-01.mmd)
+    - `FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-02` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-02-EXPERIENTIAL-SELECTION-AND-SEAT-PART-02.mmd)
+    - `FLOW-03-11-8-TRANSFER-STUDENTS-WIREFRAME` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-03-11-8-TRANSFER-STUDENTS-WIREFRAME.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-03-11-8-TRANSFER-STUDENTS-WIREFRAME.mmd)
+    - `FLOW-03-TRANSFER-STUDENT-JOURNEY` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY.mmd)
+    - `FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-01` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-01.mmd)
+    - `FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-02` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-03-TRANSFER-STUDENT-JOURNEY-PART-02.mmd)
+    - `FLOW-04-ORIENTATION-AND-LMS-ACCESS` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS.mmd)
+    - `FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-01` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-01.mmd)
+    - `FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-02` — [SVG](12.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/FLOW-04-ORIENTATION-AND-LMS-ACCESS-PART-02.mmd)
+    - `GRADUATION-ALUMNI` — [SVG](12.%20ADMISSIONS/IMAGES/GRADUATION-ALUMNI.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/GRADUATION-ALUMNI.mmd)
+    - `ONBOARDING-STUDENT-EXPERIENCE` — [SVG](12.%20ADMISSIONS/IMAGES/ONBOARDING-STUDENT-EXPERIENCE.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ONBOARDING-STUDENT-EXPERIENCE.mmd)
+    - `TECHNOLOGY-STUDENT-FLOW` — [SVG](12.%20ADMISSIONS/IMAGES/TECHNOLOGY-STUDENT-FLOW.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/TECHNOLOGY-STUDENT-FLOW.mmd)
+    - `TRANSFER-STUDENT-JOURNEY` — [SVG](12.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY.mmd)
+    - `TRANSFER-STUDENT-JOURNEY-PART-01` — [SVG](12.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-01.mmd)
+    - `TRANSFER-STUDENT-JOURNEY-PART-02` — [SVG](12.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/TRANSFER-STUDENT-JOURNEY-PART-02.mmd)
+  - **12 — Admissions main and journey**
+    - `ADMISSIONS-JOURNEY` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY.mmd)
+    - `ADMISSIONS-JOURNEY-PART-01` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-01.mmd)
+    - `ADMISSIONS-JOURNEY-PART-02` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-02.mmd)
+    - `ADMISSIONS-JOURNEY-PART-03` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-JOURNEY-PART-03.mmd)
+    - `ADMISSIONS-PHASE-01-ENTRY` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-01-ENTRY.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-01-ENTRY.mmd)
+    - `ADMISSIONS-PHASE-02-ENROLLMENT` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-02-ENROLLMENT.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-02-ENROLLMENT.mmd)
+    - `ADMISSIONS-PHASE-03-COMPLETION` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-03-COMPLETION.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-PHASE-03-COMPLETION.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-01` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-01.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-02` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-03` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-04` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-05` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-06` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-06.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-07` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-08` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-08.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-09` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-09.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-10` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-10.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-11` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-11.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-12` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.mmd)
+    - `ADMISSIONS-WIREFRAME-MAIN-FLOW-13` — [SVG](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.svg) | [Mermaid source](12.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.mmd)
 
 
 - **Additional verified Admissions image/diagram assets in the repository:**
-  - [`.gitkeep`](11.%20ADMISSIONS/IMAGES/.gitkeep)
+  - [`.gitkeep`](12.%20ADMISSIONS/IMAGES/.gitkeep)
 
-### 12 — TUITION — MAIN PAGE WIREFRAME — `Tuition-Wireframe-Main.md`
-- 12.1 — Tuition 
-- 12.2 — Fees 
-- 12.3 — Payment Options
+### 13 — TUITION — MAIN PAGE WIREFRAME — `Tuition-Wireframe-Main.md`
+- 13.1 — Tuition 
+- 13.2 — Fees 
+- 13.3 — Payment Options
   - **Entrepreneurship-only payment options:** upfront 25% discount or monthly full tuition; late monthly payments pause access; prepaid cancellations return unused tuition after delivered program work is earned. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
-- 12.4 — Funding
-- 12.5 — Reimbursement
-- 12.6 — Costs
-- 12.7 — Pricing Calculator Engine
+- 13.4 — Funding
+- 13.5 — Reimbursement
+- 13.6 — Costs
+- 13.7 — Pricing Calculator Engine
 
-### 13 — DONATIONS — MAIN PAGE WIREFRAME — `Donations-Wireframe-Main.md`
-- 13.1 — Foundation 
-- 13.2 — Accreditation 
-- 13.3 — State Authorization 
+### 14 — DONATIONS — MAIN PAGE WIREFRAME — `Donations-Wireframe-Main.md`
+- 14.1 — Foundation 
+- 14.2 — Accreditation 
+- 14.3 — State Authorization 
 
-### 14 — PRODUCTS AND SERVICES — MAIN PAGE WIREFRAME — [`14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md`](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md)
-- 14.1 — Products (Certification Review → 08; Bar Review → 09; student collections; bundles)
-- 14.2 — Pricing
-- 14.3 — Justice-Impacted Community Services (attorney-assisted sealing and expungement)
-- **14.4 — Entrepreneurship Program:** Startup Launch (12 weeks; **$5,000**) and Small Business Recovery & Growth (16 weeks; **$10,000**) with Spring/Fall cohorts; remote, hybrid and on-site entrepreneurship work; concurrent coursework, Experiential professionals and independently contracted professional affiliates.
-- **14.4 — Payment Options:** Pay **upfront / save 25%**: Startup **$3,750**, Small Business **$7,500**; or **monthly at full tuition**: 3 Startup or 4 Small Business installments. Existing $500 enrollment deposit is credited toward either plan. Nonpayment pauses courses/program until paid. Upfront cancellation is allowed anytime; delivered/used program periods are earned revenue and unused prepaid tuition refunded. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
-- **14.5 — Extended Services — Business Affiliate Connections:** Startup and verified-small-business matching with vetted MSSPs, CPA/accounting firms, development firms and law firms. Business intake **$49**; affiliate recruitment/vetting **$99** and qualified connection **$50** (affiliate-paid).
-- **14 wireframe, images and CTAs:** [Main Products & Services wireframe](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md) includes SECTION 16A and SECTION 16B, their [IMAGE PLACEHOLDER], [ICON], [FLOW] and [BUTTON] specifications, fee tables and routing audit. No 14 image binaries are yet published; image references are placeholders, not broken URLs.
-- **Related records:** [Admissions 11](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 16.3](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
+### 15 — PRODUCTS AND SERVICES — MAIN PAGE WIREFRAME — [`15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md`](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md)
+- 15.1 — Products (Certification Review → 09; Bar Review → 10; student collections; bundles)
+- 15.2 — Pricing
+- 15.3 — Justice-Impacted Community Services (attorney-assisted sealing and expungement)
+- **15.4 — Entrepreneurship Program:** Startup Launch (12 weeks; **$5,000**) and Small Business Recovery & Growth (16 weeks; **$10,000**) with Spring/Fall cohorts; remote, hybrid and on-site entrepreneurship work; concurrent coursework, Experiential professionals and independently contracted professional affiliates.
+- **15.4 — Payment Options:** Pay **upfront / save 25%**: Startup **$3,750**, Small Business **$7,500**; or **monthly at full tuition**: 3 Startup or 4 Small Business installments. Existing $500 enrollment deposit is credited toward either plan. Nonpayment pauses courses/program until paid. Upfront cancellation is allowed anytime; delivered/used program periods are earned revenue and unused prepaid tuition refunded. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
+- **15.5 — Extended Services — Business Affiliate Connections:** Startup and verified-small-business matching with vetted MSSPs, CPA/accounting firms, development firms and law firms. Business intake **$49**; affiliate recruitment/vetting **$99** and qualified connection **$50** (affiliate-paid).
+- **14 wireframe, images and CTAs:** [Main Products & Services wireframe](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md) includes SECTION 16A and SECTION 16B, their [IMAGE PLACEHOLDER], [ICON], [FLOW] and [BUTTON] specifications, fee tables and routing audit. No 14 image binaries are yet published; image references are placeholders, not broken URLs.
+- **Related records:** [Admissions 11](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 17.3](17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
 
-### 15 — ACCREDITATION & AUTHORIZATION — MAIN PAGE WIREFRAME — `Accreditation-And-Authorization-Wireframe-Main.md`
-- 15.1 — Experiential Pathways 
-- 15.2 — Academic Pathways
-- 15.3 — High School
-- 15.4 — GED/HSE
-- 15.5 — State Authorization 
+### 16 — ACCREDITATION & AUTHORIZATION — MAIN PAGE WIREFRAME — `Accreditation-And-Authorization-Wireframe-Main.md`
+- 16.1 — Experiential Pathways 
+- 16.2 — Academic Pathways
+- 16.3 — High School
+- 16.4 — GED/HSE
+- 16.5 — State Authorization 
 
-### 16 — JOIN US — MAIN PAGE WIREFRAME — [`16.1-JOIN-US-WIREFRAME-MAIN.md`](16-JOIN-US/16.1-JOIN-US-WIREFRAME-MAIN.md)
-- **16.1 — Join Us main wireframe:** [`16.1-JOIN-US-WIREFRAME-MAIN.md`](16-JOIN-US/16.1-JOIN-US-WIREFRAME-MAIN.md)
-- **16 — CTA, links & routing directory:** [`16-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md`](16-JOIN-US/16-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md)
-- 16.2 — Student Life — [`16.2-STUDENT-LIFE-WIREFRAME.md`](16-JOIN-US/16.2-STUDENT-LIFE-WIREFRAME.md)
-  - 16.2.1 — Institutional Identity
-  - 16.2.2 — RIAH Pathway Goat
-  - 16.2.3 — Perseverance + POWER
-  - 16.2.4 — Your RIAH Pathway Experience
-  - 16.2.5 — Student Organizations
-  - 16.2.6 — Student Governance
-  - 16.2.7 — Student Leadership
-  - 16.2.8 — Honor Societies
-  - 16.2.9 — Greek Life
-  - 16.2.10 — Community + Ambassadors
-  - 16.2.11 — Student Benefits
-  - 16.2.12 — Student Recognition
-  - 16.2.13 — Student Career Services
-  - 16.2.14 — RIAH Pathway Student ID
-  - 16.2.15 — Student Milestones
-  - 16.2.16 — Virtual Institution • Real Connection
-  - 16.2.17 — Six Schools • One Dynasty
-  - 16.2.18 — Careers & Opportunities
-  - 16.2.19 — Career Opportunities at a Glance
-  - 16.2.20 — Career Services
-  - 16.2.21 — Career Opportunities + Employer Engagement
-  - 16.2.22 — Jobs & Opportunities Newsletter
-  - 16.2.23 — RIAH Pathway Career Fairs
-  - 16.2.24 — Tailored Career Fairs
-  - 16.2.25 — Meet the Accountants Night
-  - 16.2.26 — Career Development
-  - 16.2.27 — RIAH Pathway Conference
-  - 16.2.28 — RIAH Pathway Podcast
-  - 16.2.29 — Career + Academic Resources
-  - 16.2.30 — Career Opportunity Flow
-  - 16.2.31 — Career Events Calendar
-  - 16.2.32 — Student Life Events Connection
-  - 16.2.33 — Student Life + Career Resources and Downloads
-  - 16.2.34 — Build Your Career
-- 16.3 — Partnerships — [`16.3-PARTNERSHIPS-WIREFRAME.md`](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md)
-  - 16.3.1 — Law Firms
-  - 16.3.2 — Courts
-  - 16.3.3 — High Schools
-  - 16.3.4 — Colleges
-  - 16.3.5 — Universities
-  - 16.3.6 — Community Colleges
-  - 16.3.7 — MBA Schools
-  - 16.3.8 — Law Schools
-  - 16.3.9 — CPA Firms
-  - 16.3.10 — MSSPs
-  - 16.3.11 — Training Providers
-  - 16.3.12 — Development Firms
-  - 16.3.13 — Certification Providers
-  - 16.3.14 — Startups
-  - 16.3.15 — Small Businesses
-  - 16.3.16 — Entrepreneurship Ventures
-    - Entrepreneurship Program collaboration → **14.4**; Extended Services affiliate introductions → **14.5**.
-    - Entrepreneurship payment cross-reference → **14.4 / 12**, including upfront 25% discount, monthly payments, missed-payment pause and refund of unused prepaid tuition.
-    - [16.3 Partnerships wireframe](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md) includes a new collaboration [IMAGE PLACEHOLDER], [FLOW] and link buttons.
-  - 16.3.17 — Employers
-- 16.4 — Join Our Team — [`16.4-JOIN-OUR-TEAM-WIREFRAME.md`](16-JOIN-US/16.4-JOIN-OUR-TEAM-WIREFRAME.md)
-  - 16.4.1 — Executive
-  - 16.4.2 — Board of Governance
-  - 16.4.3 — Backend Core Team
-  - 16.4.4 — Academic Faculty
-  - 16.4.5 — Experiential Faculty
-  - 16.4.6 — Non-JD Legal Professional Opportunities
-  - 16.4.7 — Career Resources
-  - 16.4.8 — Find Your Fit
-  - 16.4.9 — Apply to Join RIAH Pathway
-- 16.5 — Ambassadors — [`16.5-AMBASSADORS-WIREFRAME.md`](16-JOIN-US/16.5-AMBASSADORS-WIREFRAME.md)
-  - 16.5.1 — Substitute Teachers
-  - 16.5.2 — Rideshare
-  - 16.5.3 — Delivery
-  - 16.5.4 — Content Creators
-  - 16.5.5 — GitHub Contributors
-- 16.6 — Founder Equity Contributions & Allocations — [`16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md`](16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md)
+### 17 — JOIN US — MAIN PAGE WIREFRAME — [`17.1-JOIN-US-WIREFRAME-MAIN.md`](17-JOIN-US/17.1-JOIN-US-WIREFRAME-MAIN.md)
+- **17.1 — Join Us main wireframe:** [`17.1-JOIN-US-WIREFRAME-MAIN.md`](17-JOIN-US/17.1-JOIN-US-WIREFRAME-MAIN.md)
+- **16 — CTA, links & routing directory:** [`17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md`](17-JOIN-US/17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md)
+- 17.2 — Student Life — [`17.2-STUDENT-LIFE-WIREFRAME.md`](17-JOIN-US/17.2-STUDENT-LIFE-WIREFRAME.md)
+  - 17.2.1 — Institutional Identity
+  - 17.2.2 — RIAH Pathway Goat
+  - 17.2.3 — Perseverance + POWER
+  - 17.2.4 — Your RIAH Pathway Experience
+  - 17.2.5 — Student Organizations
+  - 17.2.6 — Student Governance
+  - 17.2.7 — Student Leadership
+  - 17.2.8 — Honor Societies
+  - 17.2.9 — Greek Life
+  - 17.2.10 — Community + Ambassadors
+  - 17.2.11 — Student Benefits
+  - 17.2.12 — Student Recognition
+  - 17.2.13 — Student Career Services
+  - 17.2.14 — RIAH Pathway Student ID
+  - 17.2.15 — Student Milestones
+  - 17.2.16 — Virtual Institution • Real Connection
+  - 17.2.17 — Six Schools • One Dynasty
+  - 17.2.18 — Careers & Opportunities
+  - 17.2.19 — Career Opportunities at a Glance
+  - 17.2.20 — Career Services
+  - 17.2.21 — Career Opportunities + Employer Engagement
+  - 17.2.22 — Jobs & Opportunities Newsletter
+  - 17.2.23 — RIAH Pathway Career Fairs
+  - 17.2.24 — Tailored Career Fairs
+  - 17.2.25 — Meet the Accountants Night
+  - 17.2.26 — Career Development
+  - 17.2.27 — RIAH Pathway Conference
+  - 17.2.28 — RIAH Pathway Podcast
+  - 17.2.29 — Career + Academic Resources
+  - 17.2.30 — Career Opportunity Flow
+  - 17.2.31 — Career Events Calendar
+  - 17.2.32 — Student Life Events Connection
+  - 17.2.33 — Student Life + Career Resources and Downloads
+  - 17.2.34 — Build Your Career
+- 17.3 — Partnerships — [`17.3-PARTNERSHIPS-WIREFRAME.md`](17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md)
+  - 17.3.1 — Law Firms
+  - 17.3.2 — Courts
+  - 17.3.3 — High Schools
+  - 17.3.4 — Colleges
+  - 17.3.5 — Universities
+  - 17.3.6 — Community Colleges
+  - 17.3.7 — MBA Schools
+  - 17.3.8 — Law Schools
+  - 17.3.9 — CPA Firms
+  - 17.3.10 — MSSPs
+  - 17.3.11 — Training Providers
+  - 17.3.12 — Development Firms
+  - 17.3.13 — Certification Providers
+  - 17.3.14 — Startups
+  - 17.3.15 — Small Businesses
+  - 17.3.16 — Entrepreneurship Ventures
+    - Entrepreneurship Program collaboration → **15.4**; Extended Services affiliate introductions → **15.5**.
+    - Entrepreneurship payment cross-reference → **15.4 / 13**, including upfront 25% discount, monthly payments, missed-payment pause and refund of unused prepaid tuition.
+    - [17.3 Partnerships wireframe](17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md) includes a new collaboration [IMAGE PLACEHOLDER], [FLOW] and link buttons.
+  - 17.3.17 — Employers
+- 17.4 — Join Our Team — [`17.4-JOIN-OUR-TEAM-WIREFRAME.md`](17-JOIN-US/17.4-JOIN-OUR-TEAM-WIREFRAME.md)
+  - 17.4.1 — Executive
+  - 17.4.2 — Board of Governance
+  - 17.4.3 — Backend Core Team
+  - 17.4.4 — Academic Faculty
+  - 17.4.5 — Experiential Faculty
+  - 17.4.6 — Non-JD Legal Professional Opportunities
+  - 17.4.7 — Career Resources
+  - 17.4.8 — Find Your Fit
+  - 17.4.9 — Apply to Join RIAH Pathway
+- 17.5 — Ambassadors — [`17.5-AMBASSADORS-WIREFRAME.md`](17-JOIN-US/17.5-AMBASSADORS-WIREFRAME.md)
+  - 17.5.1 — Substitute Teachers
+  - 17.5.2 — Rideshare
+  - 17.5.3 — Delivery
+  - 17.5.4 — Content Creators
+  - 17.5.5 — GitHub Contributors
+- 17.6 — Founder Equity Contributions & Allocations — [`17.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md`](17-JOIN-US/17.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md)
 
-- **Downloads and recruitment resources:** [`DOWNLOADS/`](16-JOIN-US/DOWNLOADS/) — 40 files across 13 categories.
+- **Downloads and recruitment resources:** [`DOWNLOADS/`](17-JOIN-US/DOWNLOADS/) — 40 files across 13 categories.
   - **ACADEMIC FACULTY POSITIONS**
-    - [`ADJUNCT-ACADEMIC-FACULTY.md`](16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md)
-    - [`PHD-ACADEMIC-FACULTY.md`](16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/PHD-ACADEMIC-FACULTY.md)
+    - [`ADJUNCT-ACADEMIC-FACULTY.md`](17-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md)
+    - [`PHD-ACADEMIC-FACULTY.md`](17-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/PHD-ACADEMIC-FACULTY.md)
   - **AFFILIATES**
-    - [`AFFILIATES.md`](16-JOIN-US/DOWNLOADS/AFFILIATES/AFFILIATES.md)
+    - [`AFFILIATES.md`](17-JOIN-US/DOWNLOADS/AFFILIATES/AFFILIATES.md)
   - **General and combined resources**
-    - [`ALL-POSITIONS-COMBINED.md`](16-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md)
-    - [`COMPENSATION-EQUITY-BENEFITS.md`](16-JOIN-US/DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md)
-    - [`EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md`](16-JOIN-US/DOWNLOADS/EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md)
-    - [`RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md`](16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md)
-    - [`RIAH-PATHWAY-HIRING.jpg`](16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg)
+    - [`ALL-POSITIONS-COMBINED.md`](17-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md)
+    - [`COMPENSATION-EQUITY-BENEFITS.md`](17-JOIN-US/DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md)
+    - [`EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md`](17-JOIN-US/DOWNLOADS/EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md)
+    - [`RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md`](17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md)
+    - [`RIAH-PATHWAY-HIRING.jpg`](17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg)
   - **BACKEND TECHNOLOGY POSITIONS**
-    - [`BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md`](16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md)
-    - [`FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md`](16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md)
-    - [`FULL-STACK-TECHNOLOGY-ARCHITECT.md`](16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-ARCHITECT.md)
-    - [`FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md`](16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md)
+    - [`BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md`](17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md)
+    - [`FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md`](17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md)
+    - [`FULL-STACK-TECHNOLOGY-ARCHITECT.md`](17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-ARCHITECT.md)
+    - [`FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md`](17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md)
   - **BOARD OF GOVERNANCE POSITIONS**
-    - [`BOARD-PRESIDENT.md`](16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-PRESIDENT.md)
-    - [`BOARD-SECRETARY.md`](16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-SECRETARY.md)
-    - [`BOARD-TREASURER.md`](16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TREASURER.md)
-    - [`BOARD-TRUSTEE.md`](16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TRUSTEE.md)
-    - [`BOARD-VICE-PRESIDENT.md`](16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-VICE-PRESIDENT.md)
+    - [`BOARD-PRESIDENT.md`](17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-PRESIDENT.md)
+    - [`BOARD-SECRETARY.md`](17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-SECRETARY.md)
+    - [`BOARD-TREASURER.md`](17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TREASURER.md)
+    - [`BOARD-TRUSTEE.md`](17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TRUSTEE.md)
+    - [`BOARD-VICE-PRESIDENT.md`](17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-VICE-PRESIDENT.md)
   - **CYBERSECURITY SPECIALIST POSITIONS**
-    - [`BLUE-TEAM-SPECIALIST.md`](16-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/BLUE-TEAM-SPECIALIST.md)
-    - [`PURPLE-TEAM-SPECIALIST.md`](16-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/PURPLE-TEAM-SPECIALIST.md)
-    - [`RED-TEAM-SPECIALIST.md`](16-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/RED-TEAM-SPECIALIST.md)
+    - [`BLUE-TEAM-SPECIALIST.md`](17-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/BLUE-TEAM-SPECIALIST.md)
+    - [`PURPLE-TEAM-SPECIALIST.md`](17-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/PURPLE-TEAM-SPECIALIST.md)
+    - [`RED-TEAM-SPECIALIST.md`](17-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/RED-TEAM-SPECIALIST.md)
   - **EXECUTIVE LEADERSHIP POSITIONS**
-    - [`CHIEF-FINANCIAL-OFFICER.md`](16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-FINANCIAL-OFFICER.md)
-    - [`CHIEF-INFORMATION-SECURITY-OFFICER.md`](16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-INFORMATION-SECURITY-OFFICER.md)
-    - [`CHIEF-LEARNING-OFFICER.md`](16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-LEARNING-OFFICER.md)
-    - [`CHIEF-OPERATING-OFFICER.md`](16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-OPERATING-OFFICER.md)
-    - [`CHIEF-TECHNOLOGY-OFFICER.md`](16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-TECHNOLOGY-OFFICER.md)
+    - [`CHIEF-FINANCIAL-OFFICER.md`](17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-FINANCIAL-OFFICER.md)
+    - [`CHIEF-INFORMATION-SECURITY-OFFICER.md`](17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-INFORMATION-SECURITY-OFFICER.md)
+    - [`CHIEF-LEARNING-OFFICER.md`](17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-LEARNING-OFFICER.md)
+    - [`CHIEF-OPERATING-OFFICER.md`](17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-OPERATING-OFFICER.md)
+    - [`CHIEF-TECHNOLOGY-OFFICER.md`](17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-TECHNOLOGY-OFFICER.md)
   - **EXPERIENTIAL POSITIONS**
-    - [`SCHOOL-OF-BUSINESS-EXPERIENTIAL-PROFESSIONAL.md`](16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-BUSINESS-EXPERIENTIAL-PROFESSIONAL.md)
-    - [`SCHOOL-OF-HOMELAND-SECURITY-EXPERIENTIAL-PROFESSIONAL.md`](16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-HOMELAND-SECURITY-EXPERIENTIAL-PROFESSIONAL.md)
-    - [`SCHOOL-OF-LAW-EXPERIENTIAL-PROFESSIONAL-REMOTE-BAR-REVIEW.md`](16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-LAW-EXPERIENTIAL-PROFESSIONAL-REMOTE-BAR-REVIEW.md)
-    - [`SCHOOL-OF-TECHNOLOGY-EXPERIENTIAL-PROFESSIONAL.md`](16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-TECHNOLOGY-EXPERIENTIAL-PROFESSIONAL.md)
+    - [`SCHOOL-OF-BUSINESS-EXPERIENTIAL-PROFESSIONAL.md`](17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-BUSINESS-EXPERIENTIAL-PROFESSIONAL.md)
+    - [`SCHOOL-OF-HOMELAND-SECURITY-EXPERIENTIAL-PROFESSIONAL.md`](17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-HOMELAND-SECURITY-EXPERIENTIAL-PROFESSIONAL.md)
+    - [`SCHOOL-OF-LAW-EXPERIENTIAL-PROFESSIONAL-REMOTE-BAR-REVIEW.md`](17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-LAW-EXPERIENTIAL-PROFESSIONAL-REMOTE-BAR-REVIEW.md)
+    - [`SCHOOL-OF-TECHNOLOGY-EXPERIENTIAL-PROFESSIONAL.md`](17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-TECHNOLOGY-EXPERIENTIAL-PROFESSIONAL.md)
   - **JD NON JD POSITIONS**
-    - [`JD-NON-JD-ATTORNEY-JUDGE-SUPERVISOR.md`](16-JOIN-US/DOWNLOADS/JD-NON-JD-POSITIONS/JD-NON-JD-ATTORNEY-JUDGE-SUPERVISOR.md)
+    - [`JD-NON-JD-ATTORNEY-JUDGE-SUPERVISOR.md`](17-JOIN-US/DOWNLOADS/JD-NON-JD-POSITIONS/JD-NON-JD-ATTORNEY-JUDGE-SUPERVISOR.md)
   - **PARTNERSHIPS**
-    - [`PARTNERSHIPS-PROCESS.md`](16-JOIN-US/DOWNLOADS/PARTNERSHIPS/PARTNERSHIPS-PROCESS.md)
+    - [`PARTNERSHIPS-PROCESS.md`](17-JOIN-US/DOWNLOADS/PARTNERSHIPS/PARTNERSHIPS-PROCESS.md)
   - **PRODUCT SERVICE POSITIONS**
-    - [`PRODUCT-SERVICE-PROFESSIONAL-CONTRACTOR.md`](16-JOIN-US/DOWNLOADS/PRODUCT-SERVICE-POSITIONS/PRODUCT-SERVICE-PROFESSIONAL-CONTRACTOR.md)
+    - [`PRODUCT-SERVICE-PROFESSIONAL-CONTRACTOR.md`](17-JOIN-US/DOWNLOADS/PRODUCT-SERVICE-POSITIONS/PRODUCT-SERVICE-PROFESSIONAL-CONTRACTOR.md)
   - **PROGRAM DIRECTOR POSITIONS**
-    - [`PROGRAM-DIRECTOR-SCHOOL-OF-BUSINESS.md`](16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-BUSINESS.md)
-    - [`PROGRAM-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md`](16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md)
-    - [`PROGRAM-DIRECTOR-SCHOOL-OF-LAW.md`](16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-LAW.md)
-    - [`PROGRAM-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md`](16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md)
+    - [`PROGRAM-DIRECTOR-SCHOOL-OF-BUSINESS.md`](17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-BUSINESS.md)
+    - [`PROGRAM-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md`](17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md)
+    - [`PROGRAM-DIRECTOR-SCHOOL-OF-LAW.md`](17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-LAW.md)
+    - [`PROGRAM-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md`](17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md)
   - **PROJECT DIRECTOR POSITIONS**
-    - [`PROJECT-DIRECTOR-SCHOOL-OF-BUSINESS.md`](16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-BUSINESS.md)
-    - [`PROJECT-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md`](16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md)
-    - [`PROJECT-DIRECTOR-SCHOOL-OF-LAW.md`](16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-LAW.md)
-    - [`PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md`](16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md)
+    - [`PROJECT-DIRECTOR-SCHOOL-OF-BUSINESS.md`](17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-BUSINESS.md)
+    - [`PROJECT-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md`](17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md)
+    - [`PROJECT-DIRECTOR-SCHOOL-OF-LAW.md`](17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-LAW.md)
+    - [`PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md`](17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md)
 
-- **Images and diagram sources:** [`IMAGES/`](16-JOIN-US/IMAGES/) — 24 files.
-  - [`16.1-I-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-I-WIREFRAME-DESIGN.png)
-  - [`16.1-II-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-II-WIREFRAME-DESIGN.png)
-  - [`16.1-III-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-III-WIREFRAME-DESIGN.png)
-  - [`16.1-IV-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-IV-WIREFRAME-DESIGN.png)
-  - [`16.1-V-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-V-WIREFRAME-DESIGN.png)
-  - [`EQUITY-CONTRIBUTION-POOL.png`](16-JOIN-US/IMAGES/EQUITY-CONTRIBUTION-POOL.png)
-  - [`FLOW-01-AFFILIATES.mmd`](16-JOIN-US/IMAGES/FLOW-01-AFFILIATES.mmd)
-  - [`FLOW-01-AFFILIATES.svg`](16-JOIN-US/IMAGES/FLOW-01-AFFILIATES.svg)
-  - [`FLOW-01-PARTNERSHIPS-PROCESS.mmd`](16-JOIN-US/IMAGES/FLOW-01-PARTNERSHIPS-PROCESS.mmd)
-  - [`FLOW-01-PARTNERSHIPS-PROCESS.svg`](16-JOIN-US/IMAGES/FLOW-01-PARTNERSHIPS-PROCESS.svg)
-  - [`FLOW-02-PARTNERSHIPS-PROCESS.mmd`](16-JOIN-US/IMAGES/FLOW-02-PARTNERSHIPS-PROCESS.mmd)
-  - [`FLOW-02-PARTNERSHIPS-PROCESS.svg`](16-JOIN-US/IMAGES/FLOW-02-PARTNERSHIPS-PROCESS.svg)
-  - [`SCREENSHOT-1.jpg`](16-JOIN-US/IMAGES/SCREENSHOT-1.jpg)
-  - [`SCREENSHOT-2.jpg`](16-JOIN-US/IMAGES/SCREENSHOT-2.jpg)
-  - [`SCREENSHOT-3.png`](16-JOIN-US/IMAGES/SCREENSHOT-3.png)
-  - [`SCREENSHOT-4.jpg`](16-JOIN-US/IMAGES/SCREENSHOT-4.jpg)
+- **Images and diagram sources:** [`IMAGES/`](17-JOIN-US/IMAGES/) — 24 files.
+  - [`17.1-I-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.1-I-WIREFRAME-DESIGN.png)
+  - [`17.1-II-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.1-II-WIREFRAME-DESIGN.png)
+  - [`17.1-III-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.1-III-WIREFRAME-DESIGN.png)
+  - [`17.1-IV-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.1-IV-WIREFRAME-DESIGN.png)
+  - [`17.1-V-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.1-V-WIREFRAME-DESIGN.png)
+  - [`EQUITY-CONTRIBUTION-POOL.png`](17-JOIN-US/IMAGES/EQUITY-CONTRIBUTION-POOL.png)
+  - [`FLOW-01-AFFILIATES.mmd`](17-JOIN-US/IMAGES/FLOW-01-AFFILIATES.mmd)
+  - [`FLOW-01-AFFILIATES.svg`](17-JOIN-US/IMAGES/FLOW-01-AFFILIATES.svg)
+  - [`FLOW-01-PARTNERSHIPS-PROCESS.mmd`](17-JOIN-US/IMAGES/FLOW-01-PARTNERSHIPS-PROCESS.mmd)
+  - [`FLOW-01-PARTNERSHIPS-PROCESS.svg`](17-JOIN-US/IMAGES/FLOW-01-PARTNERSHIPS-PROCESS.svg)
+  - [`FLOW-02-PARTNERSHIPS-PROCESS.mmd`](17-JOIN-US/IMAGES/FLOW-02-PARTNERSHIPS-PROCESS.mmd)
+  - [`FLOW-02-PARTNERSHIPS-PROCESS.svg`](17-JOIN-US/IMAGES/FLOW-02-PARTNERSHIPS-PROCESS.svg)
+  - [`SCREENSHOT-1.jpg`](17-JOIN-US/IMAGES/SCREENSHOT-1.jpg)
+  - [`SCREENSHOT-2.jpg`](17-JOIN-US/IMAGES/SCREENSHOT-2.jpg)
+  - [`SCREENSHOT-3.png`](17-JOIN-US/IMAGES/SCREENSHOT-3.png)
+  - [`SCREENSHOT-4.jpg`](17-JOIN-US/IMAGES/SCREENSHOT-4.jpg)
 
 
   - **Additional verified Join Us images and diagram assets:**
-    - [`16.6-I-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-I-WIREFRAME-DESIGN.png)
-    - [`16.6-II-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-II-WIREFRAME-DESIGN.png)
-    - [`16.6-III-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-III-WIREFRAME-DESIGN.png)
-    - [`16.6-INTRODUCTION-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-INTRODUCTION-WIREFRAME-DESIGN.png)
-    - [`16.6-IV-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-IV-WIREFRAME-DESIGN.png)
-    - [`16.6-V-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-V-WIREFRAME-DESIGN.png)
-    - [`16.6-VI-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-VI-WIREFRAME-DESIGN.png)
-    - [`16.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png`](16-JOIN-US/IMAGES/16.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png)
+    - [`17.6-I-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-I-WIREFRAME-DESIGN.png)
+    - [`17.6-II-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-II-WIREFRAME-DESIGN.png)
+    - [`17.6-III-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-III-WIREFRAME-DESIGN.png)
+    - [`17.6-INTRODUCTION-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-INTRODUCTION-WIREFRAME-DESIGN.png)
+    - [`17.6-IV-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-IV-WIREFRAME-DESIGN.png)
+    - [`17.6-V-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-V-WIREFRAME-DESIGN.png)
+    - [`17.6-VI-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-VI-WIREFRAME-DESIGN.png)
+    - [`17.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png`](17-JOIN-US/IMAGES/17.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png)
 
-### 17 — RESOURCES — MAIN PAGE WIREFRAME — `Resources-Wireframe-Main.md`
-- 17.1 — Events 
-- 17.2 — Blog 
-- 17.3 — Podcasts 
-- 17.4 — Conferences 
-- 17.5 — Workshops 
-- 17.6 — Webinars 
-- 17.7 — Policies 
-- 17.8 — Procedures 
-- 17.9 — Guidelines 
+### 18 — RESOURCES — MAIN PAGE WIREFRAME — `Resources-Wireframe-Main.md`
+- 18.1 — Events 
+- 18.2 — Blog 
+- 18.3 — Podcasts 
+- 18.4 — Conferences 
+- 18.5 — Workshops 
+- 18.6 — Webinars 
+- 18.7 — Policies 
+- 18.8 — Procedures 
+- 18.9 — Guidelines 
 
-### 18 — FAQ — MAIN PAGE WIREFRAME — `FAQ-Wireframe-Main.md`
-- 18.1 — Pathways & Programs
-- 18.2 — Curriculum 
-- 18.3 — Admissions 
-- 18.4 — Tuition, Fees & Payments
-- 18.5 — Accreditation & Authorization
-- 18.6 — Student Experience 
-- 18.7 — Products
-- 18.8 — Technical Support 
+### 19 — FAQ — MAIN PAGE WIREFRAME — `FAQ-Wireframe-Main.md`
+- 19.1 — Pathways & Programs
+- 19.2 — Curriculum 
+- 19.3 — Admissions 
+- 19.4 — Tuition, Fees & Payments
+- 19.5 — Accreditation & Authorization
+- 19.6 — Student Experience 
+- 19.7 — Products
+- 19.8 — Technical Support 
 
-### 19 — CONTACT — MAIN PAGE WIREFRAME — `Contact-Wireframe-Main.md`
-- 19.1 — Admissions 
-- 19.2 — Human Resources
-- 19.3 — Technical Support 
-- 19.4 — Student Support 
-- 19.5 — Products & Orders 
-- 19.6 — Partnerships & Organizations
-- 19.7 — General Inquiries 
+### 20 — CONTACT — MAIN PAGE WIREFRAME — `Contact-Wireframe-Main.md`
+- 20.1 — Admissions 
+- 20.2 — Human Resources
+- 20.3 — Technical Support 
+- 20.4 — Student Support 
+- 20.5 — Products & Orders 
+- 20.6 — Partnerships & Organizations
+- 20.7 — General Inquiries 
 
 ---
 
