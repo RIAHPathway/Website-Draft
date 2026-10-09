@@ -799,3 +799,28 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 **Example:** A bachelor's transfer student whose approved credits satisfy all general education requirements but not the school core receives the outstanding school core course collections, plus the applicable subsequent major and capstone materials; the student does **not** need a complete general education collection. If only some general education or core courses remain, include the collections for those outstanding courses only.
 
 **Fulfillment and student experience:** Finalize the personalized course and collection list after transfer evaluation and placement, before assembling or assigning the student's applicable learning materials and Welcome/Transfer Kit resources. Continue to apply the established deposit, onboarding, and kit-delivery requirements. The internal student collection is determined by actual outstanding coursework, not a uniform full-program bundle.
+
+## ADDENDUM — EDUCATION / EXPERIENTIAL PRICING, CONTRIBUTORS, TUITION REIMBURSEMENT & FOUNDER ROUTING
+
+| Admissions Source Markdown | Added CTA / Link / Download | Route / Destination |
+|---|---|---|
+| ADMISSIONS-WIREFRAME-MAIN.md | Tuition, pricing stages and Experiential / academic costs | 12 |
+| ADMISSIONS-WIREFRAME-MAIN.md | Verified tuition reimbursement and contributor milestones | 12.6; 16.2.15 |
+| ADMISSIONS-WIREFRAME-MAIN.md | Founder contributions and financial transparency | 16.6 |
+| 11.1-PRE-ADMISSIONS-WIREFRAME.md | Tuition before applying / contributor benefits / Founder | 12; 12.6; 16.6 |
+| 11.2-APPLICATION-WIREFRAME.md | Program prices / reimbursement / Founder | 12; 12.6; 16.6 |
+| 11.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md | Enrollment pricing / contribution milestones / Founder | 12; 12.6; 16.6 |
+| 11.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md | Verified milestones / reimbursement / Founder | 16.2.15; 12.6; 16.6 |
+| 11.5-GRADUATION-AND-ALUMNI-WIREFRAME.md | Guaranteed qualifying 10% completion / up to 50% approved milestones | 12.6; 16.2.15 |
+| 11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md | Student financial reimbursements / Founder equity pool | 12.6; 16.6 |
+| 11.7-TRANSFER-STUDENTS-WIREFRAME.md | Published tuition / milestone reimbursement / Founder | 12; 12.6; 16.6 |
+
+[DOWNLOAD: Current Academic and Experiential Tuition Prices and Pricing Stages → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
+
+[DOWNLOAD: Contributor Benefits and Non-Stacking Milestone Rules → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md]
+
+[DOWNLOAD: Student and Experiential Qualifying Completion Benefits → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
+
+[INTERNAL LINK: Founder Equity Contributions & Allocations → ../16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
+
+[INTERNAL ROUTE: Tuition → 12; Tuition Reimbursement → 12.6; Student Milestones → 16.2.15; Founder Contributions → 16.6]
