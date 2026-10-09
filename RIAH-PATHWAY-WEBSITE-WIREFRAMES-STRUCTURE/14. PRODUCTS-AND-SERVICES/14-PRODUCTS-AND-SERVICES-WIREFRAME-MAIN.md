@@ -1,5 +1,13 @@
 # 👑 RIAH PATHWAY — 14 / PRODUCTS AND SERVICES
-## WEBSITE WIREFRAME
+## COMPLETE WEBSITE WIREFRAME
+
+**Page:** 14 — Products and Services  
+**Page Type:** Main Website Page  
+**Institutional Colors:** Black • Red • Gold • White • Silver  
+**Institutional Symbol:** Crown  
+**Institutional Mascot:** Goat  
+**Slogan:** ONE DYNASTY. INFINITE LEGACIES.
+
 
 **Brand:** Black • Red • Gold • White • Silver | Crown and Goat
 **Slogan:** ONE DYNASTY. INFINITE LEGACIES.
@@ -7,68 +15,131 @@
 
 # GLOBAL HEADER
 [INTERNAL LINK — 01 / HOME]
+
 [INTERNAL LINK — 02 / ABOUT]
+
 [INTERNAL LINK — 03 / PATHWAY]
+
 [INTERNAL LINK — 04 / DEGREE PROGRAMS]
+
 [INTERNAL LINK — 05 / EXPERIENTIAL]
+
 [INTERNAL LINK — 06 / HIGH SCHOOL]
+
 [INTERNAL LINK — 07 / GED-HSE]
+
 [INTERNAL LINK — 08 / CERTIFICATION REVIEW]
+
 [INTERNAL LINK — 09 / BAR REVIEW]
+
 [INTERNAL LINK — 10 / CURRICULUM]
+
 [INTERNAL LINK — 11 / ADMISSIONS]
+
 [INTERNAL LINK — 12 / TUITION]
+
 [INTERNAL LINK — 13 / DONATIONS]
+
 [INTERNAL LINK — 14 / PRODUCTS AND SERVICES]
+
 [INTERNAL LINK — 15 / ACCREDITATION & AUTHORIZATION]
+
 [INTERNAL LINK — 16 / JOIN US]
+
 [INTERNAL LINK — 17 / RESOURCES]
+
 [INTERNAL LINK — 18 / FAQ]
+
 [INTERNAL LINK — 19 / CONTACT]
+
 [BUTTON — APPLY NOW → 11 / ADMISSIONS]
 
-# SUBPAGES
+# PRODUCTS AND SERVICES SUBPAGE NAVIGATION
+
+| Route | Page | Function |
+|---|---|---|
+| 14.1 | Products | Educational products, certification and Bar Review products, internal collections, bundles |
+| 14.2 | Pricing | Product pricing, shipping, package comparisons, reductions |
+| 14.3 | Justice-Impacted Community Services | Community give-back through partner law firms; attorney-assisted sealing and expungement |
+
 [BUTTON — 14.1 / PRODUCTS]
+
 [BUTTON — 14.2 / PRICING]
+
 [PROPOSED BUTTON — 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 # SECTION 01 HERO
 
 [IMAGE PLACEHOLDER — Diverse students with RIAH printed books]
+
 [VIDEO PLACEHOLDER — Products and Services introduction]
 # PRODUCTS AND SERVICES
 ## RESOURCES. OPPORTUNITY. A PATHWAY FORWARD.
-Physical-first products, select digital materials, review programs, internal student collections and affordable attorney-assisted record relief.
+RIAH Pathway connects educational resources, certification preparation, professional products, academic collections, and community-focused legal assistance. Our physical-first products support students and professionals throughout education, certification, experiential learning and career development. **The only external professional service is our community give-back pathway: connecting eligible students and members of the public to participating independent law firms for affordable attorney-assisted record sealing or expungement.**
 [BUTTON — SHOP NOW → SHOPIFY]
+
 [BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 ---
 
 # SECTION 02 PRODUCT ECOSYSTEM
 
-Educational: textbooks, workbooks, study/review/solution guides, flashcards, planners, journals. Practice: mini exams, simulated exams, full exams, question banks, practice tests, simulations. Professional: how-to/career/reference guides, manuals, workbooks, planners, journals. Bundles: workbook, question, simulation, mini exam, full simulation, study, digital, printed, complete.
+| Product Category | Products | Availability |
+|---|---|---|
+| Educational | Textbooks, workbooks, study guides, review guides, solution guides, flashcards, planners, journals | Primarily physical; select digital |
+| Practice | Mini practice exams, mini simulated exams, full simulated exams, question banks, additional tests, simulation banks | Applicable interactive digital access |
+| Professional | Professional guides, how-to guides, career guides, reference guides, manuals, workbooks, planners, journals | Primarily physical; select digital |
+| Bundles | Workbook, question, simulation, mini exam, full simulation, study, digital materials, printed materials, complete materials | Per bundle description |
+
+Products are sold through the external storefront, except internal student collections.
 [IMAGE PLACEHOLDER — Printed product collection]
+
 [BUTTON — SHOP NOW → SHOPIFY]
 
 ---
 
 # SECTION 03 PRODUCT FORMATS
 
-**PHYSICAL FIRST:** Most complete products printed and shipped. **SELECT DIGITAL:** Only expressly designated full digital products. **DIGITAL PREVIEW:** First chapter, sample pages or table of contents only; not a full product.
+| Product Designation | Description | Fulfillment |
+|---|---|---|
+| PHYSICAL | Majority of RIAH complete products | Printed and shipped |
+| SELECT DIGITAL | Only expressly designated complete digital products | Digital delivery |
+| DIGITAL PREVIEW AVAILABLE | First chapter, first few pages, sample pages or table of contents | Preview only, not complete product |
+| INTERACTIVE PRACTICE | Applicable tests, question banks and simulations | Online access where offered |
+| INTERNAL STUDENT COLLECTION | Pathway-specific resources, not external retail | Per student resource allocation |
+
+Physical products may offer limited digital previews without granting a full digital copy.
 [IMAGE PLACEHOLDER — Printed book and sample preview]
+
 [BUTTON — LEARN MORE → 14.2 / PRICING]
 
 ---
 
 # SECTION 04 CERTIFICATION REVIEW BY SCHOOL
 
-**SCHOOL OF BUSINESS:** CPA, CMA, CIA, CFE, EA, CFA, CFP.
-**SCHOOL OF TECHNOLOGY:** PMP, PgMP, CISA, CISM, CISSP, CRISC, CEH, OSCP; applicable CompTIA, Google/Google Cloud, AWS; Microsoft Azure Fundamentals, Administrator Associate, Developer Associate, Security Engineer Associate, Network Engineer Associate, Data Fundamentals, AI Fundamentals, AI Engineer Associate, Data Scientist Associate, Data Engineer Associate, Solutions Architect Expert, DevOps Engineer Expert, Fabric Data Engineer Associate, Power BI Data Analyst Associate; Hack The Box Red CPTS/CWES/CWEE/CAPE/CWPE/COAE, Blue CDSA, Purple CJCA.
-**SCHOOL OF HOMELAND SECURITY:** CLEA, PSP, PCI.
+| School | Category | Certification Review Coverage |
+|---|---|---|
+| School of Business | Accounting | CPA, CMA, CIA, CFE, EA |
+| School of Business | Finance | CFA, CFP |
+| School of Technology | Project and Program Management | PMP, PgMP |
+| School of Technology | Cybersecurity and Information Systems | CISA, CISM, CISSP, CRISC, CEH, OSCP |
+| School of Technology | CompTIA | Applicable CompTIA review offerings |
+| School of Technology | Microsoft and Azure | Azure Fundamentals; Administrator Associate; Developer Associate; Security Engineer Associate; Network Engineer Associate; Data Fundamentals; AI Fundamentals; AI Engineer Associate; Data Scientist Associate; Data Engineer Associate; Solutions Architect Expert; DevOps Engineer Expert; Fabric Data Engineer Associate; Power BI Data Analyst Associate |
+| School of Technology | Google | Applicable Google and Google Cloud review offerings |
+| School of Technology | AWS | Applicable Amazon Web Services review offerings |
+| School of Technology | Hack The Box Red | CPTS, CWES, CWEE, CAPE, CWPE, COAE |
+| School of Technology | Hack The Box Blue | CDSA |
+| School of Technology | Hack The Box Purple | CJCA |
+| School of Homeland Security | Homeland Security and Investigation | CLEA, PSP, PCI |
+
+**DRC is excluded.**
 Show applicable Microsoft foundational and associate progression before Azure Solutions Architect Expert. Verify vendor certification titles/current availability.
 [IMAGE PLACEHOLDER — Business certification]
+
 [IMAGE PLACEHOLDER — Azure and Hack The Box certification map]
+
 [IMAGE PLACEHOLDER — Homeland Security certification]
+
 [BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
 
 ---
@@ -87,6 +158,7 @@ Show applicable Microsoft foundational and associate progression before Azure So
 | Advisement, mentorship, 5 study, 5 live review, 5 coaching sessions | — | — | Yes |
 Included review with applicable pathway: $0 additional. Standalone multiple review percentages: first 100%, second 50%, third 25%. Qualifying unsuccessful exam after 100% course completion: 3 additional months access, not refund.
 [IMAGE PLACEHOLDER — Three review tiers]
+
 [BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
 
 ---
@@ -95,6 +167,7 @@ Included review with applicable pathway: $0 additional. Standalone multiple revi
 
 One Full RIAH Bar Review with all 50 states plus Washington, D.C. modules; separate California Baby Bar. Basic $500; Standard $1,000; Premium $1,500. First applicable jurisdiction module included where applicable; additional jurisdiction module $250. Included pathway review: $0 additional.
 [IMAGE PLACEHOLDER — Bar Review jurisdiction map]
+
 [BUTTON — LEARN MORE → 09 / BAR REVIEW]
 
 ---
@@ -124,14 +197,25 @@ Bundles: workbook $49.99; question $69.99; simulation $149.99; mini exam $149.99
 Internal, not standalone retail: General Education; Business/Technology/Law/Homeland Security School Core; Year 3 Major; Year 4; Minor; Bachelor's/Minor Capstone; Master's/Master's Capstone; MBA/MBA Capstone; GED/HSE; High School Diploma.
 Resource allocation: GED/HSE $500; High School $500; Minor $500; Associate's $500; Bachelor's $1,000; Master's $1,000; MBA $1,000; JD $1,000; Non-JD $1,000; Experiential estimated $500–$1,500. Pathway-specific from enrollment through graduation; $0 application and no separate education deposit; no double charging.
 [IMAGE PLACEHOLDER — Academic collections]
+
 [BUTTON — LEARN MORE → 10 / CURRICULUM]
 
 ---
 
 # SECTION 09 EXPERIENTIAL COLLECTIONS
 
-Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager and Executive each 1 year. Internal workbooks, journals, planners, development guides, reflections, professional tools and applicable capstones; not external retail.
+| Experiential Level | Duration | Applicable Internal Resources |
+|---|---|---|
+| Apprentice | 1 Month | Workbooks, journals, planners and role-specific materials |
+| Intern | 3 Months | Workbooks, professional development and reflective materials |
+| Associate | 1 Year | Advanced role collections and applicable capstone |
+| Senior Associate | 1 Year | Senior-level collections and applicable capstone |
+| Manager | 1 Year | Management resources and applicable capstone |
+| Executive | 1 Year | Executive resources and applicable capstone |
+
+These collections are student resources and are not external retail products.
 [IMAGE PLACEHOLDER — Experiential supervised learning]
+
 [BUTTON — LEARN MORE → 05 / EXPERIENTIAL]
 
 ---
@@ -139,24 +223,63 @@ Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager and Ex
 # SECTION 10 JUSTICE-IMPACTED COMMUNITY SERVICES
 
 # OPPORTUNITY BEYOND A RECORD
-**EVERY PERSON DESERVES ACCESS TO OPPORTUNITY.** Past records should not automatically define a person's future. RIAH supports dignity, individual circumstances, education and professional opportunity. Qualified attorneys assist eligible students and the public with lawful sealing or expungement where available. No outcome guaranteed.
+
+## EVERY PERSON DESERVES ACCESS TO OPPORTUNITY.
+
+A person's criminal history should not automatically define their future or prevent them from pursuing education, employment, professional development, housing, and meaningful participation in the community. RIAH Pathway believes access should be guided by fairness, individual circumstances, applicable law, and recognition that people are more than past experiences.
+
+**Community give-back partnership:** RIAH connects eligible RIAH students and members of the public to **independent attorneys at participating partner law firms**. The partner law firm evaluates and, where appropriate, accepts the matter and provides legal representation. **RIAH does not itself practice law or offer other external professional services.**
+
+| Participant | Role | Responsibility |
+|---|---|---|
+| RIAH Pathway | Community program coordinator | Public outreach, general resources, administrative intake and connecting interested individuals to participating law firms |
+| Partner Law Firm | Independent legal service provider | Determines whether to accept representation and sets legally compliant engagement terms |
+| Partner Attorney | Licensed counsel | Legal advice, eligibility assessment, filings, hearings and communication of outcomes |
+| Student / Community Member | Potential client | Voluntary inquiry, consent, engagement and applicable payments |
+| RIAH Foundation | Potential need-based support | May provide assistance to qualifying students subject to funding, eligibility, nonprofit rules and approval |
+
+**DIGNITY. ACCESS. OPPORTUNITY.** No sealing, expungement, eligibility or court outcome is guaranteed.
 [IMAGE PLACEHOLDER — Welcoming attorney consultation]
+
 [BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 ---
 
 # SECTION 11 RECORD SEALING AND EXPUNGEMENT
 
-**Only externally offered professional service:** attorney-assisted sealing and expungement. Eligibility review, offense/disposition/waiting-period assessment, qualified attorney preparation, court filing and guidance on hearings/results. Available only where state law permits and qualified counsel is available. Attorney-client relationship requires appropriate engagement agreement.
+**RIAH's only public-facing external professional-service pathway is this community give-back partnership.** RIAH introduces eligible interested individuals to independent partner law firms; the law firm and attorney decide whether to accept a case. RIAH is not the legal representative.
+
+| Service Stage | Responsible Party | Scope |
+|---|---|---|
+| Community outreach and general information | RIAH | Inform students and the public about the program |
+| Administrative intake and consent-based connection | RIAH | Facilitate a potential client introduction without selling referrals |
+| Eligibility review | Partner attorney | Conviction/nonconviction status, disposition, exclusions, waiting periods |
+| Legal advice and representation | Partner law firm / attorney | Independent attorney-client engagement and case decisions |
+| Petition and court filing | Partner attorney | Prepare and submit eligible applications |
+| Hearing and court guidance | Partner attorney | Represent client where agreed and explain outcome |
+| Potential financial assistance | RIAH Foundation | Evaluate qualifying students for available need-based support |
+
+Services are available only in supported jurisdictions where applicable relief exists and qualified partner counsel is available. No attorney-client relationship is created by submitting a RIAH inquiry.
 [IMAGE PLACEHOLDER — Attorney reviewing case records]
+
 [BUTTON — GET STARTED → CONFIDENTIAL ATTORNEY INTAKE]
 
 ---
 
 # SECTION 12 TRANSPARENT SERVICE PRICING
 
-# $150 ASSISTANCE FEE
-**Attorney assistance: $125. RIAH administrative/intake fee: $25.** RIAH's charge must be for genuine separately disclosed administration, not a referral fee or share of attorney legal fees; requires state-specific legal ethics approval before launch.
+# $150 TOTAL ASSISTANCE AND ADMINISTRATION FEES
+
+RIAH's proposed **community give-back, reduced-fee partner-law-firm arrangement** is designed to make eligible cases affordable while allowing participating attorneys to accept matters at an agreed rate. The partner law firm must voluntarily agree to the fee and determine case acceptance and scope independently. **This is not strictly pro bono representation because the attorney is compensated; it is a reduced-fee community-benefit program.** Any fully pro bono representation must be identified separately if actually offered.
+
+| Fee Recipient / Role | Proposed Amount | Purpose |
+|---|---:|---|
+| Participating partner law firm / attorney | $125 | Attorney legal assistance for an agreed eligible matter |
+| RIAH Pathway | $25 | Separately disclosed bona fide administrative/intake support, if lawful |
+| Court | Actual court charge | Pass-through government filing fee, without markup |
+| RIAH Foundation | No automatic charge | May help eligible students with need-based assistance, subject to funds and approval |
+
+**Legal-ethics condition:** The $25 cannot be payment for recommending a lawyer, selling a lead, or sharing legal fees in a prohibited manner. Partner firms, independent counsel and the foundation must approve a compliant model for each jurisdiction. If the separate RIAH charge cannot lawfully be collected, the arrangement must be revised before launch.
 
 ### EXAMPLE — ILLUSTRATIVE ONLY
 | Component | Amount |
@@ -168,6 +291,7 @@ Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager and Ex
 
 *The $50 filing cost is an illustration only, not a verified charge for any particular court. The actual court fee may differ or be zero and is passed through without markup. Any other required charges must be disclosed before engagement. No legal outcome is guaranteed.*
 [IMAGE PLACEHOLDER — Transparent $125 + $25 + actual court cost breakdown]
+
 [BUTTON — GET STARTED → CONFIDENTIAL ATTORNEY INTAKE]
 
 ---
@@ -177,6 +301,7 @@ Apprentice 1 month; Intern 3 months; Associate, Senior Associate, Manager and Ex
 [INTERACTIVE MAP PLACEHOLDER — Only verified jurisdictions with applicable sealing/expungement]
 Select State → Relief Type → Eligible Criminal History → Exclusions/Waiting Period → Actual Court Cost → State Guide → Attorney Inquiry.
 [DOWNLOAD — STATE-BY-STATE RECORD RELIEF DIRECTORY]
+
 [DOWNLOAD — INDIVIDUAL STATE GUIDE: convictions, nonconvictions, dismissed charges, acquittals, arrest records, exclusions, waiting periods, court procedures, fees, official sources, last review date]
 Do not publish unverified eligible-state lists. Attorney review required for each jurisdiction.
 [BUTTON — GET STARTED → CONFIDENTIAL ATTORNEY INTAKE]
@@ -187,6 +312,7 @@ Do not publish unverified eligible-state lists. Attorney review required for eac
 
 Select State → Review Guide → Secure Intake → Attorney Eligibility Assessment → Verified Cost Quote → Engagement Agreement → Court Filing → Court Decision → Outcome and Next Steps.
 [IMAGE PLACEHOLDER — Nine-step process flow]
+
 [BUTTON — GET STARTED → CONFIDENTIAL ATTORNEY INTAKE]
 
 ---
@@ -194,14 +320,37 @@ Select State → Review Guide → Secure Intake → Attorney Eligibility Assessm
 # SECTION 15 FAIR OPPORTUNITY
 
 **DIGNITY. ACCESS. OPPORTUNITY.** Individuals should be considered for present qualifications, achievements and potential, not automatically excluded due to history. RIAH supports lawful, affordable paths to review available relief, without guaranteeing outcomes.
+
+### FOUNDATION NEED-BASED SUPPORT
+
+| Applicant | Possible Support | Condition |
+|---|---|---|
+| RIAH student demonstrating financial need | Assistance with eligible attorney or court costs | Foundation funding available and eligibility approved |
+| RIAH student unable to afford full amount | Partial or full support, if authorized | Independent review under adopted foundation policies |
+| General public | Community legal information and access to partner firms | Financial grants are not promised; any public assistance requires approved foundation eligibility policy |
+
+[IMAGE PLACEHOLDER — Foundation assistance and student access]
+
+[BUTTON — LEARN MORE → 13 / DONATIONS]
+
+[BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+
 [IMAGE PLACEHOLDER — Community members in education and careers]
+
 [BUTTON — LEARN MORE → 02 / ABOUT]
 
 ---
 
 # SECTION 16 INTERNAL VS EXTERNAL SERVICES
 
-Internal academic advisement, mentorship, study support, coaching, live review, faculty and experiential supervision remain student/program support, **not standalone external services**. The **only external professional service** is attorney-assisted record sealing/expungement. External educational products and review courses remain products.
+| Category | Audience | Delivery | Externally Marketed Service? |
+|---|---|---|---|
+| Academic advisement, mentorship, study support, coaching | Enrolled students | Internal student/program support | No |
+| Faculty guidance, live review and experiential supervision | Enrolled students | Internal academic/experiential pathway | No |
+| Certification Review, Bar Review, textbooks and bundles | Eligible customers | Educational products/courses | Products, not external professional services |
+| Record sealing/expungement | Eligible students and members of the public | Referral-free administrative connection to independent partner law firms; attorney representation by firms | **Only external community-benefit service pathway** |
+
+RIAH connects interested individuals with participating law firms and does not itself offer legal advice or representation.
 [BUTTON — LEARN MORE → 14.1 / PRODUCTS]
 
 ---
@@ -215,8 +364,15 @@ RIAH team 50%; partner employees 15%; community contributors 1%–25%; substitut
 
 # SECTION 18 CONNECTED PRODUCT EXPERIENCE
 
-RIAH Website → Products and Services → Physical/Select Digital Product or Community Service → Purchase or Confidential Intake → Shipping/Digital Access or Attorney Assessment.
+| Starting Point | Path | Next Action | Fulfillment |
+|---|---|---|---|
+| RIAH Website | Physical products | Shopify checkout | Print and ship |
+| RIAH Website | Select complete digital products | Shopify checkout | Applicable digital delivery |
+| RIAH Website | Certification/Bar Review | Review page and package | Applicable course access/materials |
+| RIAH Website | Justice-Impacted Community Service | Confidential consent-based intake | Connection to independent participating law firm |
+| RIAH Website | Student in financial need | Foundation information | Possible funding assessment; not guaranteed |
 [IMAGE PLACEHOLDER — Product and services dashboard]
+
 [BUTTON — SHOP NOW → SHOPIFY]
 
 ---
@@ -224,13 +380,21 @@ RIAH Website → Products and Services → Physical/Select Digital Product or Co
 # SECTION 19 DOWNLOADS
 
 [DOWNLOAD — PRODUCTS AND SERVICES CATALOG]
+
 [DOWNLOAD — CERTIFICATION REVIEW PACKAGE COMPARISON]
+
 [DOWNLOAD — BAR REVIEW JURISDICTION GUIDE]
+
 [DOWNLOAD — PRODUCT FORMAT AND SHIPPING GUIDE]
+
 [DOWNLOAD — RECORD SEALING AND EXPUNGEMENT OVERVIEW]
+
 [DOWNLOAD — STATE-BY-STATE RECORD RELIEF DIRECTORY]
+
 [DOWNLOAD — INDIVIDUAL STATE RECORD RELIEF GUIDES]
+
 [DOWNLOAD — RECORD RELIEF FEE EXPLANATION]
+
 [DOWNLOAD — ATTORNEY ASSISTANCE PROCESS GUIDE]
 Legal downloads must include jurisdiction, official sources, review date and disclaimer.
 [BUTTON — LEARN MORE → 17 / RESOURCES]
@@ -239,8 +403,16 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 
 # SECTION 20 INQUIRY
 
-Product questions: format, shipping, availability, bundles, reviews, bulk purchases. Legal questions: sealing/expungement, eligibility, attorney, court costs, fees. Use confidential attorney intake separate from ordinary product forms; do not collect sensitive criminal history through unsecured forms.
+| Inquiry Category | Fields / Information | Routing |
+|---|---|---|
+| Product inquiry | Product type, format, order/shipping question | Product support |
+| Certification/Bar Review | School, review, package and jurisdiction | Review information team |
+| Community record relief | State, type of relief sought, secure contact and consent | Confidential intake to participating partner law firm |
+| Foundation assistance | Student status and request for need-based support | Foundation assessment under approved policy |
+
+**Privacy:** Do not collect sensitive criminal-history records through unsecured product forms. RIAH does not provide legal advice or promise attorney acceptance. The law firm determines legal scope, engagement, fees and representation.
 [BUTTON — GET STARTED → APPROVED INQUIRY SYSTEM]
+
 [INTERNAL LINK — 19 / CONTACT]
 
 ---
@@ -250,22 +422,32 @@ Product questions: format, shipping, availability, bundles, reviews, bulk purcha
 **Physical or digital?** Primarily physical; select complete digital products.
 **Review price?** Basic $500, Standard $1,000, Premium $1,500.
 **Student collections retail?** No.
-**Only external professional service?** Attorney-assisted sealing/expungement.
-**Fee?** $150 assistance ($125 attorney + $25 RIAH administration) plus actual court fees, subject to compliance review.
+**Only external community-benefit professional service?** RIAH's community give-back program connecting eligible individuals to independent partner law firms for attorney-assisted sealing/expungement.
+**Who provides legal representation?** Participating law firms and licensed attorneys, not RIAH.
+**Is this pro bono?** It is a reduced-fee community-benefit arrangement, not strictly pro bono when an attorney receives payment.
+**Fee?** $150 assistance ($125 partner attorney + $25 separately disclosed RIAH administration, only if legally permissible) plus actual court fees, subject to compliance review.
+**Can the Foundation help?** Eligible students may be considered for need-based assistance if funding and approved criteria permit.
 **Guaranteed relief?** No.
 [BUTTON — LEARN MORE → 18 / FAQ]
 
 ---
 
-# SECTION 22 RELATED NAVIGATION
+# SECTION 22 PATHWAY NAVIGATION
 
 [BUTTON — LEARN MORE → 03 / PATHWAY]
+
 [BUTTON — LEARN MORE → 05 / EXPERIENTIAL]
+
 [BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
+
 [BUTTON — LEARN MORE → 09 / BAR REVIEW]
+
 [BUTTON — LEARN MORE → 10 / CURRICULUM]
+
 [BUTTON — LEARN MORE → 11 / ADMISSIONS]
+
 [BUTTON — LEARN MORE → 12 / TUITION]
+
 [BUTTON — LEARN MORE → 17 / RESOURCES]
 
 ---
@@ -276,35 +458,60 @@ Product questions: format, shipping, availability, bundles, reviews, bulk purcha
 # RESOURCES FOR YOUR PATHWAY. OPPORTUNITY FOR YOUR FUTURE.
 **ONE DYNASTY. INFINITE LEGACIES.**
 [BUTTON — SHOP NOW → SHOPIFY]
+
 [BUTTON — LEARN MORE → 08 / CERTIFICATION REVIEW]
+
 [BUTTON — LEARN MORE → 09 / BAR REVIEW]
+
 [BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
 # GLOBAL FOOTER
 [LOGO PLACEHOLDER — RIAH PATHWAY]
 **ONE DYNASTY. INFINITE LEGACIES.**
 [INTERNAL LINK — 01 / HOME]
+
 [INTERNAL LINK — 02 / ABOUT]
+
 [INTERNAL LINK — 03 / PATHWAY]
+
 [INTERNAL LINK — 04 / DEGREE PROGRAMS]
+
 [INTERNAL LINK — 05 / EXPERIENTIAL]
+
 [INTERNAL LINK — 06 / HIGH SCHOOL]
+
 [INTERNAL LINK — 07 / GED-HSE]
+
 [INTERNAL LINK — 08 / CERTIFICATION REVIEW]
+
 [INTERNAL LINK — 09 / BAR REVIEW]
+
 [INTERNAL LINK — 10 / CURRICULUM]
+
 [INTERNAL LINK — 11 / ADMISSIONS]
+
 [INTERNAL LINK — 12 / TUITION]
+
 [INTERNAL LINK — 13 / DONATIONS]
+
 [INTERNAL LINK — 14 / PRODUCTS AND SERVICES]
+
 [INTERNAL LINK — 15 / ACCREDITATION & AUTHORIZATION]
+
 [INTERNAL LINK — 16 / JOIN US]
+
 [INTERNAL LINK — 17 / RESOURCES]
+
 [INTERNAL LINK — 18 / FAQ]
+
 [INTERNAL LINK — 19 / CONTACT]
+
 [EXTERNAL LINK — SHOPIFY]
+
 [EXTERNAL LINK — CLASSE365]
+
 [EXTERNAL LINK — CONFIDENTIAL ATTORNEY INTAKE]
+
 [EXTERNAL LINK — PRIVACY, TERMS, ACCESSIBILITY, LEGAL DISCLOSURES]
 
 # BUTTON, LINK AND DOWNLOAD ROUTING CHART
@@ -367,4 +574,4 @@ Apply Now: Yes; Learn More: Yes; Get Started: Yes; Log In: No; Shop Now: Yes. 4/
 Nine download categories; individual state guide count pending verified legal coverage.
 
 # LEGAL IMPLEMENTATION
-Confirm jurisdiction-specific state laws, current court fees, attorney licensing, compliant $125 attorney and $25 RIAH administration arrangement, confidential intake, engagement terms and legal disclaimers before launch.
+Confirm jurisdiction-specific state laws and current court fees; licensed partner law firms; voluntary partner attorney acceptance; compliant $125 legal fee and $25 separately disclosed RIAH administration arrangement (no prohibited referral payments or fee sharing); foundation aid eligibility and nonprofit restrictions; secure consent-based intake; attorney-client engagement terms; official citations; no guaranteed outcomes. **All proposed state guides, fees and legal-service workflows require jurisdiction-specific attorney verification before publication.**
