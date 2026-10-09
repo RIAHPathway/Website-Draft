@@ -439,6 +439,7 @@ Transfer credits may accelerate applicable academic progress up to the establish
 | Minor | 6 Credits |
 | Associate’s | 30 Credits |
 | Bachelor’s | 60 Credits |
+| Master’s | 9 Credits |
 | MBA | 9 Credits |
 | JD | 27 Credits |
 
@@ -1242,6 +1243,8 @@ The Master Active Number Table consolidates the active numerical records used th
 | Bachelor’s Credits | 120 |
 | Typical Bachelor’s Course | 3 Credits |
 | Bachelor’s Course Count | 40 |
+| Master’s Transfer Credit Maximum | 9 Credits |
+| MBA Transfer Credit Maximum | 9 Credits |
 | Minimum Remaining Tuition | \$0 |
 
 # XLI. 🎁 Master Scholarship, Grant, and Stipend Lookup Table

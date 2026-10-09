@@ -666,7 +666,7 @@ Transfer Maximums:
 | MBA | 9 Credits. |
 | JD | 27 Credits of applicable 1L coursework from an ABA-accredited law school. |
 | Non-JD | Per applicable state pathway. |
-| Master’s | Per applicable graduate pathway. |
+| Master’s | Up to 9 approved graduate transfer credits, subject to course equivalency and applicable prerequisites. |
 
 
 ## 🧾 School Core Alternative Credit Course Tables
