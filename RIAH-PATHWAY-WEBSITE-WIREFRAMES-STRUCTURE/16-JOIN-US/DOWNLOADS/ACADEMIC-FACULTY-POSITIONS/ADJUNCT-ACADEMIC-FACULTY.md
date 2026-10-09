@@ -72,7 +72,7 @@ Approved Adjunct dual-role equity reference:
 - **Must have education in the assigned major or an equivalent discipline.**
 - Must have **experience in the major, discipline, or professional area for which they are applying**.
 
-**Contribution Pool:** Pre-Beta **$520.83 monthly**; Beta **varies**; Post-Accreditation / At Scale **$595.24 monthly**; due **15th of each month**.
+**Contribution Pool:** Pre-Beta **$520.83 monthly**; Beta **varies**; Post-Accreditation / At Scale **$92.25 monthly**; due **15th of each month**.
 
 ### Startup Technology Requirement
 The team member purchases their required **work laptop and inexpensive work phone** during startup. The CTO and CISO ensure required software, security controls, applications, access controls, and technology tools are installed and configured.
@@ -174,7 +174,7 @@ RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporat
 
 **Financial Responsibilities:**
 - **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** 168 internal team members, expanding to 2,168 participants at scale, including 2,000 JD and non-JD supervisors.
+- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
 - **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
 - **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
 

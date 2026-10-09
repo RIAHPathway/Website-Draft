@@ -2,7 +2,7 @@
 
 **Category:** Capacity-Based Law Curriculum Supervision  
 **Individual Role Equity:** **0.0025% per approved supervisor**  
-**Capacity:** Up to 2,000 supervisors
+**Capacity:** Up to 2,000 JD and Non-JD attorney/judge supervisors, in a separate equity group from the 168 fixed internal positions; full-capacity ecosystem total is **2,168**.
 
 ### Work Model
 **100% remote**, subject to supervision requirements governing the assigned JD or Non-JD pathway.
@@ -12,7 +12,8 @@ Provide attorney or judge supervision for JD and Non-JD law curriculum, supervis
 
 ### Requirements
 - Must meet the professional attorney or judge requirements for the assigned function.
-- Non-JD supervisors must satisfy the student's state requirements.
+- Non-JD supervisors must satisfy the student's applicable state-specific supervision and professional-eligibility requirements, together with RIAH Pathway's curriculum, reporting, review, and program supervision requirements.
+- JD supervisors must meet applicable professional requirements and RIAH Pathway's JD curricular supervision and oversight requirements.
 - Attorneys must maintain the required active license and have **experience as an attorney**.
 - Judges must have **experience performing judicial duties** required for the assigned supervision function.
 
@@ -22,7 +23,7 @@ California, Maine, New York, Vermont, Virginia, Washington, West Virginia.
 **Contribution Pool:**
 - **Pre-Beta:** **$520.83 per month**
 - **Beta:** **Varies according to the current Contribution Pool structure**
-- **Post-Accreditation / At Scale:** **$595.24 per month**
+- **Post-Accreditation / At Scale:** **$92.25 per month**
 - **Due Date:** **15th of each month**
 
 ### Startup Technology Requirement
@@ -94,7 +95,7 @@ RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporat
 
 **Financial Responsibilities:**
 - **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** 168 internal team members, expanding to 2,168 participants at scale, including 2,000 JD and non-JD supervisors.
+- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
 - **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
 - **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
 

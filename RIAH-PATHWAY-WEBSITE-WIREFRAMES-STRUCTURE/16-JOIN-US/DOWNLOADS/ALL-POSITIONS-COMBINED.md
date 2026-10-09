@@ -120,7 +120,7 @@ RIAH Pathway's Join Us employment and governance structure includes Executive Le
 
 Internal positions are **100% remote**. Executive Leadership and the Board of Governance remain **100% remote during the first year of operations**. After the first year, Executive Leadership and the Board of Governance attend required **quarterly in-person meetings in Cleveland, Ohio**.
 
-Equity-bearing positions follow the applicable RIAH Pathway equity allocation, **four-year vesting with a one-year cliff**, and the Contribution Pool structure. Contributions are due on the **15th of each month**. Current reference amounts are **$520.83 monthly during Pre-Beta**, a **variable Beta contribution as Core Experiential Professionals are hired**, and **$595.24 monthly Post-Accreditation / At Scale**.
+Equity-bearing positions follow the applicable RIAH Pathway equity allocation, **four-year vesting with a one-year cliff**, and the Contribution Pool structure. Contributions are due on the **15th of each month**. Current reference amounts are **$520.83 monthly during Pre-Beta**, a **variable Beta contribution as Core Experiential Professionals are hired**, and **approximately $92.25 monthly at full scale (2,168 equity-bearing contributors sharing a $2,400,000 annual pool)**.
 
 Internal team members purchase their startup work laptop and inexpensive work phone. The CTO and CISO configure required software, security, access controls, and authorized remote administration. Approved purchases are reimbursed during the RIAH Pathway reimbursement period after student revenues begin.
 
@@ -290,7 +290,7 @@ RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporat
 
 **Financial Responsibilities:**
 - **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** 168 internal team members, expanding to 2,168 participants at scale, including 2,000 JD and non-JD supervisors.
+- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
 - **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
 - **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
 

@@ -49,6 +49,8 @@ The applicable role agreement controls the exact metrics for each Team Member. F
 
 Team Member performance and contribution records are maintained separately from non-team Ambassador point ledgers.
 
+**Full-scale Contribution Pool reference:** RIAH Pathway's existing **168-person fixed internal equity team** (48 pre-beta members plus 120 core Experiential Professionals) and **up to 2,000 separately allocated JD/Non-JD attorney and judge supervisors** form **up to 2,168 equity-bearing contributors**. The projected full-capacity **annual Contribution Pool is $2,400,000**, or approximately **$1,107.01 annually / $92.25 monthly per participant**, with payments due on the **15th of each month**. The 2,000 supervisors fulfill applicable state-specific supervision requirements together with RIAH Pathway's program and curriculum requirements. Active staged contribution amounts remain governed by approved pool budgets and written agreements; demand-based contractors without equity do not participate.
+
 | Team Tracking Field | Treatment |
 |---|---|
 | Role Responsibilities | Tracked against assigned role requirements |

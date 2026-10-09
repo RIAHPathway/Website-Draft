@@ -64,33 +64,37 @@ During Beta, both the number of contributors and the annual Contribution Pool bu
 
 Once the 120 core Experiential Professional positions have been filled, additional Experiential Professionals required because of student demand are hired as **external contractors**. Those additional contractors do not receive equity and do not participate in the equity Contribution Pool.
 
-### At-Scale Contribution Pool — 168 Contributors
+### At-Scale Contribution Pool — 2,168 Contributors
 
-At scale, the fixed internal equity-bearing team consists of **168 individuals**, including the initial 48 team members and the 120 core Experiential Professionals.
+At full capacity, RIAH Pathway's equity-bearing Contribution Pool participants consist of the **168-person fixed internal team** (**48 pre-beta internal team members + 120 core Experiential Professionals**) and a **separate group of 2,000 JD and Non-JD attorney/judge curriculum supervisors**. These supervisors help satisfy **applicable state-specific JD/Non-JD supervision requirements and RIAH Pathway institutional requirements** for professional eligibility, legal curriculum, oversight, supervised experience, reviews, and documentation. The supervisors are **not part of the 168 fixed internal positions** and retain their separate **5.00% equity allocation** at the 2,000-supervisor cap.
 
-The projected annual Contribution Pool budget at scale is **$1,200,000**.
+The projected **annual Contribution Pool at full scale is $2,400,000**, shared across the **2,168 equity-bearing participants** when all positions are filled.
 
 | At-Scale Contribution Calculation | Amount |
 |---|---:|
-| Annual Contribution Pool Budget | **$1,200,000** |
-| Equity-Bearing Contributors | **168** |
-| Annual Contribution Per Person | **$7,142.86** |
-| Monthly Contribution Per Person | **$595.24** |
+| Annual Contribution Pool Budget | **$2,400,000** |
+| Fixed Internal Team Contributors | **168** |
+| JD & Non-JD Attorney / Judge Supervisors | **2,000** |
+| **Total Equity-Bearing Contributors** | **2,168** |
+| Annual Contribution Per Person | **Approximately $1,107.01** |
+| Monthly Contribution Per Person | **Approximately $92.25** |
 | Contribution Due Date | **15th of Each Month** |
 
-**$1,200,000 ÷ 168 = $7,142.86 annually per person**
+**$2,400,000 ÷ 2,168 = $1,107.011... annually per person (approximately $1,107.01).**
 
-**$7,142.86 ÷ 12 = $595.24 monthly per person**
+**$2,400,000 ÷ 2,168 ÷ 12 = $92.2509... monthly per person (approximately $92.25).**
+
+Displayed dollar figures are rounded. Actual contributions must be calculated or reconciled to the approved annual budget, participation level, and precise amounts so that rounding differences do not change the total contribution pool.
 
 ### Contribution Pool Growth Structure
 
-| Stage | Annual Pool | Contributors | Monthly Contribution Per Person |
-|---|---:|---:|---:|
-| **Pre-Beta** | **$300,000** | **48** | **$520.83** |
-| **Beta** | **Varies per Experiential hiring up until At Scale** | **48 + Core Experiential Professionals as Hired** | **Recalculated as Experiential Professionals Are Hired** |
-| **At Scale** | **$1,200,000** | **168** | **$595.24** |
+| Stage | Annual Pool | Equity-Bearing Contributors | Monthly Contribution Per Person |
+|---|---:|---|---:|
+| **Pre-Beta** | **$300,000** | **48 fixed internal members** | **$520.83** |
+| **Beta / Internal Team Expansion** | **Recalculated as approved** | **48 pre-beta members + core Experiential Professionals as hired; eligible JD/Non-JD supervisors as appointed** | **Recalculated as contributors are added** |
+| **At Full Scale** | **$2,400,000** | **2,168 = 168 internal + 2,000 JD/Non-JD attorney/judge supervisors** | **Approximately $92.25** |
 
-All equity-bearing team members are required to contribute their assigned Contribution Pool amount by the **15th of each month**.
+All equity-bearing contributors, including approved JD and Non-JD attorney/judge supervisors, participate in the Contribution Pool under their applicable agreements. Contributions are due by the **15th of each month**. Additional demand-based contractors who do not receive equity are not added to the Contribution Pool.
 
 ---
 
@@ -985,7 +989,7 @@ RIAH Pathway’s Board oversees three divisions: **Corporate (Ecosystem Corporat
 
 **Financial Responsibilities:**
 - **CPA Treasurer & Attorney Trustee:** Manage accreditation funding, donations, state authorization fees, and the monthly contribution pool.
-- **Contribution Pool:** 168 internal team members, expanding to 2,168 participants at scale, including 2,000 JD and non-JD supervisors.
+- **Contribution Pool:** At full scale, **2,168 equity-bearing contributors** share a projected **$2,400,000 annual pool**: the existing **168 fixed internal team members** plus **2,000 JD and Non-JD attorney/judge supervisors**. These supervisors meet applicable state requirements and RIAH Pathway's JD/Non-JD curriculum, documentation, and oversight requirements. The equal-share reference at full capacity is **approximately $1,107.01 annually ($92.25 monthly) per participant**, due on the **15th**; contributions are recalculated as positions fill.
 - **Fund Allocation:** Legal, marketing, advertising, accreditation, state authorization, technology, and operational expenses.
 - **Escrow:** Monthly contributions held in escrow and distributed with Board authorization, including the Chairman.
 
