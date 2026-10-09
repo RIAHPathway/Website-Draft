@@ -61,12 +61,18 @@
 | 14.1 | Products | Educational products, certification and Bar Review products, internal collections, bundles |
 | 14.2 | Pricing | Product pricing, shipping, package comparisons, reductions |
 | 14.3 | Justice-Impacted Community Services | Community give-back through partner law firms; attorney-assisted sealing and expungement |
+| 14.4 | Entrepreneurship Program | Startup Launch (12 weeks) and Small Business Recovery & Growth (16 weeks) |
+| 14.5 | Extended Services — Business Affiliate Connections | Vetted MSSP, CPA, development and law-firm introductions |
 
 [BUTTON — 14.1 / PRODUCTS]
 
 [BUTTON — 14.2 / PRICING]
 
 [PROPOSED BUTTON — 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
+
+[BUTTON — 14.4 / ENTREPRENEURSHIP PROGRAM]
+
+[BUTTON — 14.5 / EXTENDED SERVICES — BUSINESS AFFILIATE CONNECTIONS]
 
 # SECTION 01 HERO
 
@@ -75,7 +81,7 @@
 [VIDEO PLACEHOLDER — Products and Services introduction]
 # PRODUCTS AND SERVICES
 ## RESOURCES. OPPORTUNITY. A PATHWAY FORWARD.
-RIAH Pathway connects educational resources, certification preparation, professional products, academic collections, and community-focused legal assistance. Our physical-first products support students and professionals throughout education, certification, experiential learning and career development. **The only external professional service is our community give-back pathway: connecting eligible students and members of the public to participating independent law firms for affordable attorney-assisted record sealing or expungement.**
+RIAH Pathway connects educational resources, certification preparation, professional products, academic collections, and community-focused legal assistance. Our physical-first products support students and professionals throughout education, certification, experiential learning and career development. **Our justice-impacted record-relief pathway remains a community give-back service. Separately, our Entrepreneurship Program and Extended Services connect eligible businesses with vetted professional partners. RIAH does not directly provide these independent firms' professional services.**
 [BUTTON — SHOP NOW → SHOPIFY]
 
 [BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
@@ -228,7 +234,7 @@ These collections are student resources and are not external retail products.
 
 A person's criminal history should not automatically define their future or prevent them from pursuing education, employment, professional development, housing, and meaningful participation in the community. RIAH Pathway believes access should be guided by fairness, individual circumstances, applicable law, and recognition that people are more than past experiences.
 
-**Community give-back partnership:** RIAH connects eligible RIAH students and members of the public to **independent attorneys at participating partner law firms**. The partner law firm evaluates and, where appropriate, accepts the matter and provides legal representation. **RIAH does not itself practice law or offer other external professional services.**
+**Community give-back partnership:** RIAH connects eligible RIAH students and members of the public to **independent attorneys at participating partner law firms**. The partner law firm evaluates and, where appropriate, accepts the matter and provides legal representation. **RIAH does not itself practice law or directly deliver the services of independent partner law, accounting, cybersecurity or development firms.**
 
 | Participant | Role | Responsibility |
 |---|---|---|
@@ -247,7 +253,7 @@ A person's criminal history should not automatically define their future or prev
 
 # SECTION 11 RECORD SEALING AND EXPUNGEMENT
 
-**RIAH's only public-facing external professional-service pathway is this community give-back partnership.** RIAH introduces eligible interested individuals to independent partner law firms; the law firm and attorney decide whether to accept a case. RIAH is not the legal representative.
+**RIAH's community give-back legal-assistance pathway is this partnership.** RIAH introduces eligible interested individuals to independent partner law firms; the law firm and attorney decide whether to accept a case. RIAH is not the legal representative.
 
 | Service Stage | Responsible Party | Scope |
 |---|---|---|
@@ -353,10 +359,96 @@ VRS-designated voluntary contributions are directed through **13 / DONATIONS** t
 | Academic advisement, mentorship, study support, coaching | Enrolled students | Internal student/program support | No |
 | Faculty guidance, live review and experiential supervision | Enrolled students | Internal academic/experiential pathway | No |
 | Certification Review, Bar Review, textbooks and bundles | Eligible customers | Educational products/courses | Products, not external professional services |
-| Record sealing/expungement | Eligible students and members of the public | Referral-free administrative connection to independent partner law firms; attorney representation by firms | **Only external community-benefit service pathway** |
+| Record sealing/expungement | Eligible students and members of the public | Referral-free administrative connection to independent partner law firms; attorney representation by firms | **Community give-back legal-assistance pathway** |
+| Entrepreneurship Program | Eligible startups and verified small businesses | Remote, hybrid or on-site courses and concurrent applied work with qualified professionals and affiliates | Standalone non-degree program (14.4) |
+| Entrepreneur Affiliate Connections | Startups and verified small businesses | Business intake and vetted MSSP, CPA, development and law-firm introductions | Extended Services (14.5) |
 
 RIAH connects interested individuals with participating law firms and does not itself offer legal advice or representation.
 [BUTTON — LEARN MORE → 14.1 / PRODUCTS]
+
+---
+
+
+# SECTION 16A ENTREPRENEURSHIP PROGRAM — 14.4
+
+## LAUNCH. STABILIZE. GROW.
+
+RIAH Pathway supports **launch-ready startups** and **verified small businesses** across all industries, including restaurants, retail, hospitality, technology and professional services. This is a structured entrepreneurship education and applied business-development program, distinct from individual affiliate connections under Extended Services.
+
+[IMAGE PLACEHOLDER — Startup founders preparing to launch and owners improving established small businesses]
+[ICON — STARTUP] [ICON — SMALL BUSINESS] [ICON — EXPERIENTIAL TEAM] [ICON — SPRING/FALL CALENDAR]
+
+| Program | Participants and Goal | Duration | Total Tuition |
+|---|---|---|---:|
+| Startup Launch | Founders with a developed concept and tangible preparation; work toward business launch | **12 weeks** | **$5,000** |
+| Small Business Recovery & Growth | Operating verified small businesses; stabilize, improve and grow | **16 weeks** | **$10,000** |
+
+### Concurrent Courses, Applied Work and Professional Collaboration
+
+**Program delivery: Remote, hybrid and on-site.** Participants complete **RIAH Pathway entrepreneurship curriculum and courses concurrently with hands-on work on their own business**. The RIAH Experiential team of qualified professionals—including CPAs, accountants, business, cybersecurity and technology professionals—coordinates with vetted independent **CPA/accounting firms, MSSPs, development firms, law firms and other ecosystem partners**. The teams work concurrently on approved business projects, diagnostics, implementation and milestones.
+
+| Track | Coursework and Applied Business Milestones |
+|---|---|
+| Startup Launch | Business-model validation → market research → launch budget → operations → marketing/customer acquisition → partner-supported implementation → launch-readiness review |
+| Small Business Recovery & Growth | Business diagnostic → financial/operations review → stabilization strategy → management and process improvements → customer/revenue strategy → progress and growth reviews |
+
+**Startup eligibility:** Developed business plan/model; evidence of market research and customers; initial operating budget or projections; a defined product, service, sample, prototype or MVP; demonstrated readiness and ability to implement. **An idea alone is not sufficient.**
+
+**Small-business eligibility:** Legitimate and verified operating small business; registration/identity documentation; evidence of current or recent commercial operations; operational or financial information; clear challenges or improvement needs; and an owner/decision-maker committed to participation.
+
+**Priority outreach:** Minority-owned, women-owned, Black-owned, LGBTQ-owned, Asian-owned, economically disadvantaged and underserved businesses. All eligible startups and small businesses may apply; selection considers readiness, documented need, suitability and capacity.
+
+### Spring and Fall Enrollment Only
+
+Two entrepreneurship intakes annually: **Spring** and **Fall**. These are separate from monthly Education and standard Experiential admissions.
+
+[FLOW — APPLICATION → BUSINESS VERIFICATION → BUSINESS ASSESSMENT → ADMISSIONS REVIEW → ACCEPTANCE → ENROLLMENT → ORIENTATION → CURRICULUM + APPLIED WORK + PARTNER COLLABORATION → MILESTONES → COMPLETION]
+
+| Entrepreneurship Fee | Startup Launch | Small Business Recovery & Growth |
+|---|---:|---:|
+| Total program tuition | **$5,000** | **$10,000** |
+| Duration | 12 weeks | 16 weeks |
+| Entrepreneurship application fee | $75 | $75 |
+| Enrollment deposit (credited toward tuition) | $500 | $500 |
+| Curriculum, courses, assessment and orientation | Included | Included |
+| Independently provided professional affiliate services | Separately quoted if selected | Separately quoted if selected |
+
+A program completion certificate is awarded when required business milestones are met. Independent partner firms deliver their own contracted services. **Remote, hybrid and on-site Entrepreneurship Program delivery does not change the existing remote-only rule for internal RIAH Experiential placements.** Standard Education/Experiential tuition benefits are not automatically extended to this separate program.
+
+[BUTTON — APPLY FOR ENTREPRENEURSHIP → 11 / ADMISSIONS]
+[BUTTON — VIEW PROGRAM TUITION → 12 / TUITION]
+[BUTTON — EXPLORE VETTED AFFILIATE SERVICES → 14.5]
+[BUTTON — EXPLORE OUR PARTNER NETWORK → 16.3]
+
+---
+
+# SECTION 16B EXTENDED SERVICES — ENTREPRENEUR AFFILIATE CONNECTIONS — 14.5
+
+RIAH Pathway helps **startups and verified small businesses** identify professional needs and connects them with **qualified, vetted independent affiliates**. The Extended Services connection process may be used independently of enrollment in the Entrepreneurship Program.
+
+[IMAGE PLACEHOLDER — Business owner meeting a vetted professional partner]
+[ICON — MSSP/CYBERSECURITY] [ICON — CPA/ACCOUNTING] [ICON — DEVELOPMENT] [ICON — LAW FIRM]
+
+| Affiliate | Independent Professional Services |
+|---|---|
+| MSSPs | Cybersecurity, managed security and technology protection |
+| CPAs & CPA Firms | Accounting, tax, bookkeeping and financial management |
+| Development Firms | Websites, software, applications and technology development |
+| Law Firms | Business formation, contracts and business legal services |
+
+[FLOW — BUSINESS INTAKE → NEEDS ASSESSMENT → VETTED PARTNER MATCHING → INTRODUCTION → SERVICE COORDINATION]
+
+| Extended Services Fee | Amount | Charged To |
+|---|---:|---|
+| Administrative Intake & Coordination | **$49** | Business requesting assistance |
+| Affiliate Recruitment & Vetting | **$99** | Professional affiliate |
+| Qualified Partner Connection | **$50** | Professional affiliate |
+
+The above fees are **separate from the Entrepreneurship Program's tuition and admissions fees**. Professional engagements are independently quoted and fulfilled by the relevant affiliate firms; RIAH facilitates assessment, vetting, introductions and coordination.
+
+[BUTTON — REQUEST AFFILIATE CONNECTION → 14.5 / BUSINESS INTAKE]
+[BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 14.4]
+[BUTTON — BECOME AN AFFILIATE PARTNER → 16.3]
 
 ---
 
@@ -414,6 +506,8 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 | Certification/Bar Review | School, review, package and jurisdiction | Review information team |
 | Community record relief | State, type of relief sought, secure contact and consent | Confidential intake to participating partner law firm |
 | Foundation assistance | Student status and request for need-based support | Foundation assessment under approved policy |
+| Entrepreneurship Program | Startup readiness or verified business; Spring/Fall cohort | Entrepreneurship admissions → 14.4 / 11 |
+| Business affiliate connection | Business needs, partner category and contact information | Extended Services intake → 14.5 |
 
 **Privacy:** Do not collect sensitive criminal-history records through unsecured product forms. RIAH does not provide legal advice or promise attorney acceptance. The law firm determines legal scope, engagement, fees and representation.
 [BUTTON — GET STARTED → APPROVED INQUIRY SYSTEM]
@@ -427,7 +521,7 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 **Physical or digital?** Primarily physical; select complete digital products.
 **Review price?** Basic $500, Standard $1,000, Premium $1,500.
 **Student collections retail?** No.
-**Only external community-benefit professional service?** RIAH's community give-back program connecting eligible individuals to independent partner law firms for attorney-assisted sealing/expungement.
+**Community give-back legal-assistance pathway?** RIAH connects eligible individuals to independent partner law firms for attorney-assisted sealing/expungement.
 **Who provides legal representation?** Participating law firms and licensed attorneys, not RIAH.
 **Is this pro bono?** It is a reduced-fee community-benefit arrangement, not strictly pro bono when an attorney receives payment.
 **Fee?** $125 partner-attorney assistance plus actual court fees; an optional $25 VRS-designated contribution goes directly to the RIAH Pathway Foundation through 13 / Donations for need-based student financial assistance and community benefit. The $150 example includes the optional donation.
@@ -531,6 +625,9 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 | Products | 14.1 | Internal |
 | Pricing | 14.2 | Internal |
 | Justice-Impacted Community Services | Proposed 14.3 | Internal |
+| Entrepreneurship Program | 14.4; Admissions 11 | Internal |
+| Extended Services — Business Affiliate Connections | 14.5 | Internal |
+| Entrepreneurship Partnerships | 16.3 | Internal |
 | Resources | 17 | Internal |
 | FAQ | 18 | Internal |
 | Contact | 19 | Internal |
@@ -564,6 +661,8 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 | 14 ATTORNEY SERVICE PROCESS | [IMAGE PLACEHOLDER — Nine-step process flow] |
 | 15 FAIR OPPORTUNITY | [IMAGE PLACEHOLDER — Community members in education and careers] |
 | 16 INTERNAL VS EXTERNAL SERVICES | Contextual icon |
+| 16A ENTREPRENEURSHIP PROGRAM | [IMAGE PLACEHOLDER — Startup launch and small-business recovery]; [ICONS — Startup, Business, Team, Calendar]; [FLOW — Admissions to completion] |
+| 16B EXTENDED SERVICES | [IMAGE PLACEHOLDER — Entrepreneur and vetted affiliate]; [ICONS — MSSP, CPA, Development, Law]; [FLOW — Business intake to coordination] |
 | 17 PRODUCT REDUCTIONS | Contextual icon |
 | 18 CONNECTED PRODUCT EXPERIENCE | [IMAGE PLACEHOLDER — Product and services dashboard] |
 | 19 DOWNLOADS | Contextual icon |
