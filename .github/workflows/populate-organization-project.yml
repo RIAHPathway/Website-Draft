@@ -19,6 +19,44 @@ jobs:
           set -euo pipefail
           test -n "$GH_TOKEN" || { echo 'Missing RIAH_PROJECTS_TOKEN secret'; exit 1; }
           gh project link 1 --owner RIAHPathway --repo RIAHPathway/Website-Draft || echo 'Project association requires additional token permissions; continuing to add issues.'
+          python3 - <<'PY'
+          import json, subprocess
+          def graphql(query, variables):
+              result = subprocess.run(['gh','api','graphql','--input','-'], input=json.dumps({'query':query,'variables':variables}), text=True, capture_output=True)
+              if result.returncode: raise RuntimeError(result.stderr)
+              data = json.loads(result.stdout)
+              if data.get('errors'): raise RuntimeError(str(data['errors']))
+              return data['data']
+          query = 'query($org:String!,$num:Int!){organization(login:$org){projectV2(number:$num){id fields(first:100){nodes{... on ProjectV2SingleSelectField{id name options{id name color description}}}} views(first:100){nodes{id layout}}}}}'
+          project = graphql(query, {'org':'RIAHPathway','num':1})['organization']['projectV2']
+          if not project: raise RuntimeError('Project #1 was not found or token cannot access it')
+          names = ['Backlog','Ready','In Progress','In Review','Done']
+          colors = ['RED','YELLOW','BLUE','PURPLE','GREEN']
+          requested = [{'name':n,'color':c,'description':'Website development: '+n} for n,c in zip(names,colors)]
+          field = next((x for x in project['fields']['nodes'] if x and x.get('name')=='Status' and 'options' in x),None)
+          if field:
+              old = field['options']
+              used = set()
+              merged = []
+              for o in requested:
+                  matching = next((x for x in old if x['name'].lower()==o['name'].lower() and x['id'] not in used),None)
+                  if not matching and o['name']=='Backlog':
+                      matching = next((x for x in old if x['name'].lower() in ('todo','to do','to-do') and x['id'] not in used),None)
+                  if matching:
+                      used.add(matching['id'])
+                      merged.append(dict(o,id=matching['id']))
+                  else: merged.append(o)
+              merged += [{'id':x['id'],'name':x['name'],'color':x['color'],'description':x.get('description','')} for x in old if x['id'] not in used]
+              if [x['name'] for x in old] != [x['name'] for x in merged]:
+                  graphql('mutation($input:UpdateProjectV2FieldInput!){updateProjectV2Field(input:$input){projectV2Field{... on ProjectV2SingleSelectField{id}}}}',{'input':{'fieldId':field['id'],'singleSelectOptions':merged}})
+                  print('Configured five Status options and preserved any unrelated existing options.')
+          else:
+              graphql('mutation($input:CreateProjectV2FieldInput!){createProjectV2Field(input:$input){projectV2Field{... on ProjectV2SingleSelectField{id}}}}',{'input':{'projectId':project['id'],'name':'Status','dataType':'SINGLE_SELECT','singleSelectOptions':requested}})
+              print('Created the Status field.')
+          if not any(v['layout']=='BOARD_LAYOUT' for v in project['views']['nodes']):
+              graphql('mutation($id:ID!){createProjectV2View(input:{projectId:$id,name:"Website Development Board",layout:BOARD_LAYOUT}){projectV2View{id}}}',{'id':project['id']})
+              print('Created a native GitHub Board view.')
+          PY
           for issue in $(seq 1 31); do
             labels=$(gh issue view "$issue" --repo RIAHPathway/Website-Draft --json labels --jq '[.labels[].name] | join("|")')
             status=''
