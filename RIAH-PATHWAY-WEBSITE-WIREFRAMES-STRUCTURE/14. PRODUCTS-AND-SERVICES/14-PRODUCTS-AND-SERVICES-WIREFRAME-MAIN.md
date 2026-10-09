@@ -171,7 +171,17 @@ Included review with applicable pathway: $0 additional. Standalone multiple revi
 
 # SECTION 06 BAR REVIEW
 
-One Full RIAH Bar Review with all 50 states plus Washington, D.C. modules; separate California Baby Bar. Basic $500; Standard $1,000; Premium $1,500. First applicable jurisdiction module included where applicable; additional jurisdiction module $250. Included pathway review: $0 additional.
+| Bar Review Offering | Jurisdiction / Coverage | Basic | Standard | Premium |
+|:---|:---|---:|---:|---:|
+| Full RIAH Bar Review | All 50 states plus Washington, D.C. jurisdiction modules | $500 | $1,000 | $1,500 |
+| California Baby Bar | Separate California Baby Bar review | $500 | $1,000 | $1,500 |
+
+| Jurisdiction and Pathway Details | Fee / Access |
+|:---|:---|
+| First applicable jurisdiction module | Included where applicable |
+| Each additional jurisdiction module | $250 |
+| Review included with applicable pathway | $0 additional |
+
 [IMAGE PLACEHOLDER — Bar Review jurisdiction map]
 
 [BUTTON — LEARN MORE → 09 / BAR REVIEW]
@@ -200,8 +210,38 @@ Bundles: workbook $49.99; question $69.99; simulation $149.99; mini exam $149.99
 
 # SECTION 08 STUDENT COLLECTIONS
 
-Internal, not standalone retail: General Education; Business/Technology/Law/Homeland Security School Core; Year 3 Major; Year 4; Minor; Bachelor's/Minor Capstone; Master's/Master's Capstone; MBA/MBA Capstone; GED/HSE; High School Diploma.
-Resource allocation: GED/HSE $500; High School $500; Minor $500; Associate's $500; Bachelor's $1,000; Master's $1,000; MBA $1,000; JD $1,000; Non-JD $1,000; Experiential estimated $500–$1,500. Pathway-specific from enrollment through graduation; $0 application and no separate education deposit; no double charging.
+**Collection availability:** Internal student resources only; not standalone retail products.
+
+| Student Collection | Collection Scope |
+|:---|:---|
+| General Education | General Education |
+| School Core | School of Business; School of Technology; School of Law; School of Homeland Security |
+| Year 3 Major | Year 3 Major |
+| Year 4 | Year 4 |
+| Minor | Minor |
+| Bachelor's / Minor Capstone | Bachelor's Capstone; Minor Capstone |
+| Master's / Master's Capstone | Master's; Master's Capstone |
+| MBA / MBA Capstone | MBA; MBA Capstone |
+| GED/HSE | GED/HSE |
+| High School Diploma | High School Diploma |
+
+**Resource allocation by pathway**
+
+| Student Pathway | Resource Allocation |
+|:---|---:|
+| GED/HSE | $500 |
+| High School | $500 |
+| Minor | $500 |
+| Associate's | $500 |
+| Bachelor's | $1,000 |
+| Master's | $1,000 |
+| MBA | $1,000 |
+| JD | $1,000 |
+| Non-JD | $1,000 |
+| Experiential | $500–$1,500 (estimated) |
+
+**Access and fees:** Pathway-specific resources are allocated from enrollment through graduation; $0 application and no separate education deposit. No double charging.
+
 [IMAGE PLACEHOLDER — Academic collections]
 
 [BUTTON — LEARN MORE → 10 / CURRICULUM]
@@ -537,15 +577,42 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 
 # SECTION 21 FAQ
 
-**Physical or digital?** Primarily physical; select complete digital products.
-**Review price?** Basic $500, Standard $1,000, Premium $1,500.
-**Student collections retail?** No.
-**Community give-back legal-assistance pathway?** RIAH connects eligible individuals to independent partner law firms for attorney-assisted sealing/expungement.
-**Who provides legal representation?** Participating law firms and licensed attorneys, not RIAH.
-**Is this pro bono?** It is a reduced-fee community-benefit arrangement, not strictly pro bono when an attorney receives payment.
-**Fee?** $125 partner-attorney assistance plus actual court fees; an optional $25 VRS-designated contribution goes directly to the RIAH Pathway Foundation through 13 / Donations for need-based student financial assistance and community benefit. The $150 example includes the optional donation.
-**Can the Foundation help?** Yes, the Foundation may use eligible donations, including VRS-designated contributions, to assist students with financial need under independently approved charitable criteria, subject to available funding.
-**Guaranteed relief?** No.
+**Physical or digital?**
+
+Primarily physical; select complete digital products.
+
+**Review price?**
+
+Basic $500, Standard $1,000, Premium $1,500.
+
+**Student collections retail?**
+
+No.
+
+**Community give-back legal-assistance pathway?**
+
+RIAH connects eligible individuals to independent partner law firms for attorney-assisted sealing/expungement.
+
+**Who provides legal representation?**
+
+Participating law firms and licensed attorneys, not RIAH.
+
+**Is this pro bono?**
+
+It is a reduced-fee community-benefit arrangement, not strictly pro bono when an attorney receives payment.
+
+**Fee?**
+
+$125 partner-attorney assistance plus actual court fees; an optional $25 VRS-designated contribution goes directly to the RIAH Pathway Foundation through 13 / Donations for need-based student financial assistance and community benefit. The $150 example includes the optional donation.
+
+**Can the Foundation help?**
+
+Yes, the Foundation may use eligible donations, including VRS-designated contributions, to assist students with financial need under independently approved charitable criteria, subject to available funding.
+
+**Guaranteed relief?**
+
+No.
+
 [BUTTON — LEARN MORE → 18 / FAQ]
 
 ---
