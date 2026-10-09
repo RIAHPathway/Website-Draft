@@ -1371,3 +1371,18 @@ rather than creating a value.
 ---
 
 # 👑RIAH Pathway.
+
+
+## Entrepreneurship Experiential — Website Page 6 Cross-Reference (October 2026)
+
+The separate non-degree Entrepreneurship Experiential division now has **two pools**, Startup Entrepreneurship and Small Business Entrepreneurship, each with **four levels**. The level-specific options run for **1 Month, 12 Weeks, or 16 Weeks**. Entrepreneurship admission is **Spring/Fall**, separate from monthly Professional Experiential admissions. The existing **12-week $5,000 Startup Launch** and **16-week $10,000 Small Business Recovery & Growth** published prices remain unchanged; pricing for newly introduced level configurations requires approval. Optional independent professional affiliate connections remain separate from program tuition.
+
+| Related Wireframe | Route | Purpose |
+|---|---|---|
+| Entrepreneurship | 6 | Full eight-level program and applied curriculum |
+| Professional Experiential | 5 | Existing six-level Professional Experiential (unchanged) |
+| Admissions | 12 | Separate Spring/Fall Entrepreneurship enrollment |
+| Tuition | 13 | Applicable tuition and payment rules |
+| Products and Services | 15.4 and 15.5 | Entrepreneurship products and independent Extended Services |
+| Partnerships | 17.3 | Approved independent affiliate network |
+

@@ -274,7 +274,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ### 12 — ADMISSIONS — MAIN PAGE WIREFRAME — [`ADMISSIONS-WIREFRAME-MAIN.md`](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
 - **12 — Admissions main wireframe:** [`ADMISSIONS-WIREFRAME-MAIN.md`](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
-- **11 — CTA, links & routing directory:** [`12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md`](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md)
+- **12 — CTA, links & routing directory:** [`12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md`](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md)
 - 12.1 — Pre-Admissions — [`12.1-PRE-ADMISSIONS-WIREFRAME.md`](12.%20ADMISSIONS/12.1-PRE-ADMISSIONS-WIREFRAME.md)
   - 12.1.1 — General Admissions
   - 12.1.2 — School and Major Admission
@@ -301,9 +301,9 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 12.5.3 — Receive • Earn • Purchase
 - 12.6 — How RIAH Pathway Works — [`12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`](12.%20ADMISSIONS/12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md)
 - 12.7 — Transfer Students — [`12.7-TRANSFER-STUDENTS-WIREFRAME.md`](12.%20ADMISSIONS/12.7-TRANSFER-STUDENTS-WIREFRAME.md)
-- **Entrepreneurship admissions — separate Spring/Fall intake:** Track requirements, business verification, assessments, enrollment deposit and $75 application are described in [12 Admissions Main](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md) and [15.4 Entrepreneurship](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md). This is not a replacement for 12.1–12.7 or the monthly academic/Experiential admissions routes.
+- **Entrepreneurship admissions — separate Spring/Fall intake:** Track requirements, business verification, assessments, enrollment deposit and $75 application are described in [12 Admissions Main](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md) and [15.4 Entrepreneurship](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md). This is not a replacement for 12.1–12.7 or the monthly academic/Experiential admissions routes. See also [Page 6 Entrepreneurship](6.%20ENTREPRENEURSHIP/6-ENTREPRENEURSHIP-WIREFRAME.md).
 - **Entrepreneurship payments at enrollment:** Applicants select upfront 25% discount or monthly; overdue installments pause the program and cancellation refunds unused prepaid tuition after the used portion is earned.
-- **11 image and flow inventory:** All existing Admissions illustrations, SVG diagrams and Mermaid sources remain linked to their existing image directory [12. ADMISSIONS/IMAGES](12.%20ADMISSIONS/IMAGES/). The new entrepreneurship admissions preview is an [IMAGE PLACEHOLDER] pending production.
+- **12 image and flow inventory:** All existing Admissions illustrations, SVG diagrams and Mermaid sources remain linked to their existing image directory [12. ADMISSIONS/IMAGES](12.%20ADMISSIONS/IMAGES/). The new entrepreneurship admissions preview is an [IMAGE PLACEHOLDER] pending production.
   - 12.7.1 — Transfer Students Hero
   - 12.7.2 — Transfer Admissions Overview
   - 12.7.3 — Transfer Credit Maximums and Requirements

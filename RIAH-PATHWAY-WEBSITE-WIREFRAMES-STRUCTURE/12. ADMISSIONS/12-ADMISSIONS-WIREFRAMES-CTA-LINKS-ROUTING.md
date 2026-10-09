@@ -4,20 +4,19 @@
 | Route | Markdown |
 | --- | --- |
 | 12 | `ADMISSIONS-WIREFRAME-MAIN.md` |
-| 12.1 | `12.1-OVERVIEW-WIREFRAME.md` |
-| 12.2 | `12.2-PRE-ADMISSIONS-WIREFRAME.md` |
-| 12.3 | `12.3-APPLICATION-WIREFRAME.md` |
-| 12.4 | `12.4-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md` |
-| 12.5 | `12.5-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md` |
-| 12.6 | `12.6-GRADUATION-AND-ALUMNI-WIREFRAME.md` |
-| 12.7 | `12.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md` |
-| 12.8 | `12.8-TRANSFER-STUDENTS-WIREFRAME.md` |
+| 12.1 | `12.1-PRE-ADMISSIONS-WIREFRAME.md` |
+| 12.2 | `12.2-APPLICATION-WIREFRAME.md` |
+| 12.3 | `12.3-ACCEPTANCE-AND-ENROLLMENT-WIREFRAME.md` |
+| 12.4 | `12.4-ONBOARDING-AND-STUDENT-EXPERIENCE-WIREFRAME.md` |
+| 12.5 | `12.5-GRADUATION-AND-ALUMNI-WIREFRAME.md` |
+| 12.6 | `12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md` |
+| 12.7 | `12.7-TRANSFER-STUDENTS-WIREFRAME.md` |
 ### Entrepreneurship Program — Separate Spring/Fall Admissions Routing
 
 | Route | Purpose |
 |---|---|
 | 15.4 | Startup Launch (12 weeks; $5,000) and Small Business Recovery & Growth (16 weeks; $10,000) |
-| 11 / Entrepreneurship | Spring/Fall application, readiness/needs assessment and business verification |
+| 12 / Entrepreneurship | Spring/Fall application, readiness/needs assessment and business verification |
 | 12 / Entrepreneurship | $75 Entrepreneurship Program application fee; $500 enrollment deposit credited toward tuition |
 | 12 / Entrepreneurship Payment Options | 25% upfront tuition discount or monthly at full tuition; nonpayment program pause; upfront cancellation and unused prepaid tuition refund |
 | 15.5 | Business Affiliate Connections through independent Extended Services intake |
@@ -27,13 +26,13 @@
 | Route | Destination |
 | --- | --- |
 | 12 | Admissions |
-| 12.2 | Pre-Admissions |
-| 12.3 | Application |
-| 12.4 | Acceptance & Enrollment |
-| 12.5 | Onboarding & Student Experience |
-| 12.6 | Graduation & Alumni |
-| 12.7 | How RIAH Pathway Works |
-| 12.8 | Transfer Students |
+| 12.1 | Pre-Admissions |
+| 12.2 | Application |
+| 12.3 | Acceptance & Enrollment |
+| 12.4 | Onboarding & Student Experience |
+| 12.5 | Graduation & Alumni |
+| 12.6 | How RIAH Pathway Works |
+| 12.7 | Transfer Students |
 
 ### Numbered Subpage References
 
@@ -663,9 +662,9 @@ Accreditation or Title IV participation must not be represented as already appro
 | Row | # | Stage | Student-Facing Summary | Delivery |
 | --- | --- | --- | --- | --- |
 | 8 | 08 🎁   | Welcome Experience   | Receive personalized kit and community information   | Digital + Physical + Community |
-| 10 | 09 🧭   | One-Week Orientation & Training   | Academic, experiential and applicable law supervision training; LMS provisioned   | Digital + Physical + Community |
+| 9 | 09 🧭   | One-Week Orientation & Training   | Academic, experiential and applicable law supervision training; LMS provisioned   | Digital + Physical + Community |
 | 10 | 10 👥   | Cohort, School & Community   | School group, cohort group and peer/buddy connection   | Digital + Physical + Community |
-| 12 | 11 🚀   | Active Student Experience   | LearnWorlds opens; academics/experiential begin   | Digital + Physical + Community |
+| 11 | 11 🚀   | Active Student Experience   | LearnWorlds opens; academics/experiential begin   | Digital + Physical + Community |
 | 12 | 12 📣   | Organizations & Leadership   | Ambassadors, honor societies, organizations and leadership   | Digital + Community |
 | 13 | 13 🏆   | Achievements & Milestones   | Recognition and qualifying opportunities throughout enrollment   | Digital + Physical + Community |
 | 14 | 14 🎓   | Graduation   | Regional in-person or virtual ceremony and materials   | Digital + Physical + Community |

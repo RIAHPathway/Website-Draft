@@ -448,7 +448,7 @@ The RIAH Pathway **Entrepreneurship Program** draws on qualified **Experiential 
 
 Entrepreneurship admission occurs **twice yearly in Spring and Fall**, separately from standard monthly Education and Experiential admissions. Startup applicants must provide a developed plan, market evidence, financial projections and a tangible product/service or prototype—not merely an idea. Small-business applicants must demonstrate a legitimate verifiable business and documented business improvement needs. Priority outreach includes minority-owned, women-owned, Black-owned, LGBTQ-owned, Asian-owned and economically disadvantaged businesses.
 
-**Scope distinction:** Entrepreneurship collaboration is **not** a new Experiential level or an internal professional-services practice. **All standard internal Experiential placements remain remote only**; existing external Experiential placement requirements, assessments, levels, fees and reimbursement rules remain unchanged. The separate entrepreneurship program may arrange hybrid and on-site business activity with qualified professionals and affiliate firms. Independent affiliates provide contracted professional services. Website cross-references: **14.4 Entrepreneurship Program; 14.5 Business Affiliate Connections; 11 Admissions; 12 Tuition; 16.3 Partnerships**.
+**Scope distinction:** Entrepreneurship collaboration is **not** a new Experiential level or an internal professional-services practice. **All standard internal Experiential placements remain remote only**; existing external Experiential placement requirements, assessments, levels, fees and reimbursement rules remain unchanged. The separate entrepreneurship program may arrange hybrid and on-site business activity with qualified professionals and affiliate firms. Independent affiliates provide contracted professional services. Website cross-references: **15.4 Entrepreneurship Program; 15.5 Business Affiliate Connections; 11 Admissions; 12 Tuition; 17.3 Partnerships**.
 
 # **VI. 🌍 INTERNATIONAL ONLINE EXPERIENTIAL**
 
@@ -1170,3 +1170,18 @@ All Experiential is based on **consequential real-world professional work**, att
 ---
 
 # 👑RIAH Pathway.
+
+
+## Entrepreneurship Experiential — Website Page 6 Cross-Reference (October 2026)
+
+The separate non-degree Entrepreneurship Experiential division now has **two pools**, Startup Entrepreneurship and Small Business Entrepreneurship, each with **four levels**. The level-specific options run for **1 Month, 12 Weeks, or 16 Weeks**. Entrepreneurship admission is **Spring/Fall**, separate from monthly Professional Experiential admissions. The existing **12-week $5,000 Startup Launch** and **16-week $10,000 Small Business Recovery & Growth** published prices remain unchanged; pricing for newly introduced level configurations requires approval. Optional independent professional affiliate connections remain separate from program tuition.
+
+| Related Wireframe | Route | Purpose |
+|---|---|---|
+| Entrepreneurship | 6 | Full eight-level program and applied curriculum |
+| Professional Experiential | 5 | Existing six-level Professional Experiential (unchanged) |
+| Admissions | 12 | Separate Spring/Fall Entrepreneurship enrollment |
+| Tuition | 13 | Applicable tuition and payment rules |
+| Products and Services | 15.4 and 15.5 | Entrepreneurship products and independent Extended Services |
+| Partnerships | 17.3 | Approved independent affiliate network |
+
