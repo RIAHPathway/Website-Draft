@@ -167,6 +167,7 @@
 | 1.14 | Pricing | 14.2 | INTERNAL |
 | 1.14 | Justice-Impacted Community Services | 14.3 | INTERNAL |
 | 1.14 | Entrepreneurship Program | 14.4 | INTERNAL |
+| 1.14 | Entrepreneurship Upfront 25% / Monthly Payment Options | 14.4; 12 / Tuition | INTERNAL |
 | 1.14 | Extended Services — Business Affiliate Connections | 14.5 | INTERNAL |
 | 1.15 | Experiential | 15.2 | INTERNAL |
 | 1.15 | Academic | 15.3 | INTERNAL |
