@@ -520,6 +520,7 @@ This routing block is synchronized with the 16.1–16.5 wireframes and the websi
 | 01 Home → Products | 14.4 | Entrepreneurship Program, Spring/Fall admissions |
 | 01 Home → Products | 14.5 | Extended Services: vetted affiliate matching |
 | 11 Admissions | 14.4; 12 | Program eligibility, tuition, application and deposit |
+| Entrepreneurship Payment Options and Cancellation | 14.4; 12 / Tuition and Fees | 25% upfront discount or monthly at full tuition; nonpayment pause; cancel prepaid tuition anytime with unused service refund |
 | 14 Products & Services | 14.4; 14.5 | Startup/small-business programs and independent business-affiliate intake |
 | 16.3 Partnerships | 14.4; 14.5 | Experiential professionals and independent MSSP, CPA, development and law-firm partners |
 | Experiential Structure | 14.4; 16.3 | Concurrent curriculum/applied work; existing internal remote-only placements unchanged |
