@@ -422,8 +422,32 @@
 | 16.6 Founder — IV | Internal Team Benefits / Admissions & Reimbursement / Tuition | Contributor Benefits Master; 11; 12; 12.6 |
 | 16.6 Founder — V | Contributor Milestone Verification / Tuition Reimbursement | Contributor Benefits Master; 12.6 |
 | 16.6 Founder — VI | Education / Experiential Tuition / Admissions / Student Milestones | 11; 5; 12; 12.6; 16.2.15 |
-| 16.6 Founder — Recruitment | Contributor Benefits / Tuition / Admissions / Founder Responsibilities | Contributor Benefits Master; 12; 11; 16.2.15; 16.6 Section IV |
+| 16.6 Founder — Employees, Partners & Affiliates | Employee / Partner / Partner Employee / Affiliate Benefits; Verified Milestones; Contacts | 16.4; 16.4.9; 16.3; 16.5; 19.7; 19.3; 12.6; 16.2.15; Benefits Markdown |
 | 11 Admissions | Tuition / Milestones / Reimbursement / Founder Cross-Reference | 12; 12.6; 16.2.15; 16.6 |
+
+### 16.6 — Employee, Partner Employee and Affiliate Buttons, Routes & External Links
+
+| Wireframe CTA / Link | Type | Destination / File |
+|---|---|---|
+| View Internal Employee & Equity Team Benefits | Button / Download | ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/TEAM-MEMBERS.md |
+| Explore Employee & Internal Team Opportunities | Button / Internal Route | 16.4 — Join Our Team; 16.4.9 — Breezy HR URL to configure |
+| Explore Institutional Partnerships | Button / Internal Route | 16.3 — Partnerships |
+| Contact Partnerships & Organizations | Button / Internal Route | 19.7 — Partnerships & Organizations |
+| Review Partner Employee Eligibility, Activities & Milestones | Button / Download | ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/PARTNER-EMPLOYEES.md |
+| Explore Partner Employee Ambassador Participation | Button / Internal Route | 16.5 — Ambassadors; 16.3 — Partnerships |
+| Explore Partner Affiliate Benefits & Attribution | Button / Download | ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/AFFILIATES.md |
+| Explore Ambassador Participation | Button / Internal Route | 16.5 — Ambassadors |
+| Compare All Contributor, Employee, Partner & Affiliate Benefits | Button / Download | ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md |
+| Review Qualifying Student Tuition Reimbursement & Milestones | Button / Internal Route | 12.6 — Reimbursement; 16.2.15 — Student Milestones; 11 — Admissions |
+| Join Our Team | Internal Link | 16.4 |
+| Partnerships | Internal Link | 16.3 |
+| Partnership Inquiries | Internal Link | 19.7 |
+| Ambassadors | Internal Link | 16.5 |
+| Human Resources | Internal Link | 19.3 |
+| Founder Contributions & Financial Oversight | On-Page Link | 16.6 — Sections IV and V |
+| Official RIAH Pathway Website | External Link | https://riahpathway.com |
+| RIAH Pathway Contact Email | External Link | mailto:contact@riahpathway.com |
+| Partnership or Affiliate Interest | External Form Route | SuiteDash institutional form — URL to configure |
 
 ### Existing Contributor and Program Price Sources
 
@@ -432,6 +456,10 @@
 [DOWNLOAD: Student and Experiential Completion Benefit Rules → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
 
 [DOWNLOAD: Eligible Team Member Benefits and Contributions → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/TEAM-MEMBERS.md]
+
+[DOWNLOAD: Partner & Partner Employee Benefits, Eligibility and Milestones → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/PARTNER-EMPLOYEES.md]
+
+[DOWNLOAD: Partner Affiliate Referral, QR Code & Conversion Benefits → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/AFFILIATES.md]
 
 [DOWNLOAD: Published Education / Experiential Tuition and Pricing Stages → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
 
