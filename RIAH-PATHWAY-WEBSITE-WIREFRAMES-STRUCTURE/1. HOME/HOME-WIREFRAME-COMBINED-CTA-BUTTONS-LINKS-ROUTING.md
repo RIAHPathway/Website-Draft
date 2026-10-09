@@ -164,7 +164,10 @@
 | 1.14 | High School Diploma | 14.2.3.8 | INTERNAL |
 | 1.14 | Experiential | 14.2.3.9 | INTERNAL |
 | 1.14 | Bundles | 14.2.4 | INTERNAL |
-| 1.14 | Pricing | 14.3 | INTERNAL |
+| 1.14 | Pricing | 14.2 | INTERNAL |
+| 1.14 | Justice-Impacted Community Services | 14.3 | INTERNAL |
+| 1.14 | Entrepreneurship Program | 14.4 | INTERNAL |
+| 1.14 | Extended Services — Business Affiliate Connections | 14.5 | INTERNAL |
 | 1.15 | Experiential | 15.2 | INTERNAL |
 | 1.15 | Academic | 15.3 | INTERNAL |
 | 1.15 | High School | 15.4 | INTERNAL |
@@ -172,6 +175,7 @@
 | 1.15 | State Authorization | 15.6 | INTERNAL |
 | 1.16 | Student Life | 16.2 | INTERNAL |
 | 1.16 | Partnerships | 16.3 | INTERNAL |
+| 1.16 | Entrepreneurship Partnerships | 16.3; 14.4 | INTERNAL |
 | 1.16 | Join Our Team | 16.4 | INTERNAL |
 | 1.16 | Ambassadors | 16.5 | INTERNAL |
 | 1.16 | Executive | 16.4.1 | INTERNAL |
