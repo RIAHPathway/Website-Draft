@@ -205,6 +205,8 @@ RIAH does not assume that similarity proves copying or liability. Independent cr
 
 The Join Us Downloads structure contains the current RIAH Pathway at-scale position, governance, affiliate, partnership, equity, vesting, staffing, and assignment resources. The table below routes directly to each Markdown file so individual roles and the combined at-scale structures can be accessed from the main repository README.
 
+**Full-scale equity contribution pool:** **2,168 equity-bearing participants** (168 fixed internal team members + 2,000 separately allocated JD/Non-JD attorney/judge supervisors) share a projected **$2,400,000 annual contribution pool** at full capacity. This equals **approximately $1,107.01 annually / $92.25 monthly per participant**, payable on the **15th of each month**, with actual stage contributions recalculated and reconciled against the approved budget and participation. The **168 fixed internal positions** remain unchanged; they are a subset of the 2,168 pool participants. The **48-person / $300,000 Pre-Beta** contribution stage remains distinct.
+
 | Position Category | Position / Resource | Markdown |
 |---|---|---|
 | Academic Faculty Positions | Adjunct Academic Faculty | [Adjunct Academic Faculty](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md) |
@@ -246,6 +248,7 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 | Project Director Positions | Project Director — School of Law | [Project Director — School of Law](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-LAW.md) |
 | Project Director Positions | Project Director — School of Technology | [Project Director — School of Technology](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md) |
 | At-Scale Resources | RIAH Pathway At-Scale Staffing, Assignment & Equity Structure | [RIAH Pathway At-Scale Staffing, Assignment & Equity Structure](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md) |
+| At-Scale Resources | Full-Scale Equity Contribution Pool — **2,168 participants; $2,400,000 annual** | [Full-Scale Contribution Pool Calculation](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md#at-scale-contribution-pool--2168-contributors) |
 
 ---
 

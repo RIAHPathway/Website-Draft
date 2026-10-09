@@ -167,6 +167,24 @@ Approved activities may combine inside a selected ledger, but the same underlyin
 
 Team Members use a separate structure: **$0 tuition** and **50% off eligible products** are part of eligible Team Member status and continue based on meeting applicable **daily, weekly and monthly responsibility, performance and contribution requirements**, including the applicable Team Member / equity agreement and assigned equity contribution-pool requirements. Team Members do not use the non-team Ambassador point or product-purchase thresholds to retain these Team Member benefits.
 
+### 👥 Equity Contribution Pool — Full-Scale Team Member Reference
+
+| Contribution Pool Category | At Full Scale |
+|---|---:|
+| Fixed Internal Equity-Bearing Team Members | **168** (48 Pre-Beta + 120 core Experiential Professionals) |
+| Separately Allocated JD / Non-JD Attorney / Judge Supervisors | **2,000** |
+| **Total Equity-Bearing Pool Participants** | **2,168** |
+| **Projected Annual Contribution Pool** | **$2,400,000** |
+| Annual Contribution Per Participant | Approximately **$1,107.01** |
+| Monthly Contribution Per Participant | Approximately **$92.25** |
+| Monthly Contribution Due Date | **15th** |
+
+Actual participant contributions must be recalculated and reconciled against approved budgets and stage participation. The **48-person Pre-Beta / $300,000 annual pool** remains a separate launch-stage projection. The **168 fixed internal roles** remain distinct from the additional 2,000 supervisor participants. Team Member benefits, required contributions, and applicable equity/vesting rights continue to follow the signed role-specific agreement; Ambassador points do not independently create equity.
+
+[INTERNAL LINK: Founder Equity Contributions & Allocations → ../RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
+
+[DOWNLOAD: Full-Scale Staffing, Assignment & Equity Pool Calculations → ../RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md]
+
 ## VII. 🎓 Reimbursement & Non-Stacking Structure
 
 | Component | Maximum |
