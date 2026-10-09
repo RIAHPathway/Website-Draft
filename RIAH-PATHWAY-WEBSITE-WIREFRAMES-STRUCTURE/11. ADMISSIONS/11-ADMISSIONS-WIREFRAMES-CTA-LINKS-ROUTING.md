@@ -467,9 +467,9 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 
 | Selected Pathway | Student Resource Allocation Fee |
 | --- | ---: |
-| GED / HSE | $250 |
+| GED / HSE | $500 |
 | High School Diploma | $500 |
-| Minor | $250 |
+| Minor | $500 |
 | Associate's | $500 |
 | Bachelor's | $1,000 |
 | Master's | $1,000 |

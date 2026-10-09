@@ -368,9 +368,9 @@ tuition calculations.
 
 | Selected Pathway | Student Resource Allocation Fee |
 | --- | ---: |
-| GED / HSE | $250 |
+| GED / HSE | $500 |
 | High School Diploma | $500 |
-| Minor | $250 |
+| Minor | $500 |
 | Associate's | $500 |
 | Bachelor's | $1,000 |
 | Master's | $1,000 |
@@ -381,9 +381,9 @@ tuition calculations.
 
 # XVII. 🧾 Student Resource Allocation Fee (Resource Allocation Payment)
 
-The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $250 exceptions**. Combined pathway allocations are additive and may exceed the single-pathway range.
+The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $500 each, within the standard range**. Combined pathway allocations are additive and may exceed the single-pathway range.
 
-**Combined pathways:** Sum the published allocations for each applicable selected pathway. For example, Bachelor's + Minor = $1,250; Bachelor's + Master's = $2,000; Double Bachelor's + Minor = $2,250. **There is no separate $500 RIAH Education Deposit Fee or other institutional education deposit charge.** Experiential students pay only their applicable estimated program-specific resource allocation in addition to published program tuition and any optional services not already included.
+**Combined pathways:** Sum the published allocations for each applicable selected pathway. For example, Bachelor's + Minor = $1,500; Bachelor's + Master's = $2,000; Double Bachelor's + Minor = $2,500. **There is no separate $500 RIAH Education Deposit Fee or other institutional education deposit charge.** Experiential students pay only their applicable estimated program-specific resource allocation in addition to published program tuition and any optional services not already included.
 
 # XVIII. 💵 Fees
 
@@ -395,13 +395,13 @@ RIAH Pathway prioritizes **affordable, accessible enrollment**. It is **$0 to ap
 | Admissions Fee | \$0 |
 | Enrollment Fee | \$0 |
 | Separate Education Deposit / RIAH Administrative Fee | \$0 (Eliminated) |
-| Student Resource Allocation Fee | Program-specific; normally \$500–\$1,500, except GED / standalone Minor \$250 |
+| Student Resource Allocation Fee | Program-specific; normally \$500–\$1,500, including GED and standalone Minor at \$500 each |
 | Optional Transcript / Transfer Credit Evaluation | \$50 |
 | Optional Transcript / Transfer Credit Processing | \$50 |
 | Optional Evaluation + Processing, When Both Apply | \$100 Total |
 | Transfer Tuition Reduction | \$0 |
 
-The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $250 exceptions**. Combined pathway allocations are additive and may exceed the single-pathway range.
+The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $500 each, within the standard range**. Combined pathway allocations are additive and may exceed the single-pathway range.
 
 # XIX. 🔄 Transfer Credit Evaluation and Processing Fee
 
@@ -1165,12 +1165,12 @@ The Master Active Number Table consolidates the active numerical records used th
 | Enrollment Fee | \$0 |
 | Optional Transcript / Transfer Evaluation and Processing | \$100 Total When Both Apply |
 | Transfer Tuition Reduction | \$0 |
-| Minor Resource Allocation | \$250 |
+| Minor Resource Allocation | \$500 |
 | Associate’s Resource Allocation | \$500 |
 | Bachelor’s Resource Allocation | \$1,000 |
 | Master’s Resource Allocation | \$1,000 |
 | MBA Resource Allocation | \$1,000 |
-| GED / HSE Resource Allocation | \$250 |
+| GED / HSE Resource Allocation | \$500 |
 | High School Resource Allocation | \$500 |
 | JD Resource Allocation | \$1,000 |
 | Non-JD Resource Allocation | \$1,000 |
