@@ -4,7 +4,7 @@
 
 **[PARENT — 16 JOIN US]**
 
-## 16.1–16.5 WIREFRAMES ROUTING DIRECTORY
+## 16.1–16.6 WIREFRAMES ROUTING DIRECTORY
 
 | Wireframe | Markdown | Primary Route |
 |---|---|---|
@@ -13,6 +13,7 @@
 | 16.3 Partnerships | `16.3-PARTNERSHIPS-WIREFRAME.md` | 16.3 |
 | 16.4 Join Our Team | `16.4-JOIN-OUR-TEAM-WIREFRAME.md` | 16.4 |
 | 16.5 Ambassadors | `16.5-AMBASSADORS-WIREFRAME.md` | 16.5 |
+| 16.6 Founder Equity Contributions & Allocations | `16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md` | 16.6 |
 
 ## 16.1 ROMAN NUMERAL VI ROUTING
 
@@ -159,7 +160,7 @@
 | FAQ | 18 |
 | CONTACT | 19 |
 
-## 16.1–16.5 COMPLETE CTA / LINK CONTROL
+## 16.1–16.6 COMPLETE CTA / LINK CONTROL
 
 | Source MD | Button | CTA / Link | Route / Destination |
 |---|---|---|---|
@@ -339,7 +340,7 @@
 | 16.5-AMBASSADORS | 60 | AMBASSADORS | 16.5 |
 | 16.5-AMBASSADORS | 12 | BECOME AN AMBASSADOR | 16.5 |
 
-# 16.1–16.5 COMPLETE DOWNLOAD CONTROL
+# 16.1–16.6 COMPLETE DOWNLOAD CONTROL
 
 | Source MD | Download ID | Download | Destination / File |
 |---|---|---|---|
@@ -408,6 +409,37 @@
 | 16.5-AMBASSADORS | D10 | DELIVERY BENEFITS GUIDE | FILE TO ATTACH |
 | 16.5-AMBASSADORS | D25 | CONTENT CREATOR BENEFITS GUIDE | FILE TO ATTACH |
 | 16.5-AMBASSADORS | D12 | GITHUB CONTRIBUTOR BENEFITS GUIDE | FILE TO ATTACH |
+
+## 16.1–16.6 CONTRIBUTOR BENEFITS / TUITION / FOUNDER CTA AND DOWNLOAD ROUTING
+
+| Source Wireframe | New CTA / Button / Link | Destination |
+|---|---|---|
+| 16.1 Join Us Main | Compare Education & Experiential Tuition / Admissions & Reimbursement / Founder Contributions | 12; 11; 12.6; 16.6 |
+| 16.2 Student Life | Student Milestone Benefits / Tuition / Admissions / Founder Transparency | 16.2.15; 12; 11; 16.6 |
+| 16.3 Partnerships | Partner Contributor Benefits / Admissions Milestones / Founder Contribution Pool | 16.5; 11; 16.2.15; 16.6 |
+| 16.4 Join Our Team | Team Member Benefits / Tuition / Admissions / Founder Equity Pool | Contributor Team-Members guide; 12; 11; 16.6 |
+| 16.5 Ambassadors | Verified Contributor Milestones / Tuition / Admissions / Founder | 16.2.15; 12; 11; 16.6 |
+| 16.6 Founder — IV | Internal Team Benefits / Admissions & Reimbursement / Tuition | Contributor Benefits Master; 11; 12; 12.6 |
+| 16.6 Founder — V | Contributor Milestone Verification / Tuition Reimbursement | Contributor Benefits Master; 12.6 |
+| 16.6 Founder — VI | Education / Experiential Tuition / Admissions / Student Milestones | 11; 5; 12; 12.6; 16.2.15 |
+| 16.6 Founder — Recruitment | Contributor Benefits / Tuition / Admissions / Founder Responsibilities | Contributor Benefits Master; 12; 11; 16.2.15; 16.6 Section IV |
+| 11 Admissions | Tuition / Milestones / Reimbursement / Founder Cross-Reference | 12; 12.6; 16.2.15; 16.6 |
+
+### Existing Contributor and Program Price Sources
+
+[DOWNLOAD: Contributor Benefits, Verified Milestones and Non-Stacking Rules → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md]
+
+[DOWNLOAD: Student and Experiential Completion Benefit Rules → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
+
+[DOWNLOAD: Eligible Team Member Benefits and Contributions → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/TEAM-MEMBERS.md]
+
+[DOWNLOAD: Published Education / Experiential Tuition and Pricing Stages → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
+
+[DOWNLOAD: Compensation, Equity & Benefits → ./DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md]
+
+[DOWNLOAD: Equity and Four-Year Vesting → ./DOWNLOADS/EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md]
+
+[INTERNAL LINK: Founder Equity Contributions and Allocations → ./16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
 
 # FORM ROUTING
 
