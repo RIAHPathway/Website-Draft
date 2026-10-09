@@ -418,10 +418,12 @@ This GitHub repository supports development of RIAH Pathway's website, wireframe
 
 ## 🎓 Education Pathways
 
+**School of Foundations:** RIAH diploma = eligible grade 8→9 entrants only; existing grades 9–12 students stay at their current high school for diploma and may use RIAH college dual enrollment. GED/HSE = pre-launch high school dropouts without diploma or GED only; dropping out after launch does not establish eligibility. Eligible new ninth graders and eligible previous dropouts may select concurrent college credit.
+
 | Pathway | Purpose |
 |---|---|
-| 🎓 **High School** | Secondary education pathway |
-| 📘 **GED / HSE** | High school equivalency pathway |
+| 🎓 **High School** | RIAH diploma starts only for eligible grade 8→9 entrants; existing high school students stay at their school and may take RIAH college dual enrollment |
+| 📘 **GED / HSE** | Second chance only for pre-launch dropouts without diploma/GED; optional concurrent college credits; no GED admission for post-launch withdrawal |
 | 📚 **Certificates** | Focused educational credentials |
 | 🎓 **Associate's** | Undergraduate education |
 | 🎓 **Bachelor's** | Undergraduate education |

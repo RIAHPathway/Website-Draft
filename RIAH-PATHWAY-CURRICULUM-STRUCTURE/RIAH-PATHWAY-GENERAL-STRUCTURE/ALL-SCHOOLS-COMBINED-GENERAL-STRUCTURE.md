@@ -173,17 +173,65 @@ Payments follow the applicable **beta, pre-accreditation, or post-accreditation 
 
 GED/HSE curriculum completion remains separate from official examinations and credential issuance.
 
-## High School and GED Parameters
+## School of Foundations — High School Diploma, GED, and Dual Enrollment Eligibility Requirements
 
-For the **High School Diploma and GED pathways**, RIAH Pathway will establish clear eligibility parameters to ensure that the GED option does not encourage students to leave high school simply to pursue a GED instead.
+### 1. Current High School Students
+Students who are already enrolled in high school at the time RIAH Pathway launches must remain enrolled at their existing high school and complete their high school diploma through that institution.
 
-Students who **left school before RIAH Pathway officially launches its GED program** may enroll in the GED pathway, provided they otherwise meet applicable eligibility requirements. This includes individuals who previously dropped out of school and never completed their high school diploma.
+These students are eligible to participate in RIAH Pathway's **Dual Enrollment Program**, allowing them to earn college credits while completing their high school education.
 
-After RIAH Pathway’s GED program is officially launched, students who are still school-age and have not previously left school will be expected to complete the **High School Diploma Program** rather than dropping out and moving directly into the GED pathway.
+Students who are already attending and performing well in high school are not eligible to transfer into RIAH Pathway's High School Diploma Program.
 
-The purpose of this structure is to make sure students are **not encouraged to drop out of high school simply because RIAH Pathway offers a GED option**, while still providing an appropriate GED pathway for individuals who had already left school before the program was established.
+### 2. Previous High School Dropouts — GED Program
+The RIAH Pathway GED Program is exclusively available to individuals who discontinued their high school education **before RIAH Pathway officially launched** and have not earned a high school diploma or GED.
 
-Individuals who were already out of school and did not complete their diploma will **not be forced into the High School Diploma Program**. They may proceed through the GED pathway.
+This program is designed to provide a second educational opportunity for individuals who previously struggled academically, experienced poor grades, or were unable to complete their high school education.
+
+Eligible GED students may simultaneously participate in RIAH Pathway's Dual Enrollment Program to earn college credits while preparing for their GED.
+
+**Students who voluntarily withdraw from an existing high school after RIAH Pathway launches are not eligible for our GED Program.**
+
+The GED Program is intended to support individuals seeking to improve their educational opportunities, pursue higher education, and advance their careers—not to encourage currently enrolled students to discontinue high school.
+
+### 3. Eighth-Grade Students Entering Ninth Grade — High School Diploma Program
+The RIAH Pathway High School Diploma Program is exclusively available to eligible students transitioning from **eighth grade into ninth grade**.
+
+Eligible students may enroll in:
+
+- **High School Diploma Program:** Complete their high school education and earn a diploma through RIAH Pathway.
+- **High School Diploma with Dual Enrollment:** Complete their high school diploma requirements while simultaneously earning college credits through RIAH Pathway.
+
+This pathway is intended to provide an alternative educational opportunity for eligible students beginning their high school education.
+
+Students already enrolled in ninth through twelfth grade at another high school are not eligible to transfer into this diploma program.
+
+Students who are already performing well in their existing educational environment are not the intended population for RIAH Pathway's alternative High School Diploma Program.
+
+### 4. GED Restrictions and Enrollment Protection
+RIAH Pathway will not permit students to intentionally discontinue their existing high school education for the purpose of enrolling in its GED Program.
+
+Students transitioning from eighth grade into ninth grade must pursue the high school diploma pathway rather than the GED pathway.
+
+GED eligibility is restricted to individuals who discontinued high school before RIAH Pathway's official launch and have not subsequently completed a high school diploma or GED.
+
+### 5. Dual Enrollment Eligibility
+RIAH Pathway's Dual Enrollment Program is available through the following educational pathways:
+
+- **Existing High School Students:** Remain at their current high school while earning college credits through RIAH Pathway.
+- **Eligible Incoming Ninth-Grade Students:** Complete RIAH Pathway's High School Diploma Program while simultaneously earning college credits.
+- **Eligible Previous High School Dropouts:** Pursue their GED while simultaneously participating in dual enrollment.
+
+### 6. Official Enrollment Parameters
+1. Students already attending high school at launch must remain at their current institution to complete their diploma.
+2. Existing high school students may participate in RIAH Pathway's Dual Enrollment Program.
+3. RIAH Pathway's High School Diploma Program accepts eligible students transitioning from eighth grade into ninth grade only.
+4. Students already performing successfully in their existing high school are not eligible to transfer into RIAH Pathway's High School Diploma Program.
+5. GED enrollment is restricted to individuals who discontinued high school before RIAH Pathway launched and have not earned a diploma or GED.
+6. Students cannot withdraw from high school after launch to become eligible for RIAH Pathway's GED Program.
+7. Incoming ninth-grade students must pursue the high school diploma pathway rather than the GED pathway.
+8. Eligible students may pursue dual enrollment alongside their existing high school diploma, RIAH Pathway high school diploma, or GED pathway.
+
+**RIAH Pathway's School of Foundations is designed to expand educational opportunities without encouraging students to abandon their existing high school education. Its High School Diploma and GED programs provide targeted educational alternatives, while dual enrollment allows eligible students to begin earning college credits before completing their secondary education.**
 
 ## 🎓 Admission and Prerequisite Requirements
 
@@ -969,6 +1017,8 @@ RIAH Pathway Secondary School contains two distinct secondary pathways:
 
 # 🏅 23. FOUR-YEAR HIGH SCHOOL DIPLOMA ARCHITECTURE
 
+**Diploma intake:** Only eligible entrants from eighth to ninth grade. Existing high school students earn their diplomas at their current schools and may take RIAH college dual enrollment instead of transferring into RIAH high school.
+
 ## Religious Private High School and Multi-State Operating Structure
 
 ---
@@ -1132,6 +1182,8 @@ High School Progression:
 | Academic | State-specific components do not alter the general high-school assessment architecture. Each applicable high-school course continues to require Objective Assessment + Performance Assessment + Proctoring. |
 
 # 📘 25. GED/HSE PREPARATION ARCHITECTURE
+
+**GED intake:** Only prior high school dropouts who left before RIAH Pathway launched and have no completed diploma or GED; eligible individuals may take 12 concurrent college credits. Post-launch dropouts and incoming ninth graders are not eligible.
 
 
 RIAH Pathway Secondary School provides GED/HSE preparation.

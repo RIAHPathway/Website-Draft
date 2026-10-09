@@ -163,6 +163,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - Related pages: Experiential (5); Admissions (12); Tuition (13); Products (15.4/15.5); Partnerships (17.3); Contact (20).
 
 ### 7 — HIGH SCHOOL — MAIN PAGE WIREFRAME — `High-School-Wireframe-Main.md`
+
+**Eligibility routing:** RIAH diploma entry is only from eighth into ninth grade, with optional college dual enrollment. Current grades 9–12 students remain at their own high school and may take RIAH college dual enrollment, not transfer into RIAH diploma.
 - 7.1 — High School Diploma Program
 - 7.2 — High School Diploma Pathway
 - 7.3 — Curriculum 
@@ -170,6 +172,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 7.5 — Authorization & Recognition
 
 ### 8 — GED/HSE — MAIN PAGE WIREFRAME — `GED-HSE-Wireframe-Main.md`
+
+**Eligibility routing:** Only students who left high school before launch and have no diploma or GED. Eligible students may add concurrent college credits; post-launch withdrawals and incoming ninth graders cannot enter RIAH GED.
 - 8.1 — GED/HSE Program 
 - 8.2 — GED/HSE Pathway 
 - 8.3 — Curriculum & Preparation 

@@ -137,6 +137,12 @@ independently recreating or inventing financial values.
 
 [![RIAH Pathway Tuition III Reimbursement Example Student](./IMAGES/RIAH-PATHWAY-TUITION-III-REIMBURSEMENT-EXAMPLE-STUDENT.png)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/RIAH-PATHWAY-TUITION-III-REIMBURSEMENT-EXAMPLE-STUDENT.png)
 
+## School of Foundations — Tuition and Enrollment Eligibility
+
+**School of Foundations admission rules:** Students already enrolled in grades 9–12 when RIAH Pathway launches finish their high school diploma at that institution, but may take RIAH **college dual enrollment**. RIAH's High School Diploma Program accepts eligible students transitioning **from eighth grade into ninth grade only**; students already in ninth–twelfth grade cannot transfer into RIAH for the diploma. GED/HSE preparation is exclusively for people who **withdrew before RIAH launched**, remain **without a diploma or GED**, and seek a second opportunity after academic difficulty. Students may not leave high school after launch to qualify for RIAH GED, and incoming ninth graders follow the diploma path instead. Eligible GED students may combine GED with **12 concurrent college credits**, and eligible RIAH diploma entrants may choose diploma with college dual enrollment.
+
+**Pricing use:** Existing tuition and fee schedules are unchanged. The High School Diploma price applies only to eligible first-time ninth-grade entrants; GED/HSE tuition applies only to eligible pre-launch dropouts. Existing high school students seeking RIAH college dual enrollment remain diploma students at their current school and are not enrolled in RIAH's diploma or GED program.
+
 # I. 🎓 Academic Standard Tuition
 
 - Academic Standard Tuition establishes the 100% standard tuition amount for each education pathway before the applicable Pricing Stage, tuition reductions, funding, financing, or other adjustments are calculated.
