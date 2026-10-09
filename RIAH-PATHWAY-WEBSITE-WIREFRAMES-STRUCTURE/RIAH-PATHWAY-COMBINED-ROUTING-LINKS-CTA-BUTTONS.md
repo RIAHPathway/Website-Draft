@@ -512,3 +512,17 @@ This routing block is synchronized with the 16.1–16.5 wireframes and the websi
 **[BUTTON — HUMAN RESOURCES → 19.3]**
 **[BUTTON — APPLY NOW → BREEZY HR]**
 **[BUTTON — EXPRESS INTEREST → SUITEDASH]**
+
+## Entrepreneurship and Extended Services — Cross-Page Routing
+
+| Entry Point | Destination | Purpose |
+|---|---|---|
+| 01 Home → Products | 14.4 | Entrepreneurship Program, Spring/Fall admissions |
+| 01 Home → Products | 14.5 | Extended Services: vetted affiliate matching |
+| 11 Admissions | 14.4; 12 | Program eligibility, tuition, application and deposit |
+| 14 Products & Services | 14.4; 14.5 | Startup/small-business programs and independent business-affiliate intake |
+| 16.3 Partnerships | 14.4; 14.5 | Experiential professionals and independent MSSP, CPA, development and law-firm partners |
+| Experiential Structure | 14.4; 16.3 | Concurrent curriculum/applied work; existing internal remote-only placements unchanged |
+
+[IMAGE PLACEHOLDER — Entrepreneurship startup, small-business and professional-affiliate collaboration]
+
