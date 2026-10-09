@@ -12,6 +12,16 @@
 | 11.6 | `11.6-GRADUATION-AND-ALUMNI-WIREFRAME.md` |
 | 11.7 | `11.7-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md` |
 | 11.8 | `11.8-TRANSFER-STUDENTS-WIREFRAME.md` |
+### Entrepreneurship Program — Separate Spring/Fall Admissions Routing
+
+| Route | Purpose |
+|---|---|
+| 14.4 | Startup Launch (12 weeks; $5,000) and Small Business Recovery & Growth (16 weeks; $10,000) |
+| 11 / Entrepreneurship | Spring/Fall application, readiness/needs assessment and business verification |
+| 12 / Entrepreneurship | $75 Entrepreneurship Program application fee; $500 enrollment deposit credited toward tuition |
+| 14.5 | Business Affiliate Connections through independent Extended Services intake |
+| 16.3 | Experiential professional collaboration and external partnership network |
+
 ## II. ADMISSIONS INTERNAL SUBPAGE ROUTING
 | Route | Destination |
 | --- | --- |
