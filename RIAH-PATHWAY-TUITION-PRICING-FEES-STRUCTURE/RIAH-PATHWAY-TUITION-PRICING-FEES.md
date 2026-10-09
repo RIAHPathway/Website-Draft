@@ -403,6 +403,19 @@ RIAH Pathway prioritizes **affordable, accessible enrollment**. It is **$0 to ap
 
 The student allocation is the **resource allocation payment (deposit)**, not an additional institutional education-deposit fee. It supports applicable laptops/technology, textbooks, workbooks and personalized learning collections, standard transcripts and graduation records, cap and gown and other graduation materials, software/licenses/subscriptions, Welcome/Transfer Kit and orientation items, and program-specific resources from enrollment through graduation. Exact inclusions depend on the approved pathway and student needs; every student does not necessarily receive every item. **Any additional product, service, or resource outside the selected allocation is charged separately at its disclosed applicable price, and items already included must not be charged twice.** Applications are free ($0). The typical program allocation range is $500–$1,500; **GED and standalone minor allocations are $500 each, within the standard range**. Combined pathway allocations are additive and may exceed the single-pathway range.
 
+### Entrepreneurship Program Tuition and Fees — Separate Non-Degree Offering
+
+The Entrepreneurship Program has **Spring and Fall cohorts only**, with **remote, hybrid and on-site** participation available through RIAH Experiential professionals working concurrently with vetted independent CPA/accounting, MSSP, development and law-firm partners. Program curriculum, courses and applied business work occur together.
+
+| Entrepreneurship Program | Duration | Total Tuition | Application Fee | Enrollment Deposit |
+|---|---|---:|---:|---:|
+| Startup Launch | **12 weeks** | **$5,000** | $75 | $500 credited toward tuition |
+| Small Business Recovery & Growth | **16 weeks** | **$10,000** | $75 | $500 credited toward tuition |
+
+The entrepreneurship application fee and deposit apply **only to this standalone entrepreneurship offering**. They do not change the existing $0 education or standard Experiential application fees or student resource allocation rules. Included program components are business assessment, courses, curriculum, orientation and applied-work milestones. Independent affiliate professional engagements, where requested, are priced separately by the firm.
+
+**Extended Services intake and partner fees are separate from Entrepreneurship Program tuition:** Business administrative intake/coordination **$49**; professional affiliate recruitment/vetting **$99**; qualified partner connection **$50** (the latter two paid by the affiliate). Independent professional firms set their own service charges. Existing academic and standard Experiential tuition adjustments and reimbursement rules do not automatically apply to the separate Entrepreneurship Program.
+
 # XIX. 🔄 Transfer Credit Evaluation and Processing Fee
 
 ## Transfer Credit Evaluation — One-Time Optional Service
@@ -1140,6 +1153,13 @@ The Master Active Number Table consolidates the active numerical records used th
 | Senior Associate Experiential | \$20,000 |
 | Manager Experiential | \$20,000 |
 | Executive Experiential | \$20,000 |
+| Startup Launch Entrepreneurship | \$5,000; 12 weeks |
+| Small Business Recovery & Growth Entrepreneurship | \$10,000; 16 weeks |
+| Entrepreneurship Application Fee | \$75 |
+| Entrepreneurship Deposit (Credited to Tuition) | \$500 |
+| Extended Services Administrative Business Intake | \$49 (business-paid) |
+| Extended Services Affiliate Recruitment and Vetting | \$99 (affiliate-paid) |
+| Extended Services Qualified Partner Connection | \$50 (affiliate-paid) |
 | Integrated Education and Experiential Adjustment | 15% |
 | Upfront Payment Reduction | 15% |
 | SNAP Reduction | 5% |
