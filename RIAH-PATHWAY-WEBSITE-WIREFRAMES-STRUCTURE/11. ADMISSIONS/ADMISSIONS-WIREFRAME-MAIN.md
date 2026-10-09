@@ -283,6 +283,44 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 **[DOWNLOAD — MASTER'S AND MBA PREREQUISITE CHECKLIST]**
 **[DOWNLOAD — EXPERIENTIAL PREREQUISITE CHECKLIST]**
 **SuiteDash — Authenticated Student Resources, Documents, Policies, Procedures, Guidelines, Forms, Support**
+### Academic and Experiential Tuition, Contributor Benefits & Founder Financial Transparency
+
+The following are **100% standard post-accreditation** tuition amounts before Beta (25%), Pre-Accreditation (50%) or Post-Accreditation (100%) pricing stages and other permitted adjustments.
+
+| Education Program | Standard Tuition | Basis |
+|---|---:|---|
+| GED/HSE | $1,500 | Total program; 12 concurrent college credits |
+| High School Diploma | $5,000 | Total program; 30 embedded college credits |
+| Minor | $5,000 | Total program |
+| Associate’s | $10,000 | Total program |
+| Bachelor’s | $20,000 | Total program |
+| Master’s | $15,000 | Total program |
+| MBA | $15,000 | Total program |
+| J.D. | $40,000 | Total program |
+| Non-J.D. | $10,000 | Per applicable required pathway year |
+
+| Experiential Level | Duration | Standard Tuition |
+|---|---|---:|
+| Apprentice | 1 month | $5,000 |
+| Intern | 3 months | $10,000 |
+| Associate | 1 year | $20,000 |
+| Senior Associate | 1 year | $20,000 |
+| Manager | 1 year | $20,000 |
+| Executive | 1 year | $20,000 |
+
+Optional Progressive Experience adds $10,000 and optional Rotational Experience adds $5,000, subject to availability and eligibility.
+
+**Tuition reimbursement:** Eligible Education and Experiential participants completing their program qualify for a **guaranteed 10% completion reimbursement**. Verified contributor / Ambassador milestones may add up to **25%**, and additional approved milestones may add up to **15%**, for **up to 50% total**, subject to eligible tuition, verification, and non-stacking rules; 50% is not automatic. Eligible internal Team Member tuition and product benefits are separately governed.
+
+[BUTTON: Explore Tuition & Pricing Stages → INTERNAL ROUTE 12]
+[BUTTON: Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 12.6; 16.2.15]
+[BUTTON: Review Founder Contributions & Financial Transparency → INTERNAL ROUTE 16.6]
+[BUTTON: Explore Experiential Admissions → INTERNAL ROUTE 5]
+[DOWNLOAD: Published Education & Experiential Tuition Schedule → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
+[DOWNLOAD: Contributor Benefits & Milestone Verification → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md]
+[DOWNLOAD: Student and Experiential Completion Benefits → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
+[INTERNAL LINK: Founder Equity Contributions & Allocations → ../16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
+
 ## XIV. CONTACT ADMISSIONS
 
 **[ICON — ADMISSIONS SUPPORT]**
