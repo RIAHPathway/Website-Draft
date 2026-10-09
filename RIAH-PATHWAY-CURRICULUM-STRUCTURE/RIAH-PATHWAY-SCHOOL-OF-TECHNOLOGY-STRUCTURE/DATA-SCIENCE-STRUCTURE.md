@@ -93,14 +93,18 @@ Master’s and MBA programs require completion of the applicable prerequisites, 
 
 Students may select a general track without certifications for bachelor’s Year 4, master’s, and MBA programs. Applicable certification tracks are also available. All courses require an objective assessment, performance assessment, or both, regardless of the selected track.
 
+**Certification-track completion and accessibility:** A student who selects a certification-aligned degree track instead of the standard general degree track must satisfy the requirement for each certification assigned to the chosen track. The student may **(1) pass the applicable RIAH Pathway certification review course with 80% or higher on every required assessment, with unlimited attempts to pass the review course**, or **(2) provide verification of earning the corresponding external certification**. Either option satisfies the certification-specific track requirement. Students are not required to earn an external certification if they pass RIAH's review course. The standard degree track has no additional certification requirement. All other required degree courses, proctored assessments, projects, prerequisites, capstones, and supervision remain in force; completion of an internal review course does not itself confer an external certification.
+
 | Track Option | Requirements |
 |---|---|
 | 📚 General track without certifications | Available for bachelor’s Year 4, master’s, and MBA programs; all courses retain their required proctored assessments |
-| 🏅 Applicable certification track | Includes certification review for the selected track where the certification is applicable; all courses retain their required proctored assessments |
+| 🏅 Applicable certification track | Must satisfy each selected certification requirement by either passing the applicable RIAH review course at 80% or higher on every required assessment (unlimited attempts) or verifying the corresponding earned external certification; all required academic assessments remain in force |
 
 ## 🏅 Certification Review Courses
 
 Certification review courses include proctored objective assessments and performance assessments conducted through task-based simulations. These requirements apply when certification review is selected within the student’s track and the certification is applicable.
+
+For certification-aligned degree tracks, students have **unlimited attempts** to pass the applicable RIAH Pathway review course at the required **80% or higher** assessment standard. A verified corresponding external certification is an alternative way to satisfy that track's certification requirement; it does not replace other required degree coursework.
 
 | Certification Review Requirement | Standard |
 |---|---|
