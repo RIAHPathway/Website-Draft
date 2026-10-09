@@ -51,25 +51,28 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ## Detailed Sitemap
 
-### 1 — HOME — MAIN PAGE WIREFRAME — `Home-Wireframe-Main.md`
-- 1.1 — About 
-- 1.2 — Pathway 
-- 1.3 — Degree Programs
-- 1.4 — Experiential 
-- 1.5 — High School 
-- 1.6 — GED/HSE 
-- 1.7 — Certification Review
-- 1.8 — Bar Review 
-- 1.9 — Curriculum
-- 1.10 — Admissions
-- 1.11 — Tuition
-- 1.12 — Donations 
-- 1.13 — Products 
-- 1.14 — Accreditation & Authorization 
-- 1.15 — Join Us
-- 1.16 — Resources 
-- 1.17 — FAQ 
-- 1.18 — Contact
+### 1 — HOME — MAIN PAGE WIREFRAME — [`1.-HOME-WIREFRAME-MAIN.md`](1.%20HOME/1.-HOME-WIREFRAME-MAIN.md)
+- **Home CTA, buttons, links and image/icon routing:** [`HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`](1.%20HOME/HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- 1.1 — Home Overview
+- 1.2 — About
+- 1.3 — Pathway
+- 1.4 — Degree Programs
+- 1.5 — Experiential
+- 1.6 — High School
+- 1.7 — GED/HSE
+- 1.8 — Certification Review
+- 1.9 — Bar Review
+- 1.10 — Curriculum
+- 1.11 — Admissions (Entrepreneurship Spring/Fall cross-reference → 14.4)
+- 1.12 — Tuition
+- 1.13 — Donations
+- 1.14 — Products & Services (14.3 Justice-Impacted; 14.4 Entrepreneurship; 14.5 Extended Services)
+- 1.15 — Accreditation & Authorization
+- 1.16 — Join Us (Partnerships and Entrepreneurship Collaboration → 16.3)
+- 1.17 — Resources
+- 1.18 — FAQ
+- 1.19 — Contact
+- **Home images/icons:** Existing [IMAGE], [ICON] and visual-flow placeholders remain in the linked Home wireframe and its media/CTA directory. No image binaries are currently published in 1. HOME, so no unverified image URLs are introduced.
 
 ### 2 — ABOUT — MAIN PAGE WIREFRAME — `About-Wireframe-Main.md`
 - 2.1 — Ecosystem 
@@ -270,6 +273,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 11.5.3 — Receive • Earn • Purchase
 - 11.6 — How RIAH Pathway Works — [`11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`](11.%20ADMISSIONS/11.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md)
 - 11.7 — Transfer Students — [`11.7-TRANSFER-STUDENTS-WIREFRAME.md`](11.%20ADMISSIONS/11.7-TRANSFER-STUDENTS-WIREFRAME.md)
+- **Entrepreneurship admissions — separate Spring/Fall intake:** Track requirements, business verification, assessments, enrollment deposit and $75 application are described in [11 Admissions Main](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md) and [14.4 Entrepreneurship](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md). This is not a replacement for 11.1–11.7 or the monthly academic/Experiential admissions routes.
+- **11 image and flow inventory:** All existing Admissions illustrations, SVG diagrams and Mermaid sources remain linked to their existing image directory [11. ADMISSIONS/IMAGES](11.%20ADMISSIONS/IMAGES/). The new entrepreneurship admissions preview is an [IMAGE PLACEHOLDER] pending production.
   - 11.7.1 — Transfer Students Hero
   - 11.7.2 — Transfer Admissions Overview
   - 11.7.3 — Transfer Credit Maximums and Requirements
@@ -419,6 +424,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
     - `ADMISSIONS-WIREFRAME-MAIN-FLOW-12` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-12.mmd)
     - `ADMISSIONS-WIREFRAME-MAIN-FLOW-13` — [SVG](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.svg) | [Mermaid source](11.%20ADMISSIONS/IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-13.mmd)
 
+
+- **Additional verified Admissions image/diagram assets in the repository:**
+  - [`.gitkeep`](11.%20ADMISSIONS/IMAGES/.gitkeep)
+
 ### 12 — TUITION — MAIN PAGE WIREFRAME — `Tuition-Wireframe-Main.md`
 - 12.1 — Tuition 
 - 12.2 — Fees 
@@ -437,6 +446,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 14.1 — Products (Certification Review → 08; Bar Review → 09; student collections; bundles)
 - 14.2 — Pricing
 - 14.3 — Justice-Impacted Community Services (attorney-assisted sealing and expungement)
+- **14.4 — Entrepreneurship Program:** Startup Launch (12 weeks; **$5,000**) and Small Business Recovery & Growth (16 weeks; **$10,000**) with Spring/Fall cohorts; remote, hybrid and on-site entrepreneurship work; concurrent coursework, Experiential professionals and independently contracted professional affiliates.
+- **14.5 — Extended Services — Business Affiliate Connections:** Startup and verified-small-business matching with vetted MSSPs, CPA/accounting firms, development firms and law firms. Business intake **$49**; affiliate recruitment/vetting **$99** and qualified connection **$50** (affiliate-paid).
+- **14 wireframe, images and CTAs:** [Main Products & Services wireframe](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md) includes SECTION 16A and SECTION 16B, their [IMAGE PLACEHOLDER], [ICON], [FLOW] and [BUTTON] specifications, fee tables and routing audit. No 14 image binaries are yet published; image references are placeholders, not broken URLs.
+- **Related records:** [Admissions 11](11.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 16.3](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
 
 ### 15 — ACCREDITATION & AUTHORIZATION — MAIN PAGE WIREFRAME — `Accreditation-And-Authorization-Wireframe-Main.md`
 - 15.1 — Experiential Pathways 
@@ -500,6 +513,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 16.3.14 — Startups
   - 16.3.15 — Small Businesses
   - 16.3.16 — Entrepreneurship Ventures
+    - Entrepreneurship Program collaboration → **14.4**; Extended Services affiliate introductions → **14.5**.
+    - [16.3 Partnerships wireframe](16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md) includes a new collaboration [IMAGE PLACEHOLDER], [FLOW] and link buttons.
   - 16.3.17 — Employers
 - 16.4 — Join Our Team — [`16.4-JOIN-OUR-TEAM-WIREFRAME.md`](16-JOIN-US/16.4-JOIN-OUR-TEAM-WIREFRAME.md)
   - 16.4.1 — Executive
@@ -574,7 +589,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
     - [`PROJECT-DIRECTOR-SCHOOL-OF-LAW.md`](16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-LAW.md)
     - [`PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md`](16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md)
 
-- **Images and diagram sources:** [`IMAGES/`](16-JOIN-US/IMAGES/) — 16 files.
+- **Images and diagram sources:** [`IMAGES/`](16-JOIN-US/IMAGES/) — 24 files.
   - [`16.1-I-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-I-WIREFRAME-DESIGN.png)
   - [`16.1-II-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-II-WIREFRAME-DESIGN.png)
   - [`16.1-III-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.1-III-WIREFRAME-DESIGN.png)
@@ -591,6 +606,17 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - [`SCREENSHOT-2.jpg`](16-JOIN-US/IMAGES/SCREENSHOT-2.jpg)
   - [`SCREENSHOT-3.png`](16-JOIN-US/IMAGES/SCREENSHOT-3.png)
   - [`SCREENSHOT-4.jpg`](16-JOIN-US/IMAGES/SCREENSHOT-4.jpg)
+
+
+  - **Additional verified Join Us images and diagram assets:**
+    - [`16.6-I-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-I-WIREFRAME-DESIGN.png)
+    - [`16.6-II-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-II-WIREFRAME-DESIGN.png)
+    - [`16.6-III-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-III-WIREFRAME-DESIGN.png)
+    - [`16.6-INTRODUCTION-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-INTRODUCTION-WIREFRAME-DESIGN.png)
+    - [`16.6-IV-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-IV-WIREFRAME-DESIGN.png)
+    - [`16.6-V-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-V-WIREFRAME-DESIGN.png)
+    - [`16.6-VI-WIREFRAME-DESIGN.png`](16-JOIN-US/IMAGES/16.6-VI-WIREFRAME-DESIGN.png)
+    - [`16.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png`](16-JOIN-US/IMAGES/16.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png)
 
 ### 17 — RESOURCES — MAIN PAGE WIREFRAME — `Resources-Wireframe-Main.md`
 - 17.1 — Events 
