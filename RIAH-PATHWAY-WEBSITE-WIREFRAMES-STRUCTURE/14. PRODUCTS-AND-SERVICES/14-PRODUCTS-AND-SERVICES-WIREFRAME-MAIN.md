@@ -236,7 +236,7 @@ A person's criminal history should not automatically define their future or prev
 | Partner Law Firm | Independent legal service provider | Determines whether to accept representation and sets legally compliant engagement terms |
 | Partner Attorney | Licensed counsel | Legal advice, eligibility assessment, filings, hearings and communication of outcomes |
 | Student / Community Member | Potential client | Voluntary inquiry, consent, engagement and applicable payments |
-| RIAH Foundation | Potential need-based support | May provide assistance to qualifying students subject to funding, eligibility, nonprofit rules and approval |
+| RIAH Pathway Foundation (501(c)(3) charitable program) | Donations and need-based support | Receives voluntary VRS-designated community contributions through the Foundation donation pathway and may provide financial assistance to qualifying students, subject to funding, eligibility, nonprofit rules and approval |
 
 **DIGNITY. ACCESS. OPPORTUNITY.** No sealing, expungement, eligibility or court outcome is guaranteed.
 [IMAGE PLACEHOLDER — Welcoming attorney consultation]
@@ -257,7 +257,7 @@ A person's criminal history should not automatically define their future or prev
 | Legal advice and representation | Partner law firm / attorney | Independent attorney-client engagement and case decisions |
 | Petition and court filing | Partner attorney | Prepare and submit eligible applications |
 | Hearing and court guidance | Partner attorney | Represent client where agreed and explain outcome |
-| Potential financial assistance | RIAH Foundation | Evaluate qualifying students for available need-based support |
+| Potential financial assistance | RIAH Pathway Foundation | Receive VRS-designated contributions through the Donations pathway and evaluate qualifying students for need-based attorney and court-cost support |
 
 Services are available only in supported jurisdictions where applicable relief exists and qualified partner counsel is available. No attorney-client relationship is created by submitting a RIAH inquiry.
 [IMAGE PLACEHOLDER — Attorney reviewing case records]
@@ -268,29 +268,30 @@ Services are available only in supported jurisdictions where applicable relief e
 
 # SECTION 12 TRANSPARENT SERVICE PRICING
 
-# $150 TOTAL ASSISTANCE AND ADMINISTRATION FEES
+# $125 ATTORNEY ASSISTANCE + OPTIONAL $25 FOUNDATION CONTRIBUTION
 
-RIAH's proposed **community give-back, reduced-fee partner-law-firm arrangement** is designed to make eligible cases affordable while allowing participating attorneys to accept matters at an agreed rate. The partner law firm must voluntarily agree to the fee and determine case acceptance and scope independently. **This is not strictly pro bono representation because the attorney is compensated; it is a reduced-fee community-benefit program.** Any fully pro bono representation must be identified separately if actually offered.
+RIAH's proposed **community give-back, reduced-fee partner-law-firm arrangement** is designed to make eligible cases affordable while allowing participating attorneys to accept matters at an agreed rate. The partner law firm must voluntarily agree to the fee and determine case acceptance and scope independently. **This is not strictly pro bono representation because the attorney is compensated; it is a reduced-fee community-benefit program.** Any fully pro bono representation must be identified separately if actually offered. **VRS-designated contributions go to the RIAH Pathway Foundation's 501(c)(3) charitable donations and financial-assistance program to support students in financial need and community access; they are not RIAH Pathway administrative revenue.**
 
 | Fee Recipient / Role | Proposed Amount | Purpose |
 |---|---:|---|
 | Participating partner law firm / attorney | $125 | Attorney legal assistance for an agreed eligible matter |
-| RIAH Pathway | $25 | Separately disclosed bona fide administrative/intake support, if lawful |
+| RIAH Pathway Foundation | Optional $25 VRS-designated contribution | Voluntary donation directed to the Foundation's need-based student financial-assistance and community-support fund through 13 / Donations; not a charge for attorney referral or representation |
 | Court | Actual court charge | Pass-through government filing fee, without markup |
-| RIAH Foundation | No automatic charge | May help eligible students with need-based assistance, subject to funds and approval |
+| RIAH Pathway | $0 from Foundation contributions | RIAH does not retain the VRS-designated Foundation contribution as an administrative or referral fee |
 
-**Legal-ethics condition:** The $25 cannot be payment for recommending a lawyer, selling a lead, or sharing legal fees in a prohibited manner. Partner firms, independent counsel and the foundation must approve a compliant model for each jurisdiction. If the separate RIAH charge cannot lawfully be collected, the arrangement must be revised before launch.
+**Legal-ethics and donations condition:** The optional $25 VRS-designated contribution is made separately and voluntarily to the RIAH Pathway Foundation through 13 / Donations. It is not required to access attorney intake, obtain a referral, or receive legal representation, and cannot be consideration for recommending a lawyer, selling a lead, or prohibited fee sharing. The Foundation independently manages donated funds for eligible need-based student assistance and community benefit, subject to its charitable rules, available funding, and any required 501(c)(3) recognition. Charitable tax treatment must not be promised without verification. Partner firms and independent counsel must approve a jurisdiction-compliant model before launch.
 
 ### EXAMPLE — ILLUSTRATIVE ONLY
 | Component | Amount |
 |---|---:|
 | Attorney-assistance fee | $125 |
-| RIAH administrative fee | $25 |
+| Optional VRS contribution to RIAH Pathway Foundation (13 / Donations) | $25 |
 | Applicable court filing fee* | $50 |
-| **Estimated total*** | **$200** |
+| **Estimated total with optional Foundation donation*** | **$200** |
+| **Estimated total without optional donation*** | **$175** |
 
-*The $50 filing cost is an illustration only, not a verified charge for any particular court. The actual court fee may differ or be zero and is passed through without markup. Any other required charges must be disclosed before engagement. No legal outcome is guaranteed.*
-[IMAGE PLACEHOLDER — Transparent $125 + $25 + actual court cost breakdown]
+*The $50 filing cost is an illustration only, not a verified charge for any particular court. The actual court fee may differ or be zero and is passed through without markup. The $25 Foundation contribution is voluntary, routed to 13 / Donations, and is not required for attorney access. Any other required charges must be disclosed before engagement. No legal outcome is guaranteed.*
+[IMAGE PLACEHOLDER — Transparent $125 attorney fee + optional $25 Foundation donation + actual court cost breakdown]
 
 [BUTTON — GET STARTED → CONFIDENTIAL ATTORNEY INTAKE]
 
@@ -323,15 +324,19 @@ Select State → Review Guide → Secure Intake → Attorney Eligibility Assessm
 
 ### FOUNDATION NEED-BASED SUPPORT
 
+VRS-designated voluntary contributions are directed through **13 / DONATIONS** to the **RIAH Pathway Foundation's 501(c)(3) charitable financial-assistance program**, dedicated to helping students who demonstrate financial need with eligible attorney and court-related costs and supporting the community give-back pathway. Eligibility, awards, and use of funds are determined independently under Foundation policies and applicable nonprofit requirements.
+
 | Applicant | Possible Support | Condition |
 |---|---|---|
-| RIAH student demonstrating financial need | Assistance with eligible attorney or court costs | Foundation funding available and eligibility approved |
+| RIAH student demonstrating financial need | Assistance with eligible attorney or court costs supported by Foundation donations, including VRS contributions | Foundation funding available and eligibility approved |
 | RIAH student unable to afford full amount | Partial or full support, if authorized | Independent review under adopted foundation policies |
 | General public | Community legal information and access to partner firms | Financial grants are not promised; any public assistance requires approved foundation eligibility policy |
 
 [IMAGE PLACEHOLDER — Foundation assistance and student access]
 
 [BUTTON — LEARN MORE → 13 / DONATIONS]
+
+[BUTTON — DONATE → 13 / DONATIONS]
 
 [BUTTON — GET STARTED → 14.3 / JUSTICE-IMPACTED COMMUNITY SERVICES]
 
@@ -370,7 +375,7 @@ RIAH team 50%; partner employees 15%; community contributors 1%–25%; substitut
 | RIAH Website | Select complete digital products | Shopify checkout | Applicable digital delivery |
 | RIAH Website | Certification/Bar Review | Review page and package | Applicable course access/materials |
 | RIAH Website | Justice-Impacted Community Service | Confidential consent-based intake | Connection to independent participating law firm |
-| RIAH Website | Student in financial need | Foundation information | Possible funding assessment; not guaranteed |
+| RIAH Website | Student in financial need | Foundation information and 13 / Donations funding route | Possible Foundation funding assessment; not guaranteed |
 [IMAGE PLACEHOLDER — Product and services dashboard]
 
 [BUTTON — SHOP NOW → SHOPIFY]
@@ -425,8 +430,8 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 **Only external community-benefit professional service?** RIAH's community give-back program connecting eligible individuals to independent partner law firms for attorney-assisted sealing/expungement.
 **Who provides legal representation?** Participating law firms and licensed attorneys, not RIAH.
 **Is this pro bono?** It is a reduced-fee community-benefit arrangement, not strictly pro bono when an attorney receives payment.
-**Fee?** $150 assistance ($125 partner attorney + $25 separately disclosed RIAH administration, only if legally permissible) plus actual court fees, subject to compliance review.
-**Can the Foundation help?** Eligible students may be considered for need-based assistance if funding and approved criteria permit.
+**Fee?** $125 partner-attorney assistance plus actual court fees; an optional $25 VRS-designated contribution goes directly to the RIAH Pathway Foundation through 13 / Donations for need-based student financial assistance and community benefit. The $150 example includes the optional donation.
+**Can the Foundation help?** Yes, the Foundation may use eligible donations, including VRS-designated contributions, to assist students with financial need under independently approved charitable criteria, subject to available funding.
 **Guaranteed relief?** No.
 [BUTTON — LEARN MORE → 18 / FAQ]
 
@@ -554,7 +559,7 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 | 09 EXPERIENTIAL COLLECTIONS | [IMAGE PLACEHOLDER — Experiential supervised learning] |
 | 10 JUSTICE-IMPACTED COMMUNITY SERVICES | [IMAGE PLACEHOLDER — Welcoming attorney consultation] |
 | 11 RECORD SEALING AND EXPUNGEMENT | [IMAGE PLACEHOLDER — Attorney reviewing case records] |
-| 12 TRANSPARENT SERVICE PRICING | [IMAGE PLACEHOLDER — Transparent $125 + $25 + actual court cost breakdown] |
+| 12 TRANSPARENT SERVICE PRICING | [IMAGE PLACEHOLDER — Transparent $125 attorney fee + optional $25 Foundation donation + actual court cost breakdown] |
 | 13 STATE RECORD RELIEF RESOURCES | [INTERACTIVE MAP PLACEHOLDER — Only verified jurisdictions with applicable sealing/expungement] |
 | 14 ATTORNEY SERVICE PROCESS | [IMAGE PLACEHOLDER — Nine-step process flow] |
 | 15 FAIR OPPORTUNITY | [IMAGE PLACEHOLDER — Community members in education and careers] |
@@ -574,4 +579,4 @@ Apply Now: Yes; Learn More: Yes; Get Started: Yes; Log In: No; Shop Now: Yes. 4/
 Nine download categories; individual state guide count pending verified legal coverage.
 
 # LEGAL IMPLEMENTATION
-Confirm jurisdiction-specific state laws and current court fees; licensed partner law firms; voluntary partner attorney acceptance; compliant $125 legal fee and $25 separately disclosed RIAH administration arrangement (no prohibited referral payments or fee sharing); foundation aid eligibility and nonprofit restrictions; secure consent-based intake; attorney-client engagement terms; official citations; no guaranteed outcomes. **All proposed state guides, fees and legal-service workflows require jurisdiction-specific attorney verification before publication.**
+Confirm jurisdiction-specific state laws and current court fees; licensed partner law firms; voluntary partner attorney acceptance; compliant $125 legal fee and optional $25 VRS-designated Foundation contribution routed through 13 / Donations (no prohibited referral payments or fee sharing); foundation aid eligibility, charitable receipt treatment, 501(c)(3) status and nonprofit restrictions; secure consent-based intake; attorney-client engagement terms; official citations; no guaranteed outcomes. **All proposed state guides, fees and legal-service workflows require jurisdiction-specific attorney verification before publication.**
