@@ -132,7 +132,7 @@ The README contains unnumbered personal/professional and RIAH Pathway overview s
 | **III 👥** | [At-Scale Positions](#readme-iii-positions) | Academic faculty, affiliates, leadership, governance, cybersecurity, technology, experiential, director, partnership, equity, vesting, and at-scale staffing resources. |
 | **IV 📚** | [Tuition, Faculty, Experiential & Curriculum Routing](#readme-iv-curriculum) | Tuition and fees, faculty curriculum, experiential structure, GED, high school, general curriculum, school-core curriculum, and major curriculum routing. |
 | **V 🧭** | [Website Wireframes](#readme-v-wireframes) | Direct routing to all 19 primary website wireframe folders defined by the website navigation sitemap. |
-| **VI 🖼️** | [Example Wireframe — Join Us 16.1–16.5](#readme-vi-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
+| **VI 🖼️** | [Example Wireframe — Join Us 17.1–17.5](#readme-vi-example-wireframe) | Visual example of the completed Join Us wireframe family with direct Markdown links, descriptions, and the five repository design images. |
 | **VII 🤝** | [Contributor Benefit Routing](#readme-vii-contributor-benefits) | Current contributor-benefit routing for ambassadors, partners, affiliates, students, creators, GitHub contributors, community participants, rideshare and delivery, substitute teachers, and team members. |
 
 ### 🔑 KEY
@@ -209,46 +209,46 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 
 | Position Category | Position / Resource | Markdown |
 |---|---|---|
-| Academic Faculty Positions | Adjunct Academic Faculty | [Adjunct Academic Faculty](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md) |
-| Academic Faculty Positions | PhD Academic Faculty | [PhD Academic Faculty](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/PHD-ACADEMIC-FACULTY.md) |
-| Affiliates | Affiliates | [Affiliates](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/AFFILIATES/AFFILIATES.md) |
-| At-Scale Resources | All Positions Combined | [All Positions Combined](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md) |
-| At-Scale Resources | Compensation, Equity, and Benefits | [Compensation, Equity, and Benefits](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md) |
-| Backend Technology Positions | Full Stack Technology Architect | [Full Stack Technology Architect](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-ARCHITECT.md) |
-| Backend Technology Positions | Backend Technology Systems Builder | [Backend Technology Systems Builder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md) |
-| Backend Technology Positions | Frontend Technology Systems Builder | [Frontend Technology Systems Builder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md) |
-| Backend Technology Positions | Full-Stack Technology Systems Builder | [Full-Stack Technology Systems Builder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md) |
-| Board of Governance Positions | Board President | [Board President](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-PRESIDENT.md) |
-| Board of Governance Positions | Board Secretary | [Board Secretary](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-SECRETARY.md) |
-| Board of Governance Positions | Board Treasurer | [Board Treasurer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TREASURER.md) |
-| Board of Governance Positions | Board Trustee | [Board Trustee](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TRUSTEE.md) |
-| Board of Governance Positions | Board Vice President | [Board Vice President](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-VICE-PRESIDENT.md) |
-| Cybersecurity Specialist Positions | Blue Team Specialist | [Blue Team Specialist](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/BLUE-TEAM-SPECIALIST.md) |
-| Cybersecurity Specialist Positions | Purple Team Specialist | [Purple Team Specialist](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/PURPLE-TEAM-SPECIALIST.md) |
-| Cybersecurity Specialist Positions | Red Team Specialist | [Red Team Specialist](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/RED-TEAM-SPECIALIST.md) |
-| At-Scale Resources | Equity and Four-Year Vesting Table | [Equity and Four-Year Vesting Table](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md) |
-| Executive Leadership Positions | Chief Financial Officer | [Chief Financial Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-FINANCIAL-OFFICER.md) |
-| Executive Leadership Positions | Chief Information Security Officer | [Chief Information Security Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-INFORMATION-SECURITY-OFFICER.md) |
-| Executive Leadership Positions | Chief Learning Officer | [Chief Learning Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-LEARNING-OFFICER.md) |
-| Executive Leadership Positions | Chief Operating Officer | [Chief Operating Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-OPERATING-OFFICER.md) |
-| Executive Leadership Positions | Chief Technology Officer | [Chief Technology Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-TECHNOLOGY-OFFICER.md) |
-| Experiential Positions | School of Business Experiential Professional | [School of Business Experiential Professional](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-BUSINESS-EXPERIENTIAL-PROFESSIONAL.md) |
-| Experiential Positions | School of Homeland Security Experiential Professional | [School of Homeland Security Experiential Professional](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-HOMELAND-SECURITY-EXPERIENTIAL-PROFESSIONAL.md) |
-| Experiential Positions | School of Law Experiential Professional — Remote Bar Review | [School of Law Experiential Professional — Remote Bar Review](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-LAW-EXPERIENTIAL-PROFESSIONAL-REMOTE-BAR-REVIEW.md) |
-| Experiential Positions | School of Technology Experiential Professional | [School of Technology Experiential Professional](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-TECHNOLOGY-EXPERIENTIAL-PROFESSIONAL.md) |
-| JD / Non-JD Positions | JD / Non-JD Attorney / Judge Supervisor | [JD / Non-JD Attorney / Judge Supervisor](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/JD-NON-JD-POSITIONS/JD-NON-JD-ATTORNEY-JUDGE-SUPERVISOR.md) |
-| Partnerships | Partnerships Process | [Partnerships Process](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PARTNERSHIPS/PARTNERSHIPS-PROCESS.md) |
-| Product / Service Positions | Product / Service Professional Contractor | [Product / Service Professional Contractor](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PRODUCT-SERVICE-POSITIONS/PRODUCT-SERVICE-PROFESSIONAL-CONTRACTOR.md) |
-| Program Director Positions | Program Director — School of Business | [Program Director — School of Business](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-BUSINESS.md) |
-| Program Director Positions | Program Director — School of Homeland Security | [Program Director — School of Homeland Security](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md) |
-| Program Director Positions | Program Director — School of Law | [Program Director — School of Law](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-LAW.md) |
-| Program Director Positions | Program Director — School of Technology | [Program Director — School of Technology](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md) |
-| Project Director Positions | Project Director — School of Business | [Project Director — School of Business](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-BUSINESS.md) |
-| Project Director Positions | Project Director — School of Homeland Security | [Project Director — School of Homeland Security](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md) |
-| Project Director Positions | Project Director — School of Law | [Project Director — School of Law](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-LAW.md) |
-| Project Director Positions | Project Director — School of Technology | [Project Director — School of Technology](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md) |
-| At-Scale Resources | RIAH Pathway At-Scale Staffing, Assignment & Equity Structure | [RIAH Pathway At-Scale Staffing, Assignment & Equity Structure](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md) |
-| At-Scale Resources | Full-Scale Equity Contribution Pool — **2,168 participants; $2,400,000 annual** | [Full-Scale Contribution Pool Calculation](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md#at-scale-contribution-pool--2168-contributors) |
+| Academic Faculty Positions | Adjunct Academic Faculty | [Adjunct Academic Faculty](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md) |
+| Academic Faculty Positions | PhD Academic Faculty | [PhD Academic Faculty](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/PHD-ACADEMIC-FACULTY.md) |
+| Affiliates | Affiliates | [Affiliates](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/AFFILIATES/AFFILIATES.md) |
+| At-Scale Resources | All Positions Combined | [All Positions Combined](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/ALL-POSITIONS-COMBINED.md) |
+| At-Scale Resources | Compensation, Equity, and Benefits | [Compensation, Equity, and Benefits](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md) |
+| Backend Technology Positions | Full Stack Technology Architect | [Full Stack Technology Architect](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-ARCHITECT.md) |
+| Backend Technology Positions | Backend Technology Systems Builder | [Backend Technology Systems Builder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/BACKEND-TECHNOLOGY-SYSTEMS-BUILDER.md) |
+| Backend Technology Positions | Frontend Technology Systems Builder | [Frontend Technology Systems Builder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FRONTEND-TECHNOLOGY-SYSTEMS-BUILDER.md) |
+| Backend Technology Positions | Full-Stack Technology Systems Builder | [Full-Stack Technology Systems Builder](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BACKEND-TECHNOLOGY-POSITIONS/FULL-STACK-TECHNOLOGY-SYSTEMS-BUILDER.md) |
+| Board of Governance Positions | Board President | [Board President](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-PRESIDENT.md) |
+| Board of Governance Positions | Board Secretary | [Board Secretary](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-SECRETARY.md) |
+| Board of Governance Positions | Board Treasurer | [Board Treasurer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TREASURER.md) |
+| Board of Governance Positions | Board Trustee | [Board Trustee](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-TRUSTEE.md) |
+| Board of Governance Positions | Board Vice President | [Board Vice President](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/BOARD-OF-GOVERNANCE-POSITIONS/BOARD-VICE-PRESIDENT.md) |
+| Cybersecurity Specialist Positions | Blue Team Specialist | [Blue Team Specialist](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/BLUE-TEAM-SPECIALIST.md) |
+| Cybersecurity Specialist Positions | Purple Team Specialist | [Purple Team Specialist](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/PURPLE-TEAM-SPECIALIST.md) |
+| Cybersecurity Specialist Positions | Red Team Specialist | [Red Team Specialist](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/CYBERSECURITY-SPECIALIST-POSITIONS/RED-TEAM-SPECIALIST.md) |
+| At-Scale Resources | Equity and Four-Year Vesting Table | [Equity and Four-Year Vesting Table](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md) |
+| Executive Leadership Positions | Chief Financial Officer | [Chief Financial Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-FINANCIAL-OFFICER.md) |
+| Executive Leadership Positions | Chief Information Security Officer | [Chief Information Security Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-INFORMATION-SECURITY-OFFICER.md) |
+| Executive Leadership Positions | Chief Learning Officer | [Chief Learning Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-LEARNING-OFFICER.md) |
+| Executive Leadership Positions | Chief Operating Officer | [Chief Operating Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-OPERATING-OFFICER.md) |
+| Executive Leadership Positions | Chief Technology Officer | [Chief Technology Officer](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXECUTIVE-LEADERSHIP-POSITIONS/CHIEF-TECHNOLOGY-OFFICER.md) |
+| Experiential Positions | School of Business Experiential Professional | [School of Business Experiential Professional](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-BUSINESS-EXPERIENTIAL-PROFESSIONAL.md) |
+| Experiential Positions | School of Homeland Security Experiential Professional | [School of Homeland Security Experiential Professional](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-HOMELAND-SECURITY-EXPERIENTIAL-PROFESSIONAL.md) |
+| Experiential Positions | School of Law Experiential Professional — Remote Bar Review | [School of Law Experiential Professional — Remote Bar Review](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-LAW-EXPERIENTIAL-PROFESSIONAL-REMOTE-BAR-REVIEW.md) |
+| Experiential Positions | School of Technology Experiential Professional | [School of Technology Experiential Professional](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EXPERIENTIAL-POSITIONS/SCHOOL-OF-TECHNOLOGY-EXPERIENTIAL-PROFESSIONAL.md) |
+| JD / Non-JD Positions | JD / Non-JD Attorney / Judge Supervisor | [JD / Non-JD Attorney / Judge Supervisor](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/JD-NON-JD-POSITIONS/JD-NON-JD-ATTORNEY-JUDGE-SUPERVISOR.md) |
+| Partnerships | Partnerships Process | [Partnerships Process](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PARTNERSHIPS/PARTNERSHIPS-PROCESS.md) |
+| Product / Service Positions | Product / Service Professional Contractor | [Product / Service Professional Contractor](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PRODUCT-SERVICE-POSITIONS/PRODUCT-SERVICE-PROFESSIONAL-CONTRACTOR.md) |
+| Program Director Positions | Program Director — School of Business | [Program Director — School of Business](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-BUSINESS.md) |
+| Program Director Positions | Program Director — School of Homeland Security | [Program Director — School of Homeland Security](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md) |
+| Program Director Positions | Program Director — School of Law | [Program Director — School of Law](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-LAW.md) |
+| Program Director Positions | Program Director — School of Technology | [Program Director — School of Technology](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROGRAM-DIRECTOR-POSITIONS/PROGRAM-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md) |
+| Project Director Positions | Project Director — School of Business | [Project Director — School of Business](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-BUSINESS.md) |
+| Project Director Positions | Project Director — School of Homeland Security | [Project Director — School of Homeland Security](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-HOMELAND-SECURITY.md) |
+| Project Director Positions | Project Director — School of Law | [Project Director — School of Law](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-LAW.md) |
+| Project Director Positions | Project Director — School of Technology | [Project Director — School of Technology](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/PROJECT-DIRECTOR-POSITIONS/PROJECT-DIRECTOR-SCHOOL-OF-TECHNOLOGY.md) |
+| At-Scale Resources | RIAH Pathway At-Scale Staffing, Assignment & Equity Structure | [RIAH Pathway At-Scale Staffing, Assignment & Equity Structure](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md) |
+| At-Scale Resources | Full-Scale Equity Contribution Pool — **2,168 participants; $2,400,000 annual** | [Full-Scale Contribution Pool Calculation](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md#at-scale-contribution-pool--2168-contributors) |
 
 ---
 
@@ -260,8 +260,8 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 
 | Repository Area | Structure / Resource | Markdown |
 |---|---|---|
-| Tuition, Pricing & Fees | RIAH Pathway Tuition, Pricing & Fees | [RIAH Pathway Tuition, Pricing & Fees](./RIAH-PATHWAY-TUITION-PRICING-FEES/RIAH-PATHWAY-TUITION-PRICING-FEES.md) |
-| Faculty Curriculum | RIAH Pathway Faculty Curriculum | [RIAH Pathway Faculty Curriculum](./RIAH-PATHWAY-FACULTY-CURRICULUM/RIAH-PATHWAY-FACULTY-CURRICULUM.md) |
+| Tuition, Pricing & Fees | RIAH Pathway Tuition, Pricing & Fees | [RIAH Pathway Tuition, Pricing & Fees](./RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md) |
+| Faculty Curriculum | RIAH Pathway Faculty Curriculum | [RIAH Pathway Faculty Curriculum](./RIAH-PATHWAY-FACULTY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-FACULTY-CURRICULUM.md) |
 | Experiential Structure | RIAH Pathway Experiential Structure | [RIAH Pathway Experiential Structure](./RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md) |
 | GED Curriculum | GED Structure | [GED Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GED-STRUCTURE/GED-STRUCTURE.md) |
 | General Curriculum | All Schools Combined General Structure | [All Schools Combined General Structure](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/RIAH-PATHWAY-GENERAL-STRUCTURE/ALL-SCHOOLS-COMBINED-GENERAL-STRUCTURE.md) |
@@ -296,7 +296,7 @@ RIAH Pathway's tuition and pricing reference, human-led faculty curriculum frame
 
 # V 🧭 Website Wireframes
 
-The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigation defined in the repository sitemap. Each row below identifies the numbered main-page wireframe, briefly describes the page purpose, and links directly to its working folder. Placeholder folders contain a `.gitkeep` file so the structure remains available in Git while individual wireframes are developed; **16. JOIN US** routes to the existing completed Join Us wireframe folder.
+The RIAH Pathway Website Wireframe Structure follows the 20-page primary navigation defined in the repository sitemap. Each row below identifies the numbered main-page wireframe, briefly describes the page purpose, and links directly to its working folder. Placeholder folders contain a `.gitkeep` file so the structure remains available in Git while individual wireframes are developed; **17. JOIN US** routes to the existing completed Join Us wireframe folder.
 
 | WIREFRAME | DESCRIPTION | WIREFRAME NAME |
 |---|---|---|
@@ -305,68 +305,69 @@ The RIAH Pathway Website Wireframe Structure follows the 19-page primary navigat
 | **3. PATHWAY** | Combined pathway hub connecting degree programs, experiential, high school, GED/HSE, certification review, bar review, and schools. | [3. PATHWAY](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/3.%20PATHWAY/) |
 | **4. DEGREE PROGRAMS** | Degree pathways, schools, associate's, bachelor's, master's, MBA, minor, J.D., and non-J.D. options. | [4. DEGREE PROGRAMS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/4.%20DEGREE%20PROGRAMS/) |
 | **5. EXPERIENTIAL** | Experiential levels, durations, schools, learning process, and internal and external placements. | [5. EXPERIENTIAL](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/5.%20EXPERIENTIAL/) |
-| **6. HIGH SCHOOL** | High school diploma program, pathway, curriculum, admissions, authorization, and recognition. | [6. HIGH SCHOOL](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/6.%20HIGH%20SCHOOL/) |
-| **7. GED-HSE** | GED/HSE program, pathway, curriculum and preparation, and admissions. | [7. GED-HSE](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/7.%20GED-HSE/) |
-| **8. CERTIFICATION REVIEW** | Certification review, certification mapping, school-aligned reviews, and Basic, Standard, and Premium tiers. | [8. CERTIFICATION REVIEW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/8.%20CERTIFICATION%20REVIEW/) |
-| **9. BAR REVIEW** | Bar review, 50-state coverage, state modules, California Baby Bar, and Basic, Standard, and Premium tiers. | [9. BAR REVIEW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/9.%20BAR%20REVIEW/) |
-| **10. CURRICULUM** | Academic structures, school curriculum, majors, degree-level curriculum, experiential curriculum, review curriculum, and curriculum architecture. | [10. CURRICULUM](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/10.%20CURRICULUM/) |
-| **11. ADMISSIONS** | Pre-admissions, application, acceptance, enrollment, onboarding, student experience, graduation, alumni, and transfer routing. | [11. ADMISSIONS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20ADMISSIONS/) |
-| **12. TUITION** | Tuition, fees, payment options, funding, reimbursement, costs, and the pricing calculator engine. | [12. TUITION](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/12.%20TUITION/) |
-| **13. DONATIONS** | Donations routing for the Foundation, accreditation support, and state authorization support. | [13. DONATIONS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/13.%20DONATIONS/) |
-| **14. PRODUCTS** | Product catalog, certification and bar review products, collections, bundles, and pricing. | [14. PRODUCTS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/14.%20PRODUCTS/) |
-| **15. ACCREDITATION & AUTHORIZATION** | Accreditation and authorization status across experiential, academic, high school, GED/HSE, and state authorization pathways. | [15. ACCREDITATION & AUTHORIZATION](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/15.%20ACCREDITATION%20%26%20AUTHORIZATION/) |
-| **16. JOIN US** | Join Us positions, public benefits, individual and dual-role equity, monthly accrual, annual vesting checkpoints and stage-specific revenue percentages. | [16-JOIN-US](https://github.com/RIAHPathway/Website/tree/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US) |
-| **17. RESOURCES** | Events, blog, podcasts, conferences, workshops, webinars, policies, procedures, and guidelines. | [17. RESOURCES](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17.%20RESOURCES/) |
-| **18. FAQ** | Frequently asked questions across pathways, curriculum, admissions, tuition, accreditation, student experience, products, and technical support. | [18. FAQ](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/18.%20FAQ/) |
-| **19. CONTACT** | Contact routing for admissions, human resources, technical support, student support, products, partnerships, and general inquiries. | [19. CONTACT](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/19.%20CONTACT/) |
+| **6. ENTREPRENEURSHIP** | Startup and small-business experiential programs, levels, durations, curriculum, professional collaboration, and business growth. | [6. ENTREPRENEURSHIP](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/6.%20ENTREPRENEURSHIP/) |
+| **7. HIGH SCHOOL** | High school diploma program, pathway, curriculum, admissions, authorization, and recognition. | [7. HIGH SCHOOL](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/7.%20HIGH%20SCHOOL/) |
+| **8. GED-HSE** | GED/HSE program, pathway, curriculum and preparation, and admissions. | [8. GED-HSE](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/8.%20GED-HSE/) |
+| **9. CERTIFICATION REVIEW** | Certification review, certification mapping, school-aligned reviews, and Basic, Standard, and Premium tiers. | [9. CERTIFICATION REVIEW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/9.%20CERTIFICATION%20REVIEW/) |
+| **10. BAR REVIEW** | Bar review, 50-state coverage, state modules, California Baby Bar, and Basic, Standard, and Premium tiers. | [10. BAR REVIEW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/10.%20BAR%20REVIEW/) |
+| **11. CURRICULUM** | Academic structures, school curriculum, majors, degree-level curriculum, experiential curriculum, review curriculum, and curriculum architecture. | [11. CURRICULUM](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/) |
+| **12. ADMISSIONS** | Pre-admissions, application, acceptance, enrollment, onboarding, student experience, graduation, alumni, and transfer routing. | [12. ADMISSIONS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/12.%20ADMISSIONS/) |
+| **13. TUITION** | Tuition, fees, payment options, funding, reimbursement, costs, and the pricing calculator engine. | [13. TUITION](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/13.%20TUITION/) |
+| **14. DONATIONS** | Donations routing for the Foundation, accreditation support, and state authorization support. | [14. DONATIONS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/14.%20DONATIONS/) |
+| **15. PRODUCTS & SERVICES** | Product catalog, certification and bar review products, collections, bundles, and pricing. | [15. PRODUCTS & SERVICES](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/15.%20PRODUCTS-AND-SERVICES/) |
+| **16. ACCREDITATION & AUTHORIZATION** | Accreditation and authorization status across experiential, academic, high school, GED/HSE, and state authorization pathways. | [16. ACCREDITATION & AUTHORIZATION](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16.%20ACCREDITATION%20%26%20AUTHORIZATION/) |
+| **17. JOIN US** | Join Us positions, public benefits, individual and dual-role equity, monthly accrual, annual vesting checkpoints and stage-specific revenue percentages. | [17. JOIN US](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/) |
+| **18. RESOURCES** | Events, blog, podcasts, conferences, workshops, webinars, policies, procedures, and guidelines. | [18. RESOURCES](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/18.%20RESOURCES/) |
+| **19. FAQ** | Frequently asked questions across pathways, curriculum, admissions, tuition, accreditation, student experience, products, and technical support. | [19. FAQ](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/19.%20FAQ/) |
+| **20. CONTACT** | Contact routing for admissions, human resources, technical support, student support, products, partnerships, and general inquiries. | [20. CONTACT](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/20.%20CONTACT/) |
 
 ---
 
 <a id="readme-vi-example-wireframe"></a>
 
-# VI 🖼️ Example Wireframe — Join Us 16.1–16.5
+# VI 🖼️ Example Wireframe — Join Us 17.1–17.5
 
 The completed **Join Us** wireframe family provides a visual example of how RIAH Pathway main-page and subpage wireframes are structured in the repository. Each example below links directly to its source Markdown file, summarizes the purpose of that wireframe, and displays the corresponding design image maintained in the Join Us `IMAGES` folder.
 
-## 16.1 — Join Us Wireframe Main
+## 17.1 — Join Us Wireframe Main
 
-**Wireframe:** [16.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16.1-JOIN-US-WIREFRAME-MAIN.md)
+**Wireframe:** [17.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/17.1-JOIN-US-WIREFRAME-MAIN.md)
 
 The main Join Us wireframe introduces the complete participation ecosystem and routes students, professionals, organizations, employers, partners, faculty, employees, governance participants, contributors, and Ambassadors into the appropriate RIAH Pathway experience. It connects education pathways, Student Life, Experiential, partnerships, Join Our Team, and Ambassadors from one central page.
 
-![16.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/IMAGES/16.1-I-WIREFRAME-DESIGN.png)
+![17.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-I-WIREFRAME-DESIGN.png)
 
-## 16.2 — Student Life Wireframe
+## 17.2 — Student Life Wireframe
 
-**Wireframe:** [16.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16.2-STUDENT-LIFE-WIREFRAME.md)
+**Wireframe:** [17.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/17.2-STUDENT-LIFE-WIREFRAME.md)
 
 The Student Life wireframe organizes the student-facing community experience around institutional identity, organizations, honor societies, Greek Life, community, Ambassadors, events, benefits, student recognition, career services, opportunities, and connection across the RIAH Pathway schools.
 
-![16.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/IMAGES/16.1-II-WIREFRAME-DESIGN.png)
+![17.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-II-WIREFRAME-DESIGN.png)
 
-## 16.3 — Partnerships Wireframe
+## 17.3 — Partnerships Wireframe
 
-**Wireframe:** [16.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16.3-PARTNERSHIPS-WIREFRAME.md)
+**Wireframe:** [17.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md)
 
 The Partnerships wireframe routes educational and professional organizations into the RIAH Pathway partnership ecosystem, including law firms, courts, schools, colleges, universities, professional firms, training and certification providers, startups, small businesses, entrepreneurship ventures, and employers.
 
-![16.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/IMAGES/16.1-III-WIREFRAME-DESIGN.png)
+![17.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-III-WIREFRAME-DESIGN.png)
 
-## 16.4 — Join Our Team Wireframe
+## 17.4 — Join Our Team Wireframe
 
-**Wireframe:** [16.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16.4-JOIN-OUR-TEAM-WIREFRAME.md)
+**Wireframe:** [17.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/17.4-JOIN-OUR-TEAM-WIREFRAME.md)
 
 The Join Our Team wireframe presents the phased team-building structure for executive leadership, governance, academic faculty, experiential professionals, technical professionals, credential professionals, legal professionals, career resources, and the Beta Core Team while routing candidates to the appropriate opportunities and application pathways.
 
-![16.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/IMAGES/16.1-IV-WIREFRAME-DESIGN.png)
+![17.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-IV-WIREFRAME-DESIGN.png)
 
-## 16.5 — Ambassadors Wireframe
+## 17.5 — Ambassadors Wireframe
 
-**Wireframe:** [16.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/16.5-AMBASSADORS-WIREFRAME.md)
+**Wireframe:** [17.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/17.5-AMBASSADORS-WIREFRAME.md)
 
 The Ambassadors wireframe presents the RIAH Pathway Ambassador structure for Substitute Teachers, Rideshare participants, Delivery participants, Content Creators, and GitHub Contributors, with routing to each Ambassador type and its applicable participation and benefits resources.
 
-![16.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/16-JOIN-US/IMAGES/16.1-V-WIREFRAME-DESIGN.png)
+![17.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-V-WIREFRAME-DESIGN.png)
 
 ---
 
@@ -492,9 +493,9 @@ The experiential pathway connects education with progressive professional experi
 | 🗺️ **Navigation & Sitemap** | [View Structure](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/RIAH-PATHWAY-WEBSITE-NAVIGATION-SITEMAP.md) |
 | 🔗 **Routing, Links & CTAs** | [View Routing](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/RIAH-PATHWAY-COMBINED-ROUTING-LINKS-CTA-BUTTONS.md) |
 | 📚 **Curriculum Structure** | [Open Curriculum](./RIAH-PATHWAY-CURRICULUM-STRUCTURE/) |
-| 💰 **Tuition & Pricing** | [Open Tuition](./RIAH-PATHWAY-TUITION-PRICING-FEES/) |
+| 💰 **Tuition & Pricing** | [Open Tuition](./RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/) |
 | 💼 **Experiential Structure** | [Open Experiential](./RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/) |
-| 🎓 **Faculty Curriculum** | [Open Faculty Curriculum](./RIAH-PATHWAY-FACULTY-CURRICULUM/) |
+| 🎓 **Faculty Curriculum** | [Open Faculty Curriculum](./RIAH-PATHWAY-FACULTY-CURRICULUM-STRUCTURE/) |
 | 🤝 **Contributor Benefits** | [Open Contributor Structure](./RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/) |
 
 <a id="overview-development-structure"></a>
