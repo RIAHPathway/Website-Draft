@@ -434,6 +434,19 @@ RIAH's vetting requirement for external partners requires that the placement pro
 
 Students may work directly with professionals and employers including **CPAs, attorneys, judges, cybersecurity and technology professionals, nonprofits, startups, professional firms, corporations, and other vetted organizations**.
 
+### Entrepreneurship Program Collaboration — Separate from Standard Experiential Placements
+
+The RIAH Pathway **Entrepreneurship Program** draws on qualified **Experiential professionals**—including CPAs, accounting, operations, cybersecurity and technology specialists—working **concurrently** with vetted independent **CPA/accounting firms, MSSPs, development firms and law firms**. The team and partner network support entrepreneurship curriculum, courses and hands-on business development with participants working on actual startup launches or small-business recovery projects.
+
+| Entrepreneurship Track | Duration | Tuition | Program Delivery |
+|---|---|---:|---|
+| Startup Launch | 12 weeks | **$5,000** | Remote, hybrid or on-site |
+| Small Business Recovery & Growth | 16 weeks | **$10,000** | Remote, hybrid or on-site |
+
+Entrepreneurship admission occurs **twice yearly in Spring and Fall**, separately from standard monthly Education and Experiential admissions. Startup applicants must provide a developed plan, market evidence, financial projections and a tangible product/service or prototype—not merely an idea. Small-business applicants must demonstrate a legitimate verifiable business and documented business improvement needs. Priority outreach includes minority-owned, women-owned, Black-owned, LGBTQ-owned, Asian-owned and economically disadvantaged businesses.
+
+**Scope distinction:** Entrepreneurship collaboration is **not** a new Experiential level or an internal professional-services practice. **All standard internal Experiential placements remain remote only**; existing external Experiential placement requirements, assessments, levels, fees and reimbursement rules remain unchanged. The separate entrepreneurship program may arrange hybrid and on-site business activity with qualified professionals and affiliate firms. Independent affiliates provide contracted professional services. Website cross-references: **14.4 Entrepreneurship Program; 14.5 Business Affiliate Connections; 11 Admissions; 12 Tuition; 16.3 Partnerships**.
+
 # **VI. 🌍 INTERNATIONAL ONLINE EXPERIENTIAL**
 
 International Online Students are eligible to apply for RIAH Experiential.
