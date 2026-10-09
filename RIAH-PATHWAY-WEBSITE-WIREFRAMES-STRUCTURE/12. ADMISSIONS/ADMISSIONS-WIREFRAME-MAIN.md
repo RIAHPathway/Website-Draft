@@ -1,4 +1,4 @@
-# 👑 RIAH PATHWAY — 11 ADMISSIONS — MAIN WIREFRAME
+# 👑 RIAH PATHWAY — 12 ADMISSIONS — MAIN WIREFRAME
 **ONE DYNASTY. INFINITE LEGACIES.**
 ## I. GLOBAL WEBSITE HEADER
 
@@ -8,20 +8,20 @@
 • 03 PATHWAY  
 • 04 DEGREE PROGRAMS  
 • 05 EXPERIENTIAL  
-• 06 HIGH SCHOOL  
-• 07 GED/HSE  
-• 08 CERTIFICATION REVIEW  
-• 09 BAR REVIEW  
-• 10 CURRICULUM  
-• 11 ADMISSIONS  
-• 12 TUITION  
-• 13 DONATIONS  
-• 14 PRODUCTS  
-• 15 ACCREDITATION & AUTHORIZATION  
-• 16 JOIN US  
-• 17 RESOURCES  
-• 18 FAQ  
-• 19 CONTACT]**
+• 07 HIGH SCHOOL  
+• 08 GED/HSE  
+• 09 CERTIFICATION REVIEW  
+• 10 BAR REVIEW  
+• 11 CURRICULUM  
+• 12 ADMISSIONS  
+• 13 TUITION  
+• 14 DONATIONS  
+• 15 PRODUCTS  
+• 16 ACCREDITATION & AUTHORIZATION  
+• 17 JOIN US  
+• 18 RESOURCES  
+• 19 FAQ  
+• 20 CONTACT]**
 **[MOBILE NAVIGATION — COLLAPSIBLE MENU]**
 
 **[BUTTON 11-M01 — APPLY NOW → CLASSE365]**
@@ -39,7 +39,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 **[IMAGE — COMPLETE ADMISSIONS-TO-ALUMNI STUDENT JOURNEY]**
 **[BUTTON 11-M03 — APPLY NOW → CLASSE365]**
 
-**[BUTTON 11-M04 — PRE-ADMISSIONS → 11.2]**
+**[BUTTON 11-M04 — PRE-ADMISSIONS → 12.2]**
 **[BUTTON 11-M05 — PATHWAYS → 03]**
 ## III. COMPLETE STUDENT JOURNEY
 | Stage | Stage Name | Student Experience | Communication |
@@ -49,7 +49,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | 3 | Pre-Admissions | Review eligibility and requirements | Digital |
 | 4 | Application | Submit application | Digital |
 | 5 | Documentation | Submit required records | Digital |
-| 6 | Review | Institutional and pathway-specific review | Digital |
+| 7 | Review | Institutional and pathway-specific review | Digital |
 | 7 | Acceptance | Receive decision | Digital + Physical |
 | 8 | Commitment | Enrollment requirements | Digital |
 | 9 | Enrollment | Cohort or placement | Digital |
@@ -75,7 +75,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-02](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-02.mmd)
 
-**[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 11.4]**
+**[BUTTON 11-M06 — ACCEPTANCE & ENROLLMENT → 12.4]**
 ## V. PRE-ADMISSIONS OVERVIEW
 **Highly recommended — bachelor's Year 3 preparation:** Complete the applicable **General Education and School Core** requirements before seeking admission into Year 3, with a target of **up to 60 approved foundational transfer credits** where applicable. Sources for individualized evaluation include **Sophia.org, StraighterLine, accredited colleges/universities, AP, IB, SAT, ACT, CLEP, or approved RIAH placement/test-out**. Alternative coursework, examination results, and placement scores require RIAH course-level equivalency review; **SAT/ACT scores do not automatically confer college credit**. Each school's actual core still controls (the School of Technology core, for example, is 39 credits). Applicants without all approved foundational coursework complete the missing General Education and School Core courses through RIAH before Year 3. Submit external credits in the initial transfer evaluation window; **bachelor's Years 3–4 use RIAH-controlled coursework and do not accept outside transfer credit**.
 
@@ -93,18 +93,18 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 
 ### Numbered Subpage References
 
-1. **11.2.1** — General Admissions — Eligibility, documentation, academic standing
-2. **11.2.2** — School and Major — Year 3, minors, master's, MBA, prerequisites
-3. **11.2.3** — Experiential — Levels, placements, prerequisites
-4. **11.2.4** — High School — Grades 9–12, transcripts, concurrent coursework
-5. **11.2.5** — GED/HSE — Preparation and 12 college credits
-6. **11.2.6** — Law — J.D., Non-J.D., applicable requirements
+1. **12.2.1** — General Admissions — Eligibility, documentation, academic standing
+2. **12.2.2** — School and Major — Year 3, minors, master's, MBA, prerequisites
+3. **12.2.3** — Experiential — Levels, placements, prerequisites
+4. **12.2.4** — High School — Grades 9–12, transcripts, concurrent coursework
+5. **12.2.5** — GED/HSE — Preparation and 12 college credits
+6. **12.2.6** — Law — J.D., Non-J.D., applicable requirements
 **Under-18 pre-admissions:** Minors may apply to eligible programs. Before Experiential work, obtain signed parent/legal-guardian permission and required forms. Internal RIAH assignments are **remote only**; external approved partners may offer **remote, hybrid, or on-site** placement where minor-work, supervision and jurisdictional rules permit. High school dual enrollment requires **both parent/legal-guardian and guidance counselor approval** before college-course enrollment; prior college coursework may qualify a minor to apply to an eligible degree pathway.
 
 **Formal minor entry** requires the first minor course and its prerequisites (Computer Science: **College Algebra and Principles of Computer Science**). Each Experiential major has both coursework and level-specific experience requirements. **Certification Review and Bar Review are standalone products without RIAH admissions requirements.**
 
 
-**[BUTTON 11-M07 — PRE-ADMISSIONS → 11.2]**
+**[BUTTON 11-M07 — PRE-ADMISSIONS → 12.2]**
 ## VI. APPLICATION OVERVIEW
 
 **[IMAGE — STUDENT COMPLETING DIGITAL APPLICATION]**
@@ -116,7 +116,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-03.mmd)
 
 **[BUTTON 11-M08 — APPLY NOW → CLASSE365]**
-**[BUTTON 11-M09 — APPLICATION → 11.3]**
+**[BUTTON 11-M09 — APPLICATION → 12.3]**
 ## VII. ACCEPTANCE & ENROLLMENT OVERVIEW
 
 **[IMAGE — PERSONALIZED ACCEPTANCE LETTER WITH UNIFIED CROWN]**
@@ -129,7 +129,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-04](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-04.mmd)
 
-**[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 11.4]**
+**[BUTTON 11-M10 — ACCEPTANCE & ENROLLMENT → 12.4]**
 ## VIII. ONBOARDING & STUDENT EXPERIENCE OVERVIEW
 
 **[IMAGE — RIAH PATHWAY WELCOME KIT]**
@@ -146,7 +146,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 | Law | Legal supervision requirements |
 | Career | Career-development resources |
 
-**[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 11.5]**
+**[BUTTON 11-M11 — ONBOARDING & STUDENT EXPERIENCE → 12.5]**
 ## IX. GRADUATION & ALUMNI OVERVIEW
 
 **[IMAGE — REGIONAL GRADUATION CEREMONY]**
@@ -156,7 +156,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-05](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-05.mmd)
 
-**[BUTTON 11-M12 — GRADUATION & ALUMNI → 11.6]**
+**[BUTTON 11-M12 — GRADUATION & ALUMNI → 12.6]**
 ## X. HOW RIAH PATHWAY WORKS OVERVIEW
 
 **[IMAGE — INSTITUTIONAL SERVICE ECOSYSTEM]**
@@ -177,7 +177,7 @@ RIAH Pathway provides a structured admissions experience connecting pathway expl
 • Regent Education — Financial Aid  
 • Merit Pages — Recognition**
 
-**[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 11.7]**
+**[BUTTON 11-M13 — HOW RIAH PATHWAY WORKS → 12.7]**
 ## XI. TRANSFER STUDENTS OVERVIEW
 
 ### Personalized Student Collections After Transfer Credit Evaluation
@@ -218,7 +218,7 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 ![ADMISSIONS-WIREFRAME-MAIN-FLOW-07](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.svg)
 [Mermaid source](IMAGES/ADMISSIONS-WIREFRAME-MAIN-FLOW-07.mmd)
 
-**[BUTTON 11-M14 — TRANSFER STUDENTS → 11.8]**
+**[BUTTON 11-M14 — TRANSFER STUDENTS → 12.8]**
 ## XII. BRAND & STUDENT EXPERIENCE STANDARDS
 
 **[IMAGE — UNIFIED CROWN, LOGOS, SCHOOL COLORS, GOAT MASCOT]**
@@ -238,7 +238,7 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 **[EXTERNAL LINK — THEME SONG → SOUNDBREAK]**
 
 **[BUTTON 11-M15 — BRAND IDENTITY → 2.6]**
-**[BUTTON 11-M16 — STUDENT LIFE → 16.2]**
+**[BUTTON 11-M16 — STUDENT LIFE → 17.2]**
 ## XIII. SUPPORTING RESOURCES
 
 **[ICON — DIGITAL RESOURCE LIBRARY]**
@@ -247,20 +247,20 @@ The $100 is **not charged to every applicant**. It applies only to students requ
 | Pathway | 03 |
 | Degree Programs | 04 |
 | Experiential | 05 |
-| High School | 06 |
-| GED/HSE | 07 |
-| Certification Review | 08 |
-| Bar Review | 09 |
-| Curriculum | 10 |
-| Tuition | 12 |
-| Accreditation | 15 |
-| Student Life | 16.2 |
-| Policies | 17.8 |
-| Procedures | 17.9 |
-| Guidelines | 17.10 |
-| Admissions FAQ | 18.4 |
-| Technical FAQ | 18.9 |
-| Contact Admissions | 19.2 |
+| High School | 07 |
+| GED/HSE | 08 |
+| Certification Review | 09 |
+| Bar Review | 10 |
+| Curriculum | 11 |
+| Tuition | 13 |
+| Accreditation | 16 |
+| Student Life | 17.2 |
+| Policies | 18.8 |
+| Procedures | 18.9 |
+| Guidelines | 18.10 |
+| Admissions FAQ | 19.4 |
+| Technical FAQ | 19.9 |
+| Contact Admissions | 20.2 |
 
 **[DOWNLOAD — ADMISSIONS GUIDE]**
 **[DOWNLOAD — PRE-ADMISSIONS CHECKLIST]**
@@ -312,14 +312,14 @@ Optional Progressive Experience adds $10,000 and optional Rotational Experience 
 
 **Tuition reimbursement:** Eligible Education and Experiential participants completing their program qualify for a **guaranteed 10% completion reimbursement**. Verified contributor / Ambassador milestones may add up to **25%**, and additional approved milestones may add up to **15%**, for **up to 50% total**, subject to eligible tuition, verification, and non-stacking rules; 50% is not automatic. Eligible internal Team Member tuition and product benefits are separately governed.
 
-[BUTTON: Explore Tuition & Pricing Stages → INTERNAL ROUTE 12]
-[BUTTON: Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 12.6; 16.2.15]
-[BUTTON: Review Founder Contributions & Financial Transparency → INTERNAL ROUTE 16.6]
+[BUTTON: Explore Tuition & Pricing Stages → INTERNAL ROUTE 13]
+[BUTTON: Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 13.6; 17.2.15]
+[BUTTON: Review Founder Contributions & Financial Transparency → INTERNAL ROUTE 17.6]
 [BUTTON: Explore Experiential Admissions → INTERNAL ROUTE 5]
 [DOWNLOAD: Published Education & Experiential Tuition Schedule → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
 [DOWNLOAD: Contributor Benefits & Milestone Verification → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md]
 [DOWNLOAD: Student and Experiential Completion Benefits → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
-[INTERNAL LINK: Founder Equity Contributions & Allocations → ../16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
+[INTERNAL LINK: Founder Equity Contributions & Allocations → ../17-JOIN-US/17.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
 
 ## XIII-A. ENTREPRENEURSHIP PROGRAM — SPRING & FALL ADMISSIONS
 
@@ -346,24 +346,24 @@ Entrepreneurship application fee: **$75**. Enrollment deposit: **$500 credited t
 | **Pay upfront — 25% off** | **$3,750** | **$7,500** |
 | **Pay monthly at full tuition** | **3 installments totaling $5,000** | **4 installments totaling $10,000** |
 
-The $500 enrollment deposit credits either choice. **Missed monthly payments pause the whole program, curriculum, courses and managed professional activities until paid.** Upfront payers **may cancel at any time**; used four-week program periods are earned revenue and **unused prepaid tuition is refunded**. See 12 / Tuition and Fees for exact installment amounts, partial-month use and refund examples.
+The $500 enrollment deposit credits either choice. **Missed monthly payments pause the whole program, curriculum, courses and managed professional activities until paid.** Upfront payers **may cancel at any time**; used four-week program periods are earned revenue and **unused prepaid tuition is refunded**. See 13 / Tuition and Fees for exact installment amounts, partial-month use and refund examples.
 
-[BUTTON — SELECT ENTREPRENEURSHIP PAYMENT OPTION → 12 / TUITION AND FEES]
+[BUTTON — SELECT ENTREPRENEURSHIP PAYMENT OPTION → 13 / TUITION AND FEES]
 [FLOW — CHOOSE UPFRONT OR MONTHLY → TUITION DEPOSIT CREDIT → ACTIVE PROGRAM → PAYMENT VERIFIED / REVENUE EARNED → CONTINUE, PAUSE OR CANCEL]
 
-[BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 14.4]
-[BUTTON — ENTREPRENEURSHIP TUITION AND FEES → 12 / TUITION]
-[BUTTON — BUSINESS AFFILIATE CONNECTIONS → 14.5]
+[BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 15.4]
+[BUTTON — ENTREPRENEURSHIP TUITION AND FEES → 13 / TUITION]
+[BUTTON — BUSINESS AFFILIATE CONNECTIONS → 15.5]
 
 ## XIV. CONTACT ADMISSIONS
 
 **[ICON — ADMISSIONS SUPPORT]**
 **Website: RIAHPathway.com • SuiteDash Help Desk • Toll-Free: 877-245-7424 • Vanity: 877-245-RIAH**
 
-**[BUTTON 11-M17 — CONTACT ADMISSIONS → 19.2]**
-**[BUTTON 11-M18 — STUDENT SUPPORT → 19.5]**
+**[BUTTON 11-M17 — CONTACT ADMISSIONS → 20.2]**
+**[BUTTON 11-M18 — STUDENT SUPPORT → 20.5]**
 
-**[BUTTON 11-M19 — TECHNICAL SUPPORT → 19.4]**
+**[BUTTON 11-M19 — TECHNICAL SUPPORT → 20.4]**
 **[BUTTON 11-M20 — APPLY NOW → CLASSE365]**
 ## XV. FINAL CTA
 **[CTA BAND — BLACK / RED / GOLD]**
@@ -373,12 +373,12 @@ The $500 enrollment deposit credits either choice. **Missed monthly payments pau
 **[BUTTON 11-M22 — DEGREE PROGRAMS → 04]**
 
 **[BUTTON 11-M23 — EXPERIENTIAL → 05]**
-**[BUTTON 11-M24 — CURRICULUM → 10]**
+**[BUTTON 11-M24 — CURRICULUM → 11]**
 
 **[BUTTON 11-M25 — PRE-ADMISSIONS → SUITEDASH]**
 **[BUTTON 11-M26 — APPLY NOW → CLASSE365]**
 
-**[BUTTON 11-M27 — TUITION → 12]**
+**[BUTTON 11-M27 — TUITION → 13]**
 ## XVI. GLOBAL FOOTER
 
 **[LOGO — RIAH PATHWAY]**
@@ -386,7 +386,7 @@ The $500 enrollment deposit credits either choice. **Missed monthly payments pau
 **[GLOBAL NAVIGATION — ALL 19 MAIN PAGES]**
 **Website: RIAHPathway.com • Phone: 877-245-7424**
 **Privacy • Terms • Accessibility • Consumer Information • Policies**
-**[ROUTING TABLE — SEE 11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
+**[ROUTING TABLE — SEE 12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md]**
 
 ## XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFERENCES
 
@@ -408,15 +408,31 @@ The $500 enrollment deposit credits either choice. **Missed monthly payments pau
 Each approved Experiential major requires specific coursework AND verified experience at the requested level. Accounting requires Financial Accounting and Managerial Accounting; Computer Science Experiential requires Introduction to Computer Science; other approved majors require published foundational courses.
 **Under-18 placement:** signed parent/legal-guardian authorization before work; internal remote only; external remote/hybrid/on-site where lawful. High school dual enrollment requires both parental and guidance counselor approval. Certification Review and Bar Review have no admission process.
 
-**[BUTTON — PRE-ADMISSIONS → 11.2]**
-**[BUTTON — APPLICATION → 11.3]**
+**[BUTTON — PRE-ADMISSIONS → 12.2]**
+**[BUTTON — APPLICATION → 12.3]**
 
-**[BUTTON — ACCEPTANCE & ENROLLMENT → 11.4]**
-**[BUTTON — STUDENT EXPERIENCE → 11.5]**
+**[BUTTON — ACCEPTANCE & ENROLLMENT → 12.4]**
+**[BUTTON — STUDENT EXPERIENCE → 12.5]**
 
-**[BUTTON — GRADUATION & ALUMNI → 11.6]**
-**[BUTTON — HOW RIAH PATHWAY WORKS → 11.7]**
+**[BUTTON — GRADUATION & ALUMNI → 12.6]**
+**[BUTTON — HOW RIAH PATHWAY WORKS → 12.7]**
 
-**[BUTTON — TRANSFER STUDENTS → 11.8]**
+**[BUTTON — TRANSFER STUDENTS → 12.8]**
 
 ---
+
+
+## Entrepreneurship Experiential — New Page 6 Admissions Integration
+
+| Participant Pool | Levels | Duration Options | Enrollment |
+|---|---|---|---|
+| Startup Entrepreneurship | 6.2.1 Apprentice; 6.2.2 New; 6.2.3 One-Year; 6.2.4 Growth | 1 Month; 12 Weeks; 16 Weeks | Spring and Fall |
+| Small Business Entrepreneurship | 6.3.1 Apprentice; 6.3.2 New; 6.3.3 Established; 6.3.4 Recovery & Growth | 1 Month; 12 Weeks; 16 Weeks | Spring and Fall |
+
+**Verification:** Developed startup plans and readiness or legitimate small-business records; assess the level and planned applied work. **Application fee:** $75. **Enrollment deposit:** $500 credited toward program tuition. Published Entrepreneurship prices and separate Extended Services affiliate fees remain documented on Pages 13 and 15.5 respectively.
+
+[BUTTON — ENTREPRENEURSHIP MAIN PAGE → 6]
+[BUTTON — STARTUP ENTREPRENEURSHIP → 6.2]
+[BUTTON — SMALL BUSINESS ENTREPRENEURSHIP → 6.3]
+[BUTTON — ENTREPRENEURSHIP TUITION → 13]
+[BUTTON — OPTIONAL AFFILIATE CONNECTIONS → 15.5]
