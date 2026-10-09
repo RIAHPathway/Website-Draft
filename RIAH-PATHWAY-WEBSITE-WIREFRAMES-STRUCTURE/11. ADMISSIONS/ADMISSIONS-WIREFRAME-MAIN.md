@@ -321,6 +321,28 @@ Optional Progressive Experience adds $10,000 and optional Rotational Experience 
 [DOWNLOAD: Student and Experiential Completion Benefits → ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
 [INTERNAL LINK: Founder Equity Contributions & Allocations → ../16-JOIN-US/16.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md]
 
+## XIII-A. ENTREPRENEURSHIP PROGRAM — SPRING & FALL ADMISSIONS
+
+[IMAGE PLACEHOLDER — Business owner completing an entrepreneurship readiness assessment]
+[ICON — SPRING / FALL CALENDAR]
+
+RIAH Pathway accepts Entrepreneurship Program applications **twice annually: Spring and Fall**. These are **separate from the monthly Education and standard Experiential cohorts**.
+
+| Entrepreneurship Track | Requirements | Duration | Total Tuition |
+|---|---|---|---:|
+| Startup Launch | Developed business plan/model, market research, projections and tangible product/service, sample or MVP; an idea alone is not sufficient | **12 weeks** | **$5,000** |
+| Small Business Recovery & Growth | Legitimate verified operating small business, documented business challenges and an involved owner or decision-maker | **16 weeks** | **$10,000** |
+
+**Priority outreach:** Minority-owned, women-owned, Black-owned, LGBTQ-owned, Asian-owned, economically disadvantaged and underserved startups and small businesses across all industries.
+
+**Enrollment:** [APPLICATION → BUSINESS VERIFICATION → READINESS/NEEDS ASSESSMENT → ADMISSIONS REVIEW → ACCEPTANCE → ENROLLMENT → ORIENTATION → CONCURRENT COURSES + APPLIED BUSINESS WORK WITH EXPERIENTIAL TEAM AND INDEPENDENT PARTNER FIRMS → MILESTONES / COMPLETION]
+
+Entrepreneurship application fee: **$75**. Enrollment deposit: **$500 credited toward tuition**. Program participation may be remote, hybrid or on-site. External affiliate professional services are independently scoped and charged. Standard Education and Experiential applications remain $0; this is a separate entrepreneurship program.
+
+[BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 14.4]
+[BUTTON — ENTREPRENEURSHIP TUITION AND FEES → 12 / TUITION]
+[BUTTON — BUSINESS AFFILIATE CONNECTIONS → 14.5]
+
 ## XIV. CONTACT ADMISSIONS
 
 **[ICON — ADMISSIONS SUPPORT]**
