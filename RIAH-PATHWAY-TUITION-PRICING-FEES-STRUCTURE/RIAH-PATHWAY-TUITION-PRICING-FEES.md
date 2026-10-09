@@ -119,7 +119,7 @@ independently recreating or inventing financial values.
 - Criminal Justice pathway, and $20,000 for her experiential pathway, with $0 to apply and applicable student resource allocations.
 - By completing her required monthly and annual milestones throughout the four-year journey, she qualifies for the maximum 50% tuition reimbursement—$35,000—reducing her $70,000 tuition to $35,000 after reimbursement.
 
-![RIAH Pathway Tuition Example Student](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES/IMAGES/RIAH-PATHWAY-TUITION-I-EXAMPLE-STUDENT.png?raw=true)
+[![RIAH Pathway Tuition Example Student](./IMAGES/RIAH-PATHWAY-TUITION-I-EXAMPLE-STUDENT.png)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/RIAH-PATHWAY-TUITION-I-EXAMPLE-STUDENT.png)
 
 ## 🖼️ Image 2 — Four Years of Education, Experience, Leadership & Milestones.
 
@@ -127,7 +127,7 @@ independently recreating or inventing financial values.
 - Her journey develops year by year through her California Non-JD and Criminal Justice pathways, legal development, Technology and Intellectual Property Law experience, attorney or judge supervision, Law Review, honor society participation, Sigma Gamma Rho, student government leadership, community involvement, and final RIAH Bar Review preparation.
 - Each year contributes to her required reimbursement milestones, ultimately allowing her to earn the full $35,000 tuition reimbursement, cutting her original $70,000 combined tuition in half to a $35,000 net tuition amount while completing a multidimensional academic, experiential, professional, and leadership pathway.
 
-![RIAH Pathway Tuition Example Student II](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES/IMAGES/RIAH-PATHWAY-TUITION-II-EXAMPLE-STUDENT.png?raw=true)
+[![RIAH Pathway Tuition Example Student II](./IMAGES/RIAH-PATHWAY-TUITION-II-EXAMPLE-STUDENT.png)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/RIAH-PATHWAY-TUITION-II-EXAMPLE-STUDENT.png)
 
 ## 🖼️ Image 3 — Example Student to Graduate to Career Opportunity.
 
@@ -135,7 +135,7 @@ independently recreating or inventing financial values.
 - Criminal Justice pathway, California Non-JD education, four years of supervised legal development, experiential learning, certifications, Law Review, honor society participation, and student government leadership, while meeting the milestones necessary to receive $35,000 back through RIAH’s 50% tuition reimbursement program.
 - Her story concludes with graduation and a career opportunity in law, illustrating the intended full-circle RIAH Pathway: invest in education and experience, complete the milestones, receive substantial tuition reimbursement, and leave with education, experience, professional preparation, leadership development, and a foundation for the next stage of her career.
 
-![RIAH Pathway Tuition III Reimbursement Example Student](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES/IMAGES/RIAH-PATHWAY-TUITION-III-REIMBURSEMENT-EXAMPLE-STUDENT.png?raw=true)
+[![RIAH Pathway Tuition III Reimbursement Example Student](./IMAGES/RIAH-PATHWAY-TUITION-III-REIMBURSEMENT-EXAMPLE-STUDENT.png)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/RIAH-PATHWAY-TUITION-III-REIMBURSEMENT-EXAMPLE-STUDENT.png)
 
 # I. 🎓 Academic Standard Tuition
 
@@ -249,7 +249,7 @@ The Integrated Education and Experiential Adjustment applies when eligible Educa
 | Counts Toward Ordinary Tuition Reduction Maximum | No |
 | Applied Before Pricing Stage | Yes |
 
-![VII. 🔄 Integrated Education and Experiential Adjustment](./IMAGES/FLOW-01-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+[![VII. 🔄 Integrated Education and Experiential Adjustment](./IMAGES/FLOW-01-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-01-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-01-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
@@ -808,7 +808,7 @@ Minimum Remaining Tuition: **\$0**
 
 ### Funding and Reimbursement Flow
 
-![Funding and Reimbursement Flow](./IMAGES/FLOW-02-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+[![Funding and Reimbursement Flow](./IMAGES/FLOW-02-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-02-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-02-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
@@ -904,7 +904,7 @@ Loan request amount is selected by the student within applicable
 eligibility limits. The calculator does not automatically assign the
 maximum loan amount. Financing is not a tuition reduction.
 
-![RIAH Pathway Student Loan Recovery Example Student](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES/IMAGES/RIAH-PATHWAY-STUDENT-LOAN-RECOVERY-EXAMPLE-STUDENT.png?raw=true)
+[![RIAH Pathway Student Loan Recovery Example Student](./IMAGES/RIAH-PATHWAY-STUDENT-LOAN-RECOVERY-EXAMPLE-STUDENT.png)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/RIAH-PATHWAY-STUDENT-LOAN-RECOVERY-EXAMPLE-STUDENT.png)
 
 # XXXVI. 🛡️ RIAH Private Student Loan Pathway Eligibility and Collateral
 
@@ -944,13 +944,13 @@ Loan eligibility does not guarantee approval of a particular amount. The student
 
 #### Mermaid Flow 01 — Private Student Loan Calculation Logic (Part 1 of 2)
 
-![Private Student Loan Calculation Logic — Part 1](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-01.svg)
+[![Private Student Loan Calculation Logic — Part 1](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-01.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-01.svg)
 
 [View editable Mermaid Flow 01](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-01.mmd)
 
 #### Mermaid Flow 02 — Private Student Loan Calculation Logic (Part 2 of 2)
 
-![Private Student Loan Calculation Logic — Part 2](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-02.svg)
+[![Private Student Loan Calculation Logic — Part 2](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-02.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-02.svg)
 
 [View editable Mermaid Flow 02](./IMAGES/FLOW-03-RIAH-PATHWAY-TUITION-PRICING-FEES-PART-02.mmd)
 
@@ -958,13 +958,13 @@ Loan eligibility does not guarantee approval of a particular amount. The student
 
 ### Private Student Loan Flow — Part I: Collateral Tier
 
-![Private Student Loan Flow — Part I: Collateral Tier](./IMAGES/FLOW-04-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+[![Private Student Loan Flow — Part I: Collateral Tier](./IMAGES/FLOW-04-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-04-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-04-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
 ### Private Student Loan Flow — Part II: 700+ Higher Loan Tier
 
-![Private Student Loan Flow — Part II: 700+ Higher Loan Tier](./IMAGES/FLOW-05-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+[![Private Student Loan Flow — Part II: 700+ Higher Loan Tier](./IMAGES/FLOW-05-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-05-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-05-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
@@ -994,7 +994,7 @@ Private Student Loan interest is configured at 5% for every 30 day period. Compl
 | Partial Period | Prorated |
 | Maximum Loan Principal | \$5,000 |
 
-![XXXVII. ➗ RIAH Private Student Loan Interest](./IMAGES/FLOW-06-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
+[![XXXVII. ➗ RIAH Private Student Loan Interest](./IMAGES/FLOW-06-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/IMAGES/FLOW-06-RIAH-PATHWAY-TUITION-PRICING-FEES.svg)
 
 [View editable Mermaid diagram](./IMAGES/FLOW-06-RIAH-PATHWAY-TUITION-PRICING-FEES.mmd)
 
