@@ -413,6 +413,25 @@ Two entrepreneurship intakes annually: **Spring** and **Fall**. These are separa
 | Curriculum, courses, assessment and orientation | Included | Included |
 | Independently provided professional affiliate services | Separately quoted if selected | Separately quoted if selected |
 
+### Entrepreneurship Payment Options — Upfront or Monthly
+
+| Option | Startup Launch — 12 Weeks | Small Business Recovery & Growth — 16 Weeks |
+|---|---:|---:|
+| Standard tuition | **$5,000** | **$10,000** |
+| **Upfront tuition — 25% off** | **$3,750** | **$7,500** |
+| **Monthly tuition — no discount** | **3 payments: $1,666.67 / $1,666.67 / $1,666.66** | **4 payments of $2,500** |
+| Balance upfront after $500 credited enrollment deposit | **$3,250** | **$7,000** |
+| First monthly payment after $500 credited deposit | **$1,166.67** | **$2,000** |
+
+The **$500 enrollment deposit is a tuition credit** under either plan, not an additional tuition charge. The $75 application fee is separate. **Monthly nonpayment pauses the whole entrepreneurship program, curriculum, courses, professional sessions and program-managed applied work until payments are current.** **Upfront payers may cancel at any time**; services already delivered are earned program revenue (**$1,250 Startup / $1,875 Small Business per completed four-week period**, plus any delivered partial period), and **unused prepaid tuition is refunded**. The 25% Entrepreneurship discount is separate from the Education/Experiential upfront discount.
+
+[ICON — UPFRONT 25% SAVINGS] [ICON — MONTHLY INSTALLMENTS] [ICON — PAUSED PROGRAM ACCESS] [ICON — PREPAID UNUSED TUITION REFUND]
+[FLOW — PAYMENT CHOICE → TUITION DEPOSIT CREDIT → COURSES / CURRICULUM / PROFESSIONAL PROGRAM ACTIVE → PAYMENT CHECK / EARNED PERIOD → PAUSE, CONTINUE OR CANCEL]
+[BUTTON — PAY UPFRONT / SAVE 25% → 11 / ENTREPRENEURSHIP ENROLLMENT]
+[BUTTON — CHOOSE MONTHLY PAYMENTS → 11 / ENTREPRENEURSHIP ENROLLMENT]
+[BUTTON — FULL PAYMENT TERMS → 12 / TUITION AND FEES]
+
+
 A program completion certificate is awarded when required business milestones are met. Independent partner firms deliver their own contracted services. **Remote, hybrid and on-site Entrepreneurship Program delivery does not change the existing remote-only rule for internal RIAH Experiential placements.** Standard Education/Experiential tuition benefits are not automatically extended to this separate program.
 
 [BUTTON — APPLY FOR ENTREPRENEURSHIP → 11 / ADMISSIONS]
@@ -626,6 +645,7 @@ Legal downloads must include jurisdiction, official sources, review date and dis
 | Pricing | 14.2 | Internal |
 | Justice-Impacted Community Services | Proposed 14.3 | Internal |
 | Entrepreneurship Program | 14.4; Admissions 11 | Internal |
+| Entrepreneurship Payment Options (25% Upfront / Monthly) | 14.4; 12 / Tuition and Fees | Internal |
 | Extended Services — Business Affiliate Connections | 14.5 | Internal |
 | Entrepreneurship Partnerships | 16.3 | Internal |
 | Resources | 17 | Internal |
