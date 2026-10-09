@@ -433,22 +433,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 13.2 — Accreditation 
 - 13.3 — State Authorization 
 
-### 14 — PRODUCTS — MAIN PAGE WIREFRAME — `Products-Wireframe-Main.md`
-- 14.1 — Products — `14.1-Products-Wireframe.md`
-  - 14.1.1 — Certification Review
-  - 14.1.2 — Bar Review
-  - 14.1.3 — Collections
-    - 14.1.3.1 — General Education
-    - 14.1.3.2 — Core
-    - 14.1.3.3 — Year 3
-    - 14.1.3.4 — Year 4
-    - 14.1.3.5 — Master's
-    - 14.1.3.6 — MBA
-    - 14.1.3.7 — GED
-    - 14.1.3.8 — High School Diploma
-    - 14.1.3.9 — Experiential
-  - 14.1.4 — Bundles
-- 14.2 — Pricing — `14.2-Pricing-Wireframe.md`
+### 14 — PRODUCTS AND SERVICES — MAIN PAGE WIREFRAME — [`14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md`](14.%20PRODUCTS-AND-SERVICES/14-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md)
+- 14.1 — Products (Certification Review → 08; Bar Review → 09; student collections; bundles)
+- 14.2 — Pricing
+- 14.3 — Justice-Impacted Community Services (attorney-assisted sealing and expungement)
 
 ### 15 — ACCREDITATION & AUTHORIZATION — MAIN PAGE WIREFRAME — `Accreditation-And-Authorization-Wireframe-Main.md`
 - 15.1 — Experiential Pathways 
