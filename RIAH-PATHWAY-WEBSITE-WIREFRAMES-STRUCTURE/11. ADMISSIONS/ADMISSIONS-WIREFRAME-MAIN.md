@@ -339,6 +339,18 @@ RIAH Pathway accepts Entrepreneurship Program applications **twice annually: Spr
 
 Entrepreneurship application fee: **$75**. Enrollment deposit: **$500 credited toward tuition**. Program participation may be remote, hybrid or on-site. External affiliate professional services are independently scoped and charged. Standard Education and Experiential applications remain $0; this is a separate entrepreneurship program.
 
+### Entrepreneurship Payment Choice at Enrollment
+
+| Payment | Startup Launch | Small Business Recovery & Growth |
+|---|---:|---:|
+| **Pay upfront — 25% off** | **$3,750** | **$7,500** |
+| **Pay monthly at full tuition** | **3 installments totaling $5,000** | **4 installments totaling $10,000** |
+
+The $500 enrollment deposit credits either choice. **Missed monthly payments pause the whole program, curriculum, courses and managed professional activities until paid.** Upfront payers **may cancel at any time**; used four-week program periods are earned revenue and **unused prepaid tuition is refunded**. See 12 / Tuition and Fees for exact installment amounts, partial-month use and refund examples.
+
+[BUTTON — SELECT ENTREPRENEURSHIP PAYMENT OPTION → 12 / TUITION AND FEES]
+[FLOW — CHOOSE UPFRONT OR MONTHLY → TUITION DEPOSIT CREDIT → ACTIVE PROGRAM → PAYMENT VERIFIED / REVENUE EARNED → CONTINUE, PAUSE OR CANCEL]
+
 [BUTTON — EXPLORE ENTREPRENEURSHIP PROGRAM → 14.4]
 [BUTTON — ENTREPRENEURSHIP TUITION AND FEES → 12 / TUITION]
 [BUTTON — BUSINESS AFFILIATE CONNECTIONS → 14.5]
