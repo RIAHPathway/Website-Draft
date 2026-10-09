@@ -241,11 +241,11 @@ Students may apply for **Rotational Experience** to rotate through applicable pl
 
 # VII. 🔄 Integrated Education and Experiential Adjustment
 
-The Integrated Education and Experiential Adjustment applies when eligible Education and Experiential selections are combined. The 5% adjustment is calculated before the applicable Pricing Stage and does not count toward the ordinary tuition reduction maximum.
+The Integrated Education and Experiential Adjustment applies when eligible Education and Experiential selections are combined. The 15% adjustment is calculated before the applicable Pricing Stage and does not count toward the ordinary tuition reduction maximum.
 
 | Rule | Value |
 |:---|---:|
-| Integrated Education and Experiential Adjustment | 5% |
+| Integrated Education and Experiential Adjustment | 15% |
 | Counts Toward Ordinary Tuition Reduction Maximum | No |
 | Applied Before Pricing Stage | Yes |
 
@@ -1140,7 +1140,7 @@ The Master Active Number Table consolidates the active numerical records used th
 | Senior Associate Experiential | \$20,000 |
 | Manager Experiential | \$20,000 |
 | Executive Experiential | \$20,000 |
-| Integrated Education and Experiential Adjustment | 5% |
+| Integrated Education and Experiential Adjustment | 15% |
 | Upfront Payment Reduction | 15% |
 | SNAP Reduction | 5% |
 | TANF Reduction | 5% |
