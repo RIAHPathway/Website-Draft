@@ -529,7 +529,7 @@
 
 | Markdown | Purpose |
 |---|---|
-| [Public Compensation, Equity & Benefits](./DOWNLOADS/PUBLIC-FACING-COMPENSATION-EQUITY-BENEFITS.md) | Shared benefits, revenue percentages, 48-month accrual, Year 1–3 cliffs and Year 4 full vesting. |
+| [Public Compensation, Equity & Benefits](./DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md) | Shared benefits, revenue percentages, 48-month accrual, Year 1–3 cliffs and Year 4 full vesting. |
 | [All Positions Combined](./DOWNLOADS/ALL-POSITIONS-COMBINED.md) | Combined position reference with added public-facing benefits and compensation. |
 
 ### Board Governance, Contributions & Financial Transparency
