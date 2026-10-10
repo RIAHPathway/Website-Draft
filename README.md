@@ -12,7 +12,7 @@
   <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
 </p>
 
-**RIAH Pathway is NOW HIRING.** I currently lead recruitment as Founder/CEO. Our staged 2026 recruitment begins with CISO on October 10, followed by CTO, CFO, CLO, COO, faculty, cybersecurity, technology, board, and director roles. Experiential and additional professional opportunities open according to confirmed demand. [View the 2026 Master Hiring Timeline and Position Profiles (PDF)](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf).
+**RIAH Pathway is NOW HIRING.** I currently lead recruitment as Founder/CEO. Our staged 2026 recruitment begins with CISO on October 10, followed by CTO, CFO, CLO, COO, faculty, cybersecurity, technology, board, and director roles. Experiential and additional professional opportunities open according to confirmed demand. 
 
 Recruitment, compensation, equity participation, and start dates are position-specific and subject to individual role profiles and signed agreements. The beta cohort is planned for **Spring 2027**.
 
@@ -26,7 +26,9 @@ The website will launch in **October 2026** as I continue to build, develop, rev
 
 <img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
 
-**Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). First-round interview booking is **first come, first served**. Each round closes at **5:00 p.m. ET on the listed Tuesday**, or earlier if available appointment slots fill. Finalists receive private second-round links on Wednesday; final hiring notices follow on Monday.
+**Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). 
+
+First-round interview booking is **first come, first served**. Each round closes at **5:00 p.m. ET on the listed Tuesday**, or earlier if available appointment slots fill. Finalists receive private second-round links on Wednesday; final hiring notices follow on Monday.
 
 ### 📅 Master Hiring Schedule — All Dates 2026
 
