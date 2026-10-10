@@ -40,7 +40,21 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 | 🕒 | Recorded date/time at actual available precision |
 | 🔗 | Attributable public evidence |
 
-**Index:** I Key; II Purpose; III RIAH baseline; IV Tier tests; V Market categories; VI Sources; VII Dates; VIII Evidence matrices; IX Daily run; X Historical preservation; XI Conclusions.
+### I.B — 📑 Roman Numeral Index
+
+| Roman Numeral | Emoji | Section Title |
+|---|---|---|
+| I | 🔴⚫ | Key and Roman Numeral Index |
+| II | 🔎 | Purpose and Evidence Scope |
+| III | 👑 | RIAH Baseline |
+| IV | 🟢🟡🔴 | Tier Tests |
+| V | 🏫 | Market Categories |
+| VI | 🔎 | Sources and Search Discipline |
+| VII | 🕒 | Date and Timestamp Discipline |
+| VIII | 📊 | Matrices and Evidence |
+| IX | 🧾 | Daily Bot Run |
+| X | ⚫ | Historical Preservation |
+| XI | 👑 | Final Conclusions |
 
 ## II. 🔎 PURPOSE AND EVIDENCE SCOPE
 
@@ -48,25 +62,84 @@ Maintain a dated, attributable public evidence record of traditional universitie
 
 ## III. 👑 RIAH BASELINE
 
-**Identity:** Mission — Accessible. Affordable. Rigorous. Elite. Vision (POWER) — People. Opportunity. Work. Equity. Results. Motto — Educate. Empower. Elevate. Tagline — Education. Experience. Certifications. Opportunity. Career. Legacy. Slogan — One Dynasty. Infinite Legacies. Commitment — You invest in us. We invest in you.
+### III.A — 👑 Identity
 
-**Nine named schools:** 🎓 Business (Accounting, Finance, Entrepreneurship, Business Management, MBA); 💻 Technology (Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering); ⚖️ Law (Criminal Justice, JD, Non-JD); 🛡️ Homeland Security (Intelligence, Physical Security, Governance, Risk and Compliance, Private Investigations); 📚 GED (GED with concurrent college credits); 🎓 Diploma (high-school diploma with concurrent college credits); 🏢 Experiential (Apprentice to Executive); 🚀 Entrepreneurship (Startup to Small Business); 🏆 Credential (Certification Review and Bar Review).
+| Row Label | RIAH Pathway Identity |
+|---|---|
+| Mission | Accessible. Affordable. Rigorous. Elite. |
+| Vision (POWER) | People. Opportunity. Work. Equity. Results. |
+| Motto | Educate. Empower. Elevate. |
+| Tagline | Education. Experience. Certifications. Opportunity. Career. Legacy. |
+| Slogan | One Dynasty. Infinite Legacies. |
+| Commitment | You invest in us. We invest in you. |
 
-**Exactly eight named corporate entities:** 🏛️ RIAH Pathway Holdings Corporation; 🏢 RIAH Pathway Corporation; 💼 RIAH Pathway Professional Services LLP; 🎓 RIAH Pathway School LLC; 💻 RIAH Pathway Technology LLC; 🏆 RIAH Pathway Programs LLC; 📚 RIAH Pathway Products LLC; ❤️ RIAH Pathway 501(c)(3) Foundation. Do not add an unspecified ninth entity.
+### III.B — 🎓 Nine Named Schools
 
-**Six pillars:** Education, Experience, Certification, Contribution, Economic Benefits, Career. Cross-cutting technology: proprietary software/mobile application; educational products; internal and partner-employer remote, hybrid and on-site experience. **Experiential duration:** Apprentice 1 month; Intern 3 months; Associate 1 year; Senior Associate 1 year; Manager 1 year; Executive 1 year.
+| Row Label | School | Programs and Pathways |
+|---|---|---|
+| 1 | 🎓 Business | Accounting, Finance, Entrepreneurship, Business Management, MBA |
+| 2 | 💻 Technology | Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering |
+| 3 | ⚖️ Law | Criminal Justice, JD, Non-JD |
+| 4 | 🛡️ Homeland Security | Intelligence, Physical Security, Governance, Risk and Compliance, Private Investigations |
+| 5 | 📚 GED | GED with concurrent college credits |
+| 6 | 🎓 Diploma | high-school diploma with concurrent college credits |
+| 7 | 🏢 Experiential | Apprentice to Executive |
+| 8 | 🚀 Entrepreneurship | Startup to Small Business |
+| 9 | 🏆 Credential | Certification Review and Bar Review |
+
+### III.C — 🏛️ Eight Named Corporate Entities
+
+| Row Label | Entity Name |
+|---|---|
+| 1 | 🏛️ RIAH Pathway Holdings Corporation |
+| 2 | 🏢 RIAH Pathway Corporation |
+| 3 | 💼 RIAH Pathway Professional Services LLP |
+| 4 | 🎓 RIAH Pathway School LLC |
+| 5 | 💻 RIAH Pathway Technology LLC |
+| 6 | 🏆 RIAH Pathway Programs LLC |
+| 7 | 📚 RIAH Pathway Products LLC |
+| 8 | ❤️ RIAH Pathway 501(c)(3) Foundation |
+
+Do not add an unspecified ninth entity.
+
+### III.D — 🔴🔵🟢🟡 Six Pillars and Cross-Cutting Architecture
+
+| Row Label | Pillar |
+|---|---|
+| I | Education |
+| II | Experience |
+| III | Certification |
+| IV | Contribution |
+| V | Economic Benefits |
+| VI | Career |
+
+| Row Label | Cross-Cutting Architecture |
+|---|---|
+| Technology | proprietary software/mobile application |
+| Products | educational products |
+| Experience Locations | internal and partner-employer remote, hybrid and on-site experience |
+
+### III.E — 🏢 Experiential Duration
+
+| Row Label | Experiential Level | Duration |
+|---|---|---|
+| 1 | Apprentice | 1 month |
+| 2 | Intern | 3 months |
+| 3 | Associate | 1 year |
+| 4 | Senior Associate | 1 year |
+| 5 | Manager | 1 year |
+| 6 | Executive | 1 year |
 
 RIAH is building the architecture; do not conflate documented design with operational verification, accreditation or authorization.
 
 ## IV. 🟢🟡🔴 TIER TESTS
 
-**🟢 Tier I:** At least one independently documented corresponding component.
-
-**🟡 Tier II:** At least two independently documented corresponding components **connected in one identifiable program**; record the actual connection, not just coincident features.
-
-**🔴 Tier III:** Complete correspondence to the interconnected RIAH A–Z architecture, including nine-school pathways, functional corporate integration, all six pillars, exact experiential progression, credentials and bar review, contribution and economic benefits, educational products, entrepreneurship, proprietary application and career. Require affirmative attributable evidence for every required connection. Tier III not established from missing evidence is not proof of market-wide absence.
-
-**🔵 Indeterminate:** Source record insufficient for the specified feature or tier. Preserve prior evidence and state the precise gap.
+| Row Label | Classification | Objective Evidence Test |
+|---|---|---|
+| I | 🟢 Tier I | At least one independently documented corresponding component. |
+| II | 🟡 Tier II | At least two independently documented corresponding components **connected in one identifiable program**; record the actual connection, not just coincident features. |
+| III | 🔴 Tier III | Complete correspondence to the interconnected RIAH A–Z architecture, including nine-school pathways, functional corporate integration, all six pillars, exact experiential progression, credentials and bar review, contribution and economic benefits, educational products, entrepreneurship, proprietary application and career. Require affirmative attributable evidence for every required connection. Tier III not established from missing evidence is not proof of market-wide absence. |
+| — | 🔵 Indeterminate | Source record insufficient for the specified feature or tier. Preserve prior evidence and state the precise gap. |
 
 ## V. 🏫 MARKET CATEGORIES
 
