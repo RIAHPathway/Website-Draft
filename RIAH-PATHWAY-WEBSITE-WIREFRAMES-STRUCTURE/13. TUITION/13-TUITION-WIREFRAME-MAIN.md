@@ -57,7 +57,7 @@ RIAH Pathway provides tuition, fees, payment, funding, contributor benefits, rei
 | Pre-Accreditation | 50% |
 | Standard/Post-Accreditation | 100% |
 
-Grandfathered or Forever Tuition uses verified written preserved price. Students cannot self-select a stage.
+Grandfathered or Forever Tuition uses verified preserved price. Students cannot self-select a stage.
 
 [BUTTON — VIEW PRICING → 13.1]
 [BUTTON — ACCREDITATION STATUS → 16]
