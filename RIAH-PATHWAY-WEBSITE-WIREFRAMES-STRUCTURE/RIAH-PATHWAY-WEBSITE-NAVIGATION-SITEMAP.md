@@ -584,9 +584,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Additional verified Admissions image/diagram assets in the repository:**
   - [`.gitkeep`](12.%20ADMISSIONS/IMAGES/.gitkeep)
 
-### 13 — TUITION — MAIN PAGE WIREFRAME — `Tuition-Wireframe-Main.md`
-- 13.1 — Tuition 
-- 13.2 — Fees 
+### 13 — TUITION — MAIN PAGE WIREFRAME — [`13-TUITION-WIREFRAME-MAIN.md`](13.%20TUITION/13-TUITION-WIREFRAME-MAIN.md)
+- **Tuition combined CTA, buttons, links, downloads, images and routing:** [`13-TUITION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`](13.%20TUITION/13-TUITION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- 13.1 — Tuition
+- 13.2 — Fees
 - 13.3 — Payment Options
   - **Entrepreneurship-only payment options:** upfront 25% discount or monthly full tuition; late monthly payments pause access; prepaid cancellations return unused tuition after delivered program work is earned. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
 - 13.4 — Funding
