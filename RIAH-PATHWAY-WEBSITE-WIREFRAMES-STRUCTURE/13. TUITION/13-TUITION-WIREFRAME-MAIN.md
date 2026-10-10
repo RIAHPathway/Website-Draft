@@ -1,7 +1,7 @@
 # XIII — 👑 RIAH PATHWAY TUITION
 ## WEBSITE WIREFRAME — PAGE 13
 
-<!-- Main sitemap 1–20 is authoritative. Global header/footer excluded. Tuition wireframe sections 13.4–13.26. Preserve pending source verification rather than inventing URLs. -->
+<!-- Main sitemap 1–20 is authoritative. Global header/footer excluded. Tuition wireframe sections 13.1–13.26. Preserve pending source verification rather than inventing URLs. -->
 
 ## TUITION SUBNAVIGATION
 
@@ -59,7 +59,7 @@ RIAH Pathway provides tuition, fees, payment, funding, contributor benefits, rei
 
 Grandfathered or Forever Tuition uses verified preserved price. Students cannot self-select a stage.
 
-[BUTTON — VIEW PRICING → 13.1]
+[BUTTON — VIEW PRICING → 13.3]
 [BUTTON — ACCREDITATION STATUS → 16]
 
 ---
@@ -465,7 +465,7 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 
 ---
 
-## 13.26 — SERVICE PRICING AND CROSS-PAGE ROUTING
+## 13.26 — SERVICE PRICING, CTAS, LINKS, DOWNLOADS AND CROSS-PAGE ROUTING
 
 ### ENTREPRENEURSHIP — NON-DEGREE OFFERING
 
@@ -486,17 +486,8 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 [BUTTON — STUDENT RESOURCE ALLOCATION AND FEES → 13.11]
 [BUTTON — TRANSFER STUDENTS → 12.7]
 
----
 
-## 13.26 — SERVICE PRICING, BUTTONS, CTAS, LINKS, DOWNLOADS AND CROSS-PAGE ROUTING
-### Entrepreneurship and Extended Services — Approved Service Pricing
-
-- **Startup Launch:** 12 weeks; $5,000 standard tuition or $3,750 upfront after the 25% Entrepreneurship-only reduction; three full-price monthly installments; $500 enrollment deposit credited toward tuition; $0 application fee.
-- **Small Business Recovery & Growth:** 16 weeks; $10,000 standard tuition or $7,500 upfront; four full-price monthly installments; $500 tuition-credit deposit; $0 application fee.
-- **Extended Services:** $49 business-paid intake/coordination; $99 affiliate-paid recruitment/vetting; $50 affiliate-paid qualified connection; independent firms set their own professional fees.
-- **Law Community Initiative / Justice-Impacted Community Services:** $125 participating independent attorney assistance, separate voluntary $25 Foundation contribution, and actual jurisdiction-specific court costs where applicable. RIAH does not guarantee record relief.
-- **Cross-Page Routing:** Entrepreneurship 6 and 15.4; Extended Services 15.5; Law Community Initiative 15.3; Tuition 13.11 and 13.13; Foundation 14; Partnerships 17.3; Admissions 12; Contact 20.
-
+### Combined CTA, Button, Link, Download and Media Directory
 
 | Section | Type | Label / Asset | Destination / Notes |
 |---|---|---|---|
@@ -508,8 +499,8 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 01 HERO | BUTTON | APPLY NOW | 12 ADMISSIONS |
 | 01 HERO | BUTTON | REQUEST INFORMATION | 20 CONTACT |
 | 02 TUITION OVERVIEW | ICON CARD | S — TUITION | 13.4; FEES |
-| 02 TUITION OVERVIEW | BUTTON | TUITION AND PRICING | 13.4 |
-| 03 PRICING STAGES | BUTTON | VIEW PRICING | 13.1 |
+| 02 TUITION OVERVIEW | BUTTON | TUITION AND PRICING | 13.2 |
+| 03 PRICING STAGES | BUTTON | VIEW PRICING | 13.3 |
 | 03 PRICING STAGES | BUTTON | ACCREDITATION STATUS | 16 |
 | 04 ACADEMIC TUITION | BUTTON | DEGREE PROGRAMS | 4 |
 | 04 ACADEMIC TUITION | BUTTON | HIGH SCHOOL | 7 |
