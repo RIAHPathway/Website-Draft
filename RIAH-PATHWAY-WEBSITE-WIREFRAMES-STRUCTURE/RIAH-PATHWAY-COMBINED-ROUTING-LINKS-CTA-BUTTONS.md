@@ -275,14 +275,14 @@ flowchart LR
 | 101 | Small Businesses | Partnerships | 17.3.15 |
 | 102 | Entrepreneurship Ventures | Partnerships | 17.3.16 |
 | 103 | Employers | Partnerships | 17.3.17 |
-| 41 | Partnership Inquiry | Contact | 20.7 |
+| 41 | Partnership Inquiry | Contact | 20.6 |
 | 11 / 47 / 75 | Join Our Team | Team | 17.4 |
 | 55 | Executive Opportunities | Executive | 17.4.1 |
 | 57 | Board of Governance | Governance | 17.4.2 |
 | 104 | Backend Core Team | Team | 17.4.3 |
 | 105 | Academic Faculty | Team | 17.4.4 |
 | 49 | Experiential Faculty | Faculty | 17.4.5 |
-| 48 | Human Resources | Contact | 20.3 |
+| 48 | Human Resources | Contact | 20.2 |
 | 50 / 21 / 64 / 77 | Curriculum | Curriculum | 11 |
 | 51 | Credential Curriculum (Certification & Bar Review) | Curriculum | 11.11 |
 | 52 | Bar Review | Curriculum | 11.11.5 |
@@ -420,19 +420,48 @@ flowchart LR
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 18 Main / Overview | 1–20 cross-page routing | YouTube; newsletter form | Explore Resources; View Events; Watch RIAH Pathway | — | Resource Hub / Hero Poster | Resources Overview | Main wireframe: `18. RESOURCES/RESOURCES-WIREFRAME-MAIN.md` |
+| 18.1 Events | 12 Admissions; 17 Join Us; 18.4–18.6 | Eventbrite | Register; Admission Session; Career Fairs | — | Calendar / Event images | — | Current Events route |
+| 18.2 Blog + Vlog | Related pages 1–20 | YouTube; RSS | Read Article; Watch / Subscribe | — | Article / video thumbnails | Embedded video | Blog owns Vlog integration |
+| 18.3 Podcasts | 18 | Spotify; Apple Podcasts | Listen / Platform links | — | Podcast Cover | — | Public podcast distribution |
+| 18.4 Conferences | 17.3 Partnerships | Eventbrite | Conference Registration; Partner With Us | — | Conference image | — | Annual destination conference |
+| 18.5 Workshops | 18.1 Events | Eventbrite | Register for Workshop | — | Workshop image | — | In-person / virtual / hybrid |
+| 18.6 Webinars | 18.1 Events | Event registration | View / Register | — | Webinar icon | — | Virtual programming |
+| 18.7 Policies | 18 | Public living policy destination | View Policies | — | Policy icon | — | Public-only; no internal workflows |
+| 18.8 Procedures | 18 | Public living procedure destination | View Procedures | — | Process icon | — | Public-only |
+| 18.9 Guidelines | 18 | Public living guideline destination | View Guidelines | — | Guidance icon | — | Public-only |
+| Routing Directory | — | — | — | — | — | — | `18. RESOURCES/18-RESOURCES-CTA-BUTTONS-LINKS-ROUTING.md` |
 
 ## XIX — 19. FAQ
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 19 Main / Hero / Search | 02–20 | — | Search / category routing; Explore Pathways; Apply Now; Contact | — | FAQ hero + icons | FAQ orientation video | Searchable FAQ landing page |
+| 19.1 Pathways & Programs | 03; 04; 05; 06; 07; 08; 09; 10 | — | Program-specific Learn More | — | Program icons | — | Includes Entrepreneurship |
+| 19.2 Curriculum | 11 | — | Curriculum / school routes | — | Curriculum icon | — | Current Curriculum hierarchy |
+| 19.3 Admissions | 12.1–12.7 | Classe365; Jotform | Apply Now; Admissions inquiry | Admissions & Pre-Admissions Guide; Transfer & Alternative Credit Guide; Experiential Pathway Guide | Admissions icon | — | Current admissions routing |
+| 19.4 Tuition, Fees & Payments | 13 | — | Tuition / Pricing Engine | — | Tuition icon | — | Current tuition route |
+| 19.5 Accreditation & Authorization | 16 | Public disclosures | Accreditation & Authorization | — | Accreditation icon | — | Current status / disclosures |
+| 19.6 Student Experience | 17.2; 18 | SuiteDash | Student Life / Resources | — | Student icon | — | Student-facing routing |
+| 19.7 Products | 15 | Shopify | Products & Pricing; Shop Now | — | Shopping bag | — | Products & Services route |
+| 19.8 Technical Support | 20.3 | SuiteDash | Technical Support; Student Portal | — | Headset | — | Contact technical-support route |
+| Join Us / Hiring | 17.4 | Breezy HR; Calendly | Join Us; Interview Scheduling | Master Hiring Timeline and Position Profiles | Hiring icons | — | Current hiring resource |
+| Routing Directory | — | — | — | — | — | — | `19. FAQ/19-FAQ-CTA-BUTTONS-LINKS-ROUTING.md` |
 
 ## XX — 20. Contact
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 20 Main / Hero | 03; 12 | Classe365 | Find the Right Contact; Apply Now; Explore Pathways | — | Hero poster; student + professional images | Find Your RIAH Pathway Connection | Main contact route |
+| 20.1 Admissions | 12.1–12.7 | Classe365 | Pre-Admissions; Apply; Acceptance; Onboarding; Graduation; Transfer | — | Admissions icon | — | Prospective / applicant routing |
+| 20.2 Human Resources | 17.4; 17.4.8; 17.4.9 | Breezy HR; SuiteDash | Join Our Team; Find Your Fit; Apply; Express Interest | — | HR icon | — | Supersedes old HR → 20.3 references |
+| 20.3 Technical Support | 12.2; 19.8 | SuiteDash | Support Portal; Application; Technical Support FAQ | — | Headset | — | Technical support |
+| 20.4 Student Support | 17.2; 18.1; 19.6 | SuiteDash | Student Portal; Student Life; Career Services; Events | — | Student icon | — | Current-student routing |
+| 20.5 Products & Orders | 09; 10; 15; 15.2 | Shopify | Products; Certification; Bar Review; Pricing; Shop Now | — | Products icon | — | Product / order support |
+| 20.6 Partnerships & Organizations | 17.3.1–17.3.17; 06; 15.4; 15.5 | SuiteDash partner form | Partnerships; Partnership Inquiry; Entrepreneurship; Extended Services | — | Handshake | — | Supersedes old partnership → 20.7 references |
+| 20.7 General Inquiries | 13; 14; 16; 18; 19 | mailto:contact@riahpathway.com; public form | General Inquiry; Tuition; Donations; Accreditation; Media / Press | — | Mail / media icons | — | General contact |
+| Socials | — | Official @RIAHPathway destinations | Social icon links | — | Social icons | — | URLs to attach |
+| Routing Directory | — | — | — | — | — | — | `20. CONTACT/20-CONTACT-CTA-BUTTONS-LINKS-ROUTING.md` |
 
 ---
 
@@ -487,11 +516,11 @@ flowchart LR
 **[BUTTON — CAREER OPPORTUNITIES → 17.2.21]**
 **[BUTTON — CAREER EVENTS CALENDAR → 17.2.31]**
 **[BUTTON — AMBASSADORS → 17.5]**
-**[BUTTON — EVENTS → 18.2]**
-**[BUTTON — PODCASTS → 18.4]**
-**[BUTTON — CONFERENCES → 18.5]**
-**[BUTTON — WORKSHOPS → 18.6]**
-**[BUTTON — WEBINARS → 18.7]**
+**[BUTTON — EVENTS → 18.1]**
+**[BUTTON — PODCASTS → 18.3]**
+**[BUTTON — CONFERENCES → 18.4]**
+**[BUTTON — WORKSHOPS → 18.5]**
+**[BUTTON — WEBINARS → 18.6]**
 
 <!-- JOIN-US-16-SYNCHRONIZED-ROUTING -->
 # 17 JOIN US — SYNCHRONIZED ROUTING
@@ -528,7 +557,7 @@ This routing block is synchronized with the 17.1–17.5 wireframes and the websi
 **[BUTTON — RESOURCES → 18]**
 **[BUTTON — FAQ → 19]**
 **[BUTTON — CONTACT → 20]**
-**[BUTTON — HUMAN RESOURCES → 20.3]**
+**[BUTTON — HUMAN RESOURCES → 20.2]**
 **[BUTTON — APPLY NOW → BREEZY HR]**
 **[BUTTON — EXPRESS INTEREST → SUITEDASH]**
 
