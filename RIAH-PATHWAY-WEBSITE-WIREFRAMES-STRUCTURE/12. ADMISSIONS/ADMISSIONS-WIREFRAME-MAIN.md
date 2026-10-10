@@ -339,7 +339,7 @@ RIAH Pathway accepts Entrepreneurship Program applications **twice annually: Spr
 
 **Enrollment:** [APPLICATION → BUSINESS VERIFICATION → READINESS/NEEDS ASSESSMENT → ADMISSIONS REVIEW → ACCEPTANCE → ENROLLMENT → ORIENTATION → CONCURRENT COURSES + APPLIED BUSINESS WORK WITH EXPERIENTIAL TEAM AND INDEPENDENT PARTNER FIRMS → MILESTONES / COMPLETION]
 
-Entrepreneurship application fee: **$75**. Enrollment deposit: **$500 credited toward tuition**. Program participation may be remote, hybrid or on-site. External affiliate professional services are independently scoped and charged. Standard Education and Experiential applications remain $0; this is a separate entrepreneurship program.
+Entrepreneurship application fee: **$0**. Enrollment deposit: **$500 credited toward tuition**. Program participation may be remote, hybrid or on-site. External affiliate professional services are independently scoped and charged. Standard Education and Experiential applications remain $0; this is a separate entrepreneurship program.
 
 ### Entrepreneurship Payment Choice at Enrollment
 
@@ -431,7 +431,7 @@ Each approved Experiential major requires specific coursework AND verified exper
 | Startup Entrepreneurship | 6.2.1 Apprentice; 6.2.2 New; 6.2.3 One-Year; 6.2.4 Growth | 1 Month; 12 Weeks; 16 Weeks | Spring and Fall |
 | Small Business Entrepreneurship | 6.3.1 Apprentice; 6.3.2 New; 6.3.3 Established; 6.3.4 Recovery & Growth | 1 Month; 12 Weeks; 16 Weeks | Spring and Fall |
 
-**Verification:** Developed startup plans and readiness or legitimate small-business records; assess the level and planned applied work. **Application fee:** $75. **Enrollment deposit:** $500 credited toward program tuition. Published Entrepreneurship prices and separate Extended Services affiliate fees remain documented on Pages 13 and 15.5 respectively.
+**Verification:** Developed startup plans and readiness or legitimate small-business records; assess the level and planned applied work. **Application fee:** $0. **Enrollment deposit:** $500 credited toward program tuition. Published Entrepreneurship prices and separate Extended Services affiliate fees remain documented on Pages 13 and 15.5 respectively.
 
 [BUTTON — ENTREPRENEURSHIP MAIN PAGE → 6]
 [BUTTON — STARTUP ENTREPRENEURSHIP → 6.2]

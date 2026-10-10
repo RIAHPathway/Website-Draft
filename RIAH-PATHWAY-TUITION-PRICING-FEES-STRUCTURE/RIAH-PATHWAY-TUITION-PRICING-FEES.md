@@ -415,8 +415,8 @@ The Entrepreneurship Program has **Spring and Fall cohorts only**, with **remote
 
 | Entrepreneurship Program | Duration | Total Tuition | Application Fee | Enrollment Deposit |
 |---|---|---:|---:|---:|
-| Startup Launch | **12 weeks** | **$5,000** | $75 | $500 credited toward tuition |
-| Small Business Recovery & Growth | **16 weeks** | **$10,000** | $75 | $500 credited toward tuition |
+| Startup Launch | **12 weeks** | **$5,000** | $0 | $500 credited toward tuition |
+| Small Business Recovery & Growth | **16 weeks** | **$10,000** | $0 | $500 credited toward tuition |
 
 ### Entrepreneurship Program Payment Options — Upfront or Monthly
 
@@ -429,13 +429,13 @@ The Entrepreneurship Program has **Spring and Fall cohorts only**, with **remote
 | **Monthly plan, no discount** | **3 payments: $1,666.67 / $1,666.67 / $1,666.66** | **4 payments of $2,500** |
 | First monthly payment remaining after previously paid $500 deposit | **$1,166.67** | **$2,000** |
 | Remaining monthly payments | $1,666.67 then $1,666.66 | Three payments of $2,500 |
-| Separate application fee (not discounted) | $75 | $75 |
+| Separate application fee (not discounted) | $0 | $0 |
 
 **Tuition credit:** The **$500 enrollment deposit counts toward either payment option**. It is deducted from the upfront balance or first monthly installment rather than being added to tuition. The 25% upfront discount is for the **Entrepreneurship Program only** and does not stack with the existing 15% upfront Education/Experiential reduction. Independent partner-firm engagements are priced separately.
 
 **Monthly nonpayment:** An unpaid scheduled installment immediately **pauses the full Entrepreneurship Program**, including curriculum access, courses, program-managed professional sessions, applied business assignments and coordinated partner activities. These resume **when outstanding payments are brought current**, subject to necessary scheduling adjustments. Previously delivered program services remain earned.
 
-**Upfront cancellation and earned revenue:** A participant who paid upfront can **cancel at any time**. As curriculum, courses and program services are used/delivered, the related tuition becomes **earned program revenue**. A completed **four-week program period** earns **$1,250** in the Startup Launch program (3 periods) or **$1,875** in Small Business Recovery & Growth (4 periods), based on discounted prepaid tuition. If cancellation takes place partway through a period, only the portion of the period already delivered/used is earned. The **unused, undelivered portion of the prepaid tuition is refunded**. Upon cancellation, remaining program access and scheduled services stop. The separate $75 application fee and independently contracted affiliate services are outside this prepaid-tuition refund calculation.
+**Upfront cancellation and earned revenue:** A participant who paid upfront can **cancel at any time**. As curriculum, courses and program services are used/delivered, the related tuition becomes **earned program revenue**. A completed **four-week program period** earns **$1,250** in the Startup Launch program (3 periods) or **$1,875** in Small Business Recovery & Growth (4 periods), based on discounted prepaid tuition. If cancellation takes place partway through a period, only the portion of the period already delivered/used is earned. The **unused, undelivered portion of the prepaid tuition is refunded**. Upon cancellation, remaining program access and scheduled services stop. $0 application fee and independently contracted affiliate services are outside this prepaid-tuition refund calculation.
 
 | Upfront Cancellation Illustration | Paid Upfront | Program Used | Earned Program Revenue | Refund of Unused Tuition |
 |---|---:|---|---:|---:|
@@ -1194,7 +1194,7 @@ The Master Active Number Table consolidates the active numerical records used th
 | Executive Experiential | \$20,000 |
 | Startup Launch Entrepreneurship | \$5,000; 12 weeks |
 | Small Business Recovery & Growth Entrepreneurship | \$10,000; 16 weeks |
-| Entrepreneurship Application Fee | \$75 |
+| Entrepreneurship Application Fee | \$0 |
 | Entrepreneurship Deposit (Credited to Tuition) | \$500 |
 | Entrepreneurship Upfront Discount | 25% (does not stack with 15% standard reduction) |
 | Startup Launch Discounted Upfront Tuition | \$3,750 |

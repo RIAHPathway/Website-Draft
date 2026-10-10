@@ -30,8 +30,8 @@ RIAH Pathway provides tuition, fees, payment, funding, contributor benefits, rei
 [VIDEO — Understanding RIAH Pathway Tuition; captions and controls]
 
 [BUTTON — VIEW TUITION → 13.1]
-[BUTTON — PAYMENT OPTIONS → 13.3]
-[BUTTON — BUILD MY PRICE → 13.7]
+[BUTTON — PAYMENT OPTIONS → 13.13]
+[BUTTON — BUILD MY PRICE → 13.19]
 [BUTTON — APPLY NOW → 12 ADMISSIONS]
 [BUTTON — REQUEST INFORMATION → 20 CONTACT]
 
@@ -41,7 +41,7 @@ RIAH Pathway provides tuition, fees, payment, funding, contributor benefits, rei
 
 ### ONE PATHWAY. CLEAR PRICING.
 
-[ICON CARDS — TUITION → 13.1; FEES → 13.2; PAYMENT OPTIONS → 13.3; FUNDING → 13.4; REIMBURSEMENT → 13.5; COSTS → 13.6; PRICING CALCULATOR → 13.7]
+[ICON CARDS — TUITION → 13.1; FEES → 13.11; PAYMENT OPTIONS → 13.13; FUNDING → 13.16; REIMBURSEMENT → 13.17; COSTS → 13.20; PRICING CALCULATOR → 13.19]
 
 [BUTTON — TUITION AND PRICING → 13.1]
 
@@ -105,7 +105,7 @@ Non-J.D. 1/2/3/4 years = $10,000/$20,000/$30,000/$40,000 standard.
 | J.D. | $10,000 | $20,000 | $40,000 |
 | Non-J.D. per required year | $2,500 | $5,000 | $10,000 |
 
-[BUTTON — BUILD MY PRICE → 13.7]
+[BUTTON — BUILD MY PRICE → 13.19]
 
 ---
 
@@ -229,8 +229,8 @@ Included curriculum-based review: **$0 additional where included**. Standalone c
 
 Transfer components: evaluation; alternative credit evaluation; prior learning/credit review; processing/administration. Transfer credit affects academic standing rather than reducing established tuition.
 
-[BUTTON — FEES → 13.2]
-[BUTTON — TRANSFER ADMISSIONS → 12.9]
+[BUTTON — FEES → 13.11]
+[BUTTON — TRANSFER ADMISSIONS → 12.7]
 
 ---
 
@@ -242,8 +242,8 @@ Transfer components: evaluation; alternative credit evaluation; prior learning/c
 
 Applicable $1,000 resource allocation may support books, review courses, laptop/computer resources, software, technology, academic materials, major/program-specific resources, welcome materials, graduation resources and transcripts.
 
-[BUTTON — FEES → 13.2]
-[BUTTON — STUDENT EXPERIENCE → 12.5]
+[BUTTON — FEES → 13.11]
+[BUTTON — STUDENT EXPERIENCE → 12.4]
 
 ---
 
@@ -261,8 +261,8 @@ Applicable $1,000 resource allocation may support books, review courses, laptop/
 
 **Semester:** applicable when configured, allocating the established tuition.
 
-[BUTTON — PAYMENT OPTIONS → 13.3]
-[BUTTON — CALCULATE UPFRONT → 13.7]
+[BUTTON — PAYMENT OPTIONS → 13.13]
+[BUTTON — CALCULATE UPFRONT → 13.19]
 
 ---
 
@@ -276,7 +276,7 @@ Where authorized and eligible, Title IV uses the applicable semester path, not a
 
 J.D. example: $40,000 standard tuition; 4 years; 8 semesters; $5,000/semester; $10,000/year.
 
-[BUTTON — PAYMENT OPTIONS → 13.3]
+[BUTTON — PAYMENT OPTIONS → 13.13]
 [BUTTON — ACCREDITATION AND AUTHORIZATION → 16]
 
 ---
@@ -302,7 +302,7 @@ Loan $500–$5,000; stated minimum credit score 650; maximum one active loan; 5%
 
 Institutional scholarship pool 5%; grant pool 5%; stipend pool 5%; combined architecture 15%. These are institutional pools, **not automatic individual awards**. Individual award = $0 until approved. Potential employer, workforce, donor, community and external funding must be approved before reducing student responsibility.
 
-[BUTTON — FUNDING → 13.4]
+[BUTTON — FUNDING → 13.16]
 [BUTTON — FOUNDATION AND DONATIONS → 14.1]
 
 ---
@@ -315,7 +315,7 @@ Institutional scholarship pool 5%; grant pool 5%; stipend pool 5%; combined arch
 
 Qualifying graduates: 10% guaranteed reimbursement on eligible basis upon qualifying graduation; up to 50% subject to approved milestones. Additional verified milestone increments may be 1%. Exclude scholarship-, grant-, stipend-funded and otherwise nonreimbursable amounts from reimbursement basis.
 
-[BUTTON — REIMBURSEMENT → 13.5]
+[BUTTON — REIMBURSEMENT → 13.17]
 [BUTTON — STUDENT BENEFITS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
 
 ---
@@ -330,7 +330,7 @@ Display eligible basis, guaranteed percentage, graduate points, earned percentag
 
 **Before qualifying completion: $0 released.** Reconcile applicable outstanding loan obligations first.
 
-[BUTTON — REIMBURSEMENT → 13.5]
+[BUTTON — REIMBURSEMENT → 13.17]
 
 ---
 
@@ -346,7 +346,7 @@ Deterministic pathway, eligibility, stage, combination, transfer, experiential, 
 
 Show starting amount, additions, subtractions, percentages, dollar effects, running subtotals, final amount, descriptions and financial category. Unknown config: **PENDING CONFIGURATION**. Unknown external cost: **EXTERNAL — AMOUNT NOT INCLUDED**.
 
-[BUTTON — START PRICING CALCULATOR → 13.7]
+[BUTTON — START PRICING CALCULATOR → 13.19]
 
 ---
 
@@ -399,20 +399,20 @@ Master Pricing Principles; Master Pricing Data Sheet; Pricing Engine; Beta and P
 ### EXPLORE TUITION.
 
 [ICON CARD — TUITION → 13.1]
-[ICON CARD — FEES → 13.2]
-[ICON CARD — PAYMENT OPTIONS → 13.3]
-[ICON CARD — FUNDING → 13.4]
-[ICON CARD — REIMBURSEMENT → 13.5]
-[ICON CARD — COSTS → 13.6]
-[ICON CARD — PRICING CALCULATOR ENGINE → 13.7]
+[ICON CARD — FEES → 13.11]
+[ICON CARD — PAYMENT OPTIONS → 13.13]
+[ICON CARD — FUNDING → 13.16]
+[ICON CARD — REIMBURSEMENT → 13.17]
+[ICON CARD — COSTS → 13.20]
+[ICON CARD — PRICING CALCULATOR ENGINE → 13.19]
 
 [BUTTON — TUITION → 13.1]
-[BUTTON — FEES → 13.2]
-[BUTTON — PAYMENT OPTIONS → 13.3]
-[BUTTON — FUNDING → 13.4]
-[BUTTON — REIMBURSEMENT → 13.5]
-[BUTTON — COSTS → 13.6]
-[BUTTON — PRICING CALCULATOR → 13.7]
+[BUTTON — FEES → 13.11]
+[BUTTON — PAYMENT OPTIONS → 13.13]
+[BUTTON — FUNDING → 13.16]
+[BUTTON — REIMBURSEMENT → 13.17]
+[BUTTON — COSTS → 13.20]
+[BUTTON — PRICING CALCULATOR → 13.19]
 
 ---
 
@@ -434,12 +434,35 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 
 **EDUCATION • EXPERIENCE • CERTIFICATIONS • CAREER • LEGACY**
 
-[BUTTON — BUILD MY PRICE → 13.7]
+[BUTTON — BUILD MY PRICE → 13.19]
 [BUTTON — EXPLORE TUITION → 13.1]
-[BUTTON — EXPLORE FUNDING → 13.4]
+[BUTTON — EXPLORE FUNDING → 13.16]
 [BUTTON — CONTRIBUTOR BENEFITS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md]
 [BUTTON — APPLY NOW → 12 ADMISSIONS]
 [BUTTON — REQUEST INFORMATION → 20 CONTACT]
+
+---
+
+## 26 — SERVICE PRICING AND CROSS-PAGE ROUTING
+
+### ENTREPRENEURSHIP — NON-DEGREE OFFERING
+
+Startup Launch: 12 weeks, $5,000 standard tuition; Small Business Recovery & Growth: 16 weeks, $10,000 standard tuition. Application $0. The $500 deposit is credited toward tuition. Upfront 25% discount yields $3,750 / $7,500, or choose 3 / 4 full-tuition monthly installments. An unpaid installment pauses the program; eligible cancellation refunds unused prepaid tuition net of delivered services. Additional eight-level configuration prices require approval.
+
+### EXTENDED SERVICES — INDEPENDENT AFFILIATES
+
+Business intake $49 (business-paid); affiliate recruitment/vetting $99 and qualified partner introduction $50 (affiliate-paid). Professional legal, CPA, cybersecurity and development services are separately contracted and quoted. [BUTTON — ENTREPRENEURSHIP PROGRAM → 15.4] [BUTTON — EXTENDED SERVICES → 15.5] [BUTTON — PARTNERSHIPS → 17.3]
+
+### LAW COMMUNITY INITIATIVE — JUSTICE-IMPACTED COMMUNITY SERVICES
+
+Participating independent attorney assistance: $125 for an agreed eligible matter. Separate voluntary Foundation contribution: $25, never a condition for legal assistance or an attorney referral. Court costs vary by jurisdiction and are paid separately. RIAH facilitates introductions but does not practice law or guarantee outcomes. [BUTTON — JUSTICE-IMPACTED COMMUNITY SERVICES → 15.3] [BUTTON — DONATIONS → 14]
+
+### FINANCIAL SOURCE AND SITE ROUTING
+
+[TUITION DATA SOURCE — RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
+[BUTTON — PRICING CALCULATOR ENGINE → 13.19]
+[BUTTON — STUDENT RESOURCE ALLOCATION AND FEES → 13.11]
+[BUTTON — TRANSFER STUDENTS → 12.7]
 
 ---
 
@@ -450,8 +473,8 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 | 01 HERO | IMAGE | Student reviewing tuition, payment, funding and pricing calculator | — |
 | 01 HERO | VIDEO | Understanding RIAH Pathway Tuition; captions and controls | — |
 | 01 HERO | BUTTON | VIEW TUITION | 13.1 |
-| 01 HERO | BUTTON | PAYMENT OPTIONS | 13.3 |
-| 01 HERO | BUTTON | BUILD MY PRICE | 13.7 |
+| 01 HERO | BUTTON | PAYMENT OPTIONS | 13.13 |
+| 01 HERO | BUTTON | BUILD MY PRICE | 13.19 |
 | 01 HERO | BUTTON | APPLY NOW | 12 ADMISSIONS |
 | 01 HERO | BUTTON | REQUEST INFORMATION | 20 CONTACT |
 | 02 TUITION OVERVIEW | ICON CARD | S — TUITION | 13.1; FEES |
@@ -462,7 +485,7 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 | 04 ACADEMIC TUITION | BUTTON | HIGH SCHOOL | 7 |
 | 04 ACADEMIC TUITION | BUTTON | GED/HSE | 8 |
 | 04 ACADEMIC TUITION | BUTTON | CURRICULUM | 11 |
-| 05 ACADEMIC PRICING BY STAGE | BUTTON | BUILD MY PRICE | 13.7 |
+| 05 ACADEMIC PRICING BY STAGE | BUTTON | BUILD MY PRICE | 13.19 |
 | 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | IMAGE | Education plus supervised professional experience | — |
 | 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | BUTTON | EXPERIENTIAL | 5 |
 | 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | BUTTON | CALCULATE INTEGRATED TUITION | 13.7 |
@@ -483,30 +506,30 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 | 10 CERTIFICATION AND REVIEW | BUTTON | CERTIFICATION REVIEW | 9 |
 | 10 CERTIFICATION AND REVIEW | BUTTON | BAR REVIEW | 10 |
 | 10 CERTIFICATION AND REVIEW | BUTTON | PRODUCTS AND SERVICES | 15 |
-| 11 FEES AND DEPOSITS | BUTTON | FEES | 13.2 |
+| 11 FEES AND DEPOSITS | BUTTON | FEES | 13.11 |
 | 11 FEES AND DEPOSITS | BUTTON | TRANSFER ADMISSIONS | 12.9 |
 | 12 EDUCATION DEPOSIT RESOURCES | IMAGE | Student resource package | — |
-| 12 EDUCATION DEPOSIT RESOURCES | BUTTON | FEES | 13.2 |
+| 12 EDUCATION DEPOSIT RESOURCES | BUTTON | FEES | 13.11 |
 | 12 EDUCATION DEPOSIT RESOURCES | BUTTON | STUDENT EXPERIENCE | 12.5 |
 | 13 PAYMENT OPTIONS | ICON CARD | S — UPFRONT; MONTHLY; PER COURSE; SEMESTER | — |
-| 13 PAYMENT OPTIONS | BUTTON | PAYMENT OPTIONS | 13.3 |
-| 13 PAYMENT OPTIONS | BUTTON | CALCULATE UPFRONT | 13.7 |
+| 13 PAYMENT OPTIONS | BUTTON | PAYMENT OPTIONS | 13.13 |
+| 13 PAYMENT OPTIONS | BUTTON | CALCULATE UPFRONT | 13.19 |
 | 14 TITLE IV PAYMENT PATH | IMAGE | Semester financial-aid timeline | — |
-| 14 TITLE IV PAYMENT PATH | BUTTON | PAYMENT OPTIONS | 13.3 |
+| 14 TITLE IV PAYMENT PATH | BUTTON | PAYMENT OPTIONS | 13.13 |
 | 14 TITLE IV PAYMENT PATH | BUTTON | ACCREDITATION AND AUTHORIZATION | 16 |
 | 15 RIAH PRIVATE STUDENT LOAN | IMAGE | Private education financing | — |
 | 15 RIAH PRIVATE STUDENT LOAN | BUTTON | LOAN INFORMATION | 13.3 |
 | 15 RIAH PRIVATE STUDENT LOAN | POLICY LINK | PRIVATE LOAN TERMS | 18 POLICIES; CANONICAL SUBROUTE PENDING |
 | 16 FUNDING | IMAGE | Student funding resources | — |
-| 16 FUNDING | BUTTON | FUNDING | 13.4 |
+| 16 FUNDING | BUTTON | FUNDING | 13.16 |
 | 16 FUNDING | BUTTON | FOUNDATION AND DONATIONS | 14.1 |
 | 17 TUITION REIMBURSEMENT AND GRADUATE BENEFITS | IMAGE | Graduate reimbursement and points | — |
-| 17 TUITION REIMBURSEMENT AND GRADUATE BENEFITS | BUTTON | REIMBURSEMENT | 13.5 |
+| 17 TUITION REIMBURSEMENT AND GRADUATE BENEFITS | BUTTON | REIMBURSEMENT | 13.17 |
 | 17 TUITION REIMBURSEMENT AND GRADUATE BENEFITS | BUTTON | STUDENT BENEFITS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md |
 | 18 REIMBURSEMENT ESCROW | IMAGE | Reimbursement escrow dashboard | — |
-| 18 REIMBURSEMENT ESCROW | BUTTON | REIMBURSEMENT | 13.5 |
+| 18 REIMBURSEMENT ESCROW | BUTTON | REIMBURSEMENT | 13.17 |
 | 19 PRICING CALCULATOR ENGINE | IMAGE | Interactive Pricing Calculator Engine | — |
-| 19 PRICING CALCULATOR ENGINE | BUTTON | START PRICING CALCULATOR | 13.7 |
+| 19 PRICING CALCULATOR ENGINE | BUTTON | START PRICING CALCULATOR | 13.19 |
 | 20 COSTS AND REFUNDS | BUTTON | COSTS AND REFUNDS | 13.6 |
 | 20 COSTS AND REFUNDS | POLICY LINK | REFUND POLICY | 18 POLICIES; SUBROUTE PENDING |
 | 21 EXTERNAL COSTS | ICON | External cost | — |
@@ -517,24 +540,24 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 | 22 TUITION POLICIES AND DOCUMENTATION | DOWNLOAD | COSTS, REFUNDS AND POLICIES GUIDE | SUITEDASH PUBLIC DOCUMENTATION CENTER; FILE PENDING |
 | 22 TUITION POLICIES AND DOCUMENTATION | BUTTON | RESOURCES | 18 |
 | 23 TUITION DIRECTORY | ICON CARD | TUITION | 13.1 |
-| 23 TUITION DIRECTORY | ICON CARD | FEES | 13.2 |
-| 23 TUITION DIRECTORY | ICON CARD | PAYMENT OPTIONS | 13.3 |
-| 23 TUITION DIRECTORY | ICON CARD | FUNDING | 13.4 |
-| 23 TUITION DIRECTORY | ICON CARD | REIMBURSEMENT | 13.5 |
-| 23 TUITION DIRECTORY | ICON CARD | COSTS | 13.6 |
-| 23 TUITION DIRECTORY | ICON CARD | PRICING CALCULATOR ENGINE | 13.7 |
+| 23 TUITION DIRECTORY | ICON CARD | FEES | 13.11 |
+| 23 TUITION DIRECTORY | ICON CARD | PAYMENT OPTIONS | 13.13 |
+| 23 TUITION DIRECTORY | ICON CARD | FUNDING | 13.16 |
+| 23 TUITION DIRECTORY | ICON CARD | REIMBURSEMENT | 13.17 |
+| 23 TUITION DIRECTORY | ICON CARD | COSTS | 13.20 |
+| 23 TUITION DIRECTORY | ICON CARD | PRICING CALCULATOR ENGINE | 13.19 |
 | 23 TUITION DIRECTORY | BUTTON | TUITION | 13.1 |
-| 23 TUITION DIRECTORY | BUTTON | FEES | 13.2 |
-| 23 TUITION DIRECTORY | BUTTON | PAYMENT OPTIONS | 13.3 |
-| 23 TUITION DIRECTORY | BUTTON | FUNDING | 13.4 |
-| 23 TUITION DIRECTORY | BUTTON | REIMBURSEMENT | 13.5 |
-| 23 TUITION DIRECTORY | BUTTON | COSTS | 13.6 |
-| 23 TUITION DIRECTORY | BUTTON | PRICING CALCULATOR | 13.7 |
+| 23 TUITION DIRECTORY | BUTTON | FEES | 13.11 |
+| 23 TUITION DIRECTORY | BUTTON | PAYMENT OPTIONS | 13.13 |
+| 23 TUITION DIRECTORY | BUTTON | FUNDING | 13.16 |
+| 23 TUITION DIRECTORY | BUTTON | REIMBURSEMENT | 13.17 |
+| 23 TUITION DIRECTORY | BUTTON | COSTS | 13.20 |
+| 23 TUITION DIRECTORY | BUTTON | PRICING CALCULATOR | 13.19 |
 | 24 FAQ PREVIEW | BUTTON | TUITION FAQ | 19; TUITION SUBROUTE TO VERIFY |
 | 25 FINAL CTA | IMAGE | Education | Experience |
-| 25 FINAL CTA | BUTTON | BUILD MY PRICE | 13.7 |
+| 25 FINAL CTA | BUTTON | BUILD MY PRICE | 13.19 |
 | 25 FINAL CTA | BUTTON | EXPLORE TUITION | 13.1 |
-| 25 FINAL CTA | BUTTON | EXPLORE FUNDING | 13.4 |
+| 25 FINAL CTA | BUTTON | EXPLORE FUNDING | 13.16 |
 | 25 FINAL CTA | BUTTON | CONTRIBUTOR BENEFITS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md |
 | 25 FINAL CTA | BUTTON | APPLY NOW | 12 ADMISSIONS |
 | 25 FINAL CTA | BUTTON | REQUEST INFORMATION | 20 CONTACT |

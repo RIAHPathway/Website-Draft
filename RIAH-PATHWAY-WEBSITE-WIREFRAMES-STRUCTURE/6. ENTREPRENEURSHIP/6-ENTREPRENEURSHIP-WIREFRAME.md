@@ -313,7 +313,7 @@ Entrepreneurship operates **Spring and Fall only**. Professional Experiential an
 
 | Fee / component | Amount |
 | --- | --- |
-| Entrepreneurship application fee | $75 |
+| Entrepreneurship application fee | $0 |
 | Entrepreneurship enrollment deposit | $500, credited toward tuition |
 | Orientation, coursework and assessment | Included |
 | Independent professional firm services | Separate quote and contract if selected |
