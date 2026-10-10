@@ -3,6 +3,7 @@
 
 **Page:** 14 — Donations  
 **Subpages:** 14.1 Foundation • 14.2 Accreditation • 14.3 State Authorization  
+**Combined CTA / Buttons / Links / Downloads / Media Routing:** [14-DONATIONS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md](./14-DONATIONS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)  
 **Related Main Pages:** 2 About • 12 Admissions • 13 Tuition • 15 Products & Services • 16 Accreditation & Authorization • 17 Join Us • 18 Resources • 19 FAQ • 20 Contact  
 **Color Palette:** Red • Black • White • Silver • Gold Crown Accent  
 **Header and Footer:** Managed globally and intentionally omitted from this page wireframe.
