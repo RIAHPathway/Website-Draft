@@ -601,6 +601,17 @@ The separate School of Entrepreneurship combines structured coursework with conc
 
 ### MINOR CURRICULUM
 
+### ACCELERATED EDUCATION — ACCESS WITHOUT LOWERING ACADEMIC STANDARDS
+
+[ICON — VERIFIED ACADEMIC PROGRESSION]
+
+Eligible education pathways from GED/HSE preparation and High School to Associate's, Bachelor's, Minor, Master's, MBA, J.D., and qualifying Non-J.D. education support accelerated **internal course progression** where permitted. The earliest potential internal curriculum-completion window is **one month** if every required component is completed or approved for transfer and all jurisdictional and institutional minimum study times allow it. One month is not a guaranteed award, diploma, official GED/HiSET credential, bar eligibility, or license. RIAH Pathway's emphasis is education that is accessible and affordable, not easier.
+
+All required courses, prerequisites, objective assessments (OA) and performance assessments (PA) with a **minimum passing score of 80%**, assigned review courses meeting a separate **80% internal standard**, required projects and proctoring, applicable documented supervision hours, and mandatory capstones remain in place. Acceleration does not waive external examinations, professional requirements, state attendance rules or required duration. Professional Experiential and Entrepreneurship Experiential programs have **no acceleration**; standalone review coursework may progress at the learner's own pace.
+
+[FLOW — REQUIRED COURSES OR APPROVED TRANSFER → PREREQUISITE VERIFICATION → OA + PA AT 80% MINIMUM → REQUIRED REVIEW COURSE AT 80% MINIMUM → PROJECTS + SUPERVISION HOURS + CAPSTONES → PROGRAM AND LEGAL COMPLIANCE CHECK → APPROVED COMPLETION]
+
+
 **Standard Minor Size:** 15 Credits.
 
 **Typical Structure:** Five courses worth three credits each.
@@ -1987,6 +1998,13 @@ Each of the eight approved levels uses its assigned collection and actual busine
 
 ### ENTREPRENEURSHIP DURATION AND MILESTONE FLOW
 
+### ENTREPRENEURSHIP IS NOT ACCELERATED
+
+[ICON — FIXED-DURATION APPLIED BUSINESS STUDY]
+
+Entrepreneurship Experiential is a distinct program and **does not offer acceleration**. Each selected startup or small-business level retains its published period of participation, business implementation milestones, applied coursework, professional supervision, reviews and capstone. Faster completion of separate academic courses cannot shorten this program.
+
+
 [FLOW — 1 MONTH: WEEK 1 ORIENTATION + READINESS → WEEK 2 FOUNDATIONS → WEEK 3 APPLIED IMPLEMENTATION → WEEK 4 REVIEW + COMPLETION]
 
 [FLOW — 12 WEEKS: WEEKS 1–4 DIAGNOSTIC + COURSEWORK → WEEKS 5–8 OPERATING WORK + PROFESSIONAL COLLABORATION → WEEKS 9–12 PERFORMANCE REVIEW + CAPSTONE]
@@ -2088,6 +2106,13 @@ Entrepreneurship enrollment is not required to use approved Extended Services. R
 [IMAGE — Secondary education students using laptops, workbooks, and academic learning materials.]
 
 ## HIGH SCHOOL DIPLOMA
+
+### SECONDARY EDUCATION PACING
+
+[ICON — GED/HSE AND HIGH SCHOOL ACADEMIC PROGRESSION]
+
+GED/HSE preparation typically takes approximately **one year** based on readiness, while a High School Diploma typically takes **four years**. Eligible students may advance through internal preparatory or high-school coursework faster, potentially completing internal curriculum within **one month** only after required courses or approved transfers, applicable OA and PA passing scores of **80% minimum**, projects, state graduation conditions, attendance and mandatory time requirements are met. Official GED/HiSET testing and credential issuance are separate from internal preparation completion.
+
 
 **Named School:** School of Diploma. The existing approved High School Diploma curriculum requirements remain unchanged.
 
@@ -2263,6 +2288,13 @@ Official GED or HiSET examination and credential issuance remain separate from R
 [IMAGE — Student completing a digital academic assessment.]
 
 ## ASSESSMENT IS BUILT INTO THE CURRICULUM
+
+### ASSESSMENT AND PERFORMANCE STANDARDS DURING ACCELERATION
+
+[TEXT — FASTER PROGRESSION DOES NOT REDUCE ACADEMIC RIGOR]
+
+Students must complete every required course or obtain approved transfer credit and satisfy prerequisites, applicable **80% minimum** objective assessments and performance assessments, assigned review courses requiring a separate **80% internal minimum**, proctoring, required practical work, projects, supervision hours and capstones. Program, state and accreditor requirements govern whether an award can be issued, regardless of how quickly internal coursework was completed.
+
 
 RIAH Pathway maintains its own institutional assessments in addition to applicable assessments provided through instructional courseware.
 
@@ -2649,6 +2681,17 @@ RIAH Pathway academic programs support acceleration based on academic readiness,
 | High School | Four Years |
 | GED/HSE | Based on Readiness and Preparation Requirements |
 
+### ADDITIONAL STANDARD DURATIONS AND ONE-MONTH CURRICULUM OPTION
+
+[TEXT — TYPICAL COMPLETION PLANS DIFFER FROM ELIGIBLE ACCELERATED COURSE PACING]
+
+Typical GED/HSE **preparation** is approximately **one year**, High School **four years**, Associate's **two years**, Bachelor's **four years**, Minor **one semester to one year**, Master's **one year**, MBA **one year**, and RIAH J.D. **four years**. These durations are planning estimates; where all coursework and assessments are fulfilled, eligible internal education curricula may potentially be completed in **one month** if no mandatory period prevents it.
+
+Non-J.D. law-study periods depend on the state and type of route. **California** requires four years in its approved Law Office Study program. **Maine** requires at least one year in an attorney's office **after** the applicant has completed two-thirds of an ABA-accredited law school's degree requirements; this is not a standalone one-year law program. Applicable J.D. conferral, ABA, state registration, supervised law-study, residency and minimum-duration requirements cannot be bypassed. In particular, an accredited J.D. cannot be conferred in one month in violation of required minimum time.
+
+**No acceleration** applies to Professional Experiential or Entrepreneurship Experiential. Review courses may be completed at the learner's pace after satisfying all assigned modules and the applicable 80% minimum internal assessment standards; external testing dates and licensing remain separate.
+
+
 ### ACCELERATION
 
 One month is the earliest potential curriculum-completion timeframe where permitted by the applicable program requirements.
@@ -2707,6 +2750,13 @@ Next Course Unlocked
 [IMAGE — Professional certification materials, practice assessments, and professional software.]
 
 ## CERTIFICATION REVIEW
+
+### REVIEW COURSES AT THE LEARNER'S PACE
+
+[ICON — SELF-PACED CERTIFICATION AND BAR PREPARATION]
+
+Certification review, Bar Review, California Baby Bar preparation, and other qualifying review courses may be accelerated according to student readiness. Assigned content, practice assessments, simulations, and **80% minimum** on relevant internal objective and performance assessments remain required. Completing an internal review course does not automatically confer any external certification, bar examination pass, or professional license.
+
 
 Certification review may be embedded into an applicable academic pathway or designated certification track.
 
@@ -2906,6 +2956,13 @@ Applicable Capstone
 [IMAGE — Students working with supervisors across Business, Homeland Security, Technology, and Law.]
 
 ## EXPERIENCE THROUGH APPLICATION
+
+### FIXED-DURATION PROFESSIONAL EXPERIENTIAL — NO ACCELERATION
+
+[ICON — SUPERVISED WORK AND PLACEMENTS]
+
+Professional Experiential has **no acceleration**: Apprentice is **one month**, Intern **three months**, and Associate, Senior Associate, Manager and Executive **one year each**. Actual work, required supervision, deliverables, performance assessments and participation for the full prescribed term are mandatory. Entrepreneurship Experiential likewise cannot be shortened through academic acceleration.
+
 
 RIAH Pathway maintains its own experiential curriculum, professional assignments, assessment requirements, placement structure, and supervision standards.
 
@@ -3190,6 +3247,13 @@ Program Completion
 [ICON — LAW]
 
 ## J.D. AND NON-J.D. CURRICULUM INTEGRATION
+
+### LAW COURSE ACCELERATION VERSUS LEGAL STUDY DURATION
+
+[ICON — STATE-APPROVED LAW SUPERVISION]
+
+Students may progress efficiently through RIAH's internal legal curriculum, but typical J.D. study is **four years** and applicable institutional, ABA and state minimum study periods remain binding. California Law Office Study requires **four years** of state-approved supervision. Maine's alternative route includes **at least one year** in a Maine attorney's office only **after two-thirds of an ABA-accredited law-school curriculum** has been completed. All required coursework or approved credit, **80% minimum** OA and PA and applicable internal review courses, documented supervision hours and capstones must be satisfied. One-month internal course pacing never guarantees a one-month J.D., qualification to sit for the bar, or a law license.
+
 
 The J.D. and Non-J.D. pathways remain separate programs while utilizing the applicable RIAH legal curriculum, products, and review architecture.
 

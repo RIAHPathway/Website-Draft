@@ -11,6 +11,13 @@
 
 ## J.D. AND NON-J.D. CURRICULUM INTEGRATION
 
+### J.D. AND NON-J.D. ACCELERATION IS SUBJECT TO LAW
+
+[ICON — STATE LAW-STUDY AND DEGREE REQUIREMENTS]
+
+The RIAH J.D. pathway typically takes **four years**. Eligible legal students may accelerate internal coursework but not applicable credit, supervision, accredited J.D. minimum-duration or state law-study obligations. California's Law Office Study program requires **four years** of approved supervised legal study. Maine's law-office pathway requires **at least one year** in a Maine attorney's office **after** successful completion of two-thirds of an ABA-accredited law school's graduation requirements; Maine's one-year component is not a standalone law program. Required or approved transferred coursework, applicable objective and performance assessments at **80% minimum**, assigned review courses at **80% minimum**, supervision logs and hours, and applicable capstones remain mandatory. A one-month internal curriculum target never overrides required legal study periods or establishes bar eligibility or licensing.
+
+
 The J.D. and Non-J.D. pathways remain separate programs while utilizing the applicable RIAH legal curriculum, products, and review architecture.
 
 The academic and jurisdictional requirements surrounding shared legal content differ by pathway.

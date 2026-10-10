@@ -13,6 +13,13 @@
 
 ## EXPERIENCE THROUGH APPLICATION
 
+### PROFESSIONAL EXPERIENTIAL IS FIXED-DURATION
+
+[ICON — SUPERVISED REAL-WORLD PLACEMENT]
+
+Professional Experiential levels **do not offer acceleration**: Apprentice remains **one month**; Intern **three months**; and Associate, Senior Associate, Manager and Executive **one year each**. Every level retains its required period of supervised participation, actual assignments, deliverables, performance reviews and completion requirements. Academic acceleration does not shorten placements; Entrepreneurship Experiential has its own separately fixed periods and cannot be accelerated either.
+
+
 RIAH Pathway maintains its own experiential curriculum, professional assignments, assessment requirements, placement structure, and supervision standards.
 
 

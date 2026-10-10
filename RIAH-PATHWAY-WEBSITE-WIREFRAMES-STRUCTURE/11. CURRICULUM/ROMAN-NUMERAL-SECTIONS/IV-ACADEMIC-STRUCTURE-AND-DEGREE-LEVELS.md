@@ -108,6 +108,15 @@ The separate School of Entrepreneurship combines structured coursework with conc
 
 ### MINOR CURRICULUM
 
+### ACADEMIC ACCELERATION, ACCESSIBILITY AND COMPLETION
+
+[ICON — VERIFIED ACADEMIC PROGRESSION]
+
+Eligible education pathways from GED/HSE preparation and High School through Associate's, Bachelor's, Minor, Master's, MBA, J.D., and qualifying Non-J.D. routes may offer accelerated **internal coursework**, potentially as little as **one month** only when all curriculum requirements and legally applicable minimum study periods permit. This promotes accessible, affordable education, **not easier academic standards**. Every required course or approved transfer, prerequisite, objective assessment and performance assessment at **80% minimum**, assigned internal review course at **80% minimum**, supervised hours, required projects and capstones must be completed and verified. State attendance, residency, accreditation, mandatory duration, external credentialing and examination rules remain controlling; a one-month internal target does not guarantee degree conferral or professional licensure. Professional Experiential and Entrepreneurship Experiential programs **cannot be accelerated**. Standalone review courses may be completed at the learner's own pace.
+
+[FLOW — REQUIRED COURSES OR APPROVED TRANSFER → PREREQUISITES → OA + PA AT 80% MINIMUM → APPLICABLE REVIEW AT 80% MINIMUM → REQUIRED HOURS + CAPSTONES → VERIFIED COMPLETION]
+
+
 **Standard Minor Size:** 15 Credits.
 
 **Typical Structure:** Five courses worth three credits each.

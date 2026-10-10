@@ -13,6 +13,13 @@
 
 ## ASSESSMENT IS BUILT INTO THE CURRICULUM
 
+### NON-WAIVABLE ASSESSMENT AND SUPERVISION REQUIREMENTS
+
+[TEXT — ONE-MONTH INTERNAL COURSE PACING DOES NOT LOWER RIGOR]
+
+Whether academic coursework is completed at a typical or accelerated pace, all required courses or approved transferred equivalents and prerequisites must be satisfied; applicable objective assessments (OA) and performance assessments (PA) must reach the **80% minimum**; assigned certification or review courses have their own **80% internal minimum**. Required projects, proctored tests, practical or clinical work, documented supervision hours, capstones, program completion verification and applicable minimum durations cannot be omitted.
+
+
 RIAH Pathway maintains its own institutional assessments in addition to applicable assessments provided through instructional courseware.
 
 ### OBJECTIVE ASSESSMENTS

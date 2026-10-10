@@ -15,6 +15,13 @@
 
 ## HIGH SCHOOL DIPLOMA
 
+### SECONDARY EDUCATION TYPICAL DURATIONS AND ACCELERATION
+
+[ICON — VERIFIED SECONDARY ACADEMIC PROGRESSION]
+
+GED/HSE **preparation** typically takes about **one year**, while High School Diploma study typically takes **four years**. Eligible learners may progress through required internal coursework faster, potentially in as little as **one month** only if every required course or approved transfer, applicable objective and performance assessments with an **80% minimum**, assignments, projects, attendance requirements, state-specific requirements and mandatory study periods are satisfied. Accelerated preparation never waives official GED/HiSET testing, credential issuance or applicable state graduation conditions.
+
+
 **Named School:** School of Diploma. The existing approved High School Diploma curriculum requirements remain unchanged.
 
 ### HIGH SCHOOL CURRICULUM

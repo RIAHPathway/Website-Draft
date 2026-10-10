@@ -72,6 +72,13 @@ Each of the eight approved levels uses its assigned collection and actual busine
 
 ### ENTREPRENEURSHIP DURATION AND MILESTONE FLOW
 
+### ENTREPRENEURSHIP PROGRAMS DO NOT ACCELERATE
+
+[ICON — APPLIED BUSINESS MILESTONES]
+
+Entrepreneurship Experiential is **not eligible for accelerated completion**. Each startup and small-business program retains its specified duration, active business implementation, required assessments, professional supervision, reviews, and applied business capstone. Accelerating a separate academic degree, High School, or GED/HSE preparation course does not shorten an Entrepreneurship program.
+
+
 [FLOW — 1 MONTH: WEEK 1 ORIENTATION + READINESS → WEEK 2 FOUNDATIONS → WEEK 3 APPLIED IMPLEMENTATION → WEEK 4 REVIEW + COMPLETION]
 
 [FLOW — 12 WEEKS: WEEKS 1–4 DIAGNOSTIC + COURSEWORK → WEEKS 5–8 OPERATING WORK + PROFESSIONAL COLLABORATION → WEEKS 9–12 PERFORMANCE REVIEW + CAPSTONE]

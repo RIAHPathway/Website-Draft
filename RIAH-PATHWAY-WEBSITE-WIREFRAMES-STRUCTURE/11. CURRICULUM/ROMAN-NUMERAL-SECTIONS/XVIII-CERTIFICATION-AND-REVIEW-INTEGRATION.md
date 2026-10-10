@@ -13,6 +13,13 @@
 
 ## CERTIFICATION REVIEW
 
+### SELF-PACED REVIEW COURSE COMPLETION
+
+[ICON — LEARNER-PACED CREDENTIAL PREPARATION]
+
+Certification review, Bar Review, Baby Bar preparation and qualifying review courses can be completed at the student's learning pace, including faster progression when ready. Required instruction, assigned practice or simulations, and **80% minimum** on applicable internal objective and performance assessments still control completion. Passing an internal review course does not automatically confer an external certification, state bar examination pass or professional license; those requirements and examination schedules remain separate.
+
+
 Certification review may be embedded into an applicable academic pathway or designated certification track.
 
 ### CREDENTIAL CURRICULUM — OBJECTIVES AND MAPPING
