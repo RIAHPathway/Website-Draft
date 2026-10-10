@@ -291,7 +291,7 @@ Each category displays its applicable curriculum content directly within the Cur
 
 [ON-PAGE LINK — 11.8 EXPERIENTIAL → SECTION XX: EXPERIENTIAL CURRICULUM]
 
-[ON-PAGE LINK — 11.9 CERTIFICATION & REVIEW → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
+[ON-PAGE LINK — 11.9 CREDENTIAL → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
 
 [ON-PAGE LINK — 11.10 CURRICULUM ARCHITECTURE → SECTION XXIV: CURRICULUM ARCHITECTURE]
 
@@ -299,7 +299,7 @@ Each category displays its applicable curriculum content directly within the Cur
 
 [ON-PAGE LINK — ENTREPRENEURSHIP CURRICULUM → SECTION X: SCHOOL OF ENTREPRENEURSHIP CURRICULUM]
 
-[ON-PAGE LINK — CREDENTIAL CURRICULUM → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
+[ON-PAGE LINK — CREDENTIAL → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
 
 [ON-PAGE LINK — ACADEMIC QUALITY AND FACULTY → SECTION XXIX: FACULTY CURRICULUM AND ACADEMIC DEVELOPMENT]
 
@@ -460,11 +460,11 @@ They are not additional buttons directing users back to the page they are alread
 - **School of Homeland Security** — Homeland Security Core and aligned majors: 11.3; 4.2.2.
 - **School of GED** — GED/HSE preparation and applicable concurrent college credits: 11.7; 8.
 - **School of Diploma** — High School Diploma, approved transfer entry, and dual enrollment: 11.6; 7.
-- **School of HBCU** — A named institutional school; specific courses and degree requirements follow separately approved curriculum documentation and must not be invented from another program.
+- **School of Credential** — Certification Review and Bar Review, including applicable professional certification preparation, state-specific Bar Review modules, and California Baby Bar preparation: 11.9; 9; 10.
 - **School of Experiential** — Six professional experiential levels, curriculum, supervision, and projects: 11.8; 5.
 - **School of Entrepreneurship** — Separate eight-level Startup and Small Business entrepreneurship program: dedicated Roman-numeral curriculum section; 6.
 
-[ICON — HBCU]
+[ICON — CREDENTIAL]
 
 [ICON — ENTREPRENEURSHIP]
 
@@ -3842,7 +3842,7 @@ RIAH Pathway protected curriculum intellectual property resides within approved 
 
 [DOCUMENT — ENTREPRENEURSHIP ACADEMIC MAJOR — SCHOOL OF BUSINESS]
 
-[DOCUMENT — SCHOOL OF HBCU — APPROVED CURRICULUM DETAIL WHEN AVAILABLE]
+[DOCUMENT — SCHOOL OF CREDENTIAL — CERTIFICATION AND BAR REVIEW CURRICULUM]
 
 [DOCUMENT — FACULTY CURRICULUM]
 
@@ -4142,7 +4142,7 @@ Restricted materials are not public website downloads.
 | 11.6 High School | XI. High School Diploma | On-Page Anchor |
 | 11.7 GED/HSE | XI. GED/HSE Preparation | On-Page Anchor |
 | 11.8 Experiential | XX. Experiential Curriculum | On-Page Anchor |
-| 11.9 Certification & Review | XVIII. Certification and Review Integration | On-Page Anchor |
+| 11.9 Credential | XVIII. Certification and Review Integration | On-Page Anchor |
 | 11.10 Curriculum Architecture | XXIV. Curriculum Architecture | On-Page Anchor |
 
 The navigation links reference existing sections; they do not create a replacement sitemap, add a Curriculum self-link, or change existing cross-page CTA destinations.
@@ -4431,7 +4431,7 @@ Buttons route to the applicable related website section, admissions pathway, pro
 
 [ON-PAGE LINK — EXPERIENTIAL → SECTION XX]
 
-[ON-PAGE LINK — CREDENTIAL REVIEW → SECTION XVIII]
+[ON-PAGE LINK — CREDENTIAL → SECTION XVIII]
 
 [ON-PAGE LINK — CURRICULUM ARCHITECTURE → SECTION XXIV]
 
