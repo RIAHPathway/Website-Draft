@@ -45,6 +45,28 @@ The website will launch in **October 2026** as I continue to build, develop, rev
 
 **Later, demand-based hiring:** Planned experiential positions across the four schools (up to 120 in the staffing plan, not immediate openings), additional experiential positions beyond 120, product and service contractors, and JD/non-JD attorney and judge supervisors use the same recruitment process once organizational demand and resources are confirmed. They do not yet have fixed dates.
 
+### 💼 Compensation, Equity, Vesting & Maximum (MX) Reference
+
+The following table summarizes the public compensation and equity framework referenced by the Join Us hiring materials. Terms vary by position and stage; equity is earned through the applicable performance and participation requirements, and final terms are governed by the relevant role profile and signed agreement. The maximum (MX) field is a reference to applicable role-specific caps rather than a single universal award.
+
+| Row Label | Item | Schedule, Amount or Measure | Description |
+|---|---|---|---|
+| 1 | 💵 Startup compensation | Minimum **$250 per week** for the previously specified CTO and CISO startup roles | Initial startup-stage compensation; changes depend on business revenue, profit, and agreed role terms. This figure is not represented as the pay rate for every listed position. |
+| 2 | 📈 Compensation progression | Revenue- and profit-dependent | Later-stage compensation increases depend on organizational performance, available resources and the applicable role agreement. |
+| 3 | 🏛️ CTO and CISO equity | **12.5% total equity per role** under the previously specified co-founder terms | Role-specific proposed equity allocation, subject to vesting, performance, contributions, deliverables and signed agreements; not a universal allocation for all hiring rounds. |
+| 4 | 📅 Four-year vesting schedule | **4 years / 48 months** | Performance- and participation-linked accrual, with annual vesting checkpoints under applicable position-specific terms. |
+| 5 | 🗓️ Illustrative annual CTO/CISO vesting | **3.125 percentage points per year × 4 years = 12.5%** | Annual breakdown of the previously specified 12.5% four-year allocation; actual vesting remains subject to the governing agreement. |
+| 6 | 🧩 Vesting conditions | Performance, contributions, deliverables, participation, responsibilities and results | Conditions used to assess earned equity under mutually agreed terms. |
+| 7 | 💰 Financial contributions | Previously specified CTO/CISO required-expense sharing arrangement: **50/50** | Covers agreed startup expenses including office, filings, accreditation preparation, technology, website, operations and marketing; applicability and amounts must be established in signed terms. |
+| 8 | 🔝 Maximum (MX) / equity cap | **Position-specific; no universal maximum established in the hiring schedule** | Maximum potential equity or compensation must be taken from the applicable position profile and signed agreement; the schedule alone does not establish a shared cap. |
+| 9 | 👥 Full-scale contribution pool | **2,168 equity-bearing participants; projected $2,400,000 annual pool at full capacity** | Existing at-scale model comprising 168 fixed internal team members and 2,000 separately allocated JD/Non-JD attorney/judge supervisors; projection is not an immediate individual compensation commitment. |
+| 10 | 📊 Illustrative full-capacity contribution | **Approximately $1,107.01 annually / $92.25 monthly per participant** | Projected per-participant contribution at full capacity, subject to approved budgets and reconciliation. |
+| 11 | 📆 Contribution payment timing | **15th of each month** | Timing stated for the at-scale contribution model, subject to stage-specific reconciliation and approved participation. |
+| 12 | 🚀 Pre-Beta contribution stage | **48 participants / $300,000** | Separate planned Pre-Beta contribution stage; distinct from the full-capacity pool. |
+
+**Supporting Join Us resources:** [Compensation, Equity, and Benefits](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/COMPENSATION-EQUITY-BENEFITS.md) · [Equity and Four-Year Vesting Table](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/EQUITY-AND-FOUR-YEAR-VESTING-TABLE.md) · [At-Scale Staffing, Assignment & Equity Structure](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-AT-SCALE-STAFFING-ASSIGNMENT-EQUITY-STRUCTURE.md)
+
+
 ### 📥 Join Us Hiring Downloads
 
 | Download | File |
