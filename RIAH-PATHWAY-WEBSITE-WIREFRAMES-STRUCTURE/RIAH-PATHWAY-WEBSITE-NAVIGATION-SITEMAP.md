@@ -110,21 +110,101 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
   - 3.7.3 — School of Law
   - 3.7.4 — School of Technology
 
-### 4 — DEGREE PROGRAMS — MAIN PAGE WIREFRAME — `Degree-Programs-Wireframe-Main.md`
-- 4.1 — Degree Pathway — `4.1-Degree-Pathway-Wireframe.md`
+### 4 — DEGREE PROGRAMS — MAIN PAGE WIREFRAME — [DEGREE-PROGRAMS-WIREFRAME-MAIN.md](4.%20DEGREE%20PROGRAMS/DEGREE-PROGRAMS-WIREFRAME-MAIN.md)
+- **4 — Degree Programs main wireframe:** [DEGREE-PROGRAMS-WIREFRAME-MAIN.md](4.%20DEGREE%20PROGRAMS/DEGREE-PROGRAMS-WIREFRAME-MAIN.md)
+- **4 — CTA, buttons, links, downloads, media and routing:** [4-DEGREE-PROGRAMS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md](4.%20DEGREE%20PROGRAMS/4-DEGREE-PROGRAMS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- **Header and footer:** managed globally and intentionally omitted from the Degree Programs page wireframe.
+- 4.1 — Degree Pathway
   - 4.1.1 — Associate's Pathway
+    - Typical duration: 2 years
+    - Maximum approved transfer: up to 30 credits
+    - Current published base tuition: $10,000
+    - Student Resource Allocation: $500
   - 4.1.2 — Bachelor's Pathway
+    - 120-credit configuration
+    - General Education → School Core → Year 3 Major → Year 4 Major → applicable capstone
+    - Up to 60 approved foundational transfer credits
+    - Bachelor's Years 3 and 4 remain RIAH Pathway-controlled
+    - Current published base tuition: $20,000
+    - Student Resource Allocation: $1,000
   - 4.1.3 — Master's Pathway
+    - Typical duration: 1 year
+    - Up to 9 approved transfer credits
+    - Current published base tuition: $15,000
+    - Student Resource Allocation: $1,000
   - 4.1.4 — MBA Pathway
+    - Typical duration: 1 year
+    - Up to 9 approved transfer credits
+    - Current published base tuition: $15,000
+    - Student Resource Allocation: $1,000
   - 4.1.5 — Minor Pathway
-- 4.2 — Schools — `4.2-Schools-Wireframe.md`
+    - Standard structure: 15 credits / five 3-credit courses
+    - Typical duration: one semester to one year
+    - Maximum approved transfer: 6 credits
+    - Current published base tuition: $5,000
+    - Student Resource Allocation: $500
+- 4.2 — Schools
   - 4.2.1 — School of Business
+    - Accounting
+    - Business Management
+    - Entrepreneurship academic major
+    - Finance
+    - MBA connection
   - 4.2.2 — School of Homeland Security
+    - Governance, Risk & Compliance
+    - Intelligence
+    - Physical Security
+    - Private Investigator
   - 4.2.3 — School of Law
+    - Criminal Justice
+    - J.D.
+    - Non-J.D. Bar License Pathway
+    - Bar Review connection → 10
   - 4.2.4 — School of Technology
-- 4.3 — Law Pathway — `4.3-Law-Pathway-Wireframe.md`
+    - Computer Science
+    - Cybersecurity
+    - Data Analytics
+    - Data Science
+    - Information Systems
+    - Program Management
+    - Project Management
+    - Software Development
+    - Software Engineering
+- 4.3 — Law Pathway
   - 4.3.1 — J.D. Pathway
+    - 96-credit current curriculum structure
+    - 1L 27 credits • 2L 24 credits • 3L 21 credits • 4L 24 credits
+    - Typical duration: 4 years
+    - Up to 27 approved 1L transfer credits from an ABA-accredited law school, subject to equivalency review
+    - No transfer into J.D. Years 2, 3, or 4
+    - Current published base tuition: $40,000
+    - Student Resource Allocation: $1,000
+    - Current ABA status: no application submitted; no provisional or full approval granted
   - 4.3.2 — Non-J.D. Bar License Pathway
+    - Jurisdiction-specific route
+    - Current mapped planning references: Maine, California, Washington, Vermont, New York, Virginia, West Virginia
+    - Current published base tuition: $10,000 per year
+    - Student Resource Allocation: $1,000
+    - State law-study, supervision, examination, residency, licensing and authorization requirements control
+- **Academic architecture:** General Education → applicable School Core → prerequisites → Major Admission → Major Coursework → Advanced Coursework → applicable Capstone → Program Completion.
+- **Professional integration:** professional software; credential preparation; applied projects; experiential learning; capstones; professional supervision where applicable.
+- **Academic assessment:** objective assessments, performance assessments, examinations, projects, simulations, applied builds and capstones; current required RIAH assessment passing standard is 80% or higher where applicable.
+- **Transfer and alternative credit:** accredited college coursework, AP, IB, CLEP, Sophia Learning, StraighterLine, approved RIAH placement/test-out and other approved sources remain subject to equivalency review; SAT/ACT do not automatically create college credit.
+- **Acceleration:** eligible internal academic curricula may progress faster where permitted, but acceleration does not remove required courses, prerequisites, assessments, projects, capstones, proctoring, supervision, payment requirements, legal requirements or mandatory minimum duration.
+- **Tuition and funding:** current base tuition, pricing-stage architecture, approved tuition reductions, scholarships, grants, stipends, employer/workforce assistance, donor/community funding and reimbursement route to 13 Tuition and 14 Donations.
+- **Admissions:** monthly academic cohort model; $0 application, admissions and enrollment fees; application through Classe365; Student Resource Allocation remains separate and program-specific.
+- **Student experience:** degree pathways connect to Student Life, Career Services, Partnerships, Student Support, Graduation and Alumni.
+- **Accreditation and authorization:** current public status and planned/eligibility-based institutional, Business, Technology and Law recognition pathways route to 16 Accreditation & Authorization.
+- **Degree Program button / CTA inventory:** 4-B01 through 4-B105 are fully mapped in the combined CTA routing Markdown.
+- **Degree Program download inventory:** 4-D01 through 4-D02.
+- **Degree Program external-link inventory:** 4-L01 / Classe365 application destination; final production URL to configure.
+- **Degree Program media inventory:** one hero video; degree-school hero image; degree-level icon grid; academic-progression image and flow; Bachelor's progression; graduate, minor, J.D. and Non-J.D. visuals; School images; assessment icon; transfer image; acceleration icon; integration image; admissions flow; student-life image; accreditation icon set; download icon set; final CTA image.
+- **Related Curriculum routing:** 11; 11.2; 11.3; 11.4; 11.5; 11.6; 11.12.
+- **Related Admissions routing:** 12.1; 12.1.2; 12.1.6; 12.3; 12.4; 12.5; 12.7.
+- **Related Tuition routing:** 13; 13.3; 13.4; 13.5; 13.6; 13.7.
+- **Related pathways:** 5 Experiential; 6 Entrepreneurship; 9 Certification Review; 10 Bar Review; 14 Donations.
+- **Related institutional routing:** 16; 16.2; 16.5; 17.2; 17.2.13; 17.3; 17.3.8; 18.7; 18.8; 18.9; 19.1–19.6; 20.1; 20.4; 20.7.
+- **Degree Programs flow:** Hero → Degree Pathway Directory → Academic Architecture → Associate's → Bachelor's → Master's → MBA → Minor → Four Degree Schools → Business → Homeland Security → Technology → Law → J.D. → Non-J.D. → Academic Rigor → Transfer → Acceleration → Experience/Credential Integration → Tuition/Funding → Admissions/Student Journey → Student Life/Career → Accreditation/Authorization → Resources → Downloads → Final CTA.
 
 ### 5 — EXPERIENTIAL — MAIN PAGE WIREFRAME — `Experiential-Wireframe-Main.md`
 - 5.1 — Experiential by Level & Duration — `5.1-Experiential-By-Level-And-Duration-Wireframe.md`
