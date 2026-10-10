@@ -152,7 +152,7 @@ Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing be
 | Bar Review | 10 Bar Review |
 | State Bar Modules | 10.3 State Modules |
 | California Baby Bar | 10.4 California Baby Bar |
-| External Certification Exam Pass — 5% Reimbursement | 13.5 Reimbursement |
+| External Certification Exam Pass — 5% Reimbursement | 13.17 Reimbursement |
 | Internal Certification Review Course Completion — 80% | 11 Curriculum — on-page assessment section |
 
 ### STUDENT EXPERIENCE ROUTING
@@ -175,12 +175,12 @@ Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing be
 | Button | Destination |
 |---|---|
 | Tuition | 13 Tuition |
-| Fees | 13.2 Fees |
-| Payment Options | 13.3 Payment Options |
-| Funding | 13.4 Funding |
-| Reimbursement | 13.5 Reimbursement |
-| Costs | 13.6 Costs |
-| Pricing Calculator | 13.7 Pricing Calculator Engine |
+| Fees | 13.11 Fees |
+| Payment Options | 13.13 Payment Options |
+| Funding | 13.16 Funding |
+| Reimbursement | 13.17 Reimbursement |
+| Costs | 13.20 Costs |
+| Pricing Calculator | 13.19 Pricing Calculator Engine |
 
 ### PRODUCTS ROUTING
 
@@ -253,7 +253,7 @@ The twenty navigation destinations match the active website sitemap. Only the fo
 
 Other sitemap destinations, including **2 About, 3 Pathway, 4 Degree Programs, 5 Experiential, 7 High School, 8 GED/HSE, 9 Certification Review, 10 Bar Review, 13 Tuition, 14 Donations, 18 Resources, 19 FAQ, and 20 Contact**, presently have folder placeholders rather than populated main-page wireframe files. Their valid sitemap numbers remain the planned internal CTA destinations, not verified live website pages.
 
-Curriculum buttons to the populated entrepreneurship wireframe resolve conceptually to 6.2 Startup, 6.3 Small Business, 6.4 Curriculum and Collections, 6.11 Capstone and Completion, and 6.15 CTA and Routing. Transfer-student buttons refer to the populated 12.7 Transfer Students wireframe; Products buttons refer to the populated Page 15 wireframe with 15.4 and 15.5. Reimbursement buttons route to sitemap 13.5. The nine-school directory is informational and does not introduce 11.11 or any new main-page number.
+Curriculum buttons to the populated entrepreneurship wireframe resolve conceptually to 6.2 Startup, 6.3 Small Business, 6.4 Curriculum and Collections, 6.11 Capstone and Completion, and 6.15 CTA and Routing. Transfer-student buttons refer to the populated 12.7 Transfer Students wireframe; Products buttons refer to the populated Page 15 wireframe with 15.4 and 15.5. Reimbursement buttons route to sitemap 13.17. The nine-school directory is informational and does not introduce 11.11 or any new main-page number.
 
 ### ROUTING STANDARD
 
