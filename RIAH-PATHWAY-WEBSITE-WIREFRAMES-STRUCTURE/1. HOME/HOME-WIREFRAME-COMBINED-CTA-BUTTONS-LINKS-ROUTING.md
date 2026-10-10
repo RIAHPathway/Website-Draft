@@ -1,273 +1,109 @@
-# 👑 RIAH PATHWAY
-# 1. HOME — COMBINED CTA, BUTTONS, LINKS & ROUTING
+# I — 1 COMBINED CTA BUTTONS LINKS DOWNLOADS AND MEDIA ROUTING
 
-## I. GLOBAL NAVIGATION
+Source: 1.-HOME-WIREFRAME-MAIN.md
 
-| Route ID | Label | Destination | Placement | Type | Status |
-| --- | --- | --- | --- | --- | --- |
-| 01-L01 | Home | 1 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L02 | About | 2 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L03 | Pathway | 3 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L04 | Degree Programs | 4 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L05 | Experiential | 5 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L06-ENT | Entrepreneurship | 6 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L06 | High School | 7 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L07 | GED/HSE | 8 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L08 | Certification Review | 9 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L09 | Bar Review | 10 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L10 | Curriculum | 11 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L11 | Admissions | 12 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L12 | Tuition | 13 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L13 | Donations | 14 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L14 | Products | 15 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L15 | Accreditation & Authorization | 16 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L16 | Join Us | 17 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L17 | Resources | 18 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L18 | FAQ | 19 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
-| 01-L19 | Contact | 20 | HEADER / FOOTER | INTERNAL | ROUTE DEFINED |
+All entries below are extracted from the existing wireframe. Main navigation follows pages 1–20. Unresolved external URLs and unpublished assets require verification.
 
-## II. ALL CTA BUTTONS
-
-| Button ID | Label | Placement | Destination | Access | Status |
-| --- | --- | --- | --- | --- | --- |
-| 01-B01 | APPLY NOW | Header | 12.3 | PUBLIC | TO VERIFY |
-| 01-B02 | GET STARTED | Header | 20 | PUBLIC | TO VERIFY |
-| 01-B03 | LOG IN | Header | Authenticated Portal | AUTHENTICATED | TO VERIFY |
-| 01-B04 | APPLY NOW | Hero | 12.3 | PUBLIC | TO VERIFY |
-| 01-B05 | LEARN MORE | Hero | 3 | PUBLIC | TO VERIFY |
-| 01-B06 | GET STARTED | Hero | 20 | PUBLIC | TO VERIFY |
-| 01-B07 | LEARN MORE | Ecosystem | 2 | PUBLIC | TO VERIFY |
-| 01-B08 | LEARN MORE | 1.2 | 2 | PUBLIC | TO VERIFY |
-| 01-B09 | LEARN MORE | 1.3 | 3 | PUBLIC | TO VERIFY |
-| 01-B10 | LEARN MORE | 1.4 | 4 | PUBLIC | TO VERIFY |
-| 01-B11 | LEARN MORE | 1.5 | 5 | PUBLIC | TO VERIFY |
-| 01-B11-ENT | EXPLORE ENTREPRENEURSHIP | 1.6 | 6 | PUBLIC | TO VERIFY |
-| 01-B12 | LEARN MORE | 1.7 | 7 | PUBLIC | TO VERIFY |
-| 01-B13 | LEARN MORE | 1.8 | 8 | PUBLIC | TO VERIFY |
-| 01-B14 | LEARN MORE | 1.9 | 9 | PUBLIC | TO VERIFY |
-| 01-B15 | LEARN MORE | 1.10 | 10 | PUBLIC | TO VERIFY |
-| 01-B16 | LEARN MORE | 1.11 | 11 | PUBLIC | TO VERIFY |
-| 01-B17 | LEARN MORE | 1.12 | 12 | PUBLIC | TO VERIFY |
-| 01-B18 | LEARN MORE | 1.13 | 13 | PUBLIC | TO VERIFY |
-| 01-B19 | LEARN MORE | 1.14 | 14 | PUBLIC | TO VERIFY |
-| 01-B20 | LEARN MORE | 1.15 | 15 | PUBLIC | TO VERIFY |
-| 01-B21 | LEARN MORE | 1.16 | 16 | PUBLIC | TO VERIFY |
-| 01-B22 | LEARN MORE | 1.17 | 17 | PUBLIC | TO VERIFY |
-| 01-B23 | LEARN MORE | 1.18 | 18 | PUBLIC | TO VERIFY |
-| 01-B24 | LEARN MORE | 1.19 | 19 | PUBLIC | TO VERIFY |
-| 01-B25 | LEARN MORE | 1.20 | 20 | PUBLIC | TO VERIFY |
-| 01-B26 | SHOP NOW | Certification Review | 15.2.1 | PUBLIC | TO VERIFY |
-| 01-B27 | SHOP NOW | Bar Review | 15.2.2 | PUBLIC | TO VERIFY |
-| 01-B28 | APPLY NOW | Admissions | 12.3 | PUBLIC | TO VERIFY |
-| 01-B29 | GET STARTED | Tuition | 13.8 | PUBLIC | TO VERIFY |
-| 01-B30 | SHOP NOW | Products | 15 | PUBLIC | TO VERIFY |
-| 01-B31 | APPLY NOW | Final CTA | 12.3 | PUBLIC | TO VERIFY |
-| 01-B32 | LEARN MORE | Final CTA | 3 | PUBLIC | TO VERIFY |
-| 01-B33 | GET STARTED | Final CTA | 20 | PUBLIC | TO VERIFY |
-| 01-B34 | APPLY NOW | Footer | 12.3 | PUBLIC | TO VERIFY |
-
-## III. SECTION AND SUBSECTION LINKS
-
-| Section | Title | Route | Type |
-| --- | --- | --- | --- |
-| 1.2 | Ecosystem | 2.2 | INTERNAL |
-| 1.2 | Schools | 2.3 | INTERNAL |
-| 1.2 | Leadership | 2.4 | INTERNAL |
-| 1.2 | Board & Governance | 2.5 | INTERNAL |
-| 1.2 | Brand, Mascot & School Colors | 2.6 | INTERNAL |
-| 1.3 | Degree Programs | 4 | INTERNAL |
-| 1.3 | Experiential | 5 | INTERNAL |
-| 1.3 | High School | 7 | INTERNAL |
-| 1.3 | GED/HSE | 8 | INTERNAL |
-| 1.3 | Certification Review | 9 | INTERNAL |
-| 1.3 | Bar Review | 10 | INTERNAL |
-| 1.3 | Schools | 3.8 | INTERNAL |
-| 1.4 | Associate's | 4.2.1 | INTERNAL |
-| 1.4 | Bachelor's | 4.2.2 | INTERNAL |
-| 1.4 | Master's | 4.2.3 | INTERNAL |
-| 1.4 | MBA | 4.2.4 | INTERNAL |
-| 1.4 | Minor | 4.2.5 | INTERNAL |
-| 1.4 | J.D. | 4.4.1 | INTERNAL |
-| 1.4 | Non-J.D. | 4.4.2 | INTERNAL |
-| 1.4 | Business | 4.3.1 | INTERNAL |
-| 1.4 | Homeland Security | 4.3.2 | INTERNAL |
-| 1.4 | Law | 4.3.3 | INTERNAL |
-| 1.4 | Technology | 4.3.4 | INTERNAL |
-| 1.5 | Apprentice — 1 Month | 5.2.1 | INTERNAL |
-| 1.5 | Intern — 3 Months | 5.2.2 | INTERNAL |
-| 1.5 | Associate — 1 Year | 5.2.3 | INTERNAL |
-| 1.5 | Senior Associate — 1 Year | 5.2.4 | INTERNAL |
-| 1.5 | Manager — 1 Year | 5.2.5 | INTERNAL |
-| 1.5 | Executive — 1 Year | 5.2.6 | INTERNAL |
-| 1.5 | By School | 5.3 | INTERNAL |
-| 1.5 | Learning Process | 5.4 | INTERNAL |
-| 1.5 | Internal Placement | 5.5 | INTERNAL |
-| 1.5 | External Placement | 5.6 | INTERNAL |
-| 1.7 | Diploma Program | 7.2 | INTERNAL |
-| 1.7 | Diploma Pathway | 7.3 | INTERNAL |
-| 1.7 | Curriculum | 7.4 | INTERNAL |
-| 1.7 | Admissions | 7.5 | INTERNAL |
-| 1.7 | Authorization & Recognition | 7.6 | INTERNAL |
-| 1.8 | Program | 8.2 | INTERNAL |
-| 1.8 | Pathway | 8.3 | INTERNAL |
-| 1.8 | Curriculum & Preparation | 8.4 | INTERNAL |
-| 1.8 | Admissions | 8.5 | INTERNAL |
-| 1.9 | Review | 9.2 | INTERNAL |
-| 1.9 | Mapping | 9.3 | INTERNAL |
-| 1.9 | Business | 9.4 | INTERNAL |
-| 1.9 | Homeland Security | 9.5 | INTERNAL |
-| 1.9 | Technology | 9.6 | INTERNAL |
-| 1.9 | Basic $500 | 9.7 | INTERNAL |
-| 1.9 | Standard $1,000 | 9.8 | INTERNAL |
-| 1.9 | Premium $1,500 | 9.9 | INTERNAL |
-| 1.10 | Review | 10.2 | INTERNAL |
-| 1.10 | 50-State | 10.3 | INTERNAL |
-| 1.10 | State Modules | 10.4 | INTERNAL |
-| 1.10 | California Baby Bar | 10.5 | INTERNAL |
-| 1.10 | Basic $500 | 10.6 | INTERNAL |
-| 1.10 | Standard $1,000 | 10.7 | INTERNAL |
-| 1.10 | Premium $1,500 | 10.8 | INTERNAL |
-| 1.11 | Academic Structure | 11.2 | INTERNAL |
-| 1.11 | Business | 11.3 | INTERNAL |
-| 1.11 | Homeland Security | 11.4 | INTERNAL |
-| 1.11 | Technology | 11.5 | INTERNAL |
-| 1.11 | Law | 11.6 | INTERNAL |
-| 1.11 | High School | 11.7 | INTERNAL |
-| 1.11 | GED/HSE | 11.8 | INTERNAL |
-| 1.11 | Experiential | 11.9 | INTERNAL |
-| 1.11 | Certification & Review | 11.10 | INTERNAL |
-| 1.11 | Curriculum Architecture | 11.11 | INTERNAL |
-| 1.12 | Pre-Admissions | 12.2 | INTERNAL |
-| 1.12 | Application | 12.3 | INTERNAL |
-| 1.12 | Acceptance & Enrollment | 12.4 | INTERNAL |
-| 1.12 | Onboarding & Student Experience | 12.5 | INTERNAL |
-| 1.12 | Graduation & Alumni | 12.6 | INTERNAL |
-| 1.12 | How RIAH Pathway Works | 12.7 | INTERNAL |
-| 1.12 | Transfer Students | 12.8 | INTERNAL |
-| 1.13 | Tuition | 13.2 | INTERNAL |
-| 1.13 | Fees | 13.3 | INTERNAL |
-| 1.13 | Payment Options | 13.4 | INTERNAL |
-| 1.13 | Funding | 13.5 | INTERNAL |
-| 1.13 | Reimbursement | 13.6 | INTERNAL |
-| 1.13 | Costs | 13.7 | INTERNAL |
-| 1.13 | Pricing Calculator | 13.8 | INTERNAL |
-| 1.14 | Foundation | 14.2 | INTERNAL |
-| 1.14 | Accreditation | 14.3 | INTERNAL |
-| 1.14 | State Authorization | 14.4 | INTERNAL |
-| 1.15 | Certification Review | 15.2.1 | INTERNAL |
-| 1.15 | Bar Review | 15.2.2 | INTERNAL |
-| 1.15 | General Education | 15.2.3.1 | INTERNAL |
-| 1.15 | Core | 15.2.3.2 | INTERNAL |
-| 1.15 | Year 3 | 15.2.3.3 | INTERNAL |
-| 1.15 | Year 4 | 15.2.3.4 | INTERNAL |
-| 1.15 | Master's | 15.2.3.5 | INTERNAL |
-| 1.15 | MBA | 15.2.3.6 | INTERNAL |
-| 1.15 | GED | 15.2.3.7 | INTERNAL |
-| 1.15 | High School Diploma | 15.2.3.8 | INTERNAL |
-| 1.15 | Experiential | 15.2.3.9 | INTERNAL |
-| 1.15 | Bundles | 15.2.4 | INTERNAL |
-| 1.15 | Pricing | 15.2 | INTERNAL |
-| 1.15 | Justice-Impacted Community Services | 15.3 | INTERNAL |
-| 1.15 | Entrepreneurship Program | 15.4 | INTERNAL |
-| 1.15 | Entrepreneurship Upfront 25% / Monthly Payment Options | 15.4; 13 / Tuition | INTERNAL |
-| 1.15 | Extended Services — Business Affiliate Connections | 15.5 | INTERNAL |
-| 1.16 | Experiential | 16.2 | INTERNAL |
-| 1.16 | Academic | 16.3 | INTERNAL |
-| 1.16 | High School | 16.4 | INTERNAL |
-| 1.16 | GED/HSE | 16.5 | INTERNAL |
-| 1.16 | State Authorization | 16.6 | INTERNAL |
-| 1.17 | Student Life | 17.2 | INTERNAL |
-| 1.17 | Partnerships | 17.3 | INTERNAL |
-| 1.17 | Entrepreneurship Partnerships | 17.3; 15.4 | INTERNAL |
-| 1.17 | Join Our Team | 17.4 | INTERNAL |
-| 1.17 | Ambassadors | 17.5 | INTERNAL |
-| 1.17 | Executive | 17.4.1 | INTERNAL |
-| 1.17 | Board | 17.4.2 | INTERNAL |
-| 1.17 | Backend Core Team | 17.4.3 | INTERNAL |
-| 1.17 | Academic Faculty | 17.4.4 | INTERNAL |
-| 1.17 | Experiential Faculty | 17.4.5 | INTERNAL |
-| 1.17 | Substitute Teachers | 17.5.1 | INTERNAL |
-| 1.17 | Rideshare | 17.5.2 | INTERNAL |
-| 1.17 | Delivery | 17.5.3 | INTERNAL |
-| 1.17 | Content Creators | 17.5.4 | INTERNAL |
-| 1.17 | GitHub Contributors | 17.5.5 | INTERNAL |
-| 1.18 | Events | 18.2 | INTERNAL |
-| 1.18 | Blog | 18.3 | INTERNAL |
-| 1.18 | Podcasts | 18.4 | INTERNAL |
-| 1.18 | Conferences | 18.5 | INTERNAL |
-| 1.18 | Workshops | 18.6 | INTERNAL |
-| 1.18 | Webinars | 18.7 | INTERNAL |
-| 1.18 | Policies | 18.8 | INTERNAL |
-| 1.18 | Procedures | 18.9 | INTERNAL |
-| 1.18 | Guidelines | 18.10 | INTERNAL |
-| 1.19 | Pathways | 19.2 | INTERNAL |
-| 1.19 | Curriculum | 19.3 | INTERNAL |
-| 1.19 | Admissions | 19.4 | INTERNAL |
-| 1.19 | Tuition | 19.5 | INTERNAL |
-| 1.19 | Accreditation | 19.6 | INTERNAL |
-| 1.19 | Student Experience | 19.7 | INTERNAL |
-| 1.19 | Products | 19.8 | INTERNAL |
-| 1.19 | Technical Support | 19.9 | INTERNAL |
-| 1.20 | Admissions | 20.2 | INTERNAL |
-| 1.20 | HR | 20.3 | INTERNAL |
-| 1.20 | Technical Support | 20.4 | INTERNAL |
-| 1.20 | Student Support | 20.5 | INTERNAL |
-| 1.20 | Products & Orders | 20.6 | INTERNAL |
-| 1.20 | Partnerships | 20.7 | INTERNAL |
-| 1.20 | General Inquiries | 20.8 | INTERNAL |
-
-## IV. EXTERNAL / AUTHENTICATED ROUTING
-
-| ID | System | Purpose | Access | Status |
-| --- | --- | --- | --- | --- |
-| 01-EX01 | Classe365 | Application | PUBLIC ENTRY | TO VERIFY |
-| 01-EX02 | Breezy HR | Recruitment | PUBLIC ENTRY | TO VERIFY |
-| 01-EX03 | SuiteDash | Onboarding | AUTHENTICATED | TO VERIFY |
-| 01-EX04 | LearnWorlds | LMS | AUTHENTICATED | TO VERIFY |
-| 01-EX05 | Zoom | Orientation | INVITATION | TO VERIFY |
-| 01-EX06 | Slack / Geneva | Community | AUTHENTICATED | TO VERIFY |
-| 01-EX07 | Storefront | Products | PUBLIC | TO VERIFY |
-| 01-EX08 | @RIAHPathway | Social | PUBLIC | TO ATTACH |
-
-## V. DOWNLOAD AUDIT
-
-| ID | Download | Placement | Destination | Status |
-| --- | --- | --- | --- | --- |
-| 01-D00 | No direct downloads | Home | Owning pages | COMPLETE |
-
-## VI. MEDIA AND ICON ROUTING
-
-| ID | Asset | Placement | Route | Status |
-| --- | --- | --- | --- | --- |
-| 01-M05 | About Image / Icon | 1.2 | 2 | TO CREATE |
-| 01-M06 | Pathway Image / Icon | 1.3 | 3 | TO CREATE |
-| 01-M07 | Degree Programs Image / Icon | 1.4 | 4 | TO CREATE |
-| 01-M08 | Experiential Image / Icon | 1.5 | 5 | TO CREATE |
-| 01-M09 | High School Image / Icon | 1.7 | 7 | TO CREATE |
-| 01-M10 | GED/HSE Image / Icon | 1.8 | 8 | TO CREATE |
-| 01-M11 | Certification Review Image / Icon | 1.9 | 9 | TO CREATE |
-| 01-M12 | Bar Review Image / Icon | 1.10 | 10 | TO CREATE |
-| 01-M13 | Curriculum Image / Icon | 1.11 | 11 | TO CREATE |
-| 01-M14 | Admissions Image / Icon | 1.12 | 12 | TO CREATE |
-| 01-M15 | Tuition Image / Icon | 1.13 | 13 | TO CREATE |
-| 01-M16 | Donations Image / Icon | 1.14 | 14 | TO CREATE |
-| 01-M17 | Products Image / Icon | 1.15 | 15 | TO CREATE |
-| 01-M18 | Accreditation & Authorization Image / Icon | 1.16 | 16 | TO CREATE |
-| 01-M19 | Join Us Image / Icon | 1.17 | 17 | TO CREATE |
-| 01-M20 | Resources Image / Icon | 1.18 | 18 | TO CREATE |
-| 01-M21 | FAQ Image / Icon | 1.19 | 19 | TO CREATE |
-| 01-M22 | Contact Image / Icon | 1.20 | 20 | TO CREATE |
-
-# 👑 RIAH PATHWAY
-
-
-## Entrepreneurship Home 1.6 CTA Routing
-
-| CTA | Target |
-| --- | --- |
-| Explore Entrepreneurship | 6 |
-| Startup Pool | 6.2 |
-| Small Business Pool | 6.3 |
-| Admissions | 12 |
-| Tuition | 13 |
-| Affiliates | 15.5 |
+| ID | Section | Type | Original Wireframe Instruction | Destination or Status | Source Line |
+|---|---|---|---|---|---:|
+| I-001 | I. GLOBAL HEADER | IMAGE | RIAH PATHWAY LOGO WITH GOLD CROWN | Asset or route to verify | 11 |
+| I-002 | I. GLOBAL HEADER | BUTTON | APPLY NOW → 12.3 | 12.3 | 38 |
+| I-003 | I. GLOBAL HEADER | BUTTON | GET STARTED → 20 | 20 | 40 |
+| I-004 | I. GLOBAL HEADER | BUTTON | LOG IN → AUTHENTICATED PORTAL | AUTHENTICATED PORTAL | 42 |
+| I-005 | I. GLOBAL HEADER | ICON | SEARCH | Asset or route to verify | 44 |
+| I-006 | I. GLOBAL HEADER | ICON | ACCESSIBILITY | Asset or route to verify | 46 |
+| I-007 | 1.1 — HOME OVERVIEW | VIDEO | RIAH PATHWAY HOMEPAGE HERO | Asset or route to verify | 52 |
+| I-008 | 1.1 — HOME OVERVIEW | IMAGE | DIVERSE STUDENTS AND PROFESSIONALS | Asset or route to verify | 54 |
+| I-009 | BUILD YOUR PATH. CREATE YOUR LEGACY. | BUTTON | APPLY NOW → 12.3 | 12.3 | 64 |
+| I-010 | BUILD YOUR PATH. CREATE YOUR LEGACY. | BUTTON | LEARN MORE → 3 | 3 | 66 |
+| I-011 | BUILD YOUR PATH. CREATE YOUR LEGACY. | BUTTON | GET STARTED → 20 | 20 | 68 |
+| I-012 | MULTIPLE PATHS. ONE CONNECTED ECOSYSTEM. | IMAGE | RIAH PATHWAY ECOSYSTEM | Asset or route to verify | 88 |
+| I-013 | MULTIPLE PATHS. ONE CONNECTED ECOSYSTEM. | BUTTON | LEARN MORE → 2 | 2 | 90 |
+| I-014 | STUDENTS AT THE CENTER. OPPORTUNITY IN EVERY DIRECTION. | IMAGE | ABOUT SECTION VISUAL | Asset or route to verify | 133 |
+| I-015 | STUDENTS AT THE CENTER. OPPORTUNITY IN EVERY DIRECTION. | ICON | ABOUT SECTION ICON | Asset or route to verify | 135 |
+| I-016 | STUDENTS AT THE CENTER. OPPORTUNITY IN EVERY DIRECTION. | BUTTON | LEARN MORE → 2 | 2 | 137 |
+| I-017 | MULTIPLE ENTRY POINTS. ONE CONNECTED JOURNEY. | IMAGE | PATHWAY SECTION VISUAL | Asset or route to verify | 155 |
+| I-018 | MULTIPLE ENTRY POINTS. ONE CONNECTED JOURNEY. | ICON | PATHWAY SECTION ICON | Asset or route to verify | 157 |
+| I-019 | MULTIPLE ENTRY POINTS. ONE CONNECTED JOURNEY. | BUTTON | LEARN MORE → 3 | 3 | 159 |
+| I-020 | EDUCATION THAT CONNECTS TO OPPORTUNITY. | IMAGE | DEGREE PROGRAMS SECTION VISUAL | Asset or route to verify | 181 |
+| I-021 | EDUCATION THAT CONNECTS TO OPPORTUNITY. | ICON | DEGREE PROGRAMS SECTION ICON | Asset or route to verify | 183 |
+| I-022 | EDUCATION THAT CONNECTS TO OPPORTUNITY. | BUTTON | LEARN MORE → 4 | 4 | 185 |
+| I-023 | REAL EXPERIENCE. PROFESSIONAL DEVELOPMENT. | IMAGE | EXPERIENTIAL SECTION VISUAL | Asset or route to verify | 206 |
+| I-024 | REAL EXPERIENCE. PROFESSIONAL DEVELOPMENT. | ICON | EXPERIENTIAL SECTION ICON | Asset or route to verify | 208 |
+| I-025 | REAL EXPERIENCE. PROFESSIONAL DEVELOPMENT. | BUTTON | LEARN MORE → 5 | 5 | 210 |
+| I-026 | LAUNCH. BUILD. STABILIZE. GROW. | IMAGE | Startup and small business founders with qualified professional collaborators | Asset or route to verify | 216 |
+| I-027 | LAUNCH. BUILD. STABILIZE. GROW. | BUTTON | EXPLORE ENTREPRENEURSHIP → 6 | 6 | 229 |
+| I-028 | LAUNCH. BUILD. STABILIZE. GROW. | BUTTON | STARTUP ENTREPRENEURSHIP → 6.2 | 6.2 | 230 |
+| I-029 | LAUNCH. BUILD. STABILIZE. GROW. | BUTTON | SMALL BUSINESS ENTREPRENEURSHIP → 6.3 | 6.3 | 231 |
+| I-030 | LAUNCH. BUILD. STABILIZE. GROW. | BUTTON | ENTREPRENEURSHIP ADMISSIONS → 12 | 12 | 232 |
+| I-031 | LAUNCH. BUILD. STABILIZE. GROW. | BUTTON | AFFILIATE CONNECTIONS → 15.5 | 15.5 | 233 |
+| I-032 | BUILD YOUR EDUCATIONAL FOUNDATION. | ICON | FIRST-TIME NINTH GRADE | Asset or route to verify | 241 |
+| I-033 | BUILD YOUR EDUCATIONAL FOUNDATION. | IMAGE | HIGH SCHOOL SECTION VISUAL | Asset or route to verify | 253 |
+| I-034 | BUILD YOUR EDUCATIONAL FOUNDATION. | ICON | HIGH SCHOOL SECTION ICON | Asset or route to verify | 255 |
+| I-035 | BUILD YOUR EDUCATIONAL FOUNDATION. | BUTTON | LEARN MORE → 7 | 7 | 257 |
+| I-036 | YOUR NEXT CHAPTER STARTS HERE. | ICON | SECOND CHANCE GED | Asset or route to verify | 265 |
+| I-037 | YOUR NEXT CHAPTER STARTS HERE. | IMAGE | GED/HSE SECTION VISUAL | Asset or route to verify | 276 |
+| I-038 | YOUR NEXT CHAPTER STARTS HERE. | ICON | GED/HSE SECTION ICON | Asset or route to verify | 278 |
+| I-039 | YOUR NEXT CHAPTER STARTS HERE. | BUTTON | LEARN MORE → 8 | 8 | 280 |
+| I-040 | PREPARE FOR PROFESSIONAL CERTIFICATION. | IMAGE | CERTIFICATION REVIEW SECTION VISUAL | Asset or route to verify | 299 |
+| I-041 | PREPARE FOR PROFESSIONAL CERTIFICATION. | ICON | CERTIFICATION REVIEW SECTION ICON | Asset or route to verify | 301 |
+| I-042 | PREPARE FOR PROFESSIONAL CERTIFICATION. | BUTTON | LEARN MORE → 9 | 9 | 303 |
+| I-043 | PREPARE FOR PROFESSIONAL CERTIFICATION. | BUTTON | SHOP NOW → 15.2.1 | 15.2.1 | 305 |
+| I-044 | PREPARE FOR YOUR NEXT LEGAL MILESTONE. | IMAGE | BAR REVIEW SECTION VISUAL | Asset or route to verify | 323 |
+| I-045 | PREPARE FOR YOUR NEXT LEGAL MILESTONE. | ICON | BAR REVIEW SECTION ICON | Asset or route to verify | 325 |
+| I-046 | PREPARE FOR YOUR NEXT LEGAL MILESTONE. | BUTTON | LEARN MORE → 10 | 10 | 327 |
+| I-047 | PREPARE FOR YOUR NEXT LEGAL MILESTONE. | BUTTON | SHOP NOW → 15.2.2 | 15.2.2 | 329 |
+| I-048 | CURRICULUM BUILT AROUND PROGRESSION. | IMAGE | CURRICULUM SECTION VISUAL | Asset or route to verify | 352 |
+| I-049 | CURRICULUM BUILT AROUND PROGRESSION. | ICON | CURRICULUM SECTION ICON | Asset or route to verify | 354 |
+| I-050 | CURRICULUM BUILT AROUND PROGRESSION. | BUTTON | LEARN MORE → 11 | 11 | 356 |
+| I-051 | YOUR PATHWAY. ONE CONNECTED JOURNEY. | IMAGE | ADMISSIONS SECTION VISUAL | Asset or route to verify | 374 |
+| I-052 | YOUR PATHWAY. ONE CONNECTED JOURNEY. | ICON | ADMISSIONS SECTION ICON | Asset or route to verify | 376 |
+| I-053 | YOUR PATHWAY. ONE CONNECTED JOURNEY. | BUTTON | LEARN MORE → 12 | 12 | 378 |
+| I-054 | STUDENT JOURNEY | IMAGE | STUDENT JOURNEY FLOW | Asset or route to verify | 384 |
+| I-055 | STUDENT JOURNEY | BUTTON | APPLY NOW → 12.3 | 12.3 | 386 |
+| I-056 | UNDERSTAND YOUR PATH. UNDERSTAND YOUR COST. | IMAGE | TUITION SECTION VISUAL | Asset or route to verify | 404 |
+| I-057 | UNDERSTAND YOUR PATH. UNDERSTAND YOUR COST. | ICON | TUITION SECTION ICON | Asset or route to verify | 406 |
+| I-058 | UNDERSTAND YOUR PATH. UNDERSTAND YOUR COST. | BUTTON | LEARN MORE → 13 | 13 | 408 |
+| I-059 | UNDERSTAND YOUR PATH. UNDERSTAND YOUR COST. | BUTTON | GET STARTED → 13.8 | 13.8 | 416 |
+| I-060 | INVEST. EMPOWER. BUILD WHAT COMES NEXT. | IMAGE | DONATIONS SECTION VISUAL | Asset or route to verify | 430 |
+| I-061 | INVEST. EMPOWER. BUILD WHAT COMES NEXT. | ICON | DONATIONS SECTION ICON | Asset or route to verify | 432 |
+| I-062 | INVEST. EMPOWER. BUILD WHAT COMES NEXT. | BUTTON | LEARN MORE → 14 | 14 | 434 |
+| I-063 | LEARN. PREPARE. ADVANCE. | IMAGE | PRODUCTS SECTION VISUAL | Asset or route to verify | 462 |
+| I-064 | LEARN. PREPARE. ADVANCE. | ICON | PRODUCTS SECTION ICON | Asset or route to verify | 464 |
+| I-065 | LEARN. PREPARE. ADVANCE. | BUTTON | LEARN MORE → 15 | 15 | 466 |
+| I-066 | LEARN. PREPARE. ADVANCE. | BUTTON | SHOP NOW → 15 | 15 | 470 |
+| I-067 | LEARN. PREPARE. ADVANCE. | ICON | STARTUP | Asset or route to verify | 473 |
+| I-068 | LEARN. PREPARE. ADVANCE. | ICON | SMALL BUSINESS | Asset or route to verify | 473 |
+| I-069 | LEARN. PREPARE. ADVANCE. | ICON | PROFESSIONAL AFFILIATE | Asset or route to verify | 473 |
+| I-070 | LEARN. PREPARE. ADVANCE. | BUTTON | EXPLORE ENTREPRENEURSHIP PROGRAM → 15.4 | 15.4 | 474 |
+| I-071 | LEARN. PREPARE. ADVANCE. | BUTTON | ENTREPRENEURSHIP PAYMENT OPTIONS / SAVE 25% → 15.4 / 13 | 15.4 / 13 | 475 |
+| I-072 | LEARN. PREPARE. ADVANCE. | BUTTON | CONNECT WITH BUSINESS AFFILIATES → 15.5 | 15.5 | 476 |
+| I-073 | KNOW THE STATUS. UNDERSTAND THE PATH. | IMAGE | ACCREDITATION & AUTHORIZATION SECTION VISUAL | Asset or route to verify | 492 |
+| I-074 | KNOW THE STATUS. UNDERSTAND THE PATH. | ICON | ACCREDITATION & AUTHORIZATION SECTION ICON | Asset or route to verify | 494 |
+| I-075 | KNOW THE STATUS. UNDERSTAND THE PATH. | BUTTON | LEARN MORE → 16 | 16 | 496 |
+| I-076 | FIND YOUR PLACE IN THE DYNASTY. | IMAGE | JOIN US SECTION VISUAL | Asset or route to verify | 531 |
+| I-077 | FIND YOUR PLACE IN THE DYNASTY. | ICON | JOIN US SECTION ICON | Asset or route to verify | 533 |
+| I-078 | FIND YOUR PLACE IN THE DYNASTY. | BUTTON | LEARN MORE → 17 | 17 | 535 |
+| I-079 | FIND YOUR PLACE IN THE DYNASTY. | BUTTON | ENTREPRENEURSHIP PARTNERSHIPS → 17.3 / 15.4 | 17.3 / 15.4 | 537 |
+| I-080 | LEARN. CONNECT. STAY INFORMED. | IMAGE | RESOURCES SECTION VISUAL | Asset or route to verify | 557 |
+| I-081 | LEARN. CONNECT. STAY INFORMED. | ICON | RESOURCES SECTION ICON | Asset or route to verify | 559 |
+| I-082 | LEARN. CONNECT. STAY INFORMED. | BUTTON | LEARN MORE → 18 | 18 | 561 |
+| I-083 | QUESTIONS? START HERE. | IMAGE | FAQ SECTION VISUAL | Asset or route to verify | 580 |
+| I-084 | QUESTIONS? START HERE. | ICON | FAQ SECTION ICON | Asset or route to verify | 582 |
+| I-085 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 19 | 19 | 584 |
+| I-086 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 2 | 2 | 592 |
+| I-087 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 3 | 3 | 600 |
+| I-088 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 5 | 5 | 608 |
+| I-089 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 12 | 12 | 616 |
+| I-090 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 13 | 13 | 624 |
+| I-091 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 16 | 16 | 632 |
+| I-092 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 15 | 15 | 640 |
+| I-093 | QUESTIONS? START HERE. | BUTTON | LEARN MORE → 20 | 20 | 648 |
+| I-094 | CONNECT WITH RIAH PATHWAY. | IMAGE | CONTACT SECTION VISUAL | Asset or route to verify | 666 |
+| I-095 | CONNECT WITH RIAH PATHWAY. | ICON | CONTACT SECTION ICON | Asset or route to verify | 668 |
+| I-096 | CONNECT WITH RIAH PATHWAY. | BUTTON | LEARN MORE → 20 | 20 | 670 |
+| I-097 | YOUR PATH STARTS HERE. | BUTTON | APPLY NOW → 12.3 | 12.3 | 802 |
+| I-098 | YOUR PATH STARTS HERE. | BUTTON | LEARN MORE → 3 | 3 | 804 |
+| I-099 | YOUR PATH STARTS HERE. | BUTTON | GET STARTED → 20 | 20 | 806 |
+| I-100 | XIV. GLOBAL FOOTER | IMAGE | RIAH PATHWAY LOGO | Asset or route to verify | 810 |
+| I-101 | XIV. GLOBAL FOOTER | BUTTON | APPLY NOW → 12.3 | 12.3 | 871 |
