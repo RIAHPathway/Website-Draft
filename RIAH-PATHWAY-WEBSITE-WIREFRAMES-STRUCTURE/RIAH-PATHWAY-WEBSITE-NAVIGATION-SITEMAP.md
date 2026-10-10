@@ -778,35 +778,107 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
     - [`17.6-VI-WIREFRAME-DESIGN.png`](17-JOIN-US/IMAGES/17.6-VI-WIREFRAME-DESIGN.png)
     - [`17.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png`](17-JOIN-US/IMAGES/17.6-WEBSITE-RECRUITMENT-AND-APPLICATION.png)
 
-### 18 — RESOURCES — MAIN PAGE WIREFRAME — `Resources-Wireframe-Main.md`
-- 18.1 — Events 
-- 18.2 — Blog 
-- 18.3 — Podcasts 
-- 18.4 — Conferences 
-- 18.5 — Workshops 
-- 18.6 — Webinars 
-- 18.7 — Policies 
-- 18.8 — Procedures 
-- 18.9 — Guidelines 
+### 18 — RESOURCES — MAIN PAGE WIREFRAME — [`RESOURCES-WIREFRAME-MAIN.md`](18.%20RESOURCES/RESOURCES-WIREFRAME-MAIN.md)
+- **18 — Resources main wireframe:** [`RESOURCES-WIREFRAME-MAIN.md`](18.%20RESOURCES/RESOURCES-WIREFRAME-MAIN.md)
+- **18 — CTA, buttons, links, external routing, media and audit:** [`18-RESOURCES-CTA-BUTTONS-LINKS-ROUTING.md`](18.%20RESOURCES/18-RESOURCES-CTA-BUTTONS-LINKS-ROUTING.md)
+- Main-page Overview — centralized public resource hub
+- 18.1 — Events
+  - Event calendar
+  - Admission sessions
+  - Career fairs
+  - Conferences, workshops and webinar routing
+  - Eventbrite registration where applicable
+- 18.2 — Blog
+  - Website articles and institutional updates
+  - Vlog / YouTube integration
+  - RSS distribution
+- 18.3 — Podcasts
+- 18.4 — Conferences
+- 18.5 — Workshops
+- 18.6 — Webinars
+- 18.7 — Policies
+  - Public living policy resources only
+- 18.8 — Procedures
+  - Approved public-facing procedures only
+- 18.9 — Guidelines
+  - Approved public institutional guidance
+- Stay Connected — newsletter, events, YouTube, podcasts and public-resource routing
+- Final CTA — Events, Join Us, Contact / Request Information and Apply Now
+- **Public content control:** internal administrative workflows, protected curriculum, backend system architecture and other restricted operational content are not published through Resources.
+- **Header/Footer:** omitted from the page wireframe because global header and footer are managed separately.
 
-### 19 — FAQ — MAIN PAGE WIREFRAME — `FAQ-Wireframe-Main.md`
+### 19 — FAQ — MAIN PAGE WIREFRAME — [`FAQ-WIREFRAME-MAIN.md`](19.%20FAQ/FAQ-WIREFRAME-MAIN.md)
+- **19 — FAQ main wireframe:** [`FAQ-WIREFRAME-MAIN.md`](19.%20FAQ/FAQ-WIREFRAME-MAIN.md)
+- **19 — CTA, buttons, links, external routing, downloads and media:** [`19-FAQ-CTA-BUTTONS-LINKS-ROUTING.md`](19.%20FAQ/19-FAQ-CTA-BUTTONS-LINKS-ROUTING.md)
 - 19.1 — Pathways & Programs
-- 19.2 — Curriculum 
-- 19.3 — Admissions 
+  - Pathway
+  - Degree Programs
+  - Experiential
+  - Entrepreneurship
+  - High School
+  - GED/HSE
+  - Certification Review
+  - Bar Review / Law routing where applicable
+- 19.2 — Curriculum
+- 19.3 — Admissions
 - 19.4 — Tuition, Fees & Payments
 - 19.5 — Accreditation & Authorization
-- 19.6 — Student Experience 
+- 19.6 — Student Experience
 - 19.7 — Products
-- 19.8 — Technical Support 
+- 19.8 — Technical Support
+- Additional FAQ content: About, Donations/Foundation, Join Us, Resources, Contact, public external resources, Impact & Transparency, and legal-case / real-work experience questions.
+- External routing may include Classe365, Master RIAH Pathway Jotform, Shopify, SuiteDash, Calendly, public policies/disclosures and configured social/platform destinations.
+- Selected downloads include Admissions & Pre-Admissions Guide, Transfer & Alternative Credit Guide, Experiential Pathway Guide, and RIAH Pathway Master Hiring Timeline and Position Profiles.
+- **Header/Footer:** omitted from the page wireframe because global header and footer are managed separately.
 
-### 20 — CONTACT — MAIN PAGE WIREFRAME — `Contact-Wireframe-Main.md`
-- 20.1 — Admissions 
+### 20 — CONTACT — MAIN PAGE WIREFRAME — [`CONTACT-WIREFRAME-MAIN.md`](20.%20CONTACT/CONTACT-WIREFRAME-MAIN.md)
+- **20 — Contact main wireframe:** [`CONTACT-WIREFRAME-MAIN.md`](20.%20CONTACT/CONTACT-WIREFRAME-MAIN.md)
+- **20 — CTA, buttons, links, external routing, forms, media and audit:** [`20-CONTACT-CTA-BUTTONS-LINKS-ROUTING.md`](20.%20CONTACT/20-CONTACT-CTA-BUTTONS-LINKS-ROUTING.md)
+- 20.1 — Admissions
+  - 12.1 Pre-Admissions
+  - 12.2 Application / Classe365
+  - 12.3 Acceptance & Enrollment
+  - 12.4 Onboarding & Student Experience
+  - 12.5 Graduation & Alumni
+  - 12.6 How RIAH Pathway Works
+  - 12.7 Transfer Students
 - 20.2 — Human Resources
-- 20.3 — Technical Support 
-- 20.4 — Student Support 
-- 20.5 — Products & Orders 
+  - 17.4 Join Our Team
+  - 17.4.8 Find Your Fit
+  - 17.4.9 Apply to Join RIAH Pathway / Breezy HR
+  - SuiteDash general careers interest
+- 20.3 — Technical Support
+  - SuiteDash student / support portal
+  - Application support routing
+  - 19.8 Technical Support FAQ
+- 20.4 — Student Support
+  - SuiteDash student portal
+  - 17.2 Student Life
+  - Career Services and Career Opportunities
+  - 18.1 Events
+  - 19.6 Student Experience FAQ
+- 20.5 — Products & Orders
+  - 15 Products & Services
+  - 15.2 Pricing
+  - 09 Certification Review
+  - 10 Bar Review
+  - Shopify storefront
 - 20.6 — Partnerships & Organizations
-- 20.7 — General Inquiries 
+  - 17.3 Partnerships and 17.3.1–17.3.17 partner categories
+  - SuiteDash institutional partner form
+  - 06 Entrepreneurship
+  - 15.4 Entrepreneurship Program
+  - 15.5 Extended Services
+- 20.7 — General Inquiries
+  - General contact email and form
+  - 13 Tuition
+  - 14 Donations / Foundation
+  - 16 Accreditation & Authorization
+  - Media / Press
+  - Resources and FAQ routing
+- Social identity: @RIAHPathway with configured official social destinations.
+- Contact page downloads: none.
+- **Header/Footer:** omitted from the page wireframe because global header and footer are managed separately.
 
 ---
 
