@@ -169,6 +169,37 @@ Preserve the first bot discovery and original evidence; update last-discovery an
 
 Report counts for Tier I individual components, Tier II connected programs, Tier III complete matches, indeterminate results, scope of examined records, exact last-known assessment date, and unresolved historical/index fields. Phrase a zero Tier III result as **no complete correspondence verified among examined sources**, never as proof no such organization exists.
 
+## XII. ⚖️ OFFICIAL NOTICE — RIAH PATHWAY INTELLECTUAL PROPERTY & ACCOUNTABILITY
+
+**To any individual, organization, institution, business, developer, or other party considering the unauthorized use, reproduction, misappropriation, or exploitation of RIAH Pathway's protected intellectual property:**
+
+**Consider this your notice.**
+
+RIAH Pathway is being independently developed through documented research, planning, architecture, technology, educational programming, business operations, and original work.
+
+We respect lawful competition, independent innovation, and the use of ideas and practices available to the public. However, we will not tolerate the unlawful acquisition, misuse, or exploitation of our confidential information, trade secrets, copyrighted expression, proprietary materials, or other legally protected intellectual property.
+
+**If you unlawfully access, take, reproduce, distribute, disclose, or commercially exploit protected RIAH Pathway materials, be prepared to be held accountable.**
+
+We will document credible evidence, preserve relevant records, investigate substantiated concerns, and pursue appropriate legal remedies when warranted.
+
+This includes seeking injunctive relief, financial damages, and other remedies available under applicable law.
+
+**Do not mistake public visibility for unrestricted permission. Do not mistake a developing organization for an organization unwilling to protect its rights.**
+
+Our position is straightforward:
+
+**Respect our intellectual property. Respect our legal rights. Conduct your business lawfully.**
+
+**If you choose otherwise, understand that RIAH Pathway is prepared to respond through appropriate legal channels.**
+
+We are building our legacy, documenting our work, and protecting what the law recognizes as ours.
+
+**RIAH Pathway.**  
+*Educate. Empower. Elevate.*
+
+**Office of the Founder/CEO/Chairman**
+
 ---
 
 # 👑 RIAH Pathway.
