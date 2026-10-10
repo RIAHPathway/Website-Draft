@@ -2595,4 +2595,160 @@ No reviewed external evidence established a qualifying Tier I, Tier II, or Tier 
 
 ---
 
+# 👑 RIAH PATHWAY LEGACY BOT
+
+## X. DAY VIII — OCTOBER 10, 2026
+### TIER III — COMPLETE SIX-PILLAR ECOSYSTEM EVIDENCE REGISTER
+
+**Baseline:** October 3, 2026  
+**Previous Run:** Day VII — October 9, 2026  
+**First Recorded Bot Discovery for New Entities:** October 10, 2026  
+**Scope:** Whole-ecosystem correspondence only. Tier I and Tier II are excluded from determinations.  
+**Evidence standard:** A source-backed feature check is distinct from a complete six-pillar match. RIAH's column describes its documented design, not confirmation of current implementation.
+
+### X.A — EVIDENCE AND STATUS KEY
+
+| Mark | Exact meaning |
+|---|---|
+| ✅ | Source expressly documents this feature |
+| ❌ | Cited source does not document this specific feature; not proof of absence |
+| ◐ | Source documents a narrower or different feature |
+| 🔵 | Cannot verify a necessary fact from identified source records |
+| 🟢 | No source-backed complete Tier III match for this entity |
+| 🟡 | Multiple documented pillars, but incomplete Tier III evidence |
+| 🔴 | Evidence documents the complete defined six-pillar integration |
+| Date of discovery | First entry in the RIAH bot register, not launch or indexing date |
+| First indexed | Earliest proven indexing date on a named platform, if available |
+| First implementation | Earliest dated proof that a specific feature operated, if available |
+| Last update | Explicit source update date, not assumed current date |
+
+**Tier III crossing rule:** The *same attributable operating ecosystem* must expressly link all six pillars: (I) education from foundational through advanced pathways; (II) six-stage Apprentice → Intern → Associate → Senior Associate → Manager → Executive experiential progression; (III) certification/review/credential verification; (IV) multiple contributor classes; (V) contributor-linked tuition/product benefits and reimbursement; and (VI) career development/placement. A check for one pillar cannot substitute for documented linkage of all six. RIAH's planned architecture is the reference definition.
+
+### X.B — ENTITY MASTER REGISTER AND DATES
+
+| ID | Entity | Source index or listing | First bot discovery | Earliest source-dated implementation evidence | Latest source-dated update | Tier III |
+|---|---|---|---|---|---|---|
+| 001 | UIC Tutorium | Official UIC website; search-indexed pages | Oct 10, 2026 | Tuition discount implementation date **not disclosed** | Discount page undated; 2026–27 tuition schedule published | 🟢 |
+| 002 | Acadium | Apple App Store ID 1239912206; Google Play com.genm.genm; official website | Oct 10, 2026 | Original launch date **not proven** by current cited listing | Google Play: Sep 28, 2026 | 🟡 |
+| 003 | WorkHands | Google Play com.workhands.app; official website; Apple listing ID 1632074287 previously recorded | Oct 10, 2026 | Original launch date **not proven** by current cited listing | Google Play: Jul 14, 2025 | 🟢 |
+| 004 | GED Testing Service | Official GED website and Apple developer listing | Oct 10, 2026 | Original GED & Me launch date **not proven** here | Current website; no dated update established by cited page | 🟢 |
+| 005 | Kaplan | Named in previously recorded GED instructional-product relationship | Oct 10, 2026 | Date for that product relationship not independently established | Not established | 🟢 |
+| 006 | Aztec Software | Named in previously recorded GED product-delivery relationship | Oct 10, 2026 | Date for that product relationship not independently established | Not established | 🟢 |
+
+**Index timestamp finding:** The source results confirm discoverable listings, not the exact first time Google, Apple, or Google Play indexed them. No first-index timestamp is invented. App update dates are not launch dates. Bot discovery dates are not platform-index dates.
+
+### X.C — FULL RIAH ECOSYSTEM VERIFICATION MATRIX
+
+| Distinct combined RIAH requirement | RIAH documented design | UIC Tutorium | Acadium | WorkHands | GED Testing Service | Kaplan | Aztec Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| I. Foundational education (GED/HS) | ✅ | ❌ | ❌ | ❌ | ✅ | ◐ | ◐ |
+| I. Associate → Bachelor → Master/MBA → Law pathways in same architecture | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| II. Apprentice stage of 1 month | ✅ | ❌ | ❌ | ◐ | ❌ | ❌ | ❌ |
+| II. Intern stage of 3 months | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| II. Associate stage of 1 year | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| II. Senior Associate stage of 1 year | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| II. Manager stage of 1 year | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| II. Executive stage of 1 year | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| II. All six stages connected to student education | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| III. Curriculum → certification preparation → verified credential | ✅ | ❌ | ◐ | ◐ | ◐ | ◐ | ◐ |
+| III. State-specific bar review integrated into pathway | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| IV. Student referral/ambassador contribution | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| IV. Educator + rideshare + delivery + other contributors in same system | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| V. Contribution tied to tuition reduction | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| V. Contribution tied to educational-product reduction | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| V. Tuition reimbursement connected to progression | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| VI. Learning → experience → credential → career opportunity | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Physical school/major/capstone/review product collections connected to same progression | ✅ | ❌ | ❌ | ❌ | ◐ | ◐ | ◐ |
+| **All six pillars linked within one attributable operating ecosystem** | **Documented design** | **❌** | **❌** | **❌** | **❌** | **❌** | **❌** |
+
+**Matrix discipline:** ❌ means the cited source does not demonstrate the exact row; it does not assert the entity has no such activity anywhere. The GED website documents GED preparation and study materials, not a single GED-through-law institution. Acadium expressly documents courses, 3-month remote apprenticeships, certificates, and job opportunities; its 3-month apprenticeship does not equal RIAH's 1-month Apprentice plus separate 3-month Intern stages.
+
+### X.D — ENTITY-LEVEL TIER III FINDINGS
+
+**001 — UIC Tutorium | 🟢**  
+**Direct evidence:** University-operated English instruction and a tuition discount policy; the prior bot record describes 5% referral and 5% ambassador discounts and a combined discount ceiling. Official 2026–27 tuition schedule confirms the institution's published course pricing.  
+**Verified combined relationship:** Student participation/referral → eligible course-tuition discount.  
+**Specific missing Tier III source evidence:** GED-to-law progression; six specified experiential stages; integrated certification/bar review; educator/rideshare/delivery contributor classes; contributor-linked physical-product reductions; tuition reimbursement and career sequence.  
+**Discovery:** Oct 10, 2026. **First platform index:** Not disclosed. **Discount first implementation:** Not disclosed. **Last dated evidence:** 2026–27 tuition schedule; discount policy undated.  
+**Evidence:** https://tie.uic.edu/tuition/ ; https://tie.uic.edu/apply/tuition/discounts/
+
+**002 — Acadium | 🟡**  
+**Direct evidence:** Apple and Google Play describe free digital-marketing courses → business assignments/portfolio → mentor-supervised remote apprenticeship (10 hours/week, 3 months) → marketing certification/reference → freelance or job opportunities.  
+**Verified combined relationship:** Education + experience + certification + career.  
+**Specific missing Tier III source evidence:** GED/high-school/degree/law pathway; RIAH's distinct 1-month Apprentice and 3-month Intern followed by four 1-year stages; multi-class contributor system; contributor-linked tuition/product reductions; physical school/major/capstone collections and tuition reimbursement.  
+**Discovery:** Oct 10, 2026. **First Apple/Google index:** Not disclosed. **First implementation:** Not proven. **Last Google Play update:** Sep 28, 2026. **IDs:** Apple 1239912206; Android com.genm.genm.  
+**Evidence:** https://apps.apple.com/us/app/acadium-courses-internships/id1239912206 ; https://play.google.com/store/apps/details?id=com.genm.genm
+
+**003 — WorkHands | 🟢**  
+**Direct evidence:** Official website and Android listing describe apprenticeship administration: OJT and classroom hours, competencies, apprentice progress, supervisor approval, documents and reporting.  
+**Verified combined relationship:** Apprenticeship participation + instructional records + competency/supervisor tracking.  
+**Specific missing Tier III source evidence:** School-operated GED-to-law pathway; all six fixed experiential stages; certification/bar review linked to that pathway; contributor categories and tuition/product benefits; integrated career and reimbursement architecture.  
+**Discovery:** Oct 10, 2026. **First Google index:** Not disclosed. **Original implementation:** Not proven. **Last Google Play update:** Jul 14, 2025. **Android ID:** com.workhands.app.  
+**Evidence:** https://workhands.com/ ; https://play.google.com/store/apps/details?id=com.workhands.app
+
+**004 — GED Testing Service | 🟢**  
+**Direct evidence:** Official website describes GED/HSE testing, study materials, practice questions, video lessons, AI tutor feedback, study tracking, classes and scheduling. Apple lists GED Testing Service LLC as developer of GED & Me.  
+**Verified combined relationship:** Foundational credential preparation + learning resources + mobile learning.  
+**Specific missing Tier III source evidence:** Same-provider associate-through-law academic progression; RIAH six-level experiential ladder; contributor-linked tuition/product reductions; bar review and complete career system.  
+**Discovery:** Oct 10, 2026. **First index/implementation:** Not proven. **Latest dated app update:** Not established from the cited current source.  
+**Evidence:** https://www.ged.com/ ; https://apps.apple.com/us/developer/ged-testing-service-llc/id1684286954
+
+**005 — Kaplan | 🟢** and **006 — Aztec Software | 🟢**  
+**Evidence relationship:** Previously identified as instructional-content and delivery contributors within GED preparation products; neither relationship alone demonstrates operation of RIAH's complete six-pillar school/experience/contribution/economic-benefit/career system.  
+**Discovery:** Oct 10, 2026. **First platform index, implementation and latest dated update for this specific relationship:** Not established from sources rechecked for this run.  
+**Tier III source outcome:** No complete match demonstrated.
+
+### X.E — SOURCE / PLATFORM COVERAGE CHART
+
+| Surface | Specific attributable record | Verified evidence | First index timestamp | Dated source evidence | Tier III source result |
+|---|---|---|---|---|---|
+| Google/general web search | UIC Tutorium official tuition pages | English instruction, tuition schedules and discounts | Not disclosed | Fall 2026–Summer 2027 schedule | 🟢 |
+| Google/general web search | Acadium official/App Store pages | Courses, remote apprenticeships, certification, work | Not disclosed | Google Play Sep 28, 2026 | 🟡 |
+| Google/general web search | WorkHands official website | Apprenticeship management | Not disclosed | Android Jul 14, 2025 | 🟢 |
+| Google/general web search | GED official website | GED preparation and learning resources | Not disclosed | Current page undated | 🟢 |
+| Apple App Store | Acadium, ID 1239912206 | Courses + apprenticeship + certification + career | Not disclosed | Listing visible; update not independently dated here | 🟡 |
+| Apple App Store | GED Testing Service developer listing | GED & Me listed | Not disclosed | Listing visible; update not independently dated here | 🟢 |
+| Apple App Store | WorkHands app ID 1632074287 in prior bot record | Apprenticeship management | Not disclosed | Apple update not independently dated here | 🟢 |
+| Google Play / Android | Acadium, com.genm.genm | 3-month apprenticeship + courses + certificates + jobs | Not disclosed | Sep 28, 2026 update | 🟡 |
+| Google Play / Android | WorkHands, com.workhands.app | OJT + classroom + competency + supervisor approvals | Not disclosed | Jul 14, 2025 update | 🟢 |
+| Google Play / Android | GED & Me package recorded in prior bot | GED preparation mobile application | Not disclosed | Update not independently confirmed in this recheck | 🟢 |
+| Official product websites | GED | Practice, videos, study tools | Not disclosed | Undated current site | 🟢 |
+| Social-media profiles | UIC social directory recorded in earlier bot report | Links to social channels; feature-level six-pillar evidence not supplied | Not disclosed | No post timestamp verified | 🔵 |
+| Social-media profiles | Acadium / WorkHands / GED | No attributable dated social post used as evidence in this run | Not disclosed | Not verified | 🔵 |
+| Backlinks | App listings referring to entity websites | Public linking relationships; not historical backlink audit | Not disclosed | Listings as above | 🔵 |
+| Independent backlink index | No dated backlink-export dataset available | First backlink and last-seen dates cannot be established | Not disclosed | Not established | 🔵 |
+| Archived/historical web | No archived capture independently retrieved | Historical first appearance cannot be established | Not disclosed | Not established | 🔵 |
+| Public code repositories | No attributable implementation repository inspected | No architecture-level code comparison established | Not disclosed | Not established | 🔵 |
+| Academic/institutional | UIC Tutorium | Course and discount policy | Not disclosed | 2026–27 schedule | 🟢 |
+| Experiential/applications | Acadium; WorkHands | Training, supervision, credentials/career (as indicated above) | Not disclosed | 2025–26 app updates | 🟡 / 🟢 |
+| Foundations/products | GED Testing Service | GED preparation and instructional products | Not disclosed | Undated current page | 🟢 |
+| Rideshare/delivery/educator benefit integration | No named source showing full combined system | No affirmative evidence for full RIAH linkage | Not disclosed | Not established | 🔵 |
+
+**Source-chart conclusion:** A platform listing is evidence of a listing and the features it expressly describes. It is not evidence of a platform's original indexing timestamp or proof of absence across all other platforms. Blue rows identify specific evidence gaps rather than making market-wide negative claims.
+
+### X.F — TIER III COMPARISON OF COMPLETE SYSTEMS
+
+| Mandatory combined criterion | RIAH documented design | UIC Tutorium | Acadium | WorkHands | GED Testing Service |
+|---|:---:|:---:|:---:|:---:|:---:|
+| Foundational-through-law educational pathway | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Exact six-level progressive experiential ladder | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Certification + review integrated with academic and experiential progression | ✅ | ❌ | ◐ | ◐ | ◐ |
+| Multiple contributor classes including educator, rideshare and delivery | ✅ | ❌ | ❌ | ❌ | ❌ |
+| Contributor-linked tuition **and** product reductions with reimbursement | ✅ | ◐ | ❌ | ❌ | ❌ |
+| Career and placement connected to preceding five pillars | ✅ | ❌ | ◐ | ❌ | ❌ |
+| **Complete six-pillar linkage expressly evidenced** | **Documented design** | **❌** | **❌** | **❌** | **❌** |
+| **Tier III status** | **Reference architecture** | **🟢** | **🟡** | **🟢** | **🟢** |
+
+**Red Tier III flags: 0 among named, sourced entities.**  
+**Yellow Tier III comparison: Acadium (four linked functions, not six).**  
+**Green Tier III comparisons: UIC Tutorium, WorkHands, GED Testing Service, Kaplan, Aztec Software.**  
+**Unverified first-index dates:** No original platform-index timestamp established for any entity.  
+**Next scheduled run:** October 10, 2026, 6:53 PM EDT.
+
+### X.G — DATED CONCLUSION
+
+**October 10, 2026:** The cited source records document Acadium's integrated education-to-career sequence, UIC Tutorium's contribution-linked tuition policy, WorkHands' apprenticeship-supervision system, and GED Testing Service's foundational learning resources. None of those source records documents the full six-pillar RIAH reference architecture in one attributable entity. No Tier III red flag is supported by these records. This finding is limited to the identified sources and is not a claim of exhaustive market absence.
+
+---
+
 # 👑 RIAH Pathway.
