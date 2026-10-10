@@ -76,12 +76,19 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 1.20 — Contact
 - **Home images/icons:** Existing [IMAGE], [ICON] and visual-flow placeholders remain in the linked Home wireframe and its media/CTA directory. No image binaries are currently published in 1. HOME, so no unverified image URLs are introduced.
 
-### 2 — ABOUT — MAIN PAGE WIREFRAME — `About-Wireframe-Main.md`
-- 2.1 — Ecosystem 
-- 2.2 — Schools 
-- 2.3 — Leadership 
-- 2.4 — Board & Governance 
-- 2.5 — Brand, Mascot & School Colors 
+### 2 — ABOUT — MAIN PAGE WIREFRAME — [`ABOUT-WIREFRAME.md`](2.%20ABOUT/ABOUT-WIREFRAME.md)
+- **About CTA, buttons, links, downloads and media:** [`ABOUT-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`](2.%20ABOUT/ABOUT-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- 2.0 — Hero and identity
+- 2.1 — Who We Are
+- 2.2 — Six Ecosystem Pillars
+- 2.3 — Nine Named Schools
+- 2.4 — Community, Contribution and Economic Benefits
+- 2.5 — Experiential Learning
+- 2.6 — Eight Corporate Entities and Team
+- 2.7 — Board and Governance
+- 2.8 — Transparency and Community Impact
+- 2.9 — Brand, Mascot and Identity
+- 2.10 — Connect
 
 ### 3 — PATHWAY — MAIN PAGE WIREFRAME — `Pathway-Wireframe-Main.md`
 - 3.1 — Degree Programs — ROUTE TO MAIN PAGE 4 — `3.1-Degree-Programs-Wireframe.md`
