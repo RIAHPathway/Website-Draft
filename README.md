@@ -73,8 +73,8 @@ The following table summarizes the public compensation and equity framework refe
 
 | Download | File |
 |---|---|
-| 📄 Master Hiring Timeline & Position Profiles (PDF) | [View the PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) · [Download the PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
-| 🖼️ Official RIAH Pathway Hiring Flyer (JPG) | [View or save hiring flyer](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg) |
+| 📄 Master Hiring Timeline & Position Profiles (PDF) | [View the PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) · [Download the PDF](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
+| 🖼️ Official RIAH Pathway Hiring Flyer (JPG) | [View or save hiring flyer](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg) |
 
 ---
 
@@ -271,7 +271,7 @@ The Join Us Downloads structure contains the current RIAH Pathway at-scale posit
 
 | Position Category | Position / Resource | Document / Download |
 |---|---|---|
-| Now Hiring Downloads | Master Hiring Timeline & Position Profiles (PDF) | [Download current hiring PDF](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
+| Now Hiring Downloads | Master Hiring Timeline & Position Profiles (PDF) | [Download current hiring PDF](https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/RIAH-PATHWAY-HIRING-TIMELINE-AND-POSITIONS.pdf) |
 | Academic Faculty Positions | Adjunct Academic Faculty | [Adjunct Academic Faculty](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/ADJUNCT-ACADEMIC-FACULTY.md) |
 | Academic Faculty Positions | PhD Academic Faculty | [PhD Academic Faculty](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/ACADEMIC-FACULTY-POSITIONS/PHD-ACADEMIC-FACULTY.md) |
 | Affiliates | Affiliates | [Affiliates](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/AFFILIATES/AFFILIATES.md) |
