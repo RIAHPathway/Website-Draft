@@ -4,7 +4,7 @@
 
 ## COMPLETE BUTTON, CTA, LINK AND DOWNLOAD INVENTORY
 
-| Section | Type | Label / Asset | Destination / Notes |
+| Section | Type | Label/Asset | Destination / Notes |
 |---|---|---|---|
 | 01 HERO | BUTTON | VIEW TUITION | 13.1 |
 | 01 HERO | BUTTON | PAYMENT OPTIONS | 13.3 |
