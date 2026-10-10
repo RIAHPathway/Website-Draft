@@ -2036,7 +2036,7 @@ The existing Page 6 wireframe confirms the following **published offerings only*
 | Startup Launch / New Startup Baseline | 12 Weeks | $5,000 | $3,750 | Three installments totaling $5,000 |
 | Small Business Recovery & Growth | 16 Weeks | $10,000 | $7,500 | Four installments totaling $10,000 |
 
-**Application fee:** $75. **Enrollment deposit:** $500 credited against the relevant tuition, not charged as an additional tuition amount.
+**Application fee:** $0. **Enrollment deposit:** $500 credited against the relevant tuition, not charged as an additional tuition amount.
 
 Monthly nonpayment pauses applicable curriculum access and managed collaboration until the account is current. Upfront cancellations follow the approved delivered-services, unused-prepaid-tuition, refund and applicable legal terms.
 

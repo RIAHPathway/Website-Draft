@@ -424,8 +424,8 @@
 | 17.5 Ambassadors | Verified Contributor Milestones / Tuition / Admissions / Founder | 17.2.15; 12; 11; 17.6 |
 | 17.6 Founder — IV | Internal Team Benefits / Admissions & Reimbursement / Tuition | Contributor Benefits Master; 11; 12; 13.17 |
 | 17.6 Founder — V | Contributor Milestone Verification / Tuition Reimbursement | Contributor Benefits Master; 13.17 |
-| 17.6 Founder — VI | Education / Experiential Tuition / Admissions / Student Milestones | 11; 5; 12; 13.6; 17.2.15 |
-| 17.6 Founder — Employees, Partners & Affiliates | Employee / Partner / Partner Employee / Affiliate Benefits; Verified Milestones; Contacts | 17.4; 17.4.9; 17.3; 17.5; 20.7; 20.3; 13.6; 17.2.15; Benefits Markdown |
+| 17.6 Founder — VI | Education / Experiential Tuition / Admissions / Student Milestones | 11; 5; 12; 13.2; 17.2.15 |
+| 17.6 Founder — Employees, Partners & Affiliates | Employee / Partner / Partner Employee / Affiliate Benefits; Verified Milestones; Contacts | 17.4; 17.4.9; 17.3; 17.5; 20.7; 20.3; 13.2; 17.2.15; Benefits Markdown |
 | 12 Admissions | Tuition / Milestones / Reimbursement / Founder Cross-Reference | 12; 13.17; 17.2.15; 17.6 |
 
 ### 17.6 — Employee, Partner Employee and Affiliate Buttons, Routes & External Links
