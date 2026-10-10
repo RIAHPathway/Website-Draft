@@ -3,6 +3,7 @@
 
 **Main Page:** 4 — Degree Programs  
 **Primary Sitemap Structure:** 4.1 Degree Pathway • 4.2 Schools • 4.3 Law Pathway  
+**Combined CTA / Buttons / Links / Downloads / Media Routing:** [4-DEGREE-PROGRAMS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md](./4-DEGREE-PROGRAMS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)  
 **Institutional Colors:** Black • Red • Gold • White • Silver  
 **Slogan:** **ONE DYNASTY. INFINITE LEGACIES.**  
 **Header and Footer:** Managed globally and intentionally omitted from this page wireframe.
