@@ -162,7 +162,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 16.1–16.5 | 16 Accreditation & Authorization | [Accreditation combined CTA routing](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Accreditation combined CTA routing](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Accreditation combined CTA routing](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Accreditation combined CTA routing](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Accreditation combined CTA routing](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | 14 planned buttons; downloads, media and external link validation tracked separately |
 
 ## XVII — 17. Join Us
 
