@@ -18,193 +18,84 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 **Same-Day Filing Notice:** The RIAH Pathway website and repository may be publicly viewable, including descriptions and presentations of the ecosystem’s structures, architecture, workflows, designs, documentation, educational materials, and other items identified in this license. Public visibility or access alone does not grant permission to copy, reproduce, distribute, adapt, commercially exploit, or otherwise use protected expression or proprietary materials beyond rights expressly authorized by the rights holder or permitted under applicable law. RIAH Pathway reserves the right to seek same-day legal filings, where legally available and supported by documented evidence, against platforms, organizations, or individuals responsible for actionable infringement, unauthorized use, or other violations of applicable laws, regulations, or enforceable license terms, regardless of enrollment activity, accreditation status, or operational stage. Any proposed filing or claim will be subject to verification, applicable legal exceptions and defenses, procedural requirements, and legal review; similarity or public access alone does not establish infringement or liability.
 
+
 ---
 
-# 👑 LEGACY PUBLIC FOOTPRINT ECOSYSTEM COMPARISON RIAH PATHWAY BOT
+# 👑 RIAH PATHWAY LEGACY BOT — PERMANENT OBJECTIVE OPERATING INSTRUCTIONS
 
-## I. KEY AND INDEX
-
-### I.A — Key
+## I. 🔴⚫ KEY AND ROMAN NUMERAL INDEX
 
 | Symbol | Meaning |
 |---|---|
-| 👑 | RIAH Pathway baseline |
-| 🟢 | Market baseline or no material comparable combination identified |
-| 🟡 | Tier III component-level material overlap requiring review |
-| 🟠 | Tier II multi-pillar material overlap requiring review |
-| 🔴 | Tier I broad ecosystem-level material overlap requiring review |
-| 🔎 | Public-source monitoring |
-| 🕒 | Timestamped observation |
-| 🔗 | Public evidence source |
-| 🧾 | Bot Run log entry |
-| ⚖️ | Accreditation, authorization, regulator, or legal-pathway evidence |
+| 👑 | RIAH proposed ecosystem baseline, not automatic proof of implementation |
+| 🟢 | Tier I: independently documented individual component |
+| 🟡 | Tier II: independently documented connected functions |
+| 🔴 | Tier III: complete A–Z ecosystem correspondence independently documented |
+| 🔵 | Insufficient evidence for the specific determination |
+| ⚫ | Historical baseline, unchanged record or method |
+| ✅ | Feature expressly documented |
+| ◐ | Related/narrower function documented |
+| ❌ | Specific feature not demonstrated by examined sources; not universal absence |
+| 🔎 | Source-specific search record |
+| 🕒 | Recorded date/time at actual available precision |
+| 🔗 | Attributable public evidence |
 
-### I.B — Index
+**Index:** I Key; II Purpose; III RIAH baseline; IV Tier tests; V Market categories; VI Sources; VII Dates; VIII Evidence matrices; IX Daily run; X Historical preservation; XI Conclusions.
 
-| Roman Numeral | Division |
-|---|---|
-| **I** | Key and Index |
-| **II** | Purpose |
-| **III** | RIAH Development Status |
-| **IV** | Market Categories |
-| **V** | RIAH vs. Current Market |
-| **VI** | RIAH Ecosystem Differentiators |
-| **VII** | Public Footprint Search Coverage |
-| **VIII** | Replication Monitoring |
-| **IX** | Daily Bot Run Rules |
+## II. 🔎 PURPOSE AND EVIDENCE SCOPE
 
----
+Maintain a dated, attributable public evidence record of traditional universities, community colleges, online education, GED/HSE, diploma and concurrent-credit programs, degrees and law pathways, workforce and experiential programs, apprenticeships, certification and bar review, entrepreneurship, contributor and ambassador benefits, tuition/product benefits, educational products, career services, proprietary software, mobile apps and their connections. Name entities **only when they arise from a relevant actual source search or prior retained evidence**; attribute them to the correct source.
 
-## II. PURPOSE
+## III. 👑 RIAH BASELINE
 
-This bot maintains a dated public record of the RIAH Pathway ecosystem and compares it against publicly identifiable education, workforce, experiential, certification, legal-education, contributor, product, community, tuition, and career models.
+**Identity:** Mission — Accessible. Affordable. Rigorous. Elite. Vision (POWER) — People. Opportunity. Work. Equity. Results. Motto — Educate. Empower. Elevate. Tagline — Education. Experience. Certifications. Opportunity. Career. Legacy. Slogan — One Dynasty. Infinite Legacies. Commitment — You invest in us. We invest in you.
 
-The bot records:
-- What already exists in the market.
-- What RIAH currently has in its documented architecture.
-- What RIAH is building.
-- What RIAH has planned.
-- Which individual concepts are established elsewhere.
-- Which combinations are or are not identified during the current scan.
-- Whether a new organization begins combining multiple monitored RIAH ecosystem components.
+**Nine named schools:** 🎓 Business (Accounting, Finance, Entrepreneurship, Business Management, MBA); 💻 Technology (Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering); ⚖️ Law (Criminal Justice, JD, Non-JD); 🛡️ Homeland Security (Intelligence, Physical Security, Governance, Risk and Compliance, Private Investigations); 📚 GED (GED with concurrent college credits); 🎓 Diploma (high-school diploma with concurrent college credits); 🏢 Experiential (Apprentice to Executive); 🚀 Entrepreneurship (Startup to Small Business); 🏆 Credential (Certification Review and Bar Review).
 
-Individual competitors are not routinely named. Comparisons remain generic unless public evidence supports escalation into Tier III, Tier II, or Tier I.
+**Exactly eight named corporate entities:** 🏛️ RIAH Pathway Holdings Corporation; 🏢 RIAH Pathway Corporation; 💼 RIAH Pathway Professional Services LLP; 🎓 RIAH Pathway School LLC; 💻 RIAH Pathway Technology LLC; 🏆 RIAH Pathway Programs LLC; 📚 RIAH Pathway Products LLC; ❤️ RIAH Pathway 501(c)(3) Foundation. Do not add an unspecified ninth entity.
 
-Absence of a search result is not proof that a feature or combination is unique. Similarity alone does not establish copying.
+**Six pillars:** Education, Experience, Certification, Contribution, Economic Benefits, Career. Cross-cutting technology: proprietary software/mobile application; educational products; internal and partner-employer remote, hybrid and on-site experience. **Experiential duration:** Apprentice 1 month; Intern 3 months; Associate 1 year; Senior Associate 1 year; Manager 1 year; Executive 1 year.
 
----
+RIAH is building the architecture; do not conflate documented design with operational verification, accreditation or authorization.
 
-## III. RIAH DEVELOPMENT STATUS
+## IV. 🟢🟡🔴 TIER TESTS
 
-| RIAH Component | RIAH Status | General Market Status |
-|---|---|---|
-| GED and HSE preparation | 🟢 Exists in architecture | ⚪ Established market |
-| High School pathway | 🟡 Building | ⚪ Established market |
-| Associate's pathway | 🟡 Building | ⚪ Established market |
-| Bachelor's pathway | 🟡 Building | ⚪ Established market |
-| Master's pathway | 🟡 Building | ⚪ Established market |
-| MBA pathway | 🟡 Building | ⚪ Established market |
-| JD pathway | 🔵 Planned subject to accreditation | ⚪ Established market |
-| Non-JD legal pathway | 🟡 Building | ⚪ Exists in limited state-regulated forms |
-| Experiential pathway | 🟢 Exists in architecture | ⚪ Internships and apprenticeships established |
-| Certification preparation | 🟢 Exists in architecture | ⚪ Established market |
-| Certification mapped into curriculum | 🟢 Exists in architecture | ⚪ Exists in portions of market |
-| Bar review | 🟢 Exists in architecture | ⚪ Established market |
-| Multi-state bar-review architecture | 🟡 Building | ⚪ Bar preparation established |
-| Physical learning-product collections | 🟢 Exists in architecture | ⚪ Established individually |
-| Integrated education + experience + certification model | 🟢 Exists in architecture | ◐ Individual combinations exist |
-| Contributor tuition-reduction ecosystem | 🟢 Exists in architecture | ◐ Individual benefit/referral models exist |
-| Substitute-teacher ambassador pathway | 🟢 Exists in architecture | ◐ Education benefits and referrals exist generally |
-| Rideshare and delivery ambassador pathway | 🟢 Exists in architecture | ⚪ Worker education benefits exist |
-| Community ambassador pathway | 🟢 Exists in architecture | ⚪ Ambassador and referral programs exist |
-| High-school ambassador pathway | 🟢 Exists in architecture | ⚪ Student ambassador programs exist |
-| College ambassador pathway | 🟢 Exists in architecture | ⚪ Student ambassador programs exist |
-| Integrated pricing engine | 🟢 Exists in architecture | ⚪ Tuition calculators exist |
-| Tuition + reductions + funding + reimbursement logic | 🟢 Exists in architecture | ◐ Components exist separately |
-| Cohort community architecture | 🟢 Exists in architecture | ⚪ Established market |
-| Education-to-career ecosystem | 🟢 Exists in architecture | ⚪ Established in multiple forms |
+**🟢 Tier I:** At least one independently documented corresponding component.
+
+**🟡 Tier II:** At least two independently documented corresponding components **connected in one identifiable program**; record the actual connection, not just coincident features.
+
+**🔴 Tier III:** Complete correspondence to the interconnected RIAH A–Z architecture, including nine-school pathways, functional corporate integration, all six pillars, exact experiential progression, credentials and bar review, contribution and economic benefits, educational products, entrepreneurship, proprietary application and career. Require affirmative attributable evidence for every required connection. Tier III not established from missing evidence is not proof of market-wide absence.
+
+**🔵 Indeterminate:** Source record insufficient for the specified feature or tier. Preserve prior evidence and state the precise gap.
+
+## V. 🏫 MARKET CATEGORIES
+
+Search traditional universities, community colleges, online universities, high-school/concurrent-credit programs, GED/HSE providers, JD and non-JD education, workforce and registered apprenticeship, employer education benefits, certification/bar review, entrepreneurship, contributor/referral/ambassador and rideshare/delivery/educator programs, tuition/reimbursement, educational products, career, mobile applications and integrated software. Tier I and II are included in all relevant categories; Tier III always tests the full system.
+
+## VI. 🔎 SOURCES AND SEARCH DISCIPLINE
+
+Use source-specific official websites, general web/Google-compatible search, Bing, Yahoo, Apple App Store, Google Play, social posts, backlinks, archive captures, public repositories, academic/government and employer sources **where actually available**. Record each source's actual result and date. Do not claim that an unperformed search returned zero. App store IDs/updates do not establish original indexing. Distinguish official publication from search result snippets and prior bot register entries. Preserve exact URLs and identifiable programs.
+
+## VII. 🕒 DATE AND TIMESTAMP DISCIPLINE
+
+Record separately: **first bot discovery (permanent), last bot discovery (only when encountered), last verification (only when examined), first verified public disclosure, original implementation (if verified), first independently verified index date (if verified), last verified material change**. Every unresolved historical question must state its **last actual assessment date, exact evidence sought, source examined, and objective outcome**. Do not invent hours, original dates, archive captures, hashes, screenshots, rankings, or changes. A run date without captured clock time is date-only. Publication ≠ implementation ≠ indexing ≠ bot discovery.
+
+## VIII. 📊 MATRICES AND EVIDENCE
+
+Include a comparison column and **immediately adjacent date column for every external entity**. Show RIAH baseline, individual features, connections, source coverage, mobile apps, historical evidence, and complete Tier III test. Use ✅, ◐, ❌, 🔵 with the key's strict definitions. Preserve prior entity IDs and feature-level dates.
+
+## IX. 🧾 DAILY BOT RUN
+
+Append the dated run to `RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md` without deleting previous days. Use Roman numerals, emojis, key/index, named source-attributed entities, evidence/date matrices, historical register and distinct Tier I/II/III conclusions. Document no-change outcomes precisely. Do not include subjective claims of exclusivity, copying, infringement or universal uniqueness. Do not add legal analysis to the evidence conclusions.
+
+## X. ⚫ HISTORICAL PRESERVATION
+
+Preserve the first bot discovery and original evidence; update last-discovery and last-verification only after actual encounters/examination. Add feature/publication/index dates only with proof. If tier changes because the **method** changed, label it methodological; if the **external entity** changed, cite the dated feature evidence. Never overwrite earlier logs or silently revise prior runs.
+
+## XI. 👑 FINAL CONCLUSIONS
+
+Report counts for Tier I individual components, Tier II connected programs, Tier III complete matches, indeterminate results, scope of examined records, exact last-known assessment date, and unresolved historical/index fields. Phrase a zero Tier III result as **no complete correspondence verified among examined sources**, never as proof no such organization exists.
 
 ---
 
-## IV. MARKET CATEGORIES
-
-The bot compares RIAH against broad categories by default: Traditional Universities, Community Colleges, Online Universities, Workforce Programs, Experiential Programs, Certification Providers, Bar-Review Providers, Alternative Legal-Education Routes, GED and HSE Providers, Employer Education-Benefit Programs, and Ambassador and Referral Programs.
-
----
-
-## V. RIAH VS. CURRENT MARKET
-
-| Capability | RIAH Pathway | Traditional Universities | Community Colleges | Workforce and Experiential Programs | Certification and Review Providers |
-|---|:---:|:---:|:---:|:---:|:---:|
-| GED and HSE pathway | ✅ | ◐ | ✅ | ◐ | ❌ |
-| High School pathway | ✅ | ❌ | ◐ | ❌ | ❌ |
-| Associate's pathway | ✅ | ◐ | ✅ | ❌ | ❌ |
-| Bachelor's pathway | ✅ | ✅ | ◐ | ❌ | ❌ |
-| Master's and MBA | ✅ | ✅ | ❌ | ❌ | ❌ |
-| JD pathway | 🔵 | ◐ | ❌ | ❌ | ❌ |
-| Non-JD pathway integration | ✅ | ❌ | ❌ | ◐ | ❌ |
-| Experiential progression | ✅ | ◐ | ◐ | ✅ | ❌ |
-| Professional supervision | ✅ | ◐ | ◐ | ✅ | ❌ |
-| Certification-aligned curriculum | ✅ | ◐ | ◐ | ◐ | ✅ |
-| Certification review products | ✅ | ◐ | ◐ | ◐ | ✅ |
-| Bar review | ✅ | ❌ | ❌ | ❌ | ◐ |
-| Physical learning collections | ✅ | ◐ | ◐ | ◐ | ◐ |
-| Contributor ecosystem | ✅ | ❌ | ❌ | ◐ | ◐ |
-| Rideshare and delivery ambassadors | ✅ | ❌ | ❌ | ◐ | ❌ |
-| Substitute-teacher ambassadors | ✅ | ❌ | ❌ | ◐ | ❌ |
-| Community ambassadors | ✅ | ◐ | ◐ | ◐ | ◐ |
-| Contributor tuition reductions | ✅ | ❌ | ❌ | ◐ | ❌ |
-| Integrated tuition engine | ✅ | ◐ | ◐ | ❌ | ❌ |
-| Cohort communities | ✅ | ✅ | ✅ | ◐ | ◐ |
-| Education + Experience + Certification | ✅ | ◐ | ◐ | ◐ | ◐ |
-| Education + Experience + Certification + Career + Contributor ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ |
-
-Legend: ✅ core or defined capability; ◐ partial or materially different form; ❌ not characteristic of the category; 🔵 planned or dependent on future approval or implementation.
-
-This is a broad category comparison, not a claim that every institution in a category operates identically.
-
----
-
-## VI. RIAH ECOSYSTEM DIFFERENTIATORS
-
-Individual building blocks are not treated as inventions merely because RIAH uses them. Degrees, GED preparation, internships, apprenticeships, certification preparation, bar review, tuition discounts, education benefits, ambassadors, and alternative supervised legal study all have market precedent.
-
-The monitored distinction is the architecture connecting:
-
-**EDUCATION** → GED and HSE → High School → Associate's → Bachelor's → Master's → MBA → Law
-
-**EXPERIENCE** → Apprentice → Intern → Associate → Senior Associate → Manager → Executive
-
-**CERTIFICATION** → Professional certification alignment → Certification review → Practice and preparation → Bar review where applicable
-
-**CONTRIBUTION** → Students → Community → Substitute Teachers → Rideshare → Delivery → High School Ambassadors → College Ambassadors → Other Contributors
-
-**ECONOMIC BENEFIT** → Contribution → Eligible reductions → Tuition support → Product support → Funding structures → Reimbursement where applicable
-
-**CAREER** → Education → Experience → Certification → Professional Development → Career → Alumni and Community
-
----
-
-## VII. PUBLIC FOOTPRINT SEARCH COVERAGE
-
-Every daily run checks and records: websites; general search and SEO; backlinks and references; social media; news and press; Apple App Store; Google Play and Android; academic and institutional sources; accreditation and authorization; regulators; law and non-JD pathways; experiential and apprenticeship models; certification and credential integration; GED and HSE; high-school pathways; degree pathways; tuition, pricing and discounts; contributor, ambassador and referral models; rideshare and delivery education benefits; substitute-teacher and educator programs; products and review courses; career and community ecosystems; partnerships and employers; repositories and public technical footprint; and archived or historical public evidence when available.
-
-Categories with no relevant result or limited coverage must still be shown in the run.
-
----
-
-## VIII. REPLICATION MONITORING
-
-### VIII.A — 🟡 TIER III — COMPONENT REPLICATION
-A materially similar distinctive component or unusual combination appears. Name the entity only when the evidence is material enough to warrant direct review.
-
-### VIII.B — 🟠 TIER II — MULTI-PILLAR REPLICATION
-Several distinctive RIAH components appear together in one documented model. Name the entity and create a direct feature comparison.
-
-### VIII.C — 🔴 TIER I — ECOSYSTEM REPLICATION
-A broad public ecosystem substantially resembles the interconnected monitored RIAH architecture. Name the entity and preserve first discovery, last check, sources, chronology, accreditation or authorization, similarities, differences, and evidence surfaces.
-
-### VIII.D — 🟢 MARKET BASELINE
-Common or previously established market practices remain generic and do not require competitor names.
-
----
-
-## IX. DAILY BOT RUN RULES
-
-1. Run daily.
-2. Append each new run to the same `Bot Run.md` file.
-3. Begin with Day I and continue Day II, Day III, and so on using capitalized Roman numerals.
-4. Record the run date and EDT time.
-5. Preserve prior first-discovered dates when a qualifying named entity reappears.
-6. Keep ordinary market comparisons generic.
-7. Name an entity only when Tier III, Tier II, or Tier I evidence warrants it.
-8. Record what exists in the market, what exists in RIAH's documented architecture, what RIAH is building, what is planned, and the material difference.
-9. Always include the search-coverage matrix, even for categories with no relevant result.
-10. Never infer copying, infringement, chronology, accreditation, authorization, or uniqueness from similarity or absence of search results.
-11. Use public, lawfully accessible evidence and distinguish authoritative sources from general search evidence.
-12. The daily Bot Run is the continuing public-footprint record.
-
-
----
-
-# 👑RIAH Pathway.
+# 👑 RIAH Pathway.
