@@ -80,6 +80,12 @@
 
 ---
 
+[BREADCRUMB — HOME → CURRICULUM]
+
+[CURRENT PAGE — CURRICULUM — 11 / NO SELF-LINK]
+
+[BUTTON — EXPLORE PATHWAYS → INTERNAL: 3 PATHWAY]
+
 # II. CURRICULUM HERO SECTION
 
 [SECTION BACKGROUND — BLACK, WHITE, RED, AND GOLD]
@@ -103,6 +109,42 @@ Academic pathways follow established curriculum sequences rather than unrestrict
 RIAH Pathway combines academic education, professional software, certification review, projects, experiential learning, applied builds, supervision, capstones, career preparation, and law-related preparation where applicable.
 
 Students progress through the curriculum associated with their selected school, major, degree, or educational pathway.
+
+### INTEGRATED CURRICULUM OUTCOMES
+
+**Education. Experience. Credentials. Opportunity.**
+
+RIAH academic learning is connected to measurable knowledge, practical skills, professional development, approved credential preparation, and legitimate applied work, according to each program's controlling course requirements.
+
+[LAYOUT — TEN CURRICULUM COMPONENT ICONS]
+
+[ICON — GENERAL EDUCATION / FOUNDATION]
+
+[ICON — SCHOOL CORE / FOUNDATIONAL DISCIPLINE]
+
+[ICON — MAJOR / PROFESSIONAL DISCIPLINE]
+
+[ICON — MINOR / PREDETERMINED SPECIALIZATION]
+
+[ICON — UPPER-DIVISION / ADVANCED STUDY]
+
+[ICON — GRADUATE / MASTER'S AND MBA]
+
+[ICON — EXPERIENTIAL LEARNING / PROFESSIONAL WORK]
+
+[ICON — ENTREPRENEURSHIP / APPLIED BUSINESS IMPLEMENTATION]
+
+[ICON — CREDENTIALS / CERTIFICATION AND BAR REVIEW]
+
+[ICON — CAPSTONE / CULMINATING APPLIED PROJECT]
+
+[IMAGE — Learners working with general academic coursework, professional technology, legal studies, business implementation, and supervised experiential assignments.]
+
+[BUTTON — EXPLORE PROGRAMS → INTERNAL: 4 DEGREE PROGRAMS]
+
+[BUTTON — VIEW EXPERIENTIAL PROGRAMS → INTERNAL: 5 EXPERIENTIAL]
+
+[BUTTON — VIEW ENTREPRENEURSHIP PROGRAM → INTERNAL: 6 ENTREPRENEURSHIP]
 
 ### CURRICULUM OWNERSHIP
 
@@ -252,6 +294,18 @@ Each category displays its applicable curriculum content directly within the Cur
 [ON-PAGE LINK — 11.9 CERTIFICATION & REVIEW → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
 
 [ON-PAGE LINK — 11.10 CURRICULUM ARCHITECTURE → SECTION XXIV: CURRICULUM ARCHITECTURE]
+
+### SPECIALIZED CONTENT WITHIN EXISTING CURRICULUM CATEGORIES
+
+[ON-PAGE LINK — ENTREPRENEURSHIP CURRICULUM → SECTION X: SCHOOL OF ENTREPRENEURSHIP CURRICULUM]
+
+[ON-PAGE LINK — CREDENTIAL CURRICULUM → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
+
+[ON-PAGE LINK — ACADEMIC QUALITY AND FACULTY → SECTION XXIX: FACULTY CURRICULUM AND ACADEMIC DEVELOPMENT]
+
+[ON-PAGE LINK — INDIVIDUAL COURSE RECORDS → SECTION XXV: CURRICULUM CONTROL AND COURSE-LEVEL DETAIL]
+
+These are on-page links, not additional 11.11 or 11.12 destinations. The authoritative repository sitemap uses Curriculum sections 11.1–11.10.
 
 The on-page links navigate to existing Curriculum content without creating additional main pages, changing the approved 20-page sitemap, or routing users to a duplicate Curriculum landing page.
 
@@ -497,6 +551,34 @@ Students advance into applicable Year 3 major coursework only after the foundati
 
 [ON-PAGE LINK — VIEW GENERAL EDUCATION AND SCHOOL CORE → SECTION V: GENERAL EDUCATION AND SCHOOL CORE CURRICULUM]
 
+### THREE CONNECTED LEARNING PATHWAYS
+
+[IMAGE — Three intersecting tracks: academic education, credential preparation, and supervised professional experience, with a branch for actual business implementation.]
+
+**ACADEMIC LEARNING**
+
+[FLOW — GENERAL EDUCATION → APPLICABLE SCHOOL CORE → MAJOR COURSEWORK → ADVANCED COURSEWORK → PROGRAM COMPLETION]
+
+**CREDENTIAL LEARNING**
+
+[FLOW — APPROVED CREDENTIAL MAPPING → REVIEW COURSEWORK → PRACTICE ASSESSMENTS / SIMULATIONS → INTERNAL REVIEW COMPLETION → SEPARATE EXTERNAL EXAMINATION WHERE APPLICABLE]
+
+**EXPERIENTIAL LEARNING**
+
+[FLOW — ELIGIBILITY → ORIENTATION → SUPERVISED REAL WORK → ASSIGNMENTS AND DELIVERABLES → PERFORMANCE REVIEW → COMPLETION RECORD]
+
+**ENTREPRENEURSHIP LEARNING**
+
+The separate School of Entrepreneurship combines structured coursework with concurrent real-business implementation for verified founders and owners.
+
+[BUTTON — DEGREE EDUCATION → INTERNAL: 4 DEGREE PROGRAMS]
+
+[BUTTON — CREDENTIAL REVIEW → INTERNAL: 9 CERTIFICATION REVIEW]
+
+[BUTTON — PROFESSIONAL EXPERIENTIAL → INTERNAL: 5 EXPERIENTIAL]
+
+[BUTTON — ENTREPRENEURSHIP → INTERNAL: 6 ENTREPRENEURSHIP]
+
 ### DEGREE PATHWAYS
 
 | Academic Level | Curriculum Structure | Typical Duration | External Website Routing |
@@ -576,6 +658,12 @@ Year 3 and Year 4 major coursework remains RIAH-controlled.
 Master's and MBA applicants must satisfy the applicable prerequisites and hold a corresponding bachelor's degree or accepted equivalent qualification.
 
 Graduate curriculum includes the assigned professional software, academic assessments, projects, and applicable capstone.
+
+### ADVANCED ACADEMIC CONTINUITY
+
+[IMAGE — Student progressing from upper-division Bachelor's work to a Master's or MBA specialization and applied capstone.]
+
+Bachelor's Year 3 builds discipline-specific foundational knowledge, while Year 4 covers advanced major requirements and applicable culminating coursework. Master's programs may include advanced specialization, research and applied study; MBA curriculum addresses management, leadership, operations, finance and strategy in the approved track. Required prerequisites, courseware, professional software, assessments and capstones remain attached to the approved academic level and course.
 
 ### J.D. CURRICULUM
 
@@ -723,6 +811,12 @@ Year 3 Major Curriculum
 [BUTTON — TECHNOLOGY DEGREE PROGRAMS → INTERNAL: 4.2.4 SCHOOL OF TECHNOLOGY]
 
 [BUTTON — LAW DEGREE PROGRAMS → INTERNAL: 4.2.3 SCHOOL OF LAW]
+
+### CORE COURSEWARE MAPPING EXCEPTIONS
+
+[ICON — INSTRUCTIONAL PROVIDER / COURSE MAPPING]
+
+Homeland Security courses HS 2103, HS 2105, and HS 2109 are not automatically treated as Cengage MindTap courses; RIAH curriculum and approved instructional resources control their assigned materials. The Business, Technology, Law and other Homeland Security core course tables retain the provider and prerequisite assignments specified in the course-level records.
 
 ---
 
@@ -1871,6 +1965,18 @@ Each of the eight levels has its own appropriately named Startup or Small Busine
 
 Applicable curriculum covers business model and market evidence, customer needs, financial records and cash flow, operations and business systems, marketing and sales, technology and cybersecurity readiness, and relevant management, stabilization, growth, and recovery projects. Workbooks contain applied exercises tied to the participant's business. Journals and planners document decisions, implementation, milestones, and performance. Qualified human supervisors or reviewers evaluate real deliverables, not merely theoretical exercises.
 
+### ENTREPRENEURSHIP — APPLIED COURSES BY POOL
+
+[IMAGE — Startup entrepreneur validating a business model, launch budget, market research and product readiness.]
+
+**Startup coursework:** Business-model validation, market evidence, projections, launch budgeting, operations, marketing, customer acquisition, technology and cybersecurity needs, readiness assessments, and professional implementation.
+
+[IMAGE — Small-business owner reviewing financial performance, operating systems, stabilization goals and growth milestones.]
+
+**Small Business coursework:** Business assessment, financial review, operating diagnostics, stabilization, professional-service coordination, cybersecurity and systems evaluation, process improvement, growth planning, applied milestones and final business completion review.
+
+Each of the eight approved levels uses its assigned collection and actual business deliverables rather than automatically receiving another level's curriculum or tuition.
+
 ### ENTREPRENEURSHIP DURATION AND MILESTONE FLOW
 
 [FLOW — 1 MONTH: WEEK 1 ORIENTATION + READINESS → WEEK 2 FOUNDATIONS → WEEK 3 APPLIED IMPLEMENTATION → WEEK 4 REVIEW + COMPLETION]
@@ -1887,11 +1993,55 @@ Applicable curriculum covers business model and market evidence, customer needs,
 - Require a final applied business-development capstone and review of the approved level's completion requirements.
 - Issue the applicable Entrepreneurship Experiential completion record for successful completion, without promising revenue, profits, outside funding, or business success.
 
+### ENTREPRENEURSHIP PROFESSIONAL TEAM AND INDEPENDENT AFFILIATES
+
+[IMAGE — Business owner collaborating with Entrepreneurship Experiential Managers, accountants, operations personnel, cybersecurity professionals, and technology specialists.]
+
+The approved Entrepreneurship team may include Experiential Managers, business and operations professionals, CPAs and accountants, cybersecurity professionals, software and technology professionals, and other qualified specialists.
+
+Approved independently contracted affiliates may include CPA and accounting firms, managed security service providers, development firms, law firms, and other vetted professional businesses. Any independently engaged firm provides services under its own separate contract and quote; its fees are not automatically included in Entrepreneurship tuition.
+
+[FLOW — ACTUAL BUSINESS NEEDS → APPROVED COURSEWORK AND PROFESSIONAL COORDINATION → OPTIONAL EXTERNAL AFFILIATE MATCH → SEPARATE AGREEMENT → IMPLEMENTATION AND REVIEW]
+
 ### ENTREPRENEURSHIP ENROLLMENT, DELIVERY, AND SUPPORT
 
 Entrepreneurship enrolls in Spring and Fall cohorts, unlike the monthly academic and standard Professional Experiential cohorts. Startup applicants provide a developed business model, market research, a budget, and product or service readiness. Small-business applicants provide relevant registration, ownership/decision authority, business records and goals. Delivery may be remote, hybrid, or approved on-site; standard RIAH internal Professional Experiential placements remain remote-only.
 
 Entrepreneurship program coursework and collections route through Products and Services 15.4. Optional independent professional affiliate introductions route through 15.5 and 17.3; third-party professional engagements have separate agreements. Existing approved pricing and payments belong on Tuition 13 and Products 15.4; pending prices for additional entrepreneurship levels are not assumed.
+
+### CURRENT PUBLISHED ENTREPRENEURSHIP PRICING REFERENCE
+
+The existing Page 6 wireframe confirms the following **published offerings only**; amounts are not automatically extended to the six newly defined levels.
+
+| Published Program | Duration | Tuition | Upfront Price with 25% Reduction | Monthly Tuition |
+|---|---|---:|---:|---|
+| Startup Launch / New Startup Baseline | 12 Weeks | $5,000 | $3,750 | Three installments totaling $5,000 |
+| Small Business Recovery & Growth | 16 Weeks | $10,000 | $7,500 | Four installments totaling $10,000 |
+
+**Application fee:** $75. **Enrollment deposit:** $500 credited against the relevant tuition, not charged as an additional tuition amount.
+
+Monthly nonpayment pauses applicable curriculum access and managed collaboration until the account is current. Upfront cancellations follow the approved delivered-services, unused-prepaid-tuition, refund and applicable legal terms.
+
+[BUTTON — ENTREPRENEURSHIP TUITION AND PRICING → INTERNAL: 6.9 TUITION AND PRICING]
+
+[BUTTON — ENTREPRENEURSHIP PAYMENT TERMS → INTERNAL: 6.10 PAYMENT AND CANCELLATION]
+
+### EXTENDED SERVICES — DISTINCT FROM ENTREPRENEURSHIP ENROLLMENT
+
+Entrepreneurship enrollment is not required to use approved Extended Services. RIAH coordinates eligible business introductions to vetted independent firms, which separately contract and price their own services.
+
+| Service | Published Fee | Fee Payer |
+|---|---:|---|
+| Business administrative intake and coordination | $49 | Business requesting assistance |
+| Affiliate recruitment and vetting | $99 | Professional affiliate |
+| Qualified professional connection | $50 | Professional affiliate |
+| Independently contracted CPA, MSSP, development or legal services | Separate quotation | Contracting client |
+
+[FLOW — BUSINESS INTAKE → NEEDS REVIEW → AFFILIATE VETTING → QUALIFIED MATCH → INTRODUCTION → OPTIONAL SEPARATE PROFESSIONAL AGREEMENT]
+
+[BUTTON — ENTREPRENEURSHIP EXTENDED SERVICES → INTERNAL: 15.5 EXTENDED SERVICES]
+
+[BUTTON — PROFESSIONAL AFFILIATE PARTNERSHIPS → INTERNAL: 17.3 PARTNERSHIPS]
 
 ### ENTREPRENEURSHIP CURRICULUM ACTIONS
 
@@ -1957,6 +2107,10 @@ Edmentum courseware is mapped into applicable High School Diploma courses as an 
 
 ### HIGH SCHOOL LEARNING STRUCTURE
 
+[ICON — HIGH SCHOOL ASSESSMENT]
+
+High School coursework follows the applicable minimum 80% passing standard for required assessments. Approved course completion, assessment outcomes, any state-specific requirements, and graduation eligibility control progression.
+
 Edmentum Instructional Curriculum
 
 ↓
@@ -2014,6 +2168,10 @@ Applicants under eighteen must meet applicable parent or guardian and guidance c
 RIAH Pathway's GED/HSE curriculum supports preparation in applicable subject areas.
 
 ### GED/HSE LEARNING STRUCTURE
+
+[ICON — GED/HSE ACADEMIC PREPARATION]
+
+Academic preparation spans Language Arts, Mathematics, Science, and Social Studies with applicable practice, institutional assessments, readiness monitoring, and instructional progress review. Preparation does not confer an official GED or HiSET credential; the applicable official exam and issuing authority govern credential issuance.
 
 - Applicable Edmentum instructional curriculum.
 - RIAH Pathway additional preparation curriculum.
@@ -2544,6 +2702,22 @@ Next Course Unlocked
 
 Certification review may be embedded into an applicable academic pathway or designated certification track.
 
+### CREDENTIAL CURRICULUM — OBJECTIVES AND MAPPING
+
+[IMAGE — Certification learner reviewing credential examination domains, practice items, assigned simulations and study materials.]
+
+[ICON — CREDENTIAL / PROFESSIONAL QUALIFICATION]
+
+Where applicable, Business, Technology, Homeland Security, and legal review tracks identify credential objectives, knowledge areas, external examination domains, instructional resources, practice assessments, required prerequisites, and relevant task-based simulations.
+
+[FLOW — CREDENTIAL OBJECTIVES → APPROVED ACADEMIC MAPPING → REVIEW INSTRUCTION → PRACTICE ASSESSMENTS / SIMULATIONS → INTERNAL REVIEW STANDARD → SEPARATE EXTERNAL TEST OR LICENSE WHERE APPLICABLE]
+
+Legal review may include the general Bar Review, state-specific modules, and California Baby Bar preparation. Completion of RIAH review coursework does not itself confer any external professional certification or license.
+
+[BUTTON — CERTIFICATION REVIEW → INTERNAL: 9 CERTIFICATION REVIEW]
+
+[BUTTON — BAR REVIEW → INTERNAL: 10 BAR REVIEW]
+
 External certification examinations and issuance remain subject to the applicable certification body's requirements.
 
 **Required institutional completion standard:** For students who take a designated certification review track, the RIAH Pathway internal certification review course requires **a minimum 80%** on its applicable objective and performance assessments for review-course completion. Passing an external examination does not replace this internal course requirement.
@@ -2802,6 +2976,26 @@ Performance Review
 ↓
 
 Program Completion
+
+### PROFESSIONAL PLACEMENTS, SUPERVISION AND COMPLETION
+
+[IMAGE — Experiential Manager, Supervisor, Reviewer, and approved professional partners reviewing assigned deliverables.]
+
+**RIAH internal placements:** Remote-only approved real-work assignments supervised by qualified RIAH professionals.
+
+**Approved external placements:** Remote, hybrid, or on-site as legally permitted and suitably supervised. Potential partners include accounting and CPA firms, cybersecurity firms, software and technology organizations, law firms, educational organizations, and other approved employers.
+
+**Professional oversight:** Experiential Managers, Supervisors, Reviewers, qualified faculty, and authorized external professional partners.
+
+**Participant work:** Level-appropriate legitimate assignments, projects, deliverables, professional responsibilities, performance reviews, and completion records.
+
+[FLOW — APPLICATION → ELIGIBILITY AND PLACEMENT REVIEW → MATCHING → ORIENTATION → ASSIGNED SUPERVISION → PROFESSIONAL DELIVERABLES → PERFORMANCE REVIEW → COMPLETION]
+
+Entrepreneurship Experiential remains distinct, with its own business-related curriculum, eligibility rules, pricing and completion milestones.
+
+[BUTTON — INTERNAL PLACEMENT → INTERNAL: 5.4 INTERNAL PLACEMENT]
+
+[BUTTON — EXTERNAL PLACEMENT → INTERNAL: 5.5 EXTERNAL PLACEMENT]
 
 ### EXPERIENTIAL SYSTEMS
 
@@ -3082,6 +3276,14 @@ Applicable designated courses contain cumulative assessments, projects, supervis
 
 Applicable coursework connects to professional activities, placement eligibility, supervision, and performance documentation.
 
+### ENTREPRENEURSHIP CURRICULUM INTEGRATION
+
+[ICON — ENTREPRENEURSHIP / APPLIED BUSINESS MILESTONES]
+
+The separate Entrepreneurship curriculum combines institutional business learning with actual startup or small-business tasks, implementation milestones, qualified professional collaboration, level-specific assessment, applied business capstones, and a documented completion review.
+
+[BUTTON — ENTREPRENEURSHIP COLLECTIONS → INTERNAL: 6.4 CURRICULUM AND COLLECTIONS]
+
 ### CURRICULUM ARCHITECTURE CONNECTIONS
 
 [BUTTON — DEGREE PATHWAYS → INTERNAL: 4 DEGREE PROGRAMS]
@@ -3178,6 +3380,22 @@ Every applicable course record identifies:
 
 [FILTER — CERTIFICATION TRACK]
 
+[FILTER — PROGRAM]
+
+[FILTER — COURSE CODE]
+
+[FILTER — COURSE TITLE]
+
+[FILTER — CREDIT HOURS]
+
+[FILTER — INSTRUCTIONAL PROVIDER]
+
+[COURSE CARD ITEM — ASSIGNED CURRICULUM REQUIREMENTS]
+
+[ON-PAGE ACTION — VIEW COURSE DETAILS → EXPAND APPROVED PUBLIC COURSE RECORD]
+
+Public course information may include titles, credits, prerequisites, instructional providers, approved descriptions and course requirements. Protected curriculum, individual assessment items, answer keys, restricted materials and student-specific content require authorized institutional access.
+
 ### COURSE RECORD ACCESS
 
 [BUTTON — VIEW DEGREE PROGRAM REQUIREMENTS → INTERNAL: 4 DEGREE PROGRAMS]
@@ -3264,6 +3482,10 @@ Next Course
 
 Students receive access to the systems applicable to their enrollment and assigned curriculum.
 
+Institutional licensing, course assignment, program enrollment and user authorization govern system availability.
+
+[IMAGE — Authorized digital learning ecosystem showing course delivery, instructional resources, assessments, academic records, portfolios, support, and supervised professional documentation.]
+
 ### PRODUCTS
 
 RIAH Pathway's academic products include:
@@ -3276,6 +3498,10 @@ RIAH Pathway's academic products include:
 - Review Guides.
 - Flashcards.
 - Applicable Project Materials.
+
+- Applicable printed collections and selected authorized digital learning materials.
+
+Enrolled students access their assigned proprietary curriculum through approved academic systems. External customers may purchase eligible educational products and review materials; protected student-specific curriculum and assessments are not public products.
 
 ### PRODUCT COLLECTIONS
 
@@ -3293,6 +3519,12 @@ RIAH Pathway's academic products include:
 | Experiential | Professional Activities and Learning |
 | Certification Review | Professional Certification Preparation |
 | Bar Review | Legal Examination Preparation |
+
+| Minor | Assigned Minor Curriculum and Applied Learning |
+| Bachelor's Capstone | Applicable Bachelor's Culminating Coursework |
+| Entrepreneurship | Eight Startup and Small Business Level Collections |
+| California Baby Bar | California First-Year Law Examination Preparation |
+| Selected Digital Resources | Specifically Approved Digital Materials and Previews |
 
 ### LEARNING SYSTEM ACTIONS
 
@@ -3362,6 +3594,22 @@ Bar Review and California Baby Bar.
 
 Admissions, application, acceptance, enrollment, onboarding, and graduation.
 
+### CURRICULUM-ALIGNED STUDENT JOURNEY
+
+[IMAGE — Student admissions-to-graduation journey across online academic and community systems.]
+
+[FLOW — INTEREST → PRE-ADMISSIONS → APPLICATION → ACCEPTANCE → ENROLLMENT AND COMMITMENT → APPLICABLE DEPOSIT → WELCOME → ORIENTATION → ACTIVE STUDENT EXPERIENCE → GRADUATION]
+
+**Academic and standard Professional Experiential:** Monthly admissions cohorts, subject to applicable readiness, capacity and placement requirements. **Entrepreneurship:** Separate Spring and Fall cohorts, distinct eligibility, fees, deposit and payment rules.
+
+**Systems:** Classe365 applications; SuiteDash onboarding; LearnWorlds assigned academic coursework; Zoom or approved virtual orientation software; authorized cohort community systems and the appropriate academic or experiential placement services.
+
+[BUTTON — APPLICATION → INTERNAL: 12.2.2 APPLICATION]
+
+[BUTTON — STUDENT ORIENTATION → INTERNAL: 12.4 ONBOARDING AND STUDENT EXPERIENCE]
+
+[BUTTON — TRANSFER STUDENTS → INTERNAL: 12.7 TRANSFER STUDENTS]
+
 [BUTTON — ADMISSIONS → INTERNAL: 12 ADMISSIONS]
 
 ### TUITION
@@ -3425,6 +3673,16 @@ Admissions, Human Resources, Technical Support, Student Support, Products, Partn
 ## BUILD YOUR PATHWAY FROM FOUNDATION TO APPLICATION
 
 Explore the academic requirements, learning software, assessments, projects, and professional opportunities associated with your selected program.
+
+**Your Education. Your Experience. Your Future.**
+
+Structured education, supervised professional experience, real-business implementation and credential preparation connect through RIAH Pathway.
+
+[BUTTON — EXPLORE ENTREPRENEURSHIP → INTERNAL: 6 ENTREPRENEURSHIP]
+
+[BUTTON — EXPLORE CERTIFICATION REVIEW → INTERNAL: 9 CERTIFICATION REVIEW]
+
+[BUTTON — EXPLORE BAR REVIEW → INTERNAL: 10 BAR REVIEW]
 
 ### FINAL ACTIONS
 
@@ -3517,6 +3775,14 @@ Continuous Improvement
 Technology and AI may support approved administrative, drafting, analytical, personalization, and quality-control activities.
 
 Qualified people retain responsibility for academic judgment, faculty approval, academic governance, and applicable professional supervision.
+
+### PROTECTED CURRICULUM AND HUMAN QUALITY ASSURANCE
+
+[ICON — SECURE CURRICULUM / HUMAN ACADEMIC REVIEW]
+
+RIAH Pathway protected curriculum intellectual property resides within approved private institutional infrastructure. Qualified faculty and professional reviewers retain responsibility for courseware mapping, academic assessment quality, curriculum approval, applied learning oversight and ongoing evaluation.
+
+[FLOW — CURRICULUM PLANNING → DEVELOPMENT → COURSEWARE ALIGNMENT → ASSESSMENT DESIGN → HUMAN REVIEW → INSTITUTIONAL APPROVAL → IMPLEMENTATION → CONTINUOUS IMPROVEMENT]
 
 ### FACULTY ACTIONS
 
@@ -3625,6 +3891,14 @@ Qualified people retain responsibility for academic judgment, faculty approval, 
 - IMAGES
 - DOWNLOADS
 
+### CURRICULUM QUALITY, AUTHORIZATION AND ACCREDITATION
+
+[IMAGE — Academic quality review with institutional authorization and regulatory documentation.]
+
+Curriculum quality monitoring includes academic consistency, faculty validation, assessment quality, course alignment and recorded requirements. Program operations remain subject to applicable authorization and regulatory standards. Accreditation status must be described accurately; no approval may be implied before it has been awarded. Professional and law-licensing pathways remain subject to applicable jurisdictional requirements.
+
+[BUTTON — ACCREDITATION & AUTHORIZATION → INTERNAL: 16 ACCREDITATION & AUTHORIZATION]
+
 ### CURRICULUM SOURCE PRIORITY
 
 1. Current Approved Curriculum Documents.
@@ -3686,6 +3960,15 @@ Course numbering, names, credit values, prerequisites, software, assessment desi
 
 
 | 27 | Image | Curriculum Hero Video Poster — static, accessible academic journey | Hero |
+
+| 28 | Image | Three Connected Education, Credential and Experience Pathways | Academic Structure |
+| 29 | Image | Startup Business Curriculum | School of Entrepreneurship |
+| 30 | Image | Small Business Recovery and Growth Curriculum | School of Entrepreneurship |
+| 31 | Image | Entrepreneurship Professional and Affiliate Team | School of Entrepreneurship |
+| 32 | Image | Credential Objectives and Practice Simulation | Certification and Review |
+| 33 | Image | Student Admissions and Graduation Journey | Related Admissions |
+| 34 | Image | Academic Quality and Authorization | Curriculum Quality |
+| 35 | Image | Authorized Digital Learning Ecosystem | Curriculum Products and LMS |
 
 ### ICON INVENTORY
 
@@ -3762,6 +4045,22 @@ Course numbering, names, credit values, prerequisites, software, assessment desi
 
 [ICON — CROWN / FINAL CURRICULUM CALL TO ACTION]
 
+[ICON — MINOR / PREDETERMINED SPECIALIZATION]
+
+[ICON — ADVANCED COURSEWORK / UPPER DIVISION]
+
+[ICON — GRADUATE / MASTER'S AND MBA]
+
+[ICON — CREDENTIAL OBJECTIVES / PROFESSIONAL REVIEW]
+
+[ICON — ENTREPRENEURSHIP / ACTUAL BUSINESS]
+
+[ICON — STUDENT JOURNEY / ACADEMIC ONBOARDING]
+
+[ICON — SECURE CURRICULUM / FACULTY QUALITY]
+
+[ICON — ACCREDITATION / AUTHORIZATION REVIEW]
+
 ### PUBLIC DOWNLOADS
 
 [DOWNLOAD — DEGREE PROGRAMS GUIDE → APPROVED PDF ASSET]
@@ -3791,6 +4090,20 @@ Course numbering, names, credit values, prerequisites, software, assessment desi
 [DOWNLOAD — ADMISSIONS GUIDE → APPROVED PDF ASSET]
 
 [DOWNLOAD — TUITION AND STUDENT COST GUIDE → APPROVED PDF ASSET]
+
+### FURTHER GUIDE LABELS — PUBLISH ONLY AFTER ASSET APPROVAL
+
+The new wireframe proposes Curriculum Overview, Academic Structure, School Curriculum, Entrepreneurship Curriculum and Credential Curriculum guides. Existing approved school, degree, certification and Entrepreneurship guides continue to take precedence. No extra public file or direct download is created without an approved asset and verified filename and route.
+
+[DOWNLOAD PLACEHOLDER — CURRICULUM OVERVIEW — PENDING APPROVED PUBLIC ASSET]
+
+[DOWNLOAD PLACEHOLDER — ACADEMIC STRUCTURE — PENDING APPROVED PUBLIC ASSET]
+
+[DOWNLOAD PLACEHOLDER — ENTREPRENEURSHIP CURRICULUM — PENDING APPROVED PUBLIC ASSET]
+
+[DOWNLOAD PLACEHOLDER — CREDENTIAL CURRICULUM — PENDING APPROVED PUBLIC ASSET]
+
+Proprietary academic IP and student-specific learning or assessment materials remain restricted.
 
 ### RESTRICTED MATERIALS
 
@@ -3833,6 +4146,28 @@ Restricted materials are not public website downloads.
 | 11.10 Curriculum Architecture | XXIV. Curriculum Architecture | On-Page Anchor |
 
 The navigation links reference existing sections; they do not create a replacement sitemap, add a Curriculum self-link, or change existing cross-page CTA destinations.
+
+### REVISED WIREFRAME CROSSWALK — AUTHORITATIVE CURRICULUM SITEMAP
+
+| Requested Curriculum Area | Existing Approved Route | Interaction |
+|---|---|---|
+| Academic Structure | 11.1 | On-Page |
+| School of Business | 11.2 | On-Page |
+| School of Homeland Security | 11.3 | On-Page |
+| School of Technology | 11.4 | On-Page |
+| School of Law | 11.5 | On-Page |
+| High School Curriculum | 11.6 | On-Page |
+| GED/HSE Curriculum | 11.7 | On-Page |
+| Professional Experiential Curriculum | 11.8 | On-Page |
+| Credential / Certification / Bar Review Curriculum | 11.9 | On-Page |
+| Curriculum Architecture | 11.10 | On-Page |
+| Entrepreneurship Curriculum | Existing Roman Numeral X; 6 Entrepreneurship | On-Page / Internal |
+| Entrepreneurship Pricing | 6.9 | Internal |
+| Entrepreneurship Payment Terms | 6.10 | Internal |
+| Extended Services | 15.5 | Internal |
+| Affiliate Partnerships | 17.3 | Internal |
+
+Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing because the separately checked GitHub website sitemap currently defines Curriculum 11.1–11.10. Their applicable content is integrated above without replacing the existing approved navigation.
 
 ### PRIMARY CTA ROUTING
 
@@ -4077,6 +4412,30 @@ Buttons route to the applicable related website section, admissions pathway, pro
 [LINK — BAR REVIEW → INTERNAL: 10 BAR REVIEW]
 
 [ACTIVE PAGE LABEL — CURRICULUM — NO LINK]
+
+## CURRICULUM SECTION QUICK LINKS
+
+[ON-PAGE LINK — ACADEMIC STRUCTURE → SECTION IV]
+
+[ON-PAGE LINK — SCHOOL OF BUSINESS → SECTION VI]
+
+[ON-PAGE LINK — HOMELAND SECURITY → SECTION VII]
+
+[ON-PAGE LINK — TECHNOLOGY → SECTION VIII]
+
+[ON-PAGE LINK — LAW → SECTION IX]
+
+[ON-PAGE LINK — HIGH SCHOOL AND GED/HSE → SECTION XI]
+
+[ON-PAGE LINK — ENTREPRENEURSHIP → SECTION X]
+
+[ON-PAGE LINK — EXPERIENTIAL → SECTION XX]
+
+[ON-PAGE LINK — CREDENTIAL REVIEW → SECTION XVIII]
+
+[ON-PAGE LINK — CURRICULUM ARCHITECTURE → SECTION XXIV]
+
+[ON-PAGE LINK — RETURN TO TOP → CURRICULUM HERO]
 
 ## STUDENT INFORMATION
 
