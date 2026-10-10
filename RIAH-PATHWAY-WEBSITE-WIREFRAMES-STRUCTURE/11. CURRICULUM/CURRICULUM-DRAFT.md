@@ -217,7 +217,7 @@ Program Completion
 
 [TEXT]
 
-The Curriculum page contains ten curriculum categories.
+The Curriculum page contains ten sitemap-numbered curriculum categories. The nine named institutional schools are listed below and integrated into the existing categories; no additional sitemap numbers are invented.
 
 Each category displays its applicable curriculum content directly within the Curriculum website section.
 
@@ -255,7 +255,7 @@ They are not additional buttons directing users back to the page they are alread
 - Business Core.
 - Accounting.
 - Business Management.
-- Entrepreneurship.
+- Entrepreneurship (School of Business academic major; separate from School of Entrepreneurship program on Page 6).
 - Finance.
 
 ### 11.3 — SCHOOL OF HOMELAND SECURITY
@@ -361,6 +361,30 @@ They are not additional buttons directing users back to the page they are alread
 - Projects.
 - Capstones.
 - Experiential Integration.
+
+### NINE NAMED SCHOOLS — CURRICULUM DIRECTORY
+
+[SECTION CARD — NINE RIAH PATHWAY SCHOOLS]
+
+- **School of Business** — Business Core, accounting, management, entrepreneurship major, and finance: 11.2; 4.2.1.
+- **School of Technology** — Technology Core and technology majors: 11.4; 4.2.4.
+- **School of Law** — Law Core, criminal justice, J.D., non-J.D., and review: 11.5; 4.2.3.
+- **School of Homeland Security** — Homeland Security Core and aligned majors: 11.3; 4.2.2.
+- **School of GED** — GED/HSE preparation and applicable concurrent college credits: 11.7; 8.
+- **School of Diploma** — High School Diploma, approved transfer entry, and dual enrollment: 11.6; 7.
+- **School of HBCU** — A named institutional school; specific courses and degree requirements follow separately approved curriculum documentation and must not be invented from another program.
+- **School of Experiential** — Six professional experiential levels, curriculum, supervision, and projects: 11.8; 5.
+- **School of Entrepreneurship** — Separate eight-level Startup and Small Business entrepreneurship program: dedicated Roman-numeral curriculum section; 6.
+
+[ICON — HBCU]
+
+[ICON — ENTREPRENEURSHIP]
+
+[BUTTON — INSTITUTIONAL SCHOOLS → INTERNAL: 2.2 SCHOOLS]
+
+[BUTTON — ENTREPRENEURSHIP SCHOOL → INTERNAL: 6 ENTREPRENEURSHIP]
+
+[BUTTON — EXPERIENTIAL SCHOOL → INTERNAL: 5 EXPERIENTIAL]
 
 ### RELATED WEBSITE ACTIONS
 
@@ -1712,7 +1736,110 @@ Program Completion Requirements
 
 ---
 
-# X. HIGH SCHOOL AND GED/HSE CURRICULUM
+# X. SCHOOL OF ENTREPRENEURSHIP CURRICULUM
+
+[SECTION BACKGROUND — BLACK, RED, GOLD, AND WHITE]
+
+[ICON — ENTREPRENEURSHIP]
+
+[ICON — STARTUP]
+
+[ICON — SMALL BUSINESS]
+
+[IMAGE — Startup founders and small-business owners completing level-specific courses, business plans, applied projects, and supervised business milestones.]
+
+## SCHOOL OF ENTREPRENEURSHIP
+
+The School of Entrepreneurship is a distinct named RIAH Pathway school and program under Main Page 6. It is separate from the academic Entrepreneurship major offered through the School of Business. This school combines structured education, actual business-development work, professional collaboration, performance review, and a business capstone.
+
+### TWO ENTREPRENEURSHIP POOLS AND EIGHT LEVELS
+
+| Pool | Level / Sitemap | Duration | Applied Curriculum Focus |
+|---|---|---|---|
+| Startup | 6.2.1 Apprentice Startup | 1 Month | Business model, market research, launch budget, readiness |
+| Startup | 6.2.2 New Startup | 12 Weeks | Early operations, finance, marketing, sales, systems |
+| Startup | 6.2.3 One-Year Startup | 12 Weeks | First-year performance, financial review, stabilization |
+| Startup | 6.2.4 Growth Startup | 16 Weeks | Scaling, forecasting, management, technology, expansion |
+| Small Business | 6.3.1 Apprentice Small Business | 1 Month | Operating foundations, budgets, customers, business plan |
+| Small Business | 6.3.2 New Small Business | 12 Weeks | Customer development, bookkeeping, operations, stabilization |
+| Small Business | 6.3.3 Established Small Business | 12 Weeks | Business assessment, efficiencies, management, systems |
+| Small Business | 6.3.4 Small Business Recovery & Growth | 16 Weeks | Cash flow, restructuring, recovery, sustainable growth |
+
+Business age informs level placement, but final level selection requires business verification and individual readiness and needs review.
+
+### ENTREPRENEURSHIP COLLECTIONS AND LEARNING MATERIALS — 6.4
+
+Each of the eight levels has its own appropriately named Startup or Small Business collection with applicable textbooks, workbooks, journals, planners, LMS courses, institutional assessments, applied exercises, and a business capstone.
+
+[COURSE CARD — LEVEL-SPECIFIC ENTREPRENEURSHIP LEARNING]
+
+[TEXT — ENTREPRENEURSHIP POOL, LEVEL, ELIGIBILITY, AND DURATION]
+
+[TEXT — LEVEL-SPECIFIC COURSES AND COLLECTION]
+
+[ICON — BUSINESS READINESS ASSESSMENT]
+
+[ICON — BUSINESS MILESTONES]
+
+[ICON — HUMAN SUPERVISION AND REVIEW]
+
+[ICON — BUSINESS CAPSTONE]
+
+[FLOW — SELECT BUSINESS POOL → BUSINESS VERIFICATION → LEVEL ASSESSMENT → ADMISSIONS → ORIENTATION → COURSES + ACTUAL BUSINESS WORK CONCURRENTLY → MILESTONE AND PROFESSIONAL REVIEW → APPLIED BUSINESS CAPSTONE → COMPLETION]
+
+### ENTREPRENEURSHIP COURSES AND APPLIED BUSINESS WORK
+
+Applicable curriculum covers business model and market evidence, customer needs, financial records and cash flow, operations and business systems, marketing and sales, technology and cybersecurity readiness, and relevant management, stabilization, growth, and recovery projects. Workbooks contain applied exercises tied to the participant's business. Journals and planners document decisions, implementation, milestones, and performance. Qualified human supervisors or reviewers evaluate real deliverables, not merely theoretical exercises.
+
+### ENTREPRENEURSHIP DURATION AND MILESTONE FLOW
+
+[FLOW — 1 MONTH: WEEK 1 ORIENTATION + READINESS → WEEK 2 FOUNDATIONS → WEEK 3 APPLIED IMPLEMENTATION → WEEK 4 REVIEW + COMPLETION]
+
+[FLOW — 12 WEEKS: WEEKS 1–4 DIAGNOSTIC + COURSEWORK → WEEKS 5–8 OPERATING WORK + PROFESSIONAL COLLABORATION → WEEKS 9–12 PERFORMANCE REVIEW + CAPSTONE]
+
+[FLOW — 16 WEEKS: WEEKS 1–4 ASSESSMENT + STRATEGY → WEEKS 5–8 OPERATING IMPROVEMENTS → WEEKS 9–12 ADVANCED IMPLEMENTATION → WEEKS 13–16 FINAL REVIEW + CAPSTONE]
+
+### ENTREPRENEURSHIP ASSESSMENTS, HUMAN SUPERVISION, AND COMPLETION — 6.11
+
+- Verify the applicant's business eligibility, program pool, level, selected delivery format, and duration.
+- Document assigned coursework, products, required assessments, and actual business work.
+- Record business milestones, qualified supervisor or reviewer feedback, and measured progress.
+- Require a final applied business-development capstone and review of the approved level's completion requirements.
+- Issue the applicable Entrepreneurship Experiential completion record for successful completion, without promising revenue, profits, outside funding, or business success.
+
+### ENTREPRENEURSHIP ENROLLMENT, DELIVERY, AND SUPPORT
+
+Entrepreneurship enrolls in Spring and Fall cohorts, unlike the monthly academic and standard Professional Experiential cohorts. Startup applicants provide a developed business model, market research, a budget, and product or service readiness. Small-business applicants provide relevant registration, ownership/decision authority, business records and goals. Delivery may be remote, hybrid, or approved on-site; standard RIAH internal Professional Experiential placements remain remote-only.
+
+Entrepreneurship program coursework and collections route through Products and Services 15.4. Optional independent professional affiliate introductions route through 15.5 and 17.3; third-party professional engagements have separate agreements. Existing approved pricing and payments belong on Tuition 13 and Products 15.4; pending prices for additional entrepreneurship levels are not assumed.
+
+### ENTREPRENEURSHIP CURRICULUM ACTIONS
+
+[BUTTON — ENTREPRENEURSHIP PROGRAM → INTERNAL: 6 ENTREPRENEURSHIP]
+
+[BUTTON — STARTUP ENTREPRENEURSHIP → INTERNAL: 6.2 STARTUP ENTREPRENEURSHIP]
+
+[BUTTON — SMALL BUSINESS ENTREPRENEURSHIP → INTERNAL: 6.3 SMALL BUSINESS ENTREPRENEURSHIP]
+
+[BUTTON — ENTREPRENEURSHIP CURRICULUM COLLECTIONS → INTERNAL: 6.4 CURRICULUM AND COLLECTIONS]
+
+[BUTTON — ENTREPRENEURSHIP CAPSTONE AND COMPLETION → INTERNAL: 6.11 CAPSTONE AND COMPLETION]
+
+[BUTTON — ENTREPRENEURSHIP ADMISSIONS → INTERNAL: 12 ADMISSIONS]
+
+[BUTTON — ENTREPRENEURSHIP TUITION → INTERNAL: 13 TUITION]
+
+[BUTTON — ENTREPRENEURSHIP PRODUCTS → INTERNAL: 15.4 ENTREPRENEURSHIP PROGRAM]
+
+[BUTTON — ENTREPRENEURSHIP EXTENDED SERVICES → INTERNAL: 15.5 EXTENDED SERVICES]
+
+[BUTTON — ENTREPRENEURSHIP PARTNERSHIPS → INTERNAL: 17.3 PARTNERSHIPS]
+
+[BUTTON — ENTREPRENEURSHIP CONTACT → INTERNAL: 20 CONTACT]
+
+---
+
+# XI. HIGH SCHOOL AND GED/HSE CURRICULUM
 
 [SECTION BACKGROUND — WHITE AND GOLD]
 
@@ -1723,6 +1850,8 @@ Program Completion Requirements
 [IMAGE — Secondary education students using laptops, workbooks, and academic learning materials.]
 
 ## HIGH SCHOOL DIPLOMA
+
+**Named School:** School of Diploma. The existing approved High School Diploma curriculum requirements remain unchanged.
 
 ### HIGH SCHOOL CURRICULUM
 
@@ -1788,6 +1917,8 @@ Applicants under eighteen must meet applicable parent or guardian and guidance c
 ---
 
 ## GED/HSE PREPARATION
+
+**Named School:** School of GED. The existing GED/HSE preparation and concurrent-college-credit requirements remain unchanged.
 
 [ICON — GED PREPARATION]
 
@@ -1867,7 +1998,7 @@ Completion of preparation does not itself award the official GED/HSE credential.
 
 ---
 
-# XI. CURRICULUM ASSESSMENT STRUCTURE
+# XII. CURRICULUM ASSESSMENT STRUCTURE
 
 [SECTION BACKGROUND — SILVER AND WHITE]
 
@@ -1945,7 +2076,7 @@ Progression
 
 ---
 
-# XII. GENERAL EDUCATION PLACEMENT AND TEST-OUT
+# XIII. GENERAL EDUCATION PLACEMENT AND TEST-OUT
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2001,7 +2132,7 @@ Complete RIAH Course if Requirement Is Not Satisfied
 
 ---
 
-# XIII. COLLEGE ENGLISH AND COLLEGE ALGEBRA DEVELOPMENTAL PLACEMENT
+# XIV. COLLEGE ENGLISH AND COLLEGE ALGEBRA DEVELOPMENTAL PLACEMENT
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2047,7 +2178,7 @@ Students begin at the level demonstrated by placement rather than automatically 
 
 ---
 
-# XIV. TRANSFER AND ALTERNATIVE CREDIT
+# XV. TRANSFER AND ALTERNATIVE CREDIT
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2098,6 +2229,23 @@ Accepted foundational transfer credit changes the number of remaining RIAH cours
 
 It does not automatically reduce published program tuition.
 
+### TRANSFER STUDENT CURRICULUM AND WELCOME
+
+Transfer pathways encompass applicable approved High School Diploma, GED/HSE, Associate's, Bachelor's, graduate, J.D., non-J.D., and experiential entry, subject to the student's program-specific eligibility and academic requirements.
+
+- Submit academic records, relevant alternative-credit evidence, and prior education documentation within the initial transfer-evaluation window.
+- Review school-specific prerequisites, course equivalencies, accepted credits, the academic entry point, and remaining curriculum. Institutional upper-division course, project, capstone, supervision, and assessment requirements remain applicable.
+- After required enrollment and allocation steps, receive the applicable personalized Transfer and Welcome Kit, digital instructions, and applicable physical learning materials.
+- Follow the approved welcome, one-week virtual orientation where applicable, student portal setup, and academic onboarding sequence.
+- Receive the appropriate school, monthly cohort where applicable, curriculum, LMS access, community placement, and experiential or law supervision assignment when required.
+- Preserve separate School of Diploma and School of GED eligibility rules; transfer does not permit unapproved internal High School-to-GED movement.
+
+[FLOW — TRANSFER APPLICATION → ACADEMIC RECORDS → EQUIVALENCY AND PREREQUISITE REVIEW → APPROVED TRANSFER CREDIT → REMAINING CURRICULUM → ENROLLMENT → PERSONALIZED TRANSFER KIT → ORIENTATION → SCHOOL AND COHORT → ACTIVE STUDENT]
+
+[BUTTON — TRANSFER STUDENT REQUIREMENTS → INTERNAL: 12.7 TRANSFER STUDENTS]
+
+[BUTTON — TRANSFER WELCOME AND ORIENTATION → INTERNAL: 12.4 ONBOARDING AND STUDENT EXPERIENCE]
+
 ### TRANSFER FLOW
 
 Transfer Application
@@ -2134,7 +2282,7 @@ Enrollment and Orientation
 
 ---
 
-# XV. PREREQUISITES AND COURSE PROGRESSION
+# XVI. PREREQUISITES AND COURSE PROGRESSION
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2213,7 +2361,7 @@ Next Course
 
 ---
 
-# XVI. ACCELERATION AND ACADEMIC PACING
+# XVII. ACCELERATION AND ACADEMIC PACING
 
 [SECTION BACKGROUND — WHITE AND GOLD]
 
@@ -2280,7 +2428,7 @@ Next Course Unlocked
 
 ---
 
-# XVII. CERTIFICATION AND REVIEW INTEGRATION
+# XVIII. CERTIFICATION AND REVIEW INTEGRATION
 
 [SECTION BACKGROUND — BLACK AND RED]
 
@@ -2293,6 +2441,12 @@ Next Course Unlocked
 Certification review may be embedded into an applicable academic pathway or designated certification track.
 
 External certification examinations and issuance remain subject to the applicable certification body's requirements.
+
+**Required institutional completion standard:** For students who take a designated certification review track, the RIAH Pathway internal certification review course requires **a minimum 80%** on its applicable objective and performance assessments for review-course completion. Passing an external examination does not replace this internal course requirement.
+
+**External credential is optional:** An actual external certification examination is not required to complete the RIAH Pathway certification review course, nor is it a separate graduation requirement for general Bachelor's, Master's, or MBA programs.
+
+**5% external-certification tuition reimbursement:** Passing an applicable official external certification examination qualifies the student for **5% tuition reimbursement for that certification passed**, subject to certification-pass verification and the approved tuition-reimbursement processing rules. This certification-specific benefit requires passing the *external* exam and is not earned solely through the internal 80% review-course pass.
 
 ### CERTIFICATION REVIEW FLOW
 
@@ -2316,11 +2470,15 @@ Internal Assessments
 
 ↓
 
-Internal Review Completion
+Internal Review Completion — 80% Minimum
 
 ↓
 
-Applicable External Examination
+Optional External Certification Examination
+
+↓
+
+External Certification Passed — Verification and 5% Tuition Reimbursement
 
 ### CERTIFICATION REVIEW BY SCHOOL
 
@@ -2371,8 +2529,10 @@ Package contents follow the approved Products and Services pricing structure.
 - Proctored objective assessment.
 - 25 questions.
 - Proctored task-based performance simulation.
-- Minimum passing score of 80%.
+- Minimum passing score of 80% on the applicable internal certification review-course objective and performance assessments for course completion.
 - Unlimited attempts to pass applicable internal review assessments.
+- Official external certification exam is optional and separate from required internal review-course completion.
+- Actual external certification pass qualifies for 5% tuition reimbursement for that certification; it is not required for general degree completion.
 
 [BUTTON — CERTIFICATION REVIEW PROGRAMS → INTERNAL: 9 CERTIFICATION REVIEW]
 
@@ -2384,9 +2544,11 @@ Package contents follow the approved Products and Services pricing structure.
 
 [BUTTON — CERTIFICATION PRODUCTS → INTERNAL: 15.1 PRODUCTS]
 
+[BUTTON — CERTIFICATION TUITION REIMBURSEMENT → INTERNAL: 13.5 REIMBURSEMENT]
+
 ---
 
-# XVIII. PROJECTS AND APPLIED BUILDS
+# XIX. PROJECTS AND APPLIED BUILDS
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2449,7 +2611,7 @@ Applicable Capstone
 
 ---
 
-# XIX. EXPERIENTIAL CURRICULUM
+# XX. EXPERIENTIAL CURRICULUM
 
 [SECTION BACKGROUND — WHITE AND RED]
 
@@ -2556,7 +2718,7 @@ Program Completion
 
 ---
 
-# XX. ONE-MONTH MAJOR-ALIGNED ECOSYSTEM EXPERIENCE
+# XXI. ONE-MONTH MAJOR-ALIGNED ECOSYSTEM EXPERIENCE
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2610,7 +2772,7 @@ This experience is separate from the longer selective Experiential Program.
 
 ---
 
-# XXI. CAPSTONE ARCHITECTURE
+# XXII. CAPSTONE ARCHITECTURE
 
 [SECTION BACKGROUND — BLACK AND GOLD]
 
@@ -2698,7 +2860,7 @@ Program Completion
 
 ---
 
-# XXII. LAW CURRICULUM INTEGRATION
+# XXIII. LAW CURRICULUM INTEGRATION
 
 [SECTION BACKGROUND — WHITE AND GOLD]
 
@@ -2760,7 +2922,7 @@ External Licensing Requirements
 
 ---
 
-# XXIII. CURRICULUM ARCHITECTURE
+# XXIV. CURRICULUM ARCHITECTURE
 
 [SECTION BACKGROUND — WHITE AND SILVER]
 
@@ -2808,7 +2970,7 @@ Applicable coursework connects to professional activities, placement eligibility
 
 ---
 
-# XXIV. CURRICULUM CONTROL AND COURSE-LEVEL DETAIL
+# XXV. CURRICULUM CONTROL AND COURSE-LEVEL DETAIL
 
 [SECTION BACKGROUND — WHITE]
 
@@ -2902,7 +3064,7 @@ Every applicable course record identifies:
 
 ---
 
-# XXV. CURRICULUM, PRODUCTS, AND LMS INTEGRATION
+# XXVI. CURRICULUM, PRODUCTS, AND LMS INTEGRATION
 
 [SECTION BACKGROUND — WHITE]
 
@@ -3022,7 +3184,7 @@ RIAH Pathway's academic products include:
 
 ---
 
-# XXVI. RELATED WEBSITE PATHWAYS
+# XXVII. RELATED WEBSITE PATHWAYS
 
 [SECTION BACKGROUND — WHITE]
 
@@ -3128,7 +3290,7 @@ Admissions, Human Resources, Technical Support, Student Support, Products, Partn
 
 ---
 
-# XXVII. FINAL CURRICULUM CALL TO ACTION
+# XXVIII. FINAL CURRICULUM CALL TO ACTION
 
 [SECTION BACKGROUND — RED, BLACK, AND GOLD]
 
@@ -3158,7 +3320,7 @@ Explore the academic requirements, learning software, assessments, projects, and
 
 ---
 
-# XXVIII. FACULTY CURRICULUM AND ACADEMIC DEVELOPMENT
+# XXIX. FACULTY CURRICULUM AND ACADEMIC DEVELOPMENT
 
 [SECTION BACKGROUND — WHITE]
 
@@ -3244,7 +3406,7 @@ Qualified people retain responsibility for academic judgment, faculty approval, 
 
 ---
 
-# XXIX. CURRICULUM SOURCE DOCUMENTATION AND GITHUB STRUCTURE
+# XXX. CURRICULUM SOURCE DOCUMENTATION AND GITHUB STRUCTURE
 
 [SECTION BACKGROUND — WHITE AND SILVER]
 
@@ -3285,6 +3447,12 @@ Qualified people retain responsibility for academic judgment, faculty approval, 
 [DOCUMENT — GED/HSE CURRICULUM]
 
 [DOCUMENT — EXPERIENTIAL STRUCTURE]
+
+[DOCUMENT — SCHOOL OF ENTREPRENEURSHIP PROGRAM AND EIGHT LEVELS — POPULATED MAIN PAGE 6]
+
+[DOCUMENT — ENTREPRENEURSHIP ACADEMIC MAJOR — SCHOOL OF BUSINESS]
+
+[DOCUMENT — SCHOOL OF HBCU — APPROVED CURRICULUM DETAIL WHEN AVAILABLE]
 
 [DOCUMENT — FACULTY CURRICULUM]
 
@@ -3327,6 +3495,8 @@ Qualified people retain responsibility for academic judgment, faculty approval, 
 - Experiential-Wireframe.md
 - Certification-And-Review-Wireframe.md
 - Curriculum-Architecture-Wireframe.md
+- School of Entrepreneurship content — integrated into the existing CURRICULUM-DRAFT.md Roman-numeral curriculum structure, routed to Page 6.
+- Nine named schools — integrated as an unnumbered directory without changing sitemap 11.1–11.10.
 - Curriculum-CTA-Buttons-Links-Routing.md
 - IMAGES
 - DOWNLOADS
@@ -3350,7 +3520,7 @@ Superseded requirements must not be restored from older drafts.
 
 ---
 
-# XXX. MEDIA, DOWNLOADS, AND VISUAL ASSET DIRECTORY
+# XXXI. MEDIA, DOWNLOADS, AND VISUAL ASSET DIRECTORY
 
 [SECTION BACKGROUND — WHITE]
 
@@ -3449,6 +3619,8 @@ Superseded requirements must not be restored from older drafts.
 
 [DOWNLOAD — EXPERIENTIAL PROGRAMS GUIDE → APPROVED PDF ASSET]
 
+[DOWNLOAD — ENTREPRENEURSHIP EIGHT-LEVEL CURRICULUM GUIDE → APPROVED PDF ASSET WHEN PREPARED]
+
 [DOWNLOAD — CERTIFICATION REVIEW GUIDE → APPROVED PDF ASSET]
 
 [DOWNLOAD — BAR REVIEW GUIDE → APPROVED PDF ASSET]
@@ -3472,7 +3644,7 @@ Restricted materials are not public website downloads.
 
 ---
 
-# XXXI. COMBINED CTA, BUTTONS, LINKS, AND ROUTING CHART
+# XXXII. COMBINED CTA, BUTTONS, LINKS, AND ROUTING CHART
 
 [SECTION BACKGROUND — WHITE]
 
@@ -3553,6 +3725,9 @@ Restricted materials are not public website downloads.
 | Small Business Entrepreneurship | 6.3 Small Business Entrepreneurship |
 | Entrepreneurship Products and Services | 15.4 Entrepreneurship Program |
 | Entrepreneurship Partnerships | 17.3 Partnerships |
+| Entrepreneurship Curriculum Collections | 6.4 Curriculum and Collections |
+| Entrepreneurship Capstone | 6.11 Capstone and Completion |
+| School of Entrepreneurship Curriculum | 11 Curriculum — on-page Roman numeral section |
 
 ### SECONDARY EDUCATION ROUTING
 
@@ -3578,6 +3753,8 @@ Restricted materials are not public website downloads.
 | Bar Review | 10 Bar Review |
 | State Bar Modules | 10.3 State Modules |
 | California Baby Bar | 10.4 California Baby Bar |
+| External Certification Exam Pass — 5% Reimbursement | 13.5 Reimbursement |
+| Internal Certification Review Course Completion — 80% | 11 Curriculum — on-page assessment section |
 
 ### STUDENT EXPERIENCE ROUTING
 
@@ -3591,6 +3768,8 @@ Restricted materials are not public website downloads.
 | Graduation and Alumni | 12.5 Graduation & Alumni |
 | How RIAH Pathway Works | 12.6 How RIAH Pathway Works |
 | Transfer Students | 12.7 Transfer Students |
+| Transfer Welcome and Orientation | 12.4 Onboarding and Student Experience |
+| Transfer Curriculum and Entry Evaluation | 12.7 Transfer Students |
 
 ### TUITION ROUTING
 
@@ -3669,6 +3848,14 @@ External destinations require approved institutional URLs.
 | Log In | Included |
 | Shop Now | Included |
 
+### VERIFIED POPULATED WEBSITE WIREFRAMES AND SITEMAP ROUTING
+
+The twenty navigation destinations match the active website sitemap. Only the following main-page directories presently contain populated wireframe Markdown files: **1 Home, 6 Entrepreneurship, 11 Curriculum, 12 Admissions, 15 Products and Services, 16 Accreditation & Authorization, and 17 Join Us**. Page 12 also includes the 12.1–12.7 admissions subpage wireframes; Page 17 includes its populated subpage wireframes.
+
+Other sitemap destinations, including **2 About, 3 Pathway, 4 Degree Programs, 5 Experiential, 7 High School, 8 GED/HSE, 9 Certification Review, 10 Bar Review, 13 Tuition, 14 Donations, 18 Resources, 19 FAQ, and 20 Contact**, presently have folder placeholders rather than populated main-page wireframe files. Their valid sitemap numbers remain the planned internal CTA destinations, not verified live website pages.
+
+Curriculum buttons to the populated entrepreneurship wireframe resolve conceptually to 6.2 Startup, 6.3 Small Business, 6.4 Curriculum and Collections, 6.11 Capstone and Completion, and 6.15 CTA and Routing. Transfer-student buttons refer to the populated 12.7 Transfer Students wireframe; Products buttons refer to the populated Page 15 wireframe with 15.4 and 15.5. Reimbursement buttons route to sitemap 13.5. The nine-school directory is informational and does not introduce 11.11 or any new main-page number.
+
 ### ROUTING STANDARD
 
 Curriculum content is displayed within the Curriculum website page.
@@ -3679,7 +3866,7 @@ Buttons route to the applicable related website section, admissions pathway, pro
 
 ---
 
-# XXXII. GLOBAL WEBSITE FOOTER
+# XXXIII. GLOBAL WEBSITE FOOTER
 
 [FOOTER — BLACK, WHITE, RED, AND GOLD]
 
