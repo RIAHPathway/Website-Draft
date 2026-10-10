@@ -429,13 +429,13 @@ The Entrepreneurship Program has **Spring and Fall cohorts only**, with **remote
 | **Monthly plan, no discount** | **3 payments: $1,666.67 / $1,666.67 / $1,666.66** | **4 payments of $2,500** |
 | First monthly payment remaining after previously paid $500 deposit | **$1,166.67** | **$2,000** |
 | Remaining monthly payments | $1,666.67 then $1,666.66 | Three payments of $2,500 |
-| Separate application fee (not discounted) | $0 | $0 |
+| Application fee (free) | $0 | $0 |
 
 **Tuition credit:** The **$500 enrollment deposit counts toward either payment option**. It is deducted from the upfront balance or first monthly installment rather than being added to tuition. The 25% upfront discount is for the **Entrepreneurship Program only** and does not stack with the existing 15% upfront Education/Experiential reduction. Independent partner-firm engagements are priced separately.
 
 **Monthly nonpayment:** An unpaid scheduled installment immediately **pauses the full Entrepreneurship Program**, including curriculum access, courses, program-managed professional sessions, applied business assignments and coordinated partner activities. These resume **when outstanding payments are brought current**, subject to necessary scheduling adjustments. Previously delivered program services remain earned.
 
-**Upfront cancellation and earned revenue:** A participant who paid upfront can **cancel at any time**. As curriculum, courses and program services are used/delivered, the related tuition becomes **earned program revenue**. A completed **four-week program period** earns **$1,250** in the Startup Launch program (3 periods) or **$1,875** in Small Business Recovery & Growth (4 periods), based on discounted prepaid tuition. If cancellation takes place partway through a period, only the portion of the period already delivered/used is earned. The **unused, undelivered portion of the prepaid tuition is refunded**. Upon cancellation, remaining program access and scheduled services stop. $0 application fee and independently contracted affiliate services are outside this prepaid-tuition refund calculation.
+**Upfront cancellation and earned revenue:** A participant who paid upfront can **cancel at any time**. As curriculum, courses and program services are used/delivered, the related tuition becomes **earned program revenue**. A completed **four-week program period** earns **$1,250** in the Startup Launch program (3 periods) or **$1,875** in Small Business Recovery & Growth (4 periods), based on discounted prepaid tuition. If cancellation takes place partway through a period, only the portion of the period already delivered/used is earned. The **unused, undelivered portion of the prepaid tuition is refunded**. Upon cancellation, remaining program access and scheduled services stop. There is no application fee. Independently contracted affiliate services are outside this prepaid-tuition refund calculation.
 
 | Upfront Cancellation Illustration | Paid Upfront | Program Used | Earned Program Revenue | Refund of Unused Tuition |
 |---|---:|---|---:|---:|
@@ -449,7 +449,7 @@ The Entrepreneurship Program has **Spring and Fall cohorts only**, with **remote
 [BUTTON — REVIEW PAYMENT AND CANCELLATION TERMS → 12 / TUITION AND FEES]
 
 
-The entrepreneurship application fee and deposit apply **only to this standalone entrepreneurship offering**. They do not change the existing $0 education or standard Experiential application fees or student resource allocation rules. Included program components are business assessment, courses, curriculum, orientation and applied-work milestones. Independent affiliate professional engagements, where requested, are priced separately by the firm.
+The entrepreneurship enrollment deposit applies **only to this standalone entrepreneurship offering**; its application fee is $0, as with the academic and standard Experiential pathways. They do not change the existing $0 education or standard Experiential application fees or student resource allocation rules. Included program components are business assessment, courses, curriculum, orientation and applied-work milestones. Independent affiliate professional engagements, where requested, are priced separately by the firm.
 
 **Extended Services intake and partner fees are separate from Entrepreneurship Program tuition:** Business administrative intake/coordination **$49**; professional affiliate recruitment/vetting **$99**; qualified partner connection **$50** (the latter two paid by the affiliate). Independent professional firms set their own service charges. Existing academic and standard Experiential tuition adjustments and reimbursement rules do not automatically apply to the separate Entrepreneurship Program.
 

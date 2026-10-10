@@ -115,9 +115,9 @@ Non-J.D. 1/2/3/4 years = $10,000/$20,000/$30,000/$40,000 standard.
 
 [IMAGE — Education plus supervised professional experience]
 
-**5% integrated structural adjustment** applies to combined Standard Education + Experiential tuition before pricing stage. This adjustment is separate from the 25% ordinary reduction cap.
+**15% integrated structural adjustment** applies to combined Standard Education + Experiential tuition before pricing stage. This adjustment is separate from the 25% ordinary reduction cap.
 
-Education Standard + Experiential Standard = Combined Standard; minus 5% = Integrated Standard; multiply by verified stage = Applicable Integrated Stage Tuition.
+Education Standard + Experiential Standard = Combined Standard; minus 15% = Integrated Standard; multiply by verified stage = Applicable Integrated Stage Tuition.
 
 [BUTTON — EXPERIENTIAL → 5]
 [BUTTON — CALCULATE INTEGRATED TUITION → 13.7]
@@ -134,9 +134,9 @@ Education Standard + Experiential Standard = Combined Standard; minus 5% = Integ
 |---|---:|
 | SNAP / TANF / WIC | 5% each where eligible |
 | Qualifying housing or homelessness | 5% |
-| Secondary degree | 5% |
+| Secondary degree | 25% |
 | Primary minor | 0% |
-| Secondary minor | 5% |
+| Secondary minor | 25% |
 | Partner employee | 15% |
 | Upfront payment | 15% |
 | Community contributor / eligible ambassadors | Up to 25% |
@@ -185,12 +185,14 @@ Approved and verified milestones control benefits. Do not award points for pendi
 
 | Level | Duration | Standard Tuition |
 |---|---|---:|
-| Apprentice | 1 Month | $2,500 |
-| Intern | 3 Months | $5,000 |
-| Associate | 1 Year | $10,000 |
-| Senior Associate | 1 Year | $10,000 |
-| Manager | 1 Year | $10,000 |
-| Executive | 1 Year | $10,000 |
+| Apprentice | 1 Month | $5,000 |
+| Intern | 3 Months | | Intern | 3 Months |0,000 |
+| Associate | 1 Year | $20,000 |
+| Senior Associate | 1 Year | $20,000 |
+| Manager | 1 Year | $20,000 |
+| Executive | 1 Year | $20,000 |
+| Progressive Experience add-on | Eligible progression | +| Executive | 1 Year | $20,000 |0,000 |
+| Rotational Experience add-on | Eligible rotation | +$5,000 |
 
 [IMAGE — Apprentice → Intern → Associate → Senior Associate → Manager → Executive]
 
@@ -217,17 +219,27 @@ Included curriculum-based review: **$0 additional where included**. Standalone c
 
 ### KNOW THE CHARGES CONNECTED TO YOUR PATHWAY.
 
-| Fee | Amount |
+| Fee or Resource Allocation | Amount |
 |---|---:|
-| Application | $50 |
+| Application — All Pathways Including Entrepreneurship | $0 |
 | Admissions | $0 |
-| Enrollment | $0 |
-| Education Deposit | $1,550 = $1,000 resources + $550 RIAH fee |
-| Experiential Deposit | $1,500 when separately triggered |
-| Complete Transfer Fee | $500 = four $125 components |
+| Enrollment — Education and Standard Experiential | $0 |
+| Separate Education Deposit / Administrative Fee | $0 — eliminated |
+| Student Resource Allocation (Deposit) | GED/HSE, High School, Minor, Associate's: $500 each; Bachelor's, Master's, MBA, J.D., Non-J.D.: $1,000 each; Experiential: estimated $500–$1,500 by program |
+| Combined Pathway Resources | Add allocations; no duplicate billing |
+| Optional Transfer Evaluation | $50 |
+| Optional Transfer Processing | $50 |
+| Evaluation + Processing When Both Apply | $100 total; one-time |
 | Transfer Tuition Reduction | $0 |
+| Entrepreneurship Enrollment Deposit | $500 credited toward tuition |
+| Extended Services Business Intake | $49, business-paid |
+| Extended Services Affiliate Recruitment & Vetting | $99, affiliate-paid |
+| Extended Services Qualified Connection | $50, affiliate-paid |
+| Community Law Initiative — Participating Attorney Assistance | $125, paid to independent attorney under agreement |
+| Community Law Initiative — Optional Foundation Contribution | $25, voluntary and separate |
+| Applicable Court Filing Fees | Actual jurisdiction-specific amount, if any |
 
-Transfer components: evaluation; alternative credit evaluation; prior learning/credit review; processing/administration. Transfer credit affects academic standing rather than reducing established tuition.
+Optional transfer evaluation and processing cost $50 each ($100 only when both apply). Student Resource Allocations support approved resources from enrollment through graduation without a separate administrative deposit. Entrepreneurship applications are free, and the $500 enrollment deposit is a tuition credit. The community law initiative connects eligible individuals with independent participating attorneys; RIAH does not provide legal advice or guarantee outcomes.
 
 [BUTTON — FEES → 13.11]
 [BUTTON — TRANSFER ADMISSIONS → 12.7]
@@ -240,7 +252,7 @@ Transfer components: evaluation; alternative credit evaluation; prior learning/c
 
 [IMAGE — Student resource package]
 
-Applicable $1,000 resource allocation may support books, review courses, laptop/computer resources, software, technology, academic materials, major/program-specific resources, welcome materials, graduation resources and transcripts.
+Program-specific Student Resource Allocations ($500 or $1,000 for listed academic programs; estimated $500–$1,500 for Experiential) support approved books, personalized coursework, laptops, software, technology, review products, orientation and welcome materials, transcripts and graduation resources from enrollment through graduation. Combined pathway allocations are additive, without double charges.
 
 [BUTTON — FEES → 13.11]
 [BUTTON — STUDENT EXPERIENCE → 12.4]
@@ -287,7 +299,7 @@ J.D. example: $40,000 standard tuition; 4 years; 8 semesters; $5,000/semester; $
 
 [IMAGE — Private education financing]
 
-Loan $500–$5,000; stated minimum credit score 650; maximum one active loan; 5% interest per 30 days under applicable terms; qualifying graduate repayment up to 12 months. Certification Review excluded. Applicable loan obligations reconciled before reimbursement release.
+Private student loans are considered by approved pathway and qualifying collateral: $500–$5,000, with the 10% qualifying-collateral tier and a 700+ credit score required for an amount exceeding that tier. Interest is 5% per 30 days subject to applicable terms; repayment is due three months after graduation, with eligible payment plans up to 12 months. Pledged collateral and outstanding loan obligations are handled under the approved agreement before reimbursement release.
 
 [BUTTON — LOAN INFORMATION → 13.3]
 [POLICY LINK — PRIVATE LOAN TERMS → 18 POLICIES; CANONICAL SUBROUTE PENDING]
@@ -340,7 +352,7 @@ Display eligible basis, guaranteed percentage, graduate points, earned percentag
 
 [IMAGE — Interactive Pricing Calculator Engine]
 
-Deterministic pathway, eligibility, stage, combination, transfer, experiential, legal, certification, tuition reduction, contributor benefit, funding, fees, products, payment, financing, refund and reimbursement calculations.
+Deterministic pathway, eligibility, pricing stage, combined-pathway adjustment, transfer, Experiential tuition and add-ons, Education and Entrepreneurship tuition, benefits, funding, resource allocations, optional transfer charges, affiliate connections, voluntary legal-community contribution, independently provided attorney costs, payment, financing, refunds and reimbursement. No application charge ($0) applies to any pathway. Unknown external legal or court fees are not automatically included.
 
 **Flow:** Build Pathway → Pricing Status → Customize → Transfer → Reduction Eligibility → Contributor/Partner/Graduate/Team Benefits → Funding → Products → Payment → Calculate → Results.
 
