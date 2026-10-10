@@ -610,6 +610,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Related records:** [Admissions 11](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 17.3](17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
 
 ### 16 — ACCREDITATION & AUTHORIZATION — MAIN PAGE WIREFRAME — `Accreditation-And-Authorization-Wireframe-Main.md`
+- **16 — CTA, buttons, links, downloads and media routing:** [`16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
 - 16.1 — Experiential Pathways 
 - 16.2 — Academic Pathways
 - 16.3 — High School
