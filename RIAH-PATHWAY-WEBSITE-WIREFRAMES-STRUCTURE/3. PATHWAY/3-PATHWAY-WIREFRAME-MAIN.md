@@ -396,7 +396,7 @@ Review does not guarantee examination success, admission or licensure.
 | Year 3 | RIAH-controlled |
 | Year 4 | RIAH-controlled |
 
-The established $500 Complete Transfer Fee applies under the controlling admissions and tuition policy. Receiving institutions independently determine whether to accept RIAH credit.
+The established up to optional transfer evaluation and processing fee00 optional transfer evaluation and processing fee applies under the controlling admissions and tuition policy. Receiving institutions independently determine whether to accept RIAH credit.
 
 [FLOW — PRIOR EDUCATION → DOCUMENTATION → REVIEW → APPROVED CREDIT → REMAINING CURRICULUM → PROGRESSION]
 

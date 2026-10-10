@@ -1,11 +1,11 @@
 # XIII — 👑 RIAH PATHWAY TUITION
 ## WEBSITE WIREFRAME — PAGE 13
 
-<!-- Main sitemap 1–20 is authoritative. Global header/footer excluded. Tuition wireframe sections 13.1–13.26. Preserve pending source verification rather than inventing URLs. -->
+<!-- Main sitemap 1–20 is authoritative. Global header/footer excluded. Tuition wireframe sections 13.4–13.26. Preserve pending source verification rather than inventing URLs. -->
 
 ## TUITION SUBNAVIGATION
 
-[LINK — TUITION → 13.1]
+[LINK — TUITION → 13.2]
 [LINK — FEES → 13.11]
 [LINK — PAYMENT OPTIONS → 13.13]
 [LINK — FUNDING → 13.16]
@@ -15,7 +15,7 @@
 
 ---
 
-## 01 — HERO
+## 13.1 — HERO
 
 ### YOUR PROGRAM. YOUR PATHWAY. YOUR COST.
 
@@ -29,7 +29,7 @@ RIAH Pathway provides tuition, fees, payment, funding, contributor benefits, rei
 
 [VIDEO — Understanding RIAH Pathway Tuition; captions and controls]
 
-[BUTTON — VIEW TUITION → 13.1]
+[BUTTON — VIEW TUITION → 13.4]
 [BUTTON — PAYMENT OPTIONS → 13.13]
 [BUTTON — BUILD MY PRICE → 13.19]
 [BUTTON — APPLY NOW → 12 ADMISSIONS]
@@ -37,17 +37,17 @@ RIAH Pathway provides tuition, fees, payment, funding, contributor benefits, rei
 
 ---
 
-## 02 — TUITION OVERVIEW
+## 13.2 — TUITION OVERVIEW
 
 ### ONE PATHWAY. CLEAR PRICING.
 
-[ICON CARDS — TUITION → 13.1; FEES → 13.11; PAYMENT OPTIONS → 13.13; FUNDING → 13.16; REIMBURSEMENT → 13.17; COSTS → 13.20; PRICING CALCULATOR → 13.19]
+[ICON CARDS — TUITION → 13.4; FEES → 13.11; PAYMENT OPTIONS → 13.13; FUNDING → 13.16; REIMBURSEMENT → 13.17; COSTS → 13.20; PRICING CALCULATOR → 13.19]
 
-[BUTTON — TUITION AND PRICING → 13.1]
+[BUTTON — TUITION AND PRICING → 13.4]
 
 ---
 
-## 03 — PRICING STAGES
+## 13.3 — PRICING STAGES
 
 ### YOUR ENTRY STAGE MATTERS.
 
@@ -64,7 +64,7 @@ Grandfathered or Forever Tuition uses verified preserved price. Students cannot 
 
 ---
 
-## 04 — ACADEMIC TUITION
+## 13.4 — ACADEMIC TUITION
 
 ### STANDARD PROGRAM TUITION.
 
@@ -89,7 +89,7 @@ Non-J.D. 1/2/3/4 years = $10,000/$20,000/$30,000/$40,000 standard.
 
 ---
 
-## 05 — ACADEMIC PRICING BY STAGE
+## 13.5 — ACADEMIC PRICING BY STAGE
 
 ### SEE THE DIFFERENCE BY PRICING STAGE.
 
@@ -109,7 +109,7 @@ Non-J.D. 1/2/3/4 years = $10,000/$20,000/$30,000/$40,000 standard.
 
 ---
 
-## 06 — INTEGRATED EDUCATION AND EXPERIENTIAL PRICING
+## 13.6 — INTEGRATED EDUCATION AND EXPERIENTIAL PRICING
 
 ### CONNECT EDUCATION WITH EXPERIENCE.
 
@@ -124,7 +124,7 @@ Education Standard + Experiential Standard = Combined Standard; minus 15% = Inte
 
 ---
 
-## 07 — TUITION REDUCTIONS
+## 13.7 — TUITION REDUCTIONS
 
 ### VERIFIED BENEFITS CAN REDUCE ELIGIBLE TUITION.
 
@@ -148,7 +148,7 @@ Stage pricing and integrated structural adjustment do not consume the ordinary c
 
 ---
 
-## 08 — CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS
+## 13.8 — CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS
 
 ### CONTRIBUTE. EARN POINTS. BUILD YOUR LEGACY.
 
@@ -169,7 +169,7 @@ Approved and verified milestones control benefits. Do not award points for pendi
 **Contributor and Ambassador tuition/product benefits use separate controls; combined contributor tracks do not exceed 25% tuition or 25% products.** Graduate milestone rules and reimbursement are separately administered.
 
 [BUTTON — GITHUB CONTRIBUTORS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/GITHUB-CONTRIBUTORS.md]
-[BUTTON — COMMUNITY AMBASSADORS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/COMMUNITY.md; VERIFY FILE]
+[BUTTON — COMMUNITY AMBASSADORS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/COMMUNITY-AMBASSADORS.md; VERIFY FILE]
 [BUTTON — SUBSTITUTE TEACHERS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/SUBSTITUTE-TEACHERS.md; VERIFY FILE]
 [BUTTON — RIDESHARE AND DELIVERY → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/RIDESHARE-DELIVERY.md; VERIFY FILE]
 [BUTTON — STUDENT/GRADUATE BENEFITS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
@@ -179,19 +179,19 @@ Approved and verified milestones control benefits. Do not award points for pendi
 
 ---
 
-## 09 — EXPERIENTIAL PRICING
+## 13.9 — EXPERIENTIAL PRICING
 
 ### EXPERIENCE HAS A PATHWAY TOO.
 
 | Level | Duration | Standard Tuition |
 |---|---|---:|
 | Apprentice | 1 Month | $5,000 |
-| Intern | 3 Months | | Intern | 3 Months |0,000 |
+| Intern | 3 Months | $10,000 |
 | Associate | 1 Year | $20,000 |
 | Senior Associate | 1 Year | $20,000 |
 | Manager | 1 Year | $20,000 |
 | Executive | 1 Year | $20,000 |
-| Progressive Experience add-on | Eligible progression | +| Executive | 1 Year | $20,000 |0,000 |
+| Progressive Experience add-on | Eligible progression | +$10,000 |
 | Rotational Experience add-on | Eligible rotation | +$5,000 |
 
 [IMAGE — Apprentice → Intern → Associate → Senior Associate → Manager → Executive]
@@ -201,7 +201,7 @@ Approved and verified milestones control benefits. Do not award points for pendi
 
 ---
 
-## 10 — CERTIFICATION AND REVIEW
+## 13.10 — CERTIFICATION AND REVIEW
 
 ### PREPARE FOR WHAT COMES NEXT.
 
@@ -215,7 +215,7 @@ Included curriculum-based review: **$0 additional where included**. Standalone c
 
 ---
 
-## 11 — FEES AND DEPOSITS
+## 13.11 — FEES AND DEPOSITS
 
 ### KNOW THE CHARGES CONNECTED TO YOUR PATHWAY.
 
@@ -246,7 +246,7 @@ Optional transfer evaluation and processing cost $50 each ($100 only when both a
 
 ---
 
-## 12 — EDUCATION DEPOSIT RESOURCES
+## 13.12 — EDUCATION DEPOSIT RESOURCES
 
 ### RESOURCES TO SUPPORT THE PATHWAY.
 
@@ -259,7 +259,7 @@ Program-specific Student Resource Allocations ($500 or $1,000 for listed academi
 
 ---
 
-## 13 — PAYMENT OPTIONS
+## 13.13 — PAYMENT OPTIONS
 
 ### PAY FOR YOUR PATHWAY IN THE WAY THAT APPLIES TO YOU.
 
@@ -278,7 +278,17 @@ Program-specific Student Resource Allocations ($500 or $1,000 for listed academi
 
 ---
 
-## 14 — TITLE IV PAYMENT PATH
+
+### Entrepreneurship Program — Separate Non-Degree Payment Rules
+
+| Program | Standard Tuition | Upfront (25% Reduction) | Monthly at Standard Tuition | Tuition-Credit Enrollment Deposit |
+|---|---:|---:|---|---:|
+| Startup Launch — 12 Weeks | $5,000 | $3,750 | $1,666.67 + $1,666.67 + $1,666.66 | $500 |
+| Small Business Recovery & Growth — 16 Weeks | $10,000 | $7,500 | 4 × $2,500 | $500 |
+
+The $500 deposit is deducted from the upfront balance or first installment, not added to tuition. After the deposit: $3,250 or $7,000 remains due under upfront payment; $1,166.67 or $2,000 remains for the first monthly installment. Entrepreneurship applications cost $0. The separate 25% Entrepreneurship upfront discount does not stack with the 15% Education/Experiential upfront reduction. An overdue installment pauses the program, curriculum, and coordinated professional services until current. Upfront participants may cancel anytime; delivered program periods are earned and unused prepaid tuition is refunded. Independent affiliate engagements are separately contracted and priced.
+
+## 13.14 — TITLE IV PAYMENT PATH
 
 ### SEMESTER-BASED FINANCIAL AID WHERE APPLICABLE.
 
@@ -293,7 +303,7 @@ J.D. example: $40,000 standard tuition; 4 years; 8 semesters; $5,000/semester; $
 
 ---
 
-## 15 — RIAH PRIVATE STUDENT LOAN
+## 13.15 — RIAH PRIVATE STUDENT LOAN
 
 ### AN ADDITIONAL FINANCING PATH WHERE ELIGIBLE.
 
@@ -306,7 +316,7 @@ Private student loans are considered by approved pathway and qualifying collater
 
 ---
 
-## 16 — FUNDING
+## 13.16 — FUNDING
 
 ### FUNDING IS SEPARATE FROM TUITION REDUCTIONS.
 
@@ -319,7 +329,7 @@ Institutional scholarship pool 5%; grant pool 5%; stipend pool 5%; combined arch
 
 ---
 
-## 17 — TUITION REIMBURSEMENT AND GRADUATE BENEFITS
+## 13.17 — TUITION REIMBURSEMENT AND GRADUATE BENEFITS
 
 ### COMPLETE THE PATHWAY. CONTINUE BUILDING YOUR BENEFIT.
 
@@ -332,7 +342,7 @@ Qualifying graduates: 10% guaranteed reimbursement on eligible basis upon qualif
 
 ---
 
-## 18 — REIMBURSEMENT ESCROW
+## 13.18 — REIMBURSEMENT ESCROW
 
 ### SEE WHAT YOU HAVE EARNED.
 
@@ -346,7 +356,7 @@ Display eligible basis, guaranteed percentage, graduate points, earned percentag
 
 ---
 
-## 19 — PRICING CALCULATOR ENGINE
+## 13.19 — PRICING CALCULATOR ENGINE
 
 ### BUILD YOUR RIAH PATHWAY. SEE WHAT IT COSTS.
 
@@ -362,7 +372,7 @@ Show starting amount, additions, subtractions, percentages, dollar effects, runn
 
 ---
 
-## 20 — COSTS AND REFUNDS
+## 13.20 — COSTS AND REFUNDS
 
 ### UNDERSTAND THE FINANCIAL RULES BEFORE YOU BEGIN.
 
@@ -380,7 +390,7 @@ Controlling legal requirements prevail. Purchased certification/bar review cash 
 
 ---
 
-## 21 — EXTERNAL COSTS
+## 13.21 — EXTERNAL COSTS
 
 ### KNOW WHICH COSTS ARE EXTERNAL.
 
@@ -388,11 +398,11 @@ Controlling legal requirements prevail. Purchased certification/bar review cash 
 
 State, court, bar, licensing, government, examination, registration and other third-party charges are separate when applicable. If not configured: **EXTERNAL — AMOUNT NOT INCLUDED**.
 
-[BUTTON — COST INFORMATION → 13.6]
+[BUTTON — COST INFORMATION → 13.20]
 
 ---
 
-## 22 — TUITION POLICIES AND DOCUMENTATION
+## 13.22 — TUITION POLICIES AND DOCUMENTATION
 
 ### REVIEW THE RULES BEHIND THE NUMBERS.
 
@@ -406,11 +416,11 @@ Master Pricing Principles; Master Pricing Data Sheet; Pricing Engine; Beta and P
 
 ---
 
-## 23 — TUITION DIRECTORY
+## 13.23 — TUITION DIRECTORY
 
 ### EXPLORE TUITION.
 
-[ICON CARD — TUITION → 13.1]
+[ICON CARD — TUITION → 13.2]
 [ICON CARD — FEES → 13.11]
 [ICON CARD — PAYMENT OPTIONS → 13.13]
 [ICON CARD — FUNDING → 13.16]
@@ -418,7 +428,7 @@ Master Pricing Principles; Master Pricing Data Sheet; Pricing Engine; Beta and P
 [ICON CARD — COSTS → 13.20]
 [ICON CARD — PRICING CALCULATOR ENGINE → 13.19]
 
-[BUTTON — TUITION → 13.1]
+[BUTTON — TUITION → 13.2]
 [BUTTON — FEES → 13.11]
 [BUTTON — PAYMENT OPTIONS → 13.13]
 [BUTTON — FUNDING → 13.16]
@@ -428,7 +438,7 @@ Master Pricing Principles; Master Pricing Data Sheet; Pricing Engine; Beta and P
 
 ---
 
-## 24 — FAQ PREVIEW
+## 13.24 — FAQ PREVIEW
 
 ### TUITION QUESTIONS.
 
@@ -438,7 +448,7 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 
 ---
 
-## 25 — FINAL CTA
+## 13.25 — FINAL CTA
 
 ### UNDERSTAND YOUR COST. BUILD YOUR PATH. CREATE YOUR LEGACY.
 
@@ -447,7 +457,7 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 **EDUCATION • EXPERIENCE • CERTIFICATIONS • CAREER • LEGACY**
 
 [BUTTON — BUILD MY PRICE → 13.19]
-[BUTTON — EXPLORE TUITION → 13.1]
+[BUTTON — EXPLORE TUITION → 13.4]
 [BUTTON — EXPLORE FUNDING → 13.16]
 [BUTTON — CONTRIBUTOR BENEFITS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md]
 [BUTTON — APPLY NOW → 12 ADMISSIONS]
@@ -455,7 +465,7 @@ FAQ: total-program tuition, stages, Beta, pre-accreditation, grandfathering, int
 
 ---
 
-## 26 — SERVICE PRICING AND CROSS-PAGE ROUTING
+## 13.26 — SERVICE PRICING AND CROSS-PAGE ROUTING
 
 ### ENTREPRENEURSHIP — NON-DEGREE OFFERING
 
@@ -478,19 +488,19 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 
 ---
 
-# XIII — TUITION — BUTTONS, CTAS, LINKS, DOWNLOADS AND MEDIA TABLES
+## 13.26 — BUTTONS, CTAS, LINKS, DOWNLOADS AND MEDIA TABLES
 
 | Section | Type | Label / Asset | Destination / Notes |
 |---|---|---|---|
 | 01 HERO | IMAGE | Student reviewing tuition, payment, funding and pricing calculator | — |
 | 01 HERO | VIDEO | Understanding RIAH Pathway Tuition; captions and controls | — |
-| 01 HERO | BUTTON | VIEW TUITION | 13.1 |
+| 01 HERO | BUTTON | VIEW TUITION | 13.4 |
 | 01 HERO | BUTTON | PAYMENT OPTIONS | 13.13 |
 | 01 HERO | BUTTON | BUILD MY PRICE | 13.19 |
 | 01 HERO | BUTTON | APPLY NOW | 12 ADMISSIONS |
 | 01 HERO | BUTTON | REQUEST INFORMATION | 20 CONTACT |
-| 02 TUITION OVERVIEW | ICON CARD | S — TUITION | 13.1; FEES |
-| 02 TUITION OVERVIEW | BUTTON | TUITION AND PRICING | 13.1 |
+| 02 TUITION OVERVIEW | ICON CARD | S — TUITION | 13.4; FEES |
+| 02 TUITION OVERVIEW | BUTTON | TUITION AND PRICING | 13.4 |
 | 03 PRICING STAGES | BUTTON | VIEW PRICING | 13.1 |
 | 03 PRICING STAGES | BUTTON | ACCREDITATION STATUS | 16 |
 | 04 ACADEMIC TUITION | BUTTON | DEGREE PROGRAMS | 4 |
@@ -504,7 +514,7 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 07 TUITION REDUCTIONS | BUTTON | CHECK ELIGIBILITY | 13.19 |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | IMAGE | Contributors and Ambassadors | — |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | GITHUB CONTRIBUTORS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/GITHUB-CONTRIBUTORS.md |
-| 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | COMMUNITY AMBASSADORS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/COMMUNITY.md; VERIFY FILE |
+| 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | COMMUNITY AMBASSADORS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/COMMUNITY-AMBASSADORS.md; VERIFY FILE |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | SUBSTITUTE TEACHERS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/SUBSTITUTE-TEACHERS.md; VERIFY FILE |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | RIDESHARE AND DELIVERY | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/RIDESHARE-DELIVERY.md; VERIFY FILE |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | STUDENT/GRADUATE BENEFITS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md |
@@ -551,14 +561,14 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 22 TUITION POLICIES AND DOCUMENTATION | DOWNLOAD | FUNDING AND REIMBURSEMENT GUIDE | SUITEDASH PUBLIC DOCUMENTATION CENTER; FILE PENDING |
 | 22 TUITION POLICIES AND DOCUMENTATION | DOWNLOAD | COSTS, REFUNDS AND POLICIES GUIDE | SUITEDASH PUBLIC DOCUMENTATION CENTER; FILE PENDING |
 | 22 TUITION POLICIES AND DOCUMENTATION | BUTTON | RESOURCES | 18 |
-| 23 TUITION DIRECTORY | ICON CARD | TUITION | 13.1 |
+| 23 TUITION DIRECTORY | ICON CARD | TUITION | 13.4 |
 | 23 TUITION DIRECTORY | ICON CARD | FEES | 13.11 |
 | 23 TUITION DIRECTORY | ICON CARD | PAYMENT OPTIONS | 13.13 |
 | 23 TUITION DIRECTORY | ICON CARD | FUNDING | 13.16 |
 | 23 TUITION DIRECTORY | ICON CARD | REIMBURSEMENT | 13.17 |
 | 23 TUITION DIRECTORY | ICON CARD | COSTS | 13.20 |
 | 23 TUITION DIRECTORY | ICON CARD | PRICING CALCULATOR ENGINE | 13.19 |
-| 23 TUITION DIRECTORY | BUTTON | TUITION | 13.1 |
+| 23 TUITION DIRECTORY | BUTTON | TUITION | 13.4 |
 | 23 TUITION DIRECTORY | BUTTON | FEES | 13.11 |
 | 23 TUITION DIRECTORY | BUTTON | PAYMENT OPTIONS | 13.13 |
 | 23 TUITION DIRECTORY | BUTTON | FUNDING | 13.16 |
@@ -568,7 +578,7 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 24 FAQ PREVIEW | BUTTON | TUITION FAQ | 19; TUITION SUBROUTE TO VERIFY |
 | 25 FINAL CTA | IMAGE | Education | Experience |
 | 25 FINAL CTA | BUTTON | BUILD MY PRICE | 13.19 |
-| 25 FINAL CTA | BUTTON | EXPLORE TUITION | 13.1 |
+| 25 FINAL CTA | BUTTON | EXPLORE TUITION | 13.4 |
 | 25 FINAL CTA | BUTTON | EXPLORE FUNDING | 13.16 |
 | 25 FINAL CTA | BUTTON | CONTRIBUTOR BENEFITS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md |
 | 25 FINAL CTA | BUTTON | APPLY NOW | 12 ADMISSIONS |
