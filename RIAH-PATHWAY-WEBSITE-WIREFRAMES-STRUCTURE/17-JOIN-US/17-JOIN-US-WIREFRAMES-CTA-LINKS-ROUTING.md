@@ -190,7 +190,7 @@
 | 17.1-JOIN-US | 24 | PRE-ADMISSIONS | 12.2 |
 | 17.1-JOIN-US | 25 | APPLY NOW | 12.3 |
 | 17.1-JOIN-US | 26 | ACCEPTANCE & ENROLLMENT | 12.4 |
-| 17.1-JOIN-US | 27 | STUDENT EXPERIENCE | 12.5 |
+| 17.1-JOIN-US | 27 | STUDENT EXPERIENCE | 12.4 |
 | 17.1-JOIN-US | 28 | GRADUATION & ALUMNI | 12.6 |
 | 17.1-JOIN-US | 29 | HOW RIAH PATHWAY WORKS | 12.7 |
 | 17.1-JOIN-US | 59 | ACCREDITATION & AUTHORIZATION | 16 |
@@ -219,7 +219,7 @@
 | 17.2-STUDENT-LIFE | 13 | BECOME AN AMBASSADOR | 17.5 |
 | 17.2-STUDENT-LIFE | — | EXPLORE CAREER SERVICES | 17.2.20 |
 | 17.2-STUDENT-LIFE | — | EXPLORE OPPORTUNITIES | 17.2.21 |
-| 17.2-STUDENT-LIFE | — | LEARN ABOUT TUITION REIMBURSEMENT | 13.6 / REIMBURSEMENT |
+| 17.2-STUDENT-LIFE | — | LEARN ABOUT TUITION REIMBURSEMENT | 13.17 / REIMBURSEMENT |
 | 17.2-STUDENT-LIFE | — | VIEW OPPORTUNITIES | 17.2.21 |
 | 17.2-STUDENT-LIFE | — | ACCESS CAREER SERVICES | SYMPLICITY CSM / CAREER SERVICES |
 | 17.2-STUDENT-LIFE | — | VIEW CAREER EVENTS | 18.2 / EVENTS |
@@ -417,16 +417,16 @@
 
 | Source Wireframe | New CTA / Button / Link | Destination |
 |---|---|---|
-| 17.1 Join Us Main | Compare Education & Experiential Tuition / Admissions & Reimbursement / Founder Contributions | 12; 11; 13.6; 17.6 |
+| 17.1 Join Us Main | Compare Education & Experiential Tuition / Admissions & Reimbursement / Founder Contributions | 12; 11; 13.17; 17.6 |
 | 17.2 Student Life | Student Milestone Benefits / Tuition / Admissions / Founder Transparency | 17.2.15; 12; 11; 17.6 |
 | 17.3 Partnerships | Partner Contributor Benefits / Admissions Milestones / Founder Contribution Pool | 17.5; 11; 17.2.15; 17.6 |
 | 17.4 Join Our Team | Team Member Benefits / Tuition / Admissions / Founder Equity Pool | Contributor Team-Members guide; 12; 11; 17.6 |
 | 17.5 Ambassadors | Verified Contributor Milestones / Tuition / Admissions / Founder | 17.2.15; 12; 11; 17.6 |
-| 17.6 Founder — IV | Internal Team Benefits / Admissions & Reimbursement / Tuition | Contributor Benefits Master; 11; 12; 13.6 |
-| 17.6 Founder — V | Contributor Milestone Verification / Tuition Reimbursement | Contributor Benefits Master; 13.6 |
+| 17.6 Founder — IV | Internal Team Benefits / Admissions & Reimbursement / Tuition | Contributor Benefits Master; 11; 12; 13.17 |
+| 17.6 Founder — V | Contributor Milestone Verification / Tuition Reimbursement | Contributor Benefits Master; 13.17 |
 | 17.6 Founder — VI | Education / Experiential Tuition / Admissions / Student Milestones | 11; 5; 12; 13.6; 17.2.15 |
 | 17.6 Founder — Employees, Partners & Affiliates | Employee / Partner / Partner Employee / Affiliate Benefits; Verified Milestones; Contacts | 17.4; 17.4.9; 17.3; 17.5; 20.7; 20.3; 13.6; 17.2.15; Benefits Markdown |
-| 12 Admissions | Tuition / Milestones / Reimbursement / Founder Cross-Reference | 12; 13.6; 17.2.15; 17.6 |
+| 12 Admissions | Tuition / Milestones / Reimbursement / Founder Cross-Reference | 12; 13.17; 17.2.15; 17.6 |
 
 ### 17.6 — Employee, Partner Employee and Affiliate Buttons, Routes & External Links
 
@@ -441,7 +441,7 @@
 | Explore Partner Affiliate Benefits & Attribution | Button / Download | ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/AFFILIATES.md |
 | Explore Ambassador Participation | Button / Internal Route | 17.5 — Ambassadors |
 | Compare All Contributor, Employee, Partner & Affiliate Benefits | Button / Download | ../../RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/README.md |
-| Review Qualifying Student Tuition Reimbursement & Milestones | Button / Internal Route | 13.6 — Reimbursement; 17.2.15 — Student Milestones; 12 — Admissions |
+| Review Qualifying Student Tuition Reimbursement & Milestones | Button / Internal Route | 13.17 — Reimbursement; 17.2.15 — Student Milestones; 12 — Admissions |
 | Join Our Team | Internal Link | 17.4 |
 | Partnerships | Internal Link | 17.3 |
 | Partnership Inquiries | Internal Link | 20.7 |
