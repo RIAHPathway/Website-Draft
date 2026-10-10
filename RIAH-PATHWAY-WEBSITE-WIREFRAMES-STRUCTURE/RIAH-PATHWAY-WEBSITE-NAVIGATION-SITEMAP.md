@@ -937,6 +937,10 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 **PAGE 3 SECTIONS:** I HERO; II WHAT IS A RIAH PATHWAY?; III PATHWAY NAVIGATION; IV DEGREE PROGRAMS; V SCHOOLS; VI LAW PATHWAY; VII EXPERIENTIAL; VIII ENTREPRENEURSHIP; IX HIGH SCHOOL; X GED/HSE; XI CERTIFICATION REVIEW; XII BAR REVIEW; XIII TRANSFER AND ALTERNATIVE CREDIT; XIV COMPARE AND CHOOSE; XV TUITION AND FUNDING; XVI HUMAN-SUPPORTED EXPERIENCE; XVII HUMAN-LED EXPERIENTIAL EDUCATION; XVIII RIAH APP AND LEARNING SYSTEMS; XIX STUDENT SUPPORT; XX PATHWAY FAQ; XXI RESOURCES AND DOWNLOADS; XXII FINAL CALL TO ACTION.
 
-**PAGE 3 ROUTING COVERAGE:** 97 individually enumerated buttons; 14 external endpoint controls; 17 downloads; 28 visual assets; 20 main pages; 30 cross-page route references.
+**PAGE 3 ROUTING COVERAGE:** 120 individually enumerated buttons; 14 external endpoint controls; 17 downloads; 28 visual assets; 20 main pages; 30 cross-page route references.
 
 **PENDING FOLDERS:** No other website page folders were populated or modified in this update. Existing sitemap sections for those pages are unchanged.
+
+### Page 3 Pathway — Cross-Page CTA Reconciliation
+
+Page 3 is the navigation hub for the 20 primary website pages. Its canonical wireframe and dedicated CTA directory now enumerate **120 buttons**, including **23 explicit cross-page actions** to degree, experiential-by-school, entrepreneurship levels, curriculum, products/services, partnerships and Foundation support. The hero Explore Pathways button uses the Page 3 `#pathway-navigation` anchor rather than a non-clickable range. Other page folders and their existing wireframes are not changed by this reconciliation.
