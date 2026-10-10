@@ -2770,15 +2770,78 @@ I. 👑 RIAH architecture · II. 🔎 source coverage · III. 🏫 traditional m
 
 ### X.H.II — 👑 RIAH PATHWAY REFERENCE ARCHITECTURE
 
-**Identity:** Mission — Accessible. Affordable. Rigorous. Elite. Vision (POWER) — People. Opportunity. Work. Equity. Results. Motto — Educate. Empower. Elevate. Tagline — Education. Experience. Certifications. Opportunity. Career. Legacy. Slogan — One Dynasty. Infinite Legacies. Commitment — You invest in us. We invest in you.
+#### A. 👑 RIAH Pathway Identity
 
-**Nine named schools:** 🎓 Business (Accounting, Finance, Entrepreneurship, Business Management, MBA); 💻 Technology (Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering); ⚖️ Law (Criminal Justice, JD, Non-JD); 🛡️ Homeland Security (Intelligence, Physical Security, Governance, Risk and Compliance, Private Investigations); 📚 GED (GED with concurrent college credits); 🎓 Diploma (high-school diploma with concurrent college credits); 🏢 Experiential (Apprentice through Executive); 🚀 Entrepreneurship (Startup through Small Business); 🏆 Credential (Certification Review and Bar Review).
+| Row Label | Identity Category | RIAH Pathway Content |
+|---|---|---|
+| 1 | Mission | Accessible. Affordable. Rigorous. Elite. |
+| 2 | Vision (POWER) | People. Opportunity. Work. Equity. Results. |
+| 3 | Motto | Educate. Empower. Elevate. |
+| 4 | Tagline | Education. Experience. Certifications. Opportunity. Career. Legacy. |
+| 5 | Slogan | One Dynasty. Infinite Legacies. |
+| 6 | Commitment | You invest in us. We invest in you. |
 
-**Eight named corporate entities:** 🏛️ RIAH Pathway Holdings Corporation (ownership, IP, brand, investments, equity, governance); 🏢 RIAH Pathway Corporation (central operations and shared resources); 💼 RIAH Pathway Professional Services LLP (student-centric services); 🎓 RIAH Pathway School LLC (educational pathways); 💻 RIAH Pathway Technology LLC (proprietary software and mobile app); 🏆 RIAH Pathway Programs LLC (experiential, professional development and certification preparation); 📚 RIAH Pathway Products LLC (physical and digital educational products); ❤️ RIAH Pathway 501(c)(3) Foundation (donations, scholarships, grants, stipends and qualifying initiatives). **No ninth corporate entity is asserted.**
+#### B. 🎓 Nine Named Schools
 
-**Six pillars:** 🎓 Education; 🏢 Experience; 🏆 Certification; 🤝 Contribution; 💰 Economic Benefits; 🚀 Career. Cross-cutting layers include proprietary software/mobile application, educational products, entrepreneurship, partner employers and student services. RIAH is building this architecture; design inclusion is not independently verified operation.
+| Row Label | School | Programs and Pathways |
+|---|---|---|
+| 1 | 🎓 Business | Accounting, Finance, Entrepreneurship, Business Management, MBA |
+| 2 | 💻 Technology | Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering |
+| 3 | ⚖️ Law | Criminal Justice, JD, Non-JD |
+| 4 | 🛡️ Homeland Security | Intelligence, Physical Security, Governance, Risk and Compliance, Private Investigations |
+| 5 | 📚 GED | GED with concurrent college credits |
+| 6 | 🎓 Diploma | High-school diploma with concurrent college credits |
+| 7 | 🏢 Experiential | Apprentice through Executive |
+| 8 | 🚀 Entrepreneurship | Startup through Small Business |
+| 9 | 🏆 Credential | Certification Review and Bar Review |
 
-**Experiential stages:** Apprentice 1 month; Intern 3 months; Associate 1 year; Senior Associate 1 year; Manager 1 year; Executive 1 year.
+#### C. 🏛️ Eight Named Corporate Entities
+
+| Row Label | Corporate Entity | Primary Responsibility |
+|---|---|---|
+| 1 | 🏛️ RIAH Pathway Holdings Corporation | Ownership, IP, brand, investments, equity, governance |
+| 2 | 🏢 RIAH Pathway Corporation | Central operations and shared resources |
+| 3 | 💼 RIAH Pathway Professional Services LLP | Student-centric services |
+| 4 | 🎓 RIAH Pathway School LLC | Educational pathways |
+| 5 | 💻 RIAH Pathway Technology LLC | Proprietary software and mobile app |
+| 6 | 🏆 RIAH Pathway Programs LLC | Experiential, professional development and certification preparation |
+| 7 | 📚 RIAH Pathway Products LLC | Physical and digital educational products |
+| 8 | ❤️ RIAH Pathway 501(c)(3) Foundation | Donations, scholarships, grants, stipends and qualifying initiatives |
+
+**No ninth corporate entity is asserted.**
+
+#### D. 🔗 Six Ecosystem Pillars
+
+| Row Label | Pillar Number | Ecosystem Pillar |
+|---|---|---|
+| 1 | I | 🎓 Education |
+| 2 | II | 🏢 Experience |
+| 3 | III | 🏆 Certification |
+| 4 | IV | 🤝 Contribution |
+| 5 | V | 💰 Economic Benefits |
+| 6 | VI | 🚀 Career |
+
+#### E. 💻 Cross-Cutting Ecosystem Architecture
+
+| Row Label | Architecture Component | Description |
+|---|---|---|
+| 1 | Technology | Proprietary software and mobile application |
+| 2 | Educational Products | Educational products |
+| 3 | Experience | Internal and partner-employer remote, hybrid and on-site experience |
+| 4 | Additional Connected Layers | Entrepreneurship, partner employers and student services |
+
+RIAH is building this architecture; design inclusion is not independently verified operation.
+
+#### F. 🏢 Six Experiential Stages
+
+| Row Label | Experiential Level | Duration |
+|---|---|---|
+| 1 | Apprentice | 1 month |
+| 2 | Intern | 3 months |
+| 3 | Associate | 1 year |
+| 4 | Senior Associate | 1 year |
+| 5 | Manager | 1 year |
+| 6 | Executive | 1 year |
 
 ### X.H.III — 🔎 PLATFORM COVERAGE AND DATED OUTCOMES
 
