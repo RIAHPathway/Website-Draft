@@ -24,16 +24,12 @@
 19 — FAQ
 20 — Contact
 
-
 ---
 
 # 1 — HOME — MAIN PAGE WIREFRAME
 
 **Main Wireframe:** `1.-HOME-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
-
-## Navigation and Wireframe Sections
-
 
 ### 1.1 — Home Overview
 
@@ -45,7 +41,7 @@
 
 ### 1.5 — Experiential
 
-### 1.6 — Entrepreneurship (Page 6, two business pools)
+### 1.6 — Entrepreneurship
 
 ### 1.7 — High School
 
@@ -57,17 +53,17 @@
 
 ### 1.11 — Curriculum
 
-### 1.12 — Admissions (Entrepreneurship Spring/Fall cross-reference → 15.4)
+### 1.12 — Admissions
 
 ### 1.13 — Tuition
 
 ### 1.14 — Donations
 
-### 1.15 — Products & Services (15.3 Justice-Impacted; 15.4 Entrepreneurship; 15.5 Extended Services)
+### 1.15 — Products & Services
 
 ### 1.16 — Accreditation & Authorization
 
-### 1.17 — Join Us (Partnerships and Entrepreneurship Collaboration → 17.3)
+### 1.17 — Join Us
 
 ### 1.18 — Resources
 
@@ -81,9 +77,6 @@
 
 **Main Wireframe:** `ABOUT-WIREFRAME.md`
 **Combined CTA, Buttons, Links & Routing:** `ABOUT-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
-
-## Navigation and Wireframe Sections
-
 
 ### 2.0 — Hero and identity
 
@@ -131,35 +124,6 @@
 **Main Wireframe:** `3-PATHWAY-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `3-PATHWAY-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
 
-
-### Main Wireframe Content — Source Sections
-
-- I. HERO — FIND YOUR RIAH PATHWAY
-- II. WHAT IS A RIAH PATHWAY?
-- III. PATHWAY NAVIGATION
-- IV. DEGREE PROGRAMS PATHWAY
-- V. SCHOOLS
-- VI. LAW PATHWAY
-- VII. EXPERIENTIAL PATHWAY
-- VIII. ENTREPRENEURSHIP PATHWAY
-- IX. HIGH SCHOOL PATHWAY
-- X. GED and HSE PATHWAY
-- XI. CERTIFICATION REVIEW PATHWAY
-- XII. BAR REVIEW PATHWAY
-- XIII. TRANSFER AND ALTERNATIVE CREDIT
-- XIV. COMPARE AND CHOOSE YOUR PATHWAY
-- XV. TUITION AND PRICE YOUR PATHWAY
-- XVI. HUMAN-SUPPORTED PATHWAY EXPERIENCE
-- XVII. HUMAN-LED EXPERIENTIAL EDUCATION
-- XVIII. RIAH APP — CONNECTED PATHWAY EXPERIENCE
-- XIX. STUDENT SUPPORT
-- XX. PATHWAY FAQ PREVIEW
-- XXI. PATHWAY RESOURCES
-- XXII. FINAL CALL TO ACTION
-
-## Navigation and Wireframe Sections
-
-
 ### 3.1 — Degree Programs
   - 3.1.1 — Associate's Pathway
   - 3.1.2 — Bachelor's Pathway
@@ -192,37 +156,6 @@
 **Main Wireframe:** `DEGREE-PROGRAMS-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `4-DEGREE-PROGRAMS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
 
-
-### Main Wireframe Content — Source Sections
-
-- I. DEGREE PROGRAMS HERO
-- II. DEGREE PATHWAY DIRECTORY
-- III. HOW RIAH PATHWAY ACADEMICS CONNECT
-- IV. 4.1.1 — ASSOCIATE'S PATHWAY
-- V. 4.1.2 — BACHELOR'S PATHWAY
-- VI. 4.1.3 — MASTER'S PATHWAY
-- VII. 4.1.4 — MBA PATHWAY
-- VIII. 4.1.5 — MINOR PATHWAY
-- IX. 4.2 — FOUR DEGREE SCHOOLS
-- X. 4.2.1 — SCHOOL OF BUSINESS
-- XI. 4.2.2 — SCHOOL OF HOMELAND SECURITY
-- XII. 4.2.4 — SCHOOL OF TECHNOLOGY
-- XIII. 4.2.3 + 4.3 — SCHOOL OF LAW + LAW PATHWAY
-- XIV. 4.3.1 — JURIS DOCTOR — J.D.
-- XV. 4.3.2 — NON-J.D. BAR LICENSE PATHWAY
-- XVI. ACADEMIC RIGOR + ASSESSMENT
-- XVII. TRANSFER + ALTERNATIVE CREDIT
-- XVIII. ACADEMIC ACCELERATION + PACING
-- XIX. EXPERIENCE + CREDENTIAL INTEGRATION
-- XX. DEGREE TUITION + FUNDING
-- XXI. DEGREE ADMISSIONS + STUDENT JOURNEY
-- XXII. STUDENT LIFE + CAREER CONNECTION
-- XXIII. ACCREDITATION + AUTHORIZATION STATUS
-- XXIV. DEGREE PROGRAM RESOURCES
-
-## Navigation and Wireframe Sections
-
-
 ### 4.1 — Degree Pathway
   - 4.1.1 — Associate's Pathway
   - 4.1.2 — Bachelor's Pathway
@@ -244,17 +177,13 @@
 
 # 5 — EXPERIENTIAL — MAIN PAGE WIREFRAME
 
-
-## Navigation and Wireframe Sections
-
-
 ### 5.1 — Experiential by Level & Duration
-  - 5.1.1 — Apprentice — 1 Month — $5,000 Standard Tuition
-  - 5.1.2 — Intern — 3 Months — $10,000 Standard Tuition
-  - 5.1.3 — Associate — 1 Year — $20,000 Standard Tuition
-  - 5.1.4 — Senior Associate — 1 Year — $20,000 Standard Tuition
-  - 5.1.5 — Manager — 1 Year — $20,000 Standard Tuition
-  - 5.1.6 — Executive — 1 Year — $20,000 Standard Tuition
+  - 5.1.1 — Apprentice
+  - 5.1.2 — Intern
+  - 5.1.3 — Associate
+  - 5.1.4 — Senior Associate
+  - 5.1.5 — Manager
+  - 5.1.6 — Executive
 
 ### 5.2 — Experiential by School
   - 5.2.1 — School of Business
@@ -268,65 +197,53 @@
 
 ### 5.5 — External Placement
 
-- **Optional approved add-ons:** Progressive Experience +$10,000; Rotational Experience +$5,000.
-
 ---
 
 # 6 — ENTREPRENEURSHIP — MAIN PAGE WIREFRAME
 
 **Main Wireframe:** `6-ENTREPRENEURSHIP-WIREFRAME.md`
 
-## Navigation and Wireframe Sections
+### 6.1 — Overview and two business pools
 
+### 6.2 — Startup Entrepreneurship
+  - 6.2.1 — Apprentice Startup — 1 Month
+  - 6.2.2 — New Startup — 12 Weeks
+  - 6.2.3 — One-Year Startup — 12 Weeks
+  - 6.2.4 — Growth Startup — 16 Weeks
 
-### 6.1 — Overview and two business pools.
+### 6.3 — Small Business Entrepreneurship
+  - 6.3.1 — Apprentice Small Business — 1 Month
+  - 6.3.2 — New Small Business — 12 Weeks
+  - 6.3.3 — Established Small Business — 12 Weeks
+  - 6.3.4 — Small Business Recovery & Growth — 16 Weeks
 
-### 6.2 — Startup Entrepreneurship.
-  - 6.2.1 — Apprentice Startup — 1 Month.
-  - 6.2.2 — New Startup — 12 Weeks.
-  - 6.2.3 — One-Year Startup — 12 Weeks.
-  - 6.2.4 — Growth Startup — 16 Weeks.
+### 6.4 — Curriculum and Collections
 
-### 6.3 — Small Business Entrepreneurship.
-  - 6.3.1 — Apprentice Small Business — 1 Month.
-  - 6.3.2 — New Small Business — 12 Weeks.
-  - 6.3.3 — Established Small Business — 12 Weeks.
-  - 6.3.4 — Small Business Recovery & Growth — 16 Weeks.
+### 6.5 — Durations and Milestones
 
-### 6.4 — Curriculum and Collections.
+### 6.6 — Professional Team and Affiliates
 
-### 6.5 — Durations and Milestones.
+### 6.7 — Remote, Hybrid, On-Site
 
-### 6.6 — Professional Team and Affiliates.
+### 6.8 — Spring/Fall Admissions
 
-### 6.7 — Remote, Hybrid, On-Site.
+### 6.9 — Tuition
 
-### 6.8 — Spring/Fall Admissions (12).
+### 6.10 — Upfront/Monthly Payments, Pause, Cancellation
 
-### 6.9 — Tuition (13).
+### 6.11 — Capstone/Completion
 
-### 6.10 — Upfront/Monthly Payments, Pause, Cancellation.
+### 6.12 — Extended Services Affiliates
 
-### 6.11 — Capstone/Completion.
+### 6.13 — Images and Downloads
 
-### 6.12 — Extended Services Affiliates (15.5).
+### 6.14 — FAQ
 
-### 6.13 — Images and Downloads.
-
-### 6.14 — FAQ.
-
-### 6.15 — CTA and Routing.
-
-- **Entrepreneurship application fee:** $0. **Enrollment deposit:** $500 credited to tuition. **Upfront discount:** 25%, or monthly full-price plan.
-- **Independent Extended Services affiliate connection fees:** $49 business intake; $99 affiliate vetting; $50 affiliate connection.
+### 6.15 — CTA and Routing
 
 ---
 
 # 7 — HIGH SCHOOL — MAIN PAGE WIREFRAME
-
-
-## Navigation and Wireframe Sections
-
 
 ### 7.1 — High School Diploma Program
 
@@ -342,10 +259,6 @@
 
 # 8 — GED/HSE — MAIN PAGE WIREFRAME
 
-
-## Navigation and Wireframe Sections
-
-
 ### 8.1 — GED/HSE Program
 
 ### 8.2 — GED/HSE Pathway
@@ -357,10 +270,6 @@
 ---
 
 # 9 — CERTIFICATION REVIEW — MAIN PAGE WIREFRAME
-
-
-## Navigation and Wireframe Sections
-
 
 ### 9.1 — Certification Review
 
@@ -381,10 +290,6 @@
 ---
 
 # 10 — BAR REVIEW — MAIN PAGE WIREFRAME
-
-
-## Navigation and Wireframe Sections
-
 
 ### 10.1 — Bar Review
 
@@ -407,12 +312,10 @@
 **Main Wireframe:** `11-CURRICULUM-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
 
-## Navigation and Wireframe Sections
-
 ### 11.1 — Curriculum Main
 **Wireframe:** `11-CURRICULUM-WIREFRAME-MAIN.md`
 
-- 11.1.1 — CURRICULUM HERO SECTION
+- 11.1.1 — CURRICULUM HERO
 - 11.1.2 — CURRICULUM NAVIGATION AND DIRECTORY
 - 11.1.3 — ACADEMIC STRUCTURE AND DEGREE LEVELS
 - 11.1.4 — GENERAL EDUCATION AND SCHOOL CORE CURRICULUM
@@ -438,7 +341,6 @@
 - 11.1.24 — CURRICULUM CONTROL AND COURSE-LEVEL DETAIL
 - 11.1.25 — CURRICULUM, PRODUCTS, AND LMS INTEGRATION
 - 11.1.26 — FACULTY CURRICULUM AND ACADEMIC DEVELOPMENT
-
 
 ### 11.2 — ACADEMIC STRUCTURE
 **Wireframe:** `11.2-ACADEMIC-STRUCTURE-WIREFRAME.md`
@@ -499,8 +401,8 @@
   - 11.6.2 — Law Curriculum
   - 11.6.3 — Law Core
   - 11.6.4 — Criminal Justice
-  - 11.6.5 — J.D.
-  - 11.6.6 — Non-J.D.
+  - 11.6.5 — J.D
+  - 11.6.6 — Non-J.D
   - 11.6.7 — Bar Review
 
 ### 11.7 — HIGH SCHOOL
@@ -668,9 +570,6 @@
 **Main Wireframe:** `ADMISSIONS-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md`
 
-## Navigation and Wireframe Sections
-
-
 ### 12.1 — Pre-Admissions
 **Wireframe:** `12.1-PRE-ADMISSIONS-WIREFRAME.md`
 
@@ -713,7 +612,6 @@
 ### 12.6 — How RIAH Pathway Works
 **Wireframe:** `12.6-HOW-RIAH-PATHWAY-WORKS-WIREFRAME.md`
 
-
   - 12.6.1 — Education & Student Administration
   - 12.6.2 — Portal, Community & Support
   - 12.6.3 — Experiential Ecosystem
@@ -747,7 +645,6 @@
   - 12.7.19 — Website Navigation and Cross-Page Routing
   - 12.7.20 — Final Website CTA
 
-
 ---
 
 # 13 — TUITION — MAIN PAGE WIREFRAME
@@ -755,58 +652,55 @@
 **Main Wireframe:** `13-TUITION-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `13-TUITION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
 
-## Navigation and Wireframe Sections
-
-- **13.1 — HERO** — Your Program, Your Pathway, Your Cost; overview of established tuition and fees
-- **13.2 — TUITION OVERVIEW** — One pathway, clear pricing, education and experience tuition
-- **13.3 — PRICING STAGES** — Beta 25%, pre-accreditation 50%, standard 100%; verified grandfathering
-- **13.4 — ACADEMIC TUITION** — GED/HSE $1,500; High School/Minor $5,000; Associate's $10,000; Bachelor's $20,000; Master's/MBA $15,000; J.D. $40,000; Non-J.D. $10,000 per year
-- **13.5 — ACADEMIC PRICING BY STAGE** — Academic tuition by student pricing stage
-- **13.6 — INTEGRATED EDUCATION AND EXPERIENTIAL PRICING** — Integrated Education + Experiential adjustment 15%, applied before pricing stage
-- **13.7 — TUITION REDUCTIONS** — Ordinary tuition reductions: 25% cap; secondary degree/minor 25%; qualifying need-based reductions; upfront 15%
-- **13.8 — CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS** — Contributor, ambassador, graduate, partner and eligible team benefits
-- **13.9 — EXPERIENTIAL PRICING** — Experiential: Apprentice $5,000; Intern $10,000; Associate/Senior Associate/Manager/Executive $20,000; Progressive +$10,000; Rotational +$5,000
-- **13.10 — CERTIFICATION AND REVIEW** — Included review $0; standalone Basic $500, Standard $1,000, Premium $1,500
-- **13.11 — FEES AND DEPOSITS** — Application $0 across all pathways; admissions/enrollment $0; no separate education deposit fee; Student Resource Allocation; optional transfer $50+$50; entrepreneurship $500 tuition credit; affiliate fees; law community initiative
-  - 13.11.1 — Application — All Pathways Including Entrepreneurship: $0
-  - 13.11.2 — Admissions: $0
-  - 13.11.3 — Enrollment — Education and Standard Experiential: $0
-  - 13.11.4 — Separate Education Deposit / Administrative Fee: $0 — eliminated
-  - 13.11.5 — Student Resource Allocation (Deposit): GED/HSE, High School, Minor, Associate's: $500 each; Bachelor's, Master's, MBA, J.D., Non-J.D.: $1,000 each; Experiential: estimated $500–$1,500 by program
-  - 13.11.6 — Combined Pathway Resources: Add allocations; no duplicate billing
-  - 13.11.7 — Optional Transfer Evaluation: $50
-  - 13.11.8 — Optional Transfer Processing: $50
-  - 13.11.9 — Evaluation + Processing When Both Apply: $100 total; one-time
-  - 13.11.10 — Transfer Tuition Reduction: $0
-  - 13.11.11 — Entrepreneurship Enrollment Deposit: $500 credited toward tuition
-  - 13.11.12 — Extended Services Business Intake: $49, business-paid
-  - 13.11.13 — Extended Services Affiliate Recruitment & Vetting: $99, affiliate-paid
-  - 13.11.14 — Extended Services Qualified Connection: $50, affiliate-paid
-  - 13.11.15 — Community Law Initiative — Participating Attorney Assistance: $125, paid to independent attorney under agreement
-  - 13.11.16 — Community Law Initiative — Optional Foundation Contribution: $25, voluntary and separate
-  - 13.11.17 — Applicable Court Filing Fees: Actual jurisdiction-specific amount, if any
-- **13.12 — EDUCATION DEPOSIT RESOURCES** — Student-specific resources (normally $500/$1,000 academic; estimated $500–$1,500 Experiential), enrollment through graduation
-- **13.13 — PAYMENT OPTIONS** — Upfront, monthly, per-course and semester payment options
-- **13.14 — TITLE IV PAYMENT PATH** — Title IV semester-based funding only where eligible and authorized
-- **13.15 — RIAH PRIVATE STUDENT LOAN** — Private student loans: $500–$5,000; 10% qualifying collateral tier; 700+ credit required above collateral tier; 5% per 30 days
-- **13.16 — FUNDING** — Scholarships, grants, stipends, employer/workforce and other approved funding
-- **13.17 — TUITION REIMBURSEMENT AND GRADUATE BENEFITS** — Qualifying graduate 10% guaranteed eligible reimbursement, up to 50% with verified milestones
-- **13.18 — REIMBURSEMENT ESCROW** — Reimbursement basis, milestone status, escrow and loan reconciliation
-- **13.19 — PRICING CALCULATOR ENGINE** — Deterministic pricing calculator: stage, transfer, benefits, fees, allocation, entrepreneurship, affiliate and law-community charges, loans and reimbursement
-- **13.20 — COSTS AND REFUNDS** — Tuition and product refund rules, including applicable legal protections
-- **13.21 — EXTERNAL COSTS** — External court, government, licensing, examination and filing costs
-- **13.22 — TUITION POLICIES AND DOCUMENTATION** — Master pricing principles, financial policies and documentation
-- **13.23 — TUITION DIRECTORY** — Tuition directory
-- **13.24 — FAQ PREVIEW** — Tuition frequently asked questions
-- **13.25 — FINAL CTA** — Tuition and financial assistance calls to action
-- **13.26 — SERVICE PRICING, CTAS, BUTTONS, LINKS, DOWNLOADS AND CROSS-PAGE ROUTING** — Entrepreneurship and affiliate fees; law community initiative $125 attorney fee, optional $25 Foundation contribution and actual court costs; related cross-page routing
-  - 13.26.1 — Startup Launch: 12 weeks, $5,000 standard tuition; 25% upfront discount or three monthly installments.
-  - 13.26.2 — Small Business Recovery & Growth: 16 weeks, $10,000 standard tuition; 25% upfront discount or four monthly installments.
-  - 13.26.3 — Entrepreneurship application $0 and $500 enrollment deposit credited toward tuition.
-  - 13.26.4 — Extended Services: $49 business intake, $99 affiliate recruitment/vetting and $50 qualified connection.
-  - 13.26.5 — Law Community Initiative: independent attorney legal assistance $125; separate $25 voluntary Foundation donation, and actual court costs.
-  - 13.26.6 — Entrepreneurship, Extended Services, Law Community Initiative, Foundation and Partnership routing.
-
+### 13.1 — HERO
+### 13.2 — TUITION OVERVIEW
+### 13.3 — PRICING STAGES
+### 13.4 — ACADEMIC TUITION
+### 13.5 — ACADEMIC PRICING BY STAGE
+### 13.6 — INTEGRATED EDUCATION AND EXPERIENTIAL PRICING
+### 13.7 — TUITION REDUCTIONS
+### 13.8 — CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS
+### 13.9 — EXPERIENTIAL PRICING
+### 13.10 — CERTIFICATION AND REVIEW
+### 13.11 — FEES AND DEPOSITS
+  - 13.11.1 — Application Fee
+  - 13.11.2 — Admissions Fee
+  - 13.11.3 — Enrollment Fee
+  - 13.11.4 — Education Deposit & Administrative Fee
+  - 13.11.5 — Student Resource Allocation
+  - 13.11.6 — Combined Pathway Resources
+  - 13.11.7 — Transfer Evaluation
+  - 13.11.8 — Transfer Processing
+  - 13.11.9 — Combined Transfer Evaluation & Processing
+  - 13.11.10 — Transfer Tuition Reduction
+  - 13.11.11 — Entrepreneurship Enrollment Deposit
+  - 13.11.12 — Extended Services Business Intake
+  - 13.11.13 — Affiliate Recruitment & Vetting
+  - 13.11.14 — Qualified Partner Connection
+  - 13.11.15 — Community Law Initiative — Attorney Assistance
+  - 13.11.16 — Community Law Initiative — Foundation Contribution
+  - 13.11.17 — Court Filing Fees
+### 13.12 — EDUCATION DEPOSIT RESOURCES
+### 13.13 — PAYMENT OPTIONS
+### 13.14 — TITLE IV PAYMENT PATH
+### 13.15 — RIAH PRIVATE STUDENT LOAN
+### 13.16 — FUNDING
+### 13.17 — TUITION REIMBURSEMENT AND GRADUATE BENEFITS
+### 13.18 — REIMBURSEMENT ESCROW
+### 13.19 — PRICING CALCULATOR ENGINE
+### 13.20 — COSTS AND REFUNDS
+### 13.21 — EXTERNAL COSTS
+### 13.22 — TUITION POLICIES AND DOCUMENTATION
+### 13.23 — TUITION DIRECTORY
+### 13.24 — FAQ PREVIEW
+### 13.25 — FINAL CTA
+### 13.26 — SERVICE PRICING & ROUTING
+  - 13.26.1 — Startup Launch
+  - 13.26.2 — Small Business Recovery & Growth
+  - 13.26.3 — Entrepreneurship Application & Deposit
+  - 13.26.4 — Extended Services
+  - 13.26.5 — Law Community Initiative
+  - 13.26.6 — Entrepreneurship & Affiliate Routing
 
 ---
 
@@ -814,39 +708,6 @@
 
 **Main Wireframe:** `DONATIONS-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `14-DONATIONS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
-
-
-### Main Wireframe Content — Source Sections
-
-- I. HERO — INVEST. EMPOWER. BUILD WHAT COMES NEXT.
-- II. WHERE COMMUNITY SUPPORT GOES
-- III. RIAH PATHWAY FOUNDATION
-- IV. GOVERNANCE + FINANCIAL OVERSIGHT
-- V. CHOOSE YOUR SUPPORT AREA
-- VI. SCHOLARSHIPS
-- VII. GRANTS
-- VIII. STUDENT-SUPPORT STIPENDS
-- IX. INTERNAL FUNDING POOLS
-- X. EXTERNAL + DONOR FUNDING CONNECTION
-- XI. DONOR-NAMED SCHOLARSHIPS + FUNDS
-- XII. SCHOLARSHIP RECIPIENT SELECTION
-- XIII. COMMUNITY CONTRIBUTION + ECONOMIC BENEFITS
-- XIV. TUITION REIMBURSEMENT CONNECTION
-- XV. ACCREDITATION SUPPORT
-- XVI. STATE AUTHORIZATION SUPPORT
-- XVII. DONATION + COMMUNITY IMPACT TRANSPARENCY
-- XIX. DONOR-NAMED FUND IMPACT
-- XXI. OTHER WAYS TO SUPPORT RIAH PATHWAY
-- XXII. DONATION RESOURCES
-- XXIII. DONATION DISCLOSURES
-- XXIV. DONATIONS SUBPAGE DIRECTORY
-- XXV. RELATED WEBSITE PAGES
-- XXX. GIVING OPTIONS
-- XXXI. JUSTICE-IMPACTED COMMUNITY SUPPORT CONNECTION
-- XXXIII. CROSS-PAGE DISTRIBUTION CONTROL
-
-## Navigation and Wireframe Sections
-
 
 ### 14.1 — Foundation
 
@@ -861,56 +722,26 @@
 **Main Wireframe:** `15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `15-PRODUCTS-AND-SERVICES-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
 
-
-### Main Wireframe Content — Source Sections
-
-- SECTION 01 HERO
-- SECTION 02 PRODUCT ECOSYSTEM
-- SECTION 03 PRODUCT FORMATS
-- SECTION 04 CERTIFICATION REVIEW BY SCHOOL
-- SECTION 05 CERTIFICATION PACKAGES
-- SECTION 07 BAR REVIEW
-- SECTION 07 EXTERNAL PRICING
-- SECTION 08 STUDENT COLLECTIONS
-- SECTION 09 EXPERIENTIAL COLLECTIONS
-- SECTION 10 JUSTICE-IMPACTED COMMUNITY SERVICES — LAW COMMUNITY INITIATIVE
-- SECTION 11 RECORD SEALING AND EXPUNGEMENT
-- SECTION 12 TRANSPARENT SERVICE PRICING
-- SECTION 13 STATE RECORD RELIEF RESOURCES
-- SECTION 14 ATTORNEY SERVICE PROCESS
-- SECTION 15 FAIR OPPORTUNITY
-- SECTION 16 INTERNAL VS EXTERNAL SERVICES
-- SECTION 16A ENTREPRENEURSHIP PROGRAM — 15.4
-- SECTION 16B EXTENDED SERVICES — ENTREPRENEUR AFFILIATE CONNECTIONS — 15.5
-- SECTION 17 PRODUCT REDUCTIONS
-- SECTION 18 CONNECTED PRODUCT EXPERIENCE
-- SECTION 20 INQUIRY
-- SECTION 21 FAQ
-- SECTION 22 PATHWAY NAVIGATION
-
-## Navigation and Wireframe Sections
-
-
-### 15.1 — Products (Certification Review → 09; Bar Review → 10; student collections; bundles)
+### 15.1 — Products
 
 ### 15.2 — Pricing
 
 ### 15.3 — Justice-Impacted Community Services / Law Community Initiative
-- 15.3.1 — Participating independent attorneys provide agreed legal assistance ($125); RIAH does not provide legal representation.
-- 15.3.2 — Optional Foundation contribution $25, fully voluntary; not a condition of attorney intake.
-- 15.3.3 — Actual court, filing and jurisdiction costs vary and are separately charged.
+- 15.3.1 — Independent Attorney Assistance
+- 15.3.2 — Optional Foundation Contribution
+- 15.3.3 — Court & Filing Costs
 
 ### 15.4 — Entrepreneurship Program
-- 15.4.1 — Startup Launch, 12 weeks, $5,000 tuition.
-- 15.4.2 — Small Business Recovery & Growth, 16 weeks, $10,000 tuition.
-- 15.4.3 — Application $0; $500 tuition-credit enrollment deposit; 25% upfront tuition discount or standard monthly payment.
-- 15.4.4 — Spring/Fall cohorts, remote/hybrid/on-site delivery, independent professional affiliates.
+- 15.4.1 — Startup Launch
+- 15.4.2 — Small Business Recovery & Growth
+- 15.4.3 — Application, Deposit & Payment
+- 15.4.4 — Cohorts, Delivery & Affiliates
 
 ### 15.5 — Extended Services — Business Affiliate Connections
-- 15.5.1 — Business intake and coordination $49, business-paid.
-- 15.5.2 — Affiliate recruitment and vetting $99, affiliate-paid.
-- 15.5.3 — Qualified partner connection $50, affiliate-paid.
-- 15.5.4 — Independent CPA, MSSP, law and development firms quote their own service fees.
+- 15.5.1 — Business Intake & Coordination
+- 15.5.2 — Affiliate Recruitment & Vetting
+- 15.5.3 — Qualified Partner Connection
+- 15.5.4 — Independent Professional Fees
 
 ---
 
@@ -918,34 +749,6 @@
 
 **Main Wireframe:** `ACCREDITATION-AND-AUTHORIZATION-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`
-
-
-### Main Wireframe Content — Source Sections
-
-- II. PAGE DIRECTORY
-- III. PAGE HERO
-- IV. ACCREDITATION & AUTHORIZATION OVERVIEW VIDEO
-- V. CURRENT ACCREDITATION STATUS
-- VI. BUILDING RIAH PATHWAY FOR ACCREDITATION
-- VII. FOUNDER-AS-STUDENT ACCREDITATION EVIDENCE
-- VIII. INDEPENDENT ACADEMIC INTEGRITY
-- IX. ACADEMIC LEADERSHIP & FACULTY READINESS
-- X. ACCREDITATION EVIDENCE SYSTEM
-- XI. ACCREDITATION ROADMAP
-- XII. 16.1 — EXPERIENTIAL PATHWAYS
-- XIII. 16.2 — ACADEMIC PATHWAYS
-- XIV. 16.3 — HIGH SCHOOL
-- XV. 16.4 — GED/HSE
-- XVI. 16.5 — STATE AUTHORIZATION
-- XVII. ACCREDITATION + CURRICULUM CROSSWALK
-- XVIII. ACCREDITATION & AUTHORIZATION READINESS MILESTONES
-- XIX. TUITION-STAGE ACCREDITATION DISCLOSURE
-- XX. DONATIONS + ACCREDITATION SUPPORT
-- XXI. PUBLIC ACCREDITATION & AUTHORIZATION RESOURCES
-- XXII. IMPORTANT PUBLIC DISCLOSURE
-
-## Navigation and Wireframe Sections
-
 
 ### 16.1 — Experiential Pathways
 
@@ -964,12 +767,8 @@
 **Main Wireframe:** `17.1-JOIN-US-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md`
 
-## Navigation and Wireframe Sections
-
-
-### 17.1 — Join Us main wireframe: `17.1-JOIN-US-WIREFRAME-MAIN.md`
+### 17.1 — Join Us
 **Wireframe:** `17.1-JOIN-US-WIREFRAME-MAIN.md`
-
 
 ### 17.2 — Student Life
 **Wireframe:** `17.2-STUDENT-LIFE-WIREFRAME.md`
@@ -1055,7 +854,6 @@
 ### 17.6 — Founder Equity Contributions & Allocations
 **Wireframe:** `17.6-FOUNDER-EQUITY-CONTRIBUTIONS-ALLOCATIONS.md`
 
-
   - 17.6.1 — Equity Contribution Structure
   - 17.6.2 — Founder Monthly Living Expenses
   - 17.6.3 — Employment & State Licensing Verification
@@ -1070,25 +868,6 @@
 
 **Main Wireframe:** `RESOURCES-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `18-RESOURCES-CTA-BUTTONS-LINKS-ROUTING.md`
-
-
-### Main Wireframe Content — Source Sections
-
-- SECTION 1 — HERO
-- SECTION 2 — 11.1 OVERVIEW
-- SECTION 3 — 18.1 EVENTS
-- SECTION 4 — 18.2 BLOG
-- SECTION 5 — 18.3 PODCASTS
-- SECTION 6 — 18.4 CONFERENCES
-- SECTION 7 — 18.5 WORKSHOPS
-- SECTION 8 — 18.6 WEBINARS
-- SECTION 9 — 18.7 POLICIES
-- SECTION 10 — 18.8 PROCEDURES
-- SECTION 11 — 18.9 GUIDELINES
-- SECTION 12 — STAY CONNECTED
-
-## Navigation and Wireframe Sections
-
 
 ### 18.1 — Events
 
@@ -1115,36 +894,7 @@
 **Main Wireframe:** `FAQ-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `19-FAQ-CTA-BUTTONS-LINKS-ROUTING.md`
 
-
-### Main Wireframe Content — Source Sections
-
-- SECTION 01 — HERO
-- SECTION 02 — SEARCH THE FAQ
-- SECTION 03 — ABOUT RIAH FAQ
-- SECTION 04 — PATHWAY FAQ
-- SECTION 05 — DEGREE PATHWAY FAQ
-- SECTION 06 — EXPERIENTIAL PATHWAY FAQ
-- SECTION 07 — ENTREPRENEURSHIP FAQ
-- SECTION 08 — CERTIFICATION REVIEW FAQ
-- SECTION 09 — HIGH SCHOOL PATHWAY FAQ
-- SECTION 10 — GED AND HSE PATHWAY FAQ
-- SECTION 11 — LAW PATHWAY FAQ
-- SECTION 12 — ADMISSIONS FAQ
-- SECTION 13 — TUITION FAQ
-- SECTION 14 — DONATIONS FAQ
-- SECTION 15 — PRODUCTS FAQ
-- SECTION 16 — ACCREDITATION AND AUTHORIZATION FAQ
-- SECTION 17 — JOIN US FAQ
-- SECTION 18 — RESOURCES FAQ
-- SECTION 19 — TECHNICAL SUPPORT FAQ
 - I am having trouble with my application. Where should I start?
-- SECTION 20 — CONTACT FAQ
-- I still have questions. Who should I contact?
-- SECTION 21 — RELATED WEBSITE NAVIGATION
-- SECTION 22 — PUBLIC FACING EXTERNAL RESOURCES
-
-## Navigation and Wireframe Sections
-
 
 ### 19.1 — Pathways & Programs
 
@@ -1168,25 +918,6 @@
 
 **Main Wireframe:** `CONTACT-WIREFRAME-MAIN.md`
 **Combined CTA, Buttons, Links & Routing:** `20-CONTACT-CTA-BUTTONS-LINKS-ROUTING.md`
-
-
-### Main Wireframe Content — Source Sections
-
-- SECTION 01 — CONTACT HERO
-- SECTION 03 — 20.1 ADMISSIONS
-- SECTION 05 — 20.2 HUMAN RESOURCES
-- SECTION 06 — 20.3 TECHNICAL SUPPORT
-- SECTION 07 — 20.4 STUDENT SUPPORT
-- SECTION 08 — 20.5 PRODUCTS & ORDERS
-- SECTION 09 — 20.6 PARTNERSHIPS & ORGANIZATIONS
-- SECTION 10 — 20.7 GENERAL INQUIRIES
-- SECTION 11 — GENERAL CONTACT FORM
-- SECTION 12 — RELATED WEBSITE DIRECTORY
-- SECTION 13 — RESOURCES & FAQ BEFORE CONTACT
-- SECTION 14 — CONNECT WITH RIAH PATHWAY
-
-## Navigation and Wireframe Sections
-
 
 ### 20.1 — Admissions
 
