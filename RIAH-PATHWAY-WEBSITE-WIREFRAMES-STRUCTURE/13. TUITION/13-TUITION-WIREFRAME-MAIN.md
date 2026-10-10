@@ -1,17 +1,17 @@
 # XIII — 👑 RIAH PATHWAY TUITION
 ## WEBSITE WIREFRAME — PAGE 13
 
-<!-- Main sitemap 1–20 is authoritative. Global header/footer excluded. Tuition subpages 13.1–13.7. Preserve pending source verification rather than inventing URLs. -->
+<!-- Main sitemap 1–20 is authoritative. Global header/footer excluded. Tuition wireframe sections 13.1–13.26. Preserve pending source verification rather than inventing URLs. -->
 
 ## TUITION SUBNAVIGATION
 
 [LINK — TUITION → 13.1]
-[LINK — FEES → 13.2]
-[LINK — PAYMENT OPTIONS → 13.3]
-[LINK — FUNDING → 13.4]
-[LINK — REIMBURSEMENT → 13.5]
-[LINK — COSTS → 13.6]
-[LINK — PRICING CALCULATOR ENGINE → 13.7]
+[LINK — FEES → 13.11]
+[LINK — PAYMENT OPTIONS → 13.13]
+[LINK — FUNDING → 13.16]
+[LINK — REIMBURSEMENT → 13.17]
+[LINK — COSTS → 13.20]
+[LINK — PRICING CALCULATOR ENGINE → 13.19]
 
 ---
 
@@ -120,7 +120,7 @@ Non-J.D. 1/2/3/4 years = $10,000/$20,000/$30,000/$40,000 standard.
 Education Standard + Experiential Standard = Combined Standard; minus 15% = Integrated Standard; multiply by verified stage = Applicable Integrated Stage Tuition.
 
 [BUTTON — EXPERIENTIAL → 5]
-[BUTTON — CALCULATE INTEGRATED TUITION → 13.7]
+[BUTTON — CALCULATE INTEGRATED TUITION → 13.19]
 
 ---
 
@@ -144,7 +144,7 @@ Education Standard + Experiential Standard = Combined Standard; minus 15% = Inte
 
 Stage pricing and integrated structural adjustment do not consume the ordinary cap. Approved funding is separate.
 
-[BUTTON — CHECK ELIGIBILITY → 13.7]
+[BUTTON — CHECK ELIGIBILITY → 13.19]
 
 ---
 
@@ -175,7 +175,7 @@ Approved and verified milestones control benefits. Do not award points for pendi
 [BUTTON — STUDENT/GRADUATE BENEFITS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md]
 [BUTTON — PARTNER BENEFITS → RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/PARTNER-EMPLOYEES.md]
 [BUTTON — JOIN OUR TEAM → 17.4]
-[BUTTON — CALCULATE BENEFITS → 13.7]
+[BUTTON — CALCULATE BENEFITS → 13.19]
 
 ---
 
@@ -301,7 +301,7 @@ J.D. example: $40,000 standard tuition; 4 years; 8 semesters; $5,000/semester; $
 
 Private student loans are considered by approved pathway and qualifying collateral: $500–$5,000, with the 10% qualifying-collateral tier and a 700+ credit score required for an amount exceeding that tier. Interest is 5% per 30 days subject to applicable terms; repayment is due three months after graduation, with eligible payment plans up to 12 months. Pledged collateral and outstanding loan obligations are handled under the approved agreement before reimbursement release.
 
-[BUTTON — LOAN INFORMATION → 13.3]
+[BUTTON — LOAN INFORMATION → 13.15]
 [POLICY LINK — PRIVATE LOAN TERMS → 18 POLICIES; CANONICAL SUBROUTE PENDING]
 
 ---
@@ -375,7 +375,7 @@ Show starting amount, additions, subtractions, percentages, dollar effects, runn
 
 Controlling legal requirements prevail. Purchased certification/bar review cash refund 0%; qualifying extra access three months. General product cash refund $0; verified shipping damage replacement under applicable policy.
 
-[BUTTON — COSTS AND REFUNDS → 13.6]
+[BUTTON — COSTS AND REFUNDS → 13.20]
 [POLICY LINK — REFUND POLICY → 18 POLICIES; SUBROUTE PENDING]
 
 ---
@@ -500,8 +500,8 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 05 ACADEMIC PRICING BY STAGE | BUTTON | BUILD MY PRICE | 13.19 |
 | 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | IMAGE | Education plus supervised professional experience | — |
 | 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | BUTTON | EXPERIENTIAL | 5 |
-| 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | BUTTON | CALCULATE INTEGRATED TUITION | 13.7 |
-| 07 TUITION REDUCTIONS | BUTTON | CHECK ELIGIBILITY | 13.7 |
+| 06 INTEGRATED EDUCATION AND EXPERIENTIAL PRICING | BUTTON | CALCULATE INTEGRATED TUITION | 13.19 |
+| 07 TUITION REDUCTIONS | BUTTON | CHECK ELIGIBILITY | 13.19 |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | IMAGE | Contributors and Ambassadors | — |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | GITHUB CONTRIBUTORS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/GITHUB-CONTRIBUTORS.md |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | COMMUNITY AMBASSADORS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/COMMUNITY.md; VERIFY FILE |
@@ -510,7 +510,7 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | STUDENT/GRADUATE BENEFITS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/STUDENTS.md |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | PARTNER BENEFITS | RIAH-PATHWAY-CONTRIBUTOR-BENEFITS-STRUCTURE/PARTNER-EMPLOYEES.md |
 | 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | JOIN OUR TEAM | 17.4 |
-| 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | CALCULATE BENEFITS | 13.7 |
+| 08 CONTRIBUTOR, AMBASSADOR, GRADUATE, PARTNER AND TEAM BENEFITS | BUTTON | CALCULATE BENEFITS | 13.19 |
 | 09 EXPERIENTIAL PRICING | IMAGE | Apprentice | Intern |
 | 09 EXPERIENTIAL PRICING | BUTTON | EXPERIENTIAL PATHWAY | 5 |
 | 09 EXPERIENTIAL PRICING | BUTTON | EXPERIENTIAL CURRICULUM | 11.9 |
@@ -519,10 +519,10 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 10 CERTIFICATION AND REVIEW | BUTTON | BAR REVIEW | 10 |
 | 10 CERTIFICATION AND REVIEW | BUTTON | PRODUCTS AND SERVICES | 15 |
 | 11 FEES AND DEPOSITS | BUTTON | FEES | 13.11 |
-| 11 FEES AND DEPOSITS | BUTTON | TRANSFER ADMISSIONS | 12.9 |
+| 11 FEES AND DEPOSITS | BUTTON | TRANSFER ADMISSIONS | 12.7 |
 | 12 EDUCATION DEPOSIT RESOURCES | IMAGE | Student resource package | — |
 | 12 EDUCATION DEPOSIT RESOURCES | BUTTON | FEES | 13.11 |
-| 12 EDUCATION DEPOSIT RESOURCES | BUTTON | STUDENT EXPERIENCE | 12.5 |
+| 12 EDUCATION DEPOSIT RESOURCES | BUTTON | STUDENT EXPERIENCE | 12.4 |
 | 13 PAYMENT OPTIONS | ICON CARD | S — UPFRONT; MONTHLY; PER COURSE; SEMESTER | — |
 | 13 PAYMENT OPTIONS | BUTTON | PAYMENT OPTIONS | 13.13 |
 | 13 PAYMENT OPTIONS | BUTTON | CALCULATE UPFRONT | 13.19 |
@@ -530,7 +530,7 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 14 TITLE IV PAYMENT PATH | BUTTON | PAYMENT OPTIONS | 13.13 |
 | 14 TITLE IV PAYMENT PATH | BUTTON | ACCREDITATION AND AUTHORIZATION | 16 |
 | 15 RIAH PRIVATE STUDENT LOAN | IMAGE | Private education financing | — |
-| 15 RIAH PRIVATE STUDENT LOAN | BUTTON | LOAN INFORMATION | 13.3 |
+| 15 RIAH PRIVATE STUDENT LOAN | BUTTON | LOAN INFORMATION | 13.15 |
 | 15 RIAH PRIVATE STUDENT LOAN | POLICY LINK | PRIVATE LOAN TERMS | 18 POLICIES; CANONICAL SUBROUTE PENDING |
 | 16 FUNDING | IMAGE | Student funding resources | — |
 | 16 FUNDING | BUTTON | FUNDING | 13.16 |
@@ -542,10 +542,10 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 18 REIMBURSEMENT ESCROW | BUTTON | REIMBURSEMENT | 13.17 |
 | 19 PRICING CALCULATOR ENGINE | IMAGE | Interactive Pricing Calculator Engine | — |
 | 19 PRICING CALCULATOR ENGINE | BUTTON | START PRICING CALCULATOR | 13.19 |
-| 20 COSTS AND REFUNDS | BUTTON | COSTS AND REFUNDS | 13.6 |
+| 20 COSTS AND REFUNDS | BUTTON | COSTS AND REFUNDS | 13.20 |
 | 20 COSTS AND REFUNDS | POLICY LINK | REFUND POLICY | 18 POLICIES; SUBROUTE PENDING |
 | 21 EXTERNAL COSTS | ICON | External cost | — |
-| 21 EXTERNAL COSTS | BUTTON | COST INFORMATION | 13.6 |
+| 21 EXTERNAL COSTS | BUTTON | COST INFORMATION | 13.20 |
 | 22 TUITION POLICIES AND DOCUMENTATION | DOWNLOAD | TUITION AND PRICING GUIDE | SUITEDASH PUBLIC DOCUMENTATION CENTER; FILE PENDING |
 | 22 TUITION POLICIES AND DOCUMENTATION | DOWNLOAD | FEES AND PAYMENT OPTIONS GUIDE | SUITEDASH PUBLIC DOCUMENTATION CENTER; FILE PENDING |
 | 22 TUITION POLICIES AND DOCUMENTATION | DOWNLOAD | FUNDING AND REIMBURSEMENT GUIDE | SUITEDASH PUBLIC DOCUMENTATION CENTER; FILE PENDING |
@@ -574,12 +574,23 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 | 25 FINAL CTA | BUTTON | APPLY NOW | 12 ADMISSIONS |
 | 25 FINAL CTA | BUTTON | REQUEST INFORMATION | 20 CONTACT |
 
+## SERVICE PRICING AND CROSS-PAGE ROUTING — SECTION 26
+
+| Section | Type | Label | Destination |
+|---|---|---|---|
+| 26 | BUTTON | ENTREPRENEURSHIP | 15.4 |
+| 26 | BUTTON | EXTENDED SERVICES | 15.5 |
+| 26 | BUTTON | LAW COMMUNITY INITIATIVE | 15.3 |
+| 26 | BUTTON | FOUNDATION CONTRIBUTION | 14 |
+| 26 | BUTTON | PRICING CALCULATOR ENGINE | 13.19 |
+| 26 | BUTTON | STUDENT RESOURCE ALLOCATION AND FEES | 13.11 |
+
 ## IMPLEMENTATION AUDIT
 
 | Item | Requirement |
 |---|---|
 | Sitemap | 1–20 authoritative; Tuition 13 |
-| Subpages | 13.1–13.7 |
+| Subpages | 13.1–13.26 |
 | Global header/footer | Excluded |
 | Source of truth | Pricing Engine and approved benefits documentation |
 | Unknown figures | PENDING CONFIGURATION |

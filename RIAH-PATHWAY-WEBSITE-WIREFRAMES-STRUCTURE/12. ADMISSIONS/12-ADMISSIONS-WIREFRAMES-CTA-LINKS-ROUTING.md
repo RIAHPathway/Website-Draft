@@ -36,7 +36,7 @@ All entries below are extracted from the existing wireframe. Main navigation fol
 | XII-028 | XIII. SUPPORTING RESOURCES | DOWNLOAD | MASTER'S AND MBA PREREQUISITE CHECKLIST | Asset or route to verify | 285 |
 | XII-029 | XIII. SUPPORTING RESOURCES | DOWNLOAD | EXPERIENTIAL PREREQUISITE CHECKLIST | Asset or route to verify | 286 |
 | XII-030 | Academic and Experiential Tuition, Contributor Benefits & Founder Financial | BUTTON | Explore Tuition & Pricing Stages → INTERNAL ROUTE 13 | INTERNAL ROUTE 13 | 317 |
-| XII-031 | Academic and Experiential Tuition, Contributor Benefits & Founder Financial | BUTTON | Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 13.6; 17.2.15 | INTERNAL ROUTES 13.6; 17.2.15 | 318 |
+| XII-031 | Academic and Experiential Tuition, Contributor Benefits & Founder Financial | BUTTON | Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 13.17; 17.2.15 | INTERNAL ROUTES 13.17; 17.2.15 | 318 |
 | XII-032 | Academic and Experiential Tuition, Contributor Benefits & Founder Financial | BUTTON | Review Founder Contributions & Financial Transparency → INTERNAL ROUTE 17.6 | INTERNAL ROUTE 17.6 | 319 |
 | XII-033 | Academic and Experiential Tuition, Contributor Benefits & Founder Financial | BUTTON | Explore Experiential Admissions → INTERNAL ROUTE 5 | INTERNAL ROUTE 5 | 320 |
 | XII-034 | Academic and Experiential Tuition, Contributor Benefits & Founder Financial | DOWNLOAD | Published Education & Experiential Tuition Schedule → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md | ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md | 321 |
@@ -53,7 +53,7 @@ All entries below are extracted from the existing wireframe. Main navigation fol
 | XII-045 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | PRE-ADMISSIONS → 12.2 | 12.2 | 413 |
 | XII-046 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | APPLICATION → 12.3 | 12.3 | 414 |
 | XII-047 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | ACCEPTANCE & ENROLLMENT → 12.4 | 12.4 | 416 |
-| XII-048 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | STUDENT EXPERIENCE → 12.5 | 12.5 | 417 |
+| XII-048 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | STUDENT EXPERIENCE → 12.4 | 12.4 | 417 |
 | XII-049 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | GRADUATION & ALUMNI → 12.6 | 12.6 | 419 |
 | XII-050 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | HOW RIAH PATHWAY WORKS → 12.7 | 12.7 | 420 |
 | XII-051 | XVII. COMPLETE ADMISSIONS CONTENT PRESERVATION — SUPPLEMENTAL CROSS-REFEREN | BUTTON | TRANSFER STUDENTS → 12.8 | 12.8 | 422 |
