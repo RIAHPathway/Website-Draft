@@ -89,7 +89,7 @@
 | 3-B080 | XIV | COMPARE TUITION | 13 | Internal |
 | 3-B081 | XIV | CONTACT RIAH PATHWAY | 20 | Internal |
 | 3-B082 | XV | VIEW TUITION | 13 | Internal |
-| 3-B083 | XV | VIEW TUITION AND FEES | 13.3 | Internal |
+| 3-B083 | XV | VIEW TUITION AND FEES | 13.11 | Internal |
 | 3-B084 | XV | VIEW FUNDING | 13.16 | Internal |
 | 3-B085 | XV | VIEW REIMBURSEMENT | 13.17 | Internal |
 | 3-B086 | XV | USE PRICING CALCULATOR ENGINE | 13.19 | Internal |
