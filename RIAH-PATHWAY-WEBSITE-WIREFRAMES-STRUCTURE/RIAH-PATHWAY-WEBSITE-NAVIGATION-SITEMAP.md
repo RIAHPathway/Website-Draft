@@ -594,10 +594,52 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 13.6 — Costs
 - 13.7 — Pricing Calculator Engine
 
-### 14 — DONATIONS — MAIN PAGE WIREFRAME — `Donations-Wireframe-Main.md`
-- 14.1 — Foundation 
-- 14.2 — Accreditation 
-- 14.3 — State Authorization 
+### 14 — DONATIONS — MAIN PAGE WIREFRAME — [DONATIONS-WIREFRAME-MAIN.md](14.%20DONATIONS/DONATIONS-WIREFRAME-MAIN.md)
+- **14 — Main Donations wireframe:** [DONATIONS-WIREFRAME-MAIN.md](14.%20DONATIONS/DONATIONS-WIREFRAME-MAIN.md)
+- **14 — CTA, buttons, links, downloads, media and routing:** [14-DONATIONS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md](14.%20DONATIONS/14-DONATIONS-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- **Header and footer:** managed globally and intentionally omitted from the Donations page wireframe.
+- 14.1 — Foundation
+  - Donations
+  - Scholarships
+  - Grants
+  - Stipends
+  - Educational Access
+  - Institutional Support
+  - Donor Stewardship
+  - Governance and financial oversight
+  - Student-support administration
+  - Foundation transparency and disclosures
+- 14.2 — Accreditation
+  - Accreditation preparation support
+  - Institutional evidence and readiness
+  - Accreditation-related institutional development
+  - Current accreditation status routing → 16
+  - Accreditation FAQ routing → 19.5
+- 14.3 — State Authorization
+  - Ohio home-state authority
+  - High School / Diploma requirements
+  - GED/HSE compliance mapping
+  - Distance-education requirements
+  - Jurisdiction-specific authorization
+  - Current state-authorization status routing → 16.5
+- **Student-funding cross-routing:** Tuition → 13; Funding → 13.4; Reimbursement → 13.5; Pricing Calculator Engine → 13.7.
+- **About cross-routing:** Community, Contribution & Economic Benefits → 2.4; Board & Governance → 2.7; Transparency & Community Impact → 2.8.
+- **Products & Services cross-routing:** Products & Services → 15; Justice-Impacted Community Services / Foundation-assistance connection → 15.3.
+- **Join Us cross-routing:** Partnerships → 17.3; Join Our Team → 17.4; Board of Governance → 17.4.2; Ambassadors → 17.5.
+- **Resources cross-routing:** Policies → 18.7; Procedures → 18.8; Guidelines → 18.9.
+- **FAQ cross-routing:** FAQ → 19; Tuition, Fees & Payments → 19.4; Accreditation & Authorization → 19.5; Donations/Foundation content remains within the FAQ.
+- **Contact cross-routing:** Partnerships & Organizations → 20.6; General Inquiries / Donation Inquiry → 20.7.
+- **Giving methods:** one-time, recurring/monthly where configured, corporate/organization, in honor/in memory where configured, and specific approved initiatives.
+- **Donation platform:** configured external donation platform/campaign; final production URL must be attached before launch.
+- **Downloads:** Donation + Community Impact Guide; Foundation + Financial Transparency Overview.
+- **Living public resources:** Foundation Governance Overview; Donation + Community Impact Guide; Institutional Transparency Overview through the approved public documentation center; publication URLs to verify.
+- **Donation media inventory:** one hero video; institutional/community hero image; Foundation image; governance diagram; scholarship/grant/stipend icons and infographics; accreditation image; U.S. + D.C. authorization map; donation transparency dashboard; donor-named fund cards; donation flow; community-impact flow; final CTA image.
+- **Current donation disclosures:** restricted-fund controls; student award eligibility and availability; donor-recipient selection separation; no purchase or guarantee of accreditation or authorization; actual status language controls; tax treatment reflects actual Foundation/IRS status; protected donor information remains private.
+- **Main Donations flow:** Hero → Community Support → Foundation → Governance → Support Areas → Scholarships → Grants → Stipends → Funding Pools → Donor/External Funding → Named Funds → Recipient Selection → Contributor Benefits → Reimbursement → Accreditation Support → State Authorization Support → Transparency → Donation Flow → Fund Impact → Student/Community Routing → Other Support → Resources → Disclosures → Donations Directory → Related Pages → Final CTA → Giving Options → Justice-Impacted Community Support Connection → Donation Questions/Support Routing.
+- **Donation button / CTA inventory:** 14-B01 through 14-B116 are fully mapped in the combined CTA routing Markdown.
+- **Donation download inventory:** 14-D01 through 14-D02.
+- **Donation external-link inventory:** 14-L01 through 14-L03 plus the configured production donation platform.
+- **Donation folder:** 14. DONATIONS now contains the main wireframe and combined CTA/routing Markdown using uppercase dash-separated filenames.
 
 ### 15 — PRODUCTS AND SERVICES — MAIN PAGE WIREFRAME — [`15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md`](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md)
 - 15.1 — Products (Certification Review → 09; Bar Review → 10; student collections; bundles)
