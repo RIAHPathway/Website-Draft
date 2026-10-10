@@ -2,7 +2,7 @@
 
 <img width="2172" height="724" alt="RIAH Pathway" src="https://github.com/user-attachments/assets/f57087f9-44e0-41ae-ba57-2d00acc4c0f4" />
 
-**RIAH Pathway** is an education and workforce development ecosystem connecting academics, experiential development, professional preparation, technology, and career pathways.
+**RIAH Pathway** is a connected ecosystem integrating education, real work experience, certifications, products, people, software and mobile app.
 
 <a id="readme-founder"></a>
 
