@@ -12,7 +12,7 @@
   <img src="https://github.com/mariahdominiquerucker.png" width="250" alt="Mariah Dominique Rucker GitHub profile picture" />
 </p>
 
-**RIAH Pathway is NOW HIRING.** I am currently building and leading recruitment as Founder/CEO/Chairman. I am only person on the team and the staged 2026 recruitment begins with CISO on October 10, followed by CTO, CFO, CLO, COO, faculty, cybersecurity, technology, board, and director roles. Experiential and additional professional opportunities open according to confirmed demand. 
+**RIAH Pathway is NOW HIRING.** I am currently building RIAH Pathway and leading recruitment as Founder/CEO/Chairman. I am only person on the team and the staged 2026 recruitment begins with CISO on October 10, followed by CTO, CFO, CLO, COO, faculty, cybersecurity, technology, board, and director roles. Experiential and additional professional opportunities open according to confirmed demand. 
 
 Recruitment, compensation, equity participation, and start dates are position-specific and subject to individual role profiles and signed agreements. The beta cohort is planned for **Spring 2027**.
 
