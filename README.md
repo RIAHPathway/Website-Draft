@@ -22,8 +22,6 @@ The website will launch in **October 2026** as I continue to build, develop, rev
 
 ## 📣 NOW HIRING — 2026 Recruitment Schedule
 
-**RIAH Pathway is NOW HIRING.** Recruitment began **October 10, 2026**, with the **Chief Information Security Officer (CISO)** opening; additional scheduled rounds include executive leadership (CTO, CFO, CLO, COO), academic faculty, cybersecurity specialists, technology builders and architect, board governance, and program and project directors. Openings begin on their respective dates below; later staffing is demand-based.
-
 <img src="https://raw.githubusercontent.com/RIAHPathway/Website-Draft/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/DOWNLOADS/RIAH-PATHWAY-HIRING.jpg" width="640" alt="RIAH Pathway NOW HIRING recruitment flyer" />
 
 **Public first-round Zoom interviews:** [Schedule a 30-minute Calendly interview](https://calendly.com/riahpathway/30min). 
