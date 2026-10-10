@@ -451,9 +451,9 @@ The Pricing Engine should account for Degree Programs, Experiential, Entrepreneu
 
 **[BUTTON — VIEW TUITION →]** → 13  
 **[BUTTON — VIEW TUITION AND FEES →]** → 13.3  
-**[BUTTON — VIEW FUNDING →]** → 13.4  
-**[BUTTON — VIEW REIMBURSEMENT →]** → 13.5  
-**[BUTTON — USE PRICING CALCULATOR ENGINE →]** → 13.7  
+**[BUTTON — VIEW FUNDING →]** → 13.16  
+**[BUTTON — VIEW REIMBURSEMENT →]** → 13.17  
+**[BUTTON — USE PRICING CALCULATOR ENGINE →]** → 13.19  
 **[BUTTON — EXPLORE DONATIONS AND STUDENT SUPPORT →]** → 14
 
 [IMAGE — PATHWAY PRICING CALCULATOR INTERFACE]
@@ -728,9 +728,9 @@ Explore academic, experiential, entrepreneurship, professional and career opport
 | 3-B081 | XIV | CONTACT RIAH PATHWAY | 20 | Internal |
 | 3-B082 | XV | VIEW TUITION | 13 | Internal |
 | 3-B083 | XV | VIEW TUITION AND FEES | 13.3 | Internal |
-| 3-B084 | XV | VIEW FUNDING | 13.4 | Internal |
-| 3-B085 | XV | VIEW REIMBURSEMENT | 13.5 | Internal |
-| 3-B086 | XV | USE PRICING CALCULATOR ENGINE | 13.7 | Internal |
+| 3-B084 | XV | VIEW FUNDING | 13.16 | Internal |
+| 3-B085 | XV | VIEW REIMBURSEMENT | 13.17 | Internal |
+| 3-B086 | XV | USE PRICING CALCULATOR ENGINE | 13.19 | Internal |
 | 3-B087 | XV | EXPLORE DONATIONS AND STUDENT SUPPORT | 14 | Internal |
 | 3-B088 | XVI | VIEW ADMISSIONS | 12 | Internal |
 | 3-B089 | XVI | VIEW ACCEPTANCE AND ENROLLMENT | 12.3 | Internal |

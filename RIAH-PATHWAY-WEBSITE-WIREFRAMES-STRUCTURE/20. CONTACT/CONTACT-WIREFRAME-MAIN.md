@@ -457,7 +457,7 @@ Use General Inquiries when another contact category does not clearly apply.
 
 [BUTTON — **LEARN MORE: TUITION → 13 / TUITION**]
 
-[BUTTON — **LEARN MORE: PRICING CALCULATOR ENGINE → 13.7 / PRICING CALCULATOR ENGINE**]
+[BUTTON — **LEARN MORE: PRICING CALCULATOR ENGINE → 13.19 / PRICING CALCULATOR ENGINE**]
 
 ### DONATIONS & FOUNDATION
 
@@ -622,6 +622,14 @@ Review FAQ categories for Pathways & Programs, Curriculum, Admissions, Tuition, 
 
 ---
 
+
+## COMMUNITY INITIATIVE AND AFFILIATE INQUIRY ROUTING
+
+- **Justice-Impacted Community Services / Law Community Initiative:** 15.3; independent participating attorney assistance $125, optional separate $25 Foundation contribution and actual court costs; no guaranteed legal outcomes.
+- **Entrepreneurship Programs:** 6 and 15.4; application fee $0 and $500 tuition-credit enrollment deposit; Spring/Fall enrollment.
+- **Independent Professional Affiliates:** 15.5 and 17.3; business intake $49, affiliate vetting $99 and qualified connection $50; contracts and professional service pricing separately handled by affiliates.
+- **Tuition and Student Resource Allocation:** 13.11; **Pricing Calculator:** 13.19.
+
 # SECTION 15 — FINAL CONTACT CTA
 
 [SECTION BACKGROUND — FULL-WIDTH BLACK WITH RED + GOLD ACCENTS]
@@ -727,7 +735,7 @@ Choose the route that matches your question, explore the information already ava
 | 76 | External Link | Email RIAH Pathway | mailto:contact@riahpathway.com | External | General Inquiries |
 | 77 | Button | General Inquiry | 20.7 Contact Form | Internal | General Inquiries |
 | 78 | Button | Tuition | 13 Tuition | Internal | General Inquiries |
-| 79 | Button | Pricing Calculator Engine | 13.7 Pricing Calculator Engine | Internal | General Inquiries |
+| 79 | Button | Pricing Calculator Engine | 13.19 Pricing Calculator Engine | Internal | General Inquiries |
 | 80 | Button | Donations | 14 Donations | Internal | General Inquiries |
 | 81 | Internal Link | Foundation | 14.1 Foundation | Internal | General Inquiries |
 | 82 | Internal Link | Accreditation Donations | 14.2 Accreditation | Internal | General Inquiries |

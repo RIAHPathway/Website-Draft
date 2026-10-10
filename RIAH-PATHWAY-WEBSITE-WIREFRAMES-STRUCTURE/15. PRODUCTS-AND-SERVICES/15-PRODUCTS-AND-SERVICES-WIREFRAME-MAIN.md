@@ -268,7 +268,7 @@ These collections are student resources and are not external retail products.
 
 ---
 
-# SECTION 10 JUSTICE-IMPACTED COMMUNITY SERVICES
+# SECTION 10 JUSTICE-IMPACTED COMMUNITY SERVICES — LAW COMMUNITY INITIATIVE
 
 # OPPORTUNITY BEYOND A RECORD
 
@@ -484,7 +484,7 @@ Two entrepreneurship intakes annually: **Spring** and **Fall**. These are separa
 | Balance upfront after $500 credited enrollment deposit | **$3,250** | **$7,000** |
 | First monthly payment after $500 credited deposit | **$1,166.67** | **$2,000** |
 
-The **$500 enrollment deposit is a tuition credit** under either plan, not an additional tuition charge. The $0 application fee is separate. **Monthly nonpayment pauses the whole entrepreneurship program, curriculum, courses, professional sessions and program-managed applied work until payments are current.** **Upfront payers may cancel at any time**; services already delivered are earned program revenue (**$1,250 Startup / $1,875 Small Business per completed four-week period**, plus any delivered partial period), and **unused prepaid tuition is refunded**. The 25% Entrepreneurship discount is separate from the Education/Experiential upfront discount.
+The **$500 enrollment deposit is a tuition credit** under either plan, not an additional tuition charge. No application fee is charged ($0). **Monthly nonpayment pauses the whole entrepreneurship program, curriculum, courses, professional sessions and program-managed applied work until payments are current.** **Upfront payers may cancel at any time**; services already delivered are earned program revenue (**$1,250 Startup / $1,875 Small Business per completed four-week period**, plus any delivered partial period), and **unused prepaid tuition is refunded**. The 25% Entrepreneurship discount is separate from the Education/Experiential upfront discount.
 
 [ICON — UPFRONT 25% SAVINGS] [ICON — MONTHLY INSTALLMENTS] [ICON — PAUSED PROGRAM ACCESS] [ICON — PREPAID UNUSED TUITION REFUND]
 [FLOW — PAYMENT CHOICE → TUITION DEPOSIT CREDIT → COURSES / CURRICULUM / PROFESSIONAL PROGRAM ACTIVE → PAYMENT CHECK / EARNED PERIOD → PAUSE, CONTINUE OR CANCEL]

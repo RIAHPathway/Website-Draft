@@ -2044,7 +2044,7 @@ The existing Page 6 wireframe confirms the following **published offerings only*
 | Startup Launch / New Startup Baseline | 12 Weeks | $5,000 | $3,750 | Three installments totaling $5,000 |
 | Small Business Recovery & Growth | 16 Weeks | $10,000 | $7,500 | Four installments totaling $10,000 |
 
-**Application fee:** $75. **Enrollment deposit:** $500 credited against the relevant tuition, not charged as an additional tuition amount.
+**Application fee:** $0. **Enrollment deposit:** $500 credited against the relevant tuition, not charged as an additional tuition amount.
 
 Monthly nonpayment pauses applicable curriculum access and managed collaboration until the account is current. Upfront cancellations follow the approved delivered-services, unused-prepaid-tuition, refund and applicable legal terms.
 
@@ -2575,7 +2575,7 @@ Enrollment and Orientation
 
 [BUTTON — DEGREE REQUIREMENTS → INTERNAL: 4 DEGREE PROGRAMS]
 
-[BUTTON — TUITION AND COSTS → INTERNAL: 13.6 COSTS]
+[BUTTON — TUITION AND COSTS → INTERNAL: 13.20 COSTS]
 
 ---
 
@@ -2737,7 +2737,7 @@ Next Course Unlocked
 
 [BUTTON — DEGREE PROGRAMS → INTERNAL: 4 DEGREE PROGRAMS]
 
-[BUTTON — TUITION PAYMENT OPTIONS → INTERNAL: 13.3 PAYMENT OPTIONS]
+[BUTTON — TUITION PAYMENT OPTIONS → INTERNAL: 13.13 PAYMENT OPTIONS]
 
 ---
 
@@ -2880,7 +2880,7 @@ Package contents follow the approved Products and Services pricing structure.
 
 [BUTTON — CERTIFICATION PRODUCTS → INTERNAL: 15.1 PRODUCTS]
 
-[BUTTON — CERTIFICATION TUITION REIMBURSEMENT → INTERNAL: 13.5 REIMBURSEMENT]
+[BUTTON — CERTIFICATION TUITION REIMBURSEMENT → INTERNAL: 13.17 REIMBURSEMENT]
 
 ---
 
@@ -3764,7 +3764,7 @@ Structured education, supervised professional experience, real-business implemen
 
 [BUTTON — VIEW ADMISSIONS → INTERNAL: 12 ADMISSIONS]
 
-[BUTTON — CALCULATE TUITION → INTERNAL: 13.7 PRICING CALCULATOR ENGINE]
+[BUTTON — CALCULATE TUITION → INTERNAL: 13.19 PRICING CALCULATOR ENGINE]
 
 [BUTTON — EXPLORE PRODUCTS → INTERNAL: 15 PRODUCTS]
 
@@ -4344,7 +4344,7 @@ Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing be
 | Bar Review | 10 Bar Review |
 | State Bar Modules | 10.3 State Modules |
 | California Baby Bar | 10.4 California Baby Bar |
-| External Certification Exam Pass — 5% Reimbursement | 13.5 Reimbursement |
+| External Certification Exam Pass — 5% Reimbursement | 13.17 Reimbursement |
 | Internal Certification Review Course Completion — 80% | 11 Curriculum — on-page assessment section |
 
 ### STUDENT EXPERIENCE ROUTING
@@ -4367,12 +4367,12 @@ Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing be
 | Button | Destination |
 |---|---|
 | Tuition | 13 Tuition |
-| Fees | 13.2 Fees |
-| Payment Options | 13.3 Payment Options |
-| Funding | 13.4 Funding |
-| Reimbursement | 13.5 Reimbursement |
-| Costs | 13.6 Costs |
-| Pricing Calculator | 13.7 Pricing Calculator Engine |
+| Fees | 13.11 Fees |
+| Payment Options | 13.13 Payment Options |
+| Funding | 13.16 Funding |
+| Reimbursement | 13.17 Reimbursement |
+| Costs | 13.20 Costs |
+| Pricing Calculator | 13.19 Pricing Calculator Engine |
 
 ### PRODUCTS ROUTING
 
@@ -4445,7 +4445,7 @@ The twenty navigation destinations match the active website sitemap. Only the fo
 
 Other sitemap destinations, including **2 About, 3 Pathway, 4 Degree Programs, 5 Experiential, 7 High School, 8 GED/HSE, 9 Certification Review, 10 Bar Review, 13 Tuition, 14 Donations, 18 Resources, 19 FAQ, and 20 Contact**, presently have folder placeholders rather than populated main-page wireframe files. Their valid sitemap numbers remain the planned internal CTA destinations, not verified live website pages.
 
-Curriculum buttons to the populated entrepreneurship wireframe resolve conceptually to 6.2 Startup, 6.3 Small Business, 6.4 Curriculum and Collections, 6.11 Capstone and Completion, and 6.15 CTA and Routing. Transfer-student buttons refer to the populated 12.7 Transfer Students wireframe; Products buttons refer to the populated Page 15 wireframe with 15.4 and 15.5. Reimbursement buttons route to sitemap 13.5. The nine-school directory is informational and does not introduce 11.11 or any new main-page number.
+Curriculum buttons to the populated entrepreneurship wireframe resolve conceptually to 6.2 Startup, 6.3 Small Business, 6.4 Curriculum and Collections, 6.11 Capstone and Completion, and 6.15 CTA and Routing. Transfer-student buttons refer to the populated 12.7 Transfer Students wireframe; Products buttons refer to the populated Page 15 wireframe with 15.4 and 15.5. Reimbursement buttons route to sitemap 13.17. The nine-school directory is informational and does not introduce 11.11 or any new main-page number.
 
 ### ROUTING STANDARD
 

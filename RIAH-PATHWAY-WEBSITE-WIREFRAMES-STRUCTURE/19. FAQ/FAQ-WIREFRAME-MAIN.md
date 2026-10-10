@@ -1024,6 +1024,16 @@ Applicable living public policies, disclosures, procedures, guidelines, and inst
 
 ---
 
+
+## CURRENT FEES AND COMMUNITY PROGRAM CROSS-REFERENCE
+
+- Application fee: **$0** for all RIAH Pathway pathways, including Entrepreneurship.
+- Student Resource Allocation: academic $500 or $1,000 by pathway; Experiential estimated $500–$1,500; no separate education administrative deposit.
+- Optional transfer evaluation: $50; optional processing: $50 ($100 only if both apply).
+- Entrepreneurship: Startup Launch $5,000 (12 weeks), Small Business Recovery & Growth $10,000 (16 weeks), $500 tuition-credit enrollment deposit, upfront 25% discount or standard-price monthly payments. See 15.4 and 13.26.
+- Independent Extended Services: business intake $49 (business-paid), affiliate vetting $99 and qualified connection $50 (affiliate-paid); see 15.5.
+- Law Community Initiative / Justice-Impacted Community Services: participating independent attorney assistance $125, voluntary $25 Foundation contribution, and any actual jurisdiction-specific court costs; see 15.3 and 14.
+
 # SECTION 23 — FINAL CTA
 
 [CTA BAND — BLACK, RED AND GOLD]

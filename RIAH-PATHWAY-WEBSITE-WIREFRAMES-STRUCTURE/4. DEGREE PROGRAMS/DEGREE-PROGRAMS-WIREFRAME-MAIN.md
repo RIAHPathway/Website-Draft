@@ -858,7 +858,7 @@ This service applies only when a student requests applicable transfer evaluation
 
 **[BUTTON 4-B62 — PRE-ADMISSIONS → 12.1]**
 
-**[BUTTON 4-B63 — TUITION + COSTS → 13.6]**
+**[BUTTON 4-B63 — TUITION + COSTS → 13.20]**
 
 ---
 
@@ -905,7 +905,7 @@ J.D. — 4 Years
 
 **[BUTTON 4-B64 — ACADEMIC STRUCTURE → 11.2]**
 
-**[BUTTON 4-B65 — PAYMENT OPTIONS → 13.3]**
+**[BUTTON 4-B65 — PAYMENT OPTIONS → 13.13]**
 
 ---
 
@@ -1011,11 +1011,11 @@ subject to controlling eligibility and reimbursement rules.
 
 **[BUTTON 4-B70 — TUITION → 13]**
 
-**[BUTTON 4-B71 — FUNDING → 13.4]**
+**[BUTTON 4-B71 — FUNDING → 13.16]**
 
-**[BUTTON 4-B72 — REIMBURSEMENT → 13.5]**
+**[BUTTON 4-B72 — REIMBURSEMENT → 13.17]**
 
-**[BUTTON 4-B73 — PRICING CALCULATOR ENGINE → 13.7]**
+**[BUTTON 4-B73 — PRICING CALCULATOR ENGINE → 13.19]**
 
 **[BUTTON 4-B74 — SCHOLARSHIPS + COMMUNITY FUNDING → 14]**
 
@@ -1403,17 +1403,17 @@ Apply when you're ready.
 | 4-B60 | Academic Policies | Policies | 18.7 |
 | 4-B61 | Transfer Students | Transfer Students | 12.7 |
 | 4-B62 | Pre-Admissions | Pre-Admissions | 12.1 |
-| 4-B63 | Tuition + Costs | Costs | 13.6 |
+| 4-B63 | Tuition + Costs | Costs | 13.20 |
 | 4-B64 | Academic Structure | Academic Structure | 11.2 |
-| 4-B65 | Payment Options | Payment Options | 13.3 |
+| 4-B65 | Payment Options | Payment Options | 13.13 |
 | 4-B66 | Experiential | Experiential | 5 |
 | 4-B67 | Certification Review | Certification Review | 9 |
 | 4-B68 | Bar Review | Bar Review | 10 |
 | 4-B69 | Career Services | Student Career Services | 17.2.13 |
 | 4-B70 | Tuition | Tuition | 13 |
-| 4-B71 | Funding | Funding | 13.4 |
-| 4-B72 | Reimbursement | Reimbursement | 13.5 |
-| 4-B73 | Pricing Calculator Engine | Pricing Calculator Engine | 13.7 |
+| 4-B71 | Funding | Funding | 13.16 |
+| 4-B72 | Reimbursement | Reimbursement | 13.17 |
+| 4-B73 | Pricing Calculator Engine | Pricing Calculator Engine | 13.19 |
 | 4-B74 | Scholarships + Community Funding | Donations | 14 |
 | 4-B75 | Pre-Admissions | Pre-Admissions | 12.1 |
 | 4-B76 | Apply Now | Classe365 | External |
@@ -1530,11 +1530,11 @@ Apply when you're ready.
 | 12.5 | Graduation & Alumni |
 | 12.7 | Transfer Students |
 | 13 | Tuition |
-| 13.3 | Payment Options |
-| 13.4 | Funding |
-| 13.5 | Reimbursement |
-| 13.6 | Costs |
-| 13.7 | Pricing Calculator Engine |
+| 13.13 | Payment Options |
+| 13.16 | Funding |
+| 13.17 | Reimbursement |
+| 13.20 | Costs |
+| 13.19 | Pricing Calculator Engine |
 | 14 | Donations |
 | 16 | Accreditation & Authorization |
 | 16.2 | Academic Pathways |

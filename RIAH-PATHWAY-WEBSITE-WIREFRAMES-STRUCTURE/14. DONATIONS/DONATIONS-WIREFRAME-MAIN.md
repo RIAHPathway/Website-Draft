@@ -91,7 +91,7 @@ Community support may fund approved filings, registrations, applications, docume
 
 Approved donations may support qualifying need-based and merit-based scholarships.
 
-**[BUTTON 14-B11 — VIEW STUDENT FUNDING → 13.4 FUNDING]**
+**[BUTTON 14-B11 — VIEW STUDENT FUNDING → 13.16 FUNDING]**
 
 ---
 
@@ -99,7 +99,7 @@ Approved donations may support qualifying need-based and merit-based scholarship
 
 Approved donations may support need-based, merit-based, educational, and other qualifying grants.
 
-**[BUTTON 14-B12 — VIEW STUDENT FUNDING → 13.4 FUNDING]**
+**[BUTTON 14-B12 — VIEW STUDENT FUNDING → 13.16 FUNDING]**
 
 ---
 
@@ -107,7 +107,7 @@ Approved donations may support need-based, merit-based, educational, and other q
 
 Approved donations may support qualifying student expenses and approved educational-support costs.
 
-**[BUTTON 14-B13 — VIEW STUDENT FUNDING → 13.4 FUNDING]**
+**[BUTTON 14-B13 — VIEW STUDENT FUNDING → 13.16 FUNDING]**
 
 ---
 
@@ -271,7 +271,7 @@ Supports approved student scholarship awards.
 
 **[BUTTON 14-B27 — SUPPORT SCHOLARSHIPS → EXTERNAL DONATION PLATFORM / SCHOLARSHIP CAMPAIGN]**
 
-**[BUTTON 14-B28 — STUDENT FUNDING → 13.4]**
+**[BUTTON 14-B28 — STUDENT FUNDING → 13.16]**
 
 ---
 
@@ -283,7 +283,7 @@ Supports approved student grant awards.
 
 **[BUTTON 14-B29 — SUPPORT GRANTS → EXTERNAL DONATION PLATFORM / GRANT CAMPAIGN]**
 
-**[BUTTON 14-B30 — STUDENT FUNDING → 13.4]**
+**[BUTTON 14-B30 — STUDENT FUNDING → 13.16]**
 
 ---
 
@@ -295,7 +295,7 @@ Supports approved student-support expenses.
 
 **[BUTTON 14-B31 — SUPPORT STIPENDS → EXTERNAL DONATION PLATFORM / STIPEND CAMPAIGN]**
 
-**[BUTTON 14-B32 — STUDENT FUNDING → 13.4]**
+**[BUTTON 14-B32 — STUDENT FUNDING → 13.16]**
 
 ---
 
@@ -336,7 +336,7 @@ Scholarship awards are separate from ordinary tuition reductions.
 
 **[BUTTON 14-B33 — VIEW TUITION + FUNDING → 13]**
 
-**[BUTTON 14-B34 — VIEW FUNDING → 13.4]**
+**[BUTTON 14-B34 — VIEW FUNDING → 13.16]**
 
 ---
 
@@ -373,7 +373,7 @@ RIAH Pathway's current Tuition and Pricing structure establishes fixed need-base
 **Grant Minimum:** $500  
 **Grant Maximum:** $50,000
 
-**[BUTTON 14-B35 — VIEW STUDENT FUNDING → 13.4]**
+**[BUTTON 14-B35 — VIEW STUDENT FUNDING → 13.16]**
 
 ---
 
@@ -433,7 +433,7 @@ These percentages represent institutional funding architecture. They are not aut
 
 Individual student awards use the applicable fixed-dollar funding records and eligibility requirements.
 
-**[BUTTON 14-B37 — VIEW FUNDING STRUCTURE → 13.4]**
+**[BUTTON 14-B37 — VIEW FUNDING STRUCTURE → 13.16]**
 
 ---
 
@@ -470,11 +470,11 @@ Only confirmed and applicable funding reduces confirmed student tuition responsi
 
 **[BUTTON 14-B38 — TUITION → 13]**
 
-**[BUTTON 14-B39 — FUNDING → 13.4]**
+**[BUTTON 14-B39 — FUNDING → 13.16]**
 
-**[BUTTON 14-B40 — REIMBURSEMENT → 13.5]**
+**[BUTTON 14-B40 — REIMBURSEMENT → 13.17]**
 
-**[BUTTON 14-B41 — PRICING CALCULATOR ENGINE → 13.7]**
+**[BUTTON 14-B41 — PRICING CALCULATOR ENGINE → 13.19]**
 
 ---
 
@@ -575,7 +575,7 @@ Actual awards depend on the approved fund purpose, student eligibility, availabl
 
 **[BUTTON 14-B43 — VIEW FOUNDATION STUDENT SUPPORT → 14.1]**
 
-**[BUTTON 14-B44 — VIEW FUNDING RULES → 13.4]**
+**[BUTTON 14-B44 — VIEW FUNDING RULES → 13.16]**
 
 ---
 
@@ -633,7 +633,7 @@ Applicable reimbursement is calculated against the eligible reimbursement basis 
 
 Donation-funded scholarships, grants, stipends, community funding, and tuition reimbursement remain separate financial components and are applied according to the controlling Tuition and Pricing rules.
 
-**[BUTTON 14-B48 — VIEW REIMBURSEMENT → 13.5]**
+**[BUTTON 14-B48 — VIEW REIMBURSEMENT → 13.17]**
 
 **[BUTTON 14-B49 — VIEW TUITION → 13]**
 
@@ -1274,9 +1274,9 @@ Support state authorization.
 | 14-B08 | Button | View Accreditation Status | Accreditation & Authorization | 16 |
 | 14-B09 | Button | Learn More | State Authorization Donations | 14.3 |
 | 14-B10 | Button | View State Authorization Status | State Authorization | 16.5 |
-| 14-B11 | Button | View Student Funding | Funding | 13.4 |
-| 14-B12 | Button | View Student Funding | Funding | 13.4 |
-| 14-B13 | Button | View Student Funding | Funding | 13.4 |
+| 14-B11 | Button | View Student Funding | Funding | 13.16 |
+| 14-B12 | Button | View Student Funding | Funding | 13.16 |
+| 14-B13 | Button | View Student Funding | Funding | 13.16 |
 | 14-B14 | Button | Explore Foundation | Foundation | 14.1 |
 | 14-B15 | Button | Board & Governance | Board & Governance | 2.7 |
 | 14-B16 | Button | Transparency & Community Impact | Transparency & Community Impact | 2.8 |
@@ -1291,27 +1291,27 @@ Support state authorization.
 | 14-B25 | Button | State Authorization Support Details | State Authorization Donations | 14.3 |
 | 14-B26 | Button | State Authorization Status | State Authorization | 16.5 |
 | 14-B27 | CTA | Support Scholarships | Scholarship Campaign | External |
-| 14-B28 | Button | Student Funding | Funding | 13.4 |
+| 14-B28 | Button | Student Funding | Funding | 13.16 |
 | 14-B29 | CTA | Support Grants | Grant Campaign | External |
-| 14-B30 | Button | Student Funding | Funding | 13.4 |
+| 14-B30 | Button | Student Funding | Funding | 13.16 |
 | 14-B31 | CTA | Support Stipends | Stipend Campaign | External |
-| 14-B32 | Button | Student Funding | Funding | 13.4 |
+| 14-B32 | Button | Student Funding | Funding | 13.16 |
 | 14-B33 | Button | View Tuition + Funding | Tuition | 13 |
-| 14-B34 | Button | View Funding | Funding | 13.4 |
-| 14-B35 | Button | View Student Funding | Funding | 13.4 |
+| 14-B34 | Button | View Funding | Funding | 13.16 |
+| 14-B35 | Button | View Student Funding | Funding | 13.16 |
 | 14-B36 | Button | View Tuition + Student Resources | Tuition | 13 |
-| 14-B37 | Button | View Funding Structure | Funding | 13.4 |
+| 14-B37 | Button | View Funding Structure | Funding | 13.16 |
 | 14-B38 | Button | Tuition | Tuition | 13 |
-| 14-B39 | Button | Funding | Funding | 13.4 |
-| 14-B40 | Button | Reimbursement | Reimbursement | 13.5 |
-| 14-B41 | Button | Pricing Calculator Engine | Pricing Calculator | 13.7 |
+| 14-B39 | Button | Funding | Funding | 13.16 |
+| 14-B40 | Button | Reimbursement | Reimbursement | 13.17 |
+| 14-B41 | Button | Pricing Calculator Engine | Pricing Calculator | 13.19 |
 | 14-B42 | Button | Foundation | Foundation | 14.1 |
 | 14-B43 | Button | Foundation Student Support | Foundation | 14.1 |
-| 14-B44 | Button | View Funding Rules | Funding | 13.4 |
+| 14-B44 | Button | View Funding Rules | Funding | 13.16 |
 | 14-B45 | Button | Community + Economic Benefits | About | 2.4 |
 | 14-B46 | Button | Join Us | Join Us | 17 |
 | 14-B47 | Button | Ambassadors | Ambassadors | 17.5 |
-| 14-B48 | Button | View Reimbursement | Reimbursement | 13.5 |
+| 14-B48 | Button | View Reimbursement | Reimbursement | 13.17 |
 | 14-B49 | Button | View Tuition | Tuition | 13 |
 | 14-B50 | Button | Accreditation Support | Accreditation Donations | 14.2 |
 | 14-B51 | Button | Accreditation & Authorization | Accreditation & Authorization | 16 |
@@ -1438,9 +1438,9 @@ Support state authorization.
 | 2.8 | Transparency & Community Impact |
 | 7 | High School |
 | 8 | GED/HSE |
-| 13.4 | Funding |
-| 13.5 | Reimbursement |
-| 13.7 | Pricing Calculator Engine |
+| 13.16 | Funding |
+| 13.17 | Reimbursement |
+| 13.19 | Pricing Calculator Engine |
 | 15.3 | Justice-Impacted Community Services |
 | 16.5 | State Authorization |
 | 17.3 | Partnerships |

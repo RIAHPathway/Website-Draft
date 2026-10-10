@@ -315,7 +315,7 @@ Optional Progressive Experience adds $10,000 and optional Rotational Experience 
 **Tuition reimbursement:** Eligible Education and Experiential participants completing their program qualify for a **guaranteed 10% completion reimbursement**. Verified contributor / Ambassador milestones may add up to **25%**, and additional approved milestones may add up to **15%**, for **up to 50% total**, subject to eligible tuition, verification, and non-stacking rules; 50% is not automatic. Eligible internal Team Member tuition and product benefits are separately governed.
 
 [BUTTON: Explore Tuition & Pricing Stages → INTERNAL ROUTE 13]
-[BUTTON: Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 13.6; 17.2.15]
+[BUTTON: Review Contributor Milestones & Tuition Reimbursement → INTERNAL ROUTES 13.17; 17.2.15]
 [BUTTON: Review Founder Contributions & Financial Transparency → INTERNAL ROUTE 17.6]
 [BUTTON: Explore Experiential Admissions → INTERNAL ROUTE 5]
 [DOWNLOAD: Published Education & Experiential Tuition Schedule → ../../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md]
