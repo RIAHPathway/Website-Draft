@@ -60,7 +60,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 1 Main | See linked routing file | See linked routing file | [Open verified page 1 CTA and media routing](1.%20HOME/HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 1 CTA and media routing](1.%20HOME/HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 1 CTA and media routing](1.%20HOME/HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 1 CTA and media routing](1.%20HOME/HOME-WIREFRAME-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | 101 source instructions audited; destinations requiring verification are marked in the linked file |
 
 ## II — 2. About
 
@@ -132,13 +132,13 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 11 Main | See linked routing file | See linked routing file | [Open verified page 11 CTA and media routing](11.%20CURRICULUM/11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 11 CTA and media routing](11.%20CURRICULUM/11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 11 CTA and media routing](11.%20CURRICULUM/11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 11 CTA and media routing](11.%20CURRICULUM/11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | 402 source instructions audited; destinations requiring verification are marked in the linked file |
 
 ## XII — 12. Admissions
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 12 Main | See linked routing file | See linked routing file | [Open verified page 12 CTA and media routing](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md) | [Open verified page 12 CTA and media routing](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md) | [Open verified page 12 CTA and media routing](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md) | [Open verified page 12 CTA and media routing](12.%20ADMISSIONS/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING.md) | 56 source instructions audited; destinations requiring verification are marked in the linked file |
 
 ## XIII — 13. Tuition
 
@@ -156,7 +156,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 | Page / Section | Internal 🔗 | External 🌐 | Buttons 🔘 | Downloads 📥 | Images 🖼️ | Videos 🎥 | Notes / Status 📝 |
 |---|---|---|---|---|---|---|---|
-| Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder | Placeholder |
+| 15 Main | See linked routing file | See linked routing file | [Open verified page 15 CTA and media routing](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 15 CTA and media routing](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 15 CTA and media routing](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | [Open verified page 15 CTA and media routing](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md) | 124 source instructions audited; destinations requiring verification are marked in the linked file |
 
 ## XVI — 16. Accreditation & Authorization
 
