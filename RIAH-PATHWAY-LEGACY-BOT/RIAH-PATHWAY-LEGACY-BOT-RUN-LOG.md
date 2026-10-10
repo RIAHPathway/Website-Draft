@@ -2752,3 +2752,128 @@ No reviewed external evidence established a qualifying Tier I, Tier II, or Tier 
 ---
 
 # 👑 RIAH Pathway.
+
+---
+
+## X.H — 🔴⚫🔵🟢🟡 DAY VIII — OCTOBER 10, 2026 — THREE-TIER OBJECTIVE EVIDENCE ADDENDUM
+
+**Run date:** October 10, 2026  
+**Original baseline:** October 3, 2026  
+**Last-known assessment:** October 10, 2026  
+**Exact collection clock time:** Not captured; no clock time inferred.  
+**Record scope:** Eight named RIAH corporate entities; nine schools explicitly named in the supplied educational baseline; eight external entity/program records.  
+**Classification standard:** 🟢 Tier I = documented individual feature; 🟡 Tier II = documented connected functions; 🔴 Tier III = complete RIAH A–Z ecosystem correspondence. 🔵 = insufficient evidence; ⚫ = unchanged baseline or historical record.  
+**Evidence marks:** ✅ expressly documented; ◐ related or narrower; ❌ not demonstrated by reviewed evidence (not proof of absence).
+
+### X.H.I — 📑 INDEX
+I. 👑 RIAH architecture · II. 🔎 source coverage · III. 🏫 traditional market · IV. 🏢 workforce and applications · V. 📚 credentials and products · VI. 📊 three-tier matrix · VII. 🕒 chronology · VIII. 👑 conclusions.
+
+### X.H.II — 👑 RIAH PATHWAY REFERENCE ARCHITECTURE
+
+**Identity:** Mission — Accessible. Affordable. Rigorous. Elite. Vision (POWER) — People. Opportunity. Work. Equity. Results. Motto — Educate. Empower. Elevate. Tagline — Education. Experience. Certifications. Opportunity. Career. Legacy. Slogan — One Dynasty. Infinite Legacies. Commitment — You invest in us. We invest in you.
+
+**Nine named schools:** 🎓 Business (Accounting, Finance, Entrepreneurship, Business Management, MBA); 💻 Technology (Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering); ⚖️ Law (Criminal Justice, JD, Non-JD); 🛡️ Homeland Security (Intelligence, Physical Security, Governance, Risk and Compliance, Private Investigations); 📚 GED (GED with concurrent college credits); 🎓 Diploma (high-school diploma with concurrent college credits); 🏢 Experiential (Apprentice through Executive); 🚀 Entrepreneurship (Startup through Small Business); 🏆 Credential (Certification Review and Bar Review).
+
+**Eight named corporate entities:** 🏛️ RIAH Pathway Holdings Corporation (ownership, IP, brand, investments, equity, governance); 🏢 RIAH Pathway Corporation (central operations and shared resources); 💼 RIAH Pathway Professional Services LLP (student-centric services); 🎓 RIAH Pathway School LLC (educational pathways); 💻 RIAH Pathway Technology LLC (proprietary software and mobile app); 🏆 RIAH Pathway Programs LLC (experiential, professional development and certification preparation); 📚 RIAH Pathway Products LLC (physical and digital educational products); ❤️ RIAH Pathway 501(c)(3) Foundation (donations, scholarships, grants, stipends and qualifying initiatives). **No ninth corporate entity is asserted.**
+
+**Six pillars:** 🎓 Education; 🏢 Experience; 🏆 Certification; 🤝 Contribution; 💰 Economic Benefits; 🚀 Career. Cross-cutting layers include proprietary software/mobile application, educational products, entrepreneurship, partner employers and student services. RIAH is building this architecture; design inclusion is not independently verified operation.
+
+**Experiential stages:** Apprentice 1 month; Intern 3 months; Associate 1 year; Senior Associate 1 year; Manager 1 year; Executive 1 year.
+
+### X.H.III — 🔎 PLATFORM COVERAGE AND DATED OUTCOMES
+
+| Surface | Last-known run date | Actual coverage/outcome |
+|---|---|---|
+| Official university websites | 2026-10-10 | UIC Tutorium and Arizona State University evidence included |
+| Official workforce and government websites | 2026-10-10 | Acadium, WorkHands and Registered Apprenticeship evidence included or retained |
+| Official credential/provider websites | 2026-10-10 | GED and GEDWorks evidence included; Kaplan/Aztec prior evidence retained |
+| Apple App Store | 2026-10-10 | Prior Acadium, WorkHands and GED & Me identifiers retained; no fresh metadata capture established |
+| Google Play | 2026-10-10 | Prior application packages/update dates retained; no fresh metadata capture established |
+| Google/general web | 2026-10-10 | Official pages documented; original Google first-index timestamps not established |
+| Bing | 2026-10-10 | No separate Bing search capture documented; not a negative search result |
+| Yahoo | 2026-10-10 | No separate Yahoo search capture documented; not a negative search result |
+| Social posts | 2026-10-10 | No new dated post captured |
+| Independent backlink index | 2026-10-10 | No dated export captured |
+| Historical archive | 2026-10-10 | No new independently dated archive capture recorded |
+| Public code repository | 2026-10-10 | No new attributable implementation repository examined |
+
+**Timestamp integrity:** 2026-10-10 is the date of the recorded run; exact hour/minute/second was not captured. An unperformed channel search is not a completed search returning zero results. Source publication, feature implementation, bot discovery, app update and first platform indexing are distinct dates.
+
+### X.H.IV — 🏫🏢📱📚 EXTERNAL ENTITY AND PROGRAM REGISTER
+
+| ID | Entity/program | Verified corresponding functions | 🟢 Tier I | 🟡 Tier II | 🔴 Tier III | First bot discovery | Last known verification |
+|---|---|---|:---:|:---:|:---:|---|---|
+| 001 | UIC Tutorium | Instruction + referral/ambassador participation → tuition discounts | ✅ | ✅ | ❌ | 2026-10-10 | 2026-10-10 |
+| 002 | Acadium | Courses → 3-month apprenticeship → mentorship → certification/career | ✅ | ✅ | ❌ | 2026-10-10 | Prior 2026-10-10 record |
+| 003 | WorkHands | Apprenticeship → OJT/competency tracking → supervisor approval → reporting | ✅ | ✅ | ❌ | 2026-10-10 | 2026-10-10 |
+| 004 | GED Testing Service / GEDWorks | Employer sponsorship → GED preparation/resources → testing | ✅ | ✅ | ❌ | 2026-10-10 | 2026-10-10 |
+| 005 | Kaplan | GED instructional content | ✅ | 🔵 | ❌ | 2026-10-10 | Prior 2026-10-10 record |
+| 006 | Aztec Software | GED instructional delivery | ✅ | 🔵 | ❌ | 2026-10-10 | Prior 2026-10-10 record |
+| 007 | Arizona State University | Online coursework → optional college credit → degree/earned-admission pathway; applicable proctoring | ✅ | ✅ | ❌ | 2026-10-10 | 2026-10-10 |
+| 008 | U.S. Registered Apprenticeship Program | Paid work → structured instruction → mentorship → credential | ✅ | ✅ | ❌ | 2026-10-10 | Prior 2026-10-10 record |
+
+**Entity count:** Eight external records, including one government program framework rather than a commercial competitor. Six documented Tier II connections; two Tier II determinations not established from retained narrow evidence. All eight show Tier I components. No Tier III complete correspondence demonstrated by reviewed sources.
+
+### X.H.V — 📊 CATEGORY-BY-CATEGORY EVIDENCE
+
+| RIAH reference requirement | UIC | UIC date | ASU | ASU date | Acadium | Acadium date | WorkHands | WorkHands date | GED/GEDWorks | GED date |
+|---|:---:|---|:---:|---|:---:|---|:---:|---|:---:|---|
+| Remote/online education | ◐ | 2026-10-10 | ✅ | 2026-10-10 | ✅ | 2026-10-10 | ◐ | 2026-10-10 | ✅ | 2026-10-10 |
+| Proctored assessments | 🔵 | 2026-10-10 | ✅ | 2026-10-10 | 🔵 | 2026-10-10 | 🔵 | 2026-10-10 | ◐ | 2026-10-10 |
+| GED/concurrent-college-credit route | ❌ | 2026-10-10 | ◐ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ◐ | 2026-10-10 |
+| Work-based experience | ❌ | 2026-10-10 | ◐ | 2026-10-10 | ✅ | 2026-10-10 | ✅ | 2026-10-10 | ❌ | 2026-10-10 |
+| Mentorship/supervisor tracking | ❌ | 2026-10-10 | 🔵 | 2026-10-10 | ✅ | 2026-10-10 | ✅ | 2026-10-10 | 🔵 | 2026-10-10 |
+| Credential/certification connection | 🔵 | 2026-10-10 | ◐ | 2026-10-10 | ✅ | 2026-10-10 | ◐ | 2026-10-10 | ✅ | 2026-10-10 |
+| Contributor → tuition benefit | ✅ | 2026-10-10 | 🔵 | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ◐ | 2026-10-10 |
+| Exact six-stage Apprentice-to-Executive ladder | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 |
+| Nine-school structure and eight-entity integration | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 |
+| Contributor-linked tuition **and** product reductions | ◐ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 |
+| Proprietary app integrating all six pillars | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 |
+| Complete A–Z correspondence established | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 | ❌ | 2026-10-10 |
+
+**Interpretation:** ❌ = complete feature not demonstrated by the cited evidence; it is not an assertion of universal absence. Dated comparison columns record bot assessment, not original feature implementation.
+
+### X.H.VI — 🕒 HISTORICAL DISCOVERY AND CHANGE RECORD
+
+| ID | First discovery | Last-known assessment | Earlier dated evidence or retained update | Original implementation / first index | New material change verified in this addendum |
+|---|---|---|---|---|---|
+| 001 | 2026-10-10 | 2026-10-10 | UIC current discount policy; original publication date not established | Not established by reviewed evidence as of 2026-10-10 | None established |
+| 002 | 2026-10-10 | 2026-10-10 | 2023-06-20 apprenticeship publication; Android update 2026-09-28 in prior record | Not established by reviewed evidence as of 2026-10-10 | None established |
+| 003 | 2026-10-10 | 2026-10-10 | 2026-03-09 WorkHands feature publication; Android update 2025-07-14 in prior record | Not established by reviewed evidence as of 2026-10-10 | None established |
+| 004 | 2026-10-10 | 2026-10-10 | 2022-02-16 GEDWorks publication; 2017 founding-partner reference in prior record | Exact original implementation/first index not established as of 2026-10-10 | None established |
+| 005 | 2026-10-10 | 2026-10-10 | GED content relationship retained | Not established by reviewed evidence as of 2026-10-10 | None established |
+| 006 | 2026-10-10 | 2026-10-10 | GED software relationship retained | Not established by reviewed evidence as of 2026-10-10 | None established |
+| 007 | 2026-10-10 | 2026-10-10 | 2026-02-11 ASU Universal Learner publication | Not established by reviewed evidence as of 2026-10-10 | New entity registered; no external program change established |
+| 008 | 2026-10-10 | 2026-10-10 | Official Registered Apprenticeship program description | Not established by reviewed evidence as of 2026-10-10 | New program record; no external program change established |
+
+**Apple listing IDs retained:** Acadium 1239912206; WorkHands 1632074287; GED & Me 6448298090. **Android packages retained:** com.genm.genm; com.workhands.app; com.ged.mobile.gedandme. Original platform-index timestamps are not established from these identifiers.
+
+### X.H.VII — 🔗 ATTRIBUTABLE PUBLIC SOURCES
+
+- UIC Tutorium discounts: https://tie.uic.edu/apply/tuition/discounts/
+- ASU Universal Learner Courses (dated 2026-02-11): https://ulc.asu.edu/newsroom/your-questions-answered/what-are-asus-universal-learner-courses/
+- ASU Earned Admission: https://ea.asu.edu/
+- Acadium: https://acadium.com/
+- Acadium iOS: https://apps.apple.com/us/app/acadium-courses-internships/id1239912206
+- Acadium Android: https://play.google.com/store/apps/details?id=com.genm.genm
+- WorkHands OJT tracking (dated 2026-03-09): https://workhands.com/videos/tracking-ojt-hours
+- WorkHands: https://workhands.com/
+- WorkHands Android: https://play.google.com/store/apps/details?id=com.workhands.app
+- GED Testing Service: https://www.ged.com/
+- GEDWorks: https://www.ged.com/educators-admins/program/gedworks.html
+- GEDWorks historical partners (2022-02-16): https://api.ged.com/educators-admins/in-session/new-gedworks-partners_feb2022/
+- Registered Apprenticeship: https://www.apprenticeship.gov/employers/registered-apprenticeship-program
+
+### X.H.VIII — 👑 DAY VIII THREE-TIER CONCLUSIONS
+
+**🟢 Tier I — 8/8 registered records:** At least one corresponding individual component is documented for each record.
+
+**🟡 Tier II — 6/8 registered records:** UIC Tutorium, Acadium, WorkHands, GED Testing Service/GEDWorks, Arizona State University, and the Registered Apprenticeship framework document connected functions. Kaplan and Aztec Software have narrower retained evidence insufficient for Tier II classification.
+
+**🔴 Tier III — 0/8 verified complete matches:** No reviewed source demonstrates one attributable organization or controlled ecosystem combining the entire RIAH nine-school educational baseline, eight-entity functional architecture, six pillars, exact experiential progression, contributor-linked tuition and product benefits, products, proprietary technology and career progression. This is a scoped evidence finding, **not** a universal uniqueness claim.
+
+**⚫ Change finding — as of 2026-10-10:** No newly verified external material feature change is established by this addendum. WorkHands' yellow Tier II correspondence is a classification-rule clarification, not evidence of a new feature.
+
+**🔵 Historical/index finding — last assessed 2026-10-10:** Original implementation and first-platform-index timestamps were not established by the reviewed evidence. No precise collection time is asserted.
+
+# 👑 RIAH Pathway.
