@@ -1,663 +1,920 @@
-# 3 — PATHWAY — WEBSITE WIREFRAME MAIN
+# 3 — PATHWAY
 
-**PAGE:** 3 OF 20  
-**SCOPE:** PAGE BODY ONLY — NO SHARED WEBSITE HEADER OR FOOTER  
-**BRAND:** RED / BLACK / WHITE; GOLD CROWN  
-**ROUTING:** 20-PAGE WEBSITE SITEMAP  
+**PAGE TYPE:** Main Website Page  
+**PRIMARY PURPOSE:** Pathway Exploration, Comparison, Education and Routing Hub  
+**WEBSITE NAVIGATION POSITION:** 3 of 20  
+**PAGE STRUCTURE:** HERO → EXPLANATION → DETAILS → SUPPORTING RESOURCES → CTA
 
-## I. HERO
+## I. HERO — FIND YOUR RIAH PATHWAY
 
-[IMAGE: RIAH Pathway interconnected educational and professional pathway map, red black white and gold crown]
+[IMAGE — RIAH PATHWAY ECOSYSTEM]
 
-### Find Your Pathway
+[ICON — GOLD CROWN]
 
-Explore academic, experiential, entrepreneurial, high school, GED/HSE, certification, and bar-review opportunities.
+**RIAH PATHWAY**
 
-[BUTTON: EXPLORE PATHWAYS → #pathway-navigation]  
-[BUTTON: APPLY NOW → 12.2]  
+### FIND THE PATH BUILT FOR WHERE YOU'RE GOING.
 
----
+RIAH Pathway connects education, experiential learning, entrepreneurship, professional preparation, certification review, bar review, career development and student support through multiple pathways designed around different starting points and professional goals.
+
+Students, professionals and entrepreneurs can explore pathways according to their education, academic preparation, professional experience, business stage, credential goals and career direction.
+
+**[BUTTON — EXPLORE PATHWAYS →]** → 3, Section III  
+**[BUTTON — START PRE-ADMISSIONS →]** → 12.1  
+**[BUTTON — VIEW ADMISSIONS →]** → 12  
+**[BUTTON — VIEW TUITION →]** → 13
+
+[VIDEO — FIND YOUR RIAH PATHWAY]
+
+Degree Programs → Experiential → Entrepreneurship → High School → GED and HSE → Certification Review → Bar Review → Curriculum → Career Development
+
+[VIDEO ENDPOINT — ATTACH APPROVED MEDIA]
 
 ## II. WHAT IS A RIAH PATHWAY?
 
-[ICON: branching routes connecting learning, supervised experience, credentials and professional opportunities]
+### MORE THAN ONE WAY FORWARD.
 
-### One connected ecosystem
+RIAH Pathway recognizes that students, professionals and entrepreneurs enter education, experience, credentials and careers from different starting points. A pathway may begin with secondary education, GED and HSE preparation, an academic degree, eligible transfer credit, professional certification preparation, legal education, experiential learning, entrepreneurship or another approved entry point.
 
-Choose a pathway aligned with your eligibility, goals, academic preparation, experience, and applicable state requirements.
+[FLOW — EXPLORE → PREPARE → LEARN → EXPERIENCE → EARN → ADVANCE]
 
-[BUTTON: HOW RIAH PATHWAY WORKS → 12.6]  
-[BUTTON: VIEW ADMISSIONS → 12]  
+| Pathway Component | Purpose | Website Destination |
+|---|---|---|
+| Degree Programs | Structured academic progression | 4 — Degree Programs |
+| Experiential | Applied professional experience with human supervision | 5 — Experiential |
+| Entrepreneurship | Startup and small-business development | 6 — Entrepreneurship |
+| High School | Secondary education and eligible dual enrollment | 7 — High School |
+| GED and HSE | Credential preparation and eligible college-credit opportunities | 8 — GED and HSE |
+| Certification Review | Professional certification preparation | 9 — Certification Review |
+| Bar Review | State-aligned bar and applicable Baby Bar preparation | 10 — Bar Review |
+| Curriculum | Academic, experiential, entrepreneurship and credential learning structures | 11 — Curriculum |
+| Admissions | Eligibility, applications, acceptance and enrollment | 12 — Admissions |
+| Tuition | Pricing, fees, funding, reimbursement and payment options | 13 — Tuition |
+| Donations | Foundation and institutional support | 14 — Donations |
+| Products and Services | Educational products, review materials and professional services | 15 — Products |
+| Accreditation and Authorization | Institutional status, recognition and authorization | 16 — Accreditation and Authorization |
+| Join Us | Student life, partnerships, careers and ambassadors | 17 — Join Us |
+| Resources | Guides, policies, procedures and information | 18 — Resources |
+| FAQ | Answers to pathway questions | 19 — FAQ |
+| Contact | Information requests and specialized inquiries | 20 — Contact |
 
----
+[IMAGE — CONNECTED PATHWAY FLOW]  
+[ICON — GRADUATION CAP] [ICON — BRIEFCASE] [ICON — BUSINESS BUILDING] [ICON — SHIELD] [ICON — TECHNOLOGY] [ICON — LEGAL SCALE] [ICON — CERTIFICATE]
 
 ## III. PATHWAY NAVIGATION
 
-[IMAGE: seven-card navigation grid]
+### CHOOSE WHERE YOU WANT TO START.
 
-### Choose a pathway
+| Pathway Section | Pathway Name | Main Website Destination | Description |
+|---|---|---|---|
+| 3.1 | Degree Programs | 4 | Associate's, Bachelor's, Master's, MBA, Minor, J.D. and Non-J.D. |
+| 3.2 | Experiential | 5 | Six professional experiential levels and applied learning |
+| 3.3 | High School | 7 | Diploma eligibility, secondary curriculum and dual enrollment |
+| 3.4 | GED and HSE | 8 | GED and HSE eligibility, preparation and concurrent college credits |
+| 3.5 | Certification Review | 9 | Professional credential preparation |
+| 3.6 | Bar Review | 10 | State bar review and California Baby Bar |
+| 3.7 | Schools | 4.2 | Business, Homeland Security, Law and Technology |
 
-Degree Programs; Experiential; High School; GED/HSE; Certification Review; Bar Review; Schools.
+[CARD — DEGREE PROGRAMS] [IMAGE — STUDENTS AND GRADUATES]  
+**[BUTTON — EXPLORE DEGREE PROGRAMS →]** → 4
 
-[BUTTON: DEGREE PROGRAMS → 4]  
-[BUTTON: EXPERIENTIAL → 5]  
-[BUTTON: HIGH SCHOOL → 7]  
-[BUTTON: GED/HSE → 8]  
-[BUTTON: CERTIFICATION REVIEW → 9]  
-[BUTTON: BAR REVIEW → 10]  
-[BUTTON: EXPLORE SCHOOLS → 4.2]  
+[CARD — EXPERIENTIAL] [IMAGE — PROFESSIONALS WORKING WITH SUPERVISORS]  
+**[BUTTON — EXPLORE EXPERIENTIAL →]** → 5
 
----
+[CARD — HIGH SCHOOL] [IMAGE — HIGH SCHOOL STUDENTS AND EDUCATORS]  
+**[BUTTON — EXPLORE HIGH SCHOOL →]** → 7
 
-## IV. DEGREE PROGRAMS
+[CARD — GED and HSE] [IMAGE — ADULT LEARNER AND ACADEMIC SUPPORT]  
+**[BUTTON — EXPLORE GED and HSE →]** → 8
 
-[IMAGE: academic credential progression]
+[CARD — CERTIFICATION REVIEW] [IMAGE — PROFESSIONAL STUDY MATERIALS]  
+**[BUTTON — EXPLORE CERTIFICATION REVIEW →]** → 9
 
-### Degree and Law Pathways
+[CARD — BAR REVIEW] [IMAGE — LAW PROFESSIONALS]  
+**[BUTTON — EXPLORE BAR REVIEW →]** → 10
 
-Associate’s, Bachelor’s, Master’s, MBA, Minor, J.D. and Non-J.D. routes are presented separately. Eligibility, credits, supervision, accreditation and authorization depend on the specific offering.
+[CARD — SCHOOLS] [IMAGE — FOUR ACADEMIC SCHOOL AREAS]  
+**[BUTTON — EXPLORE SCHOOLS →]** → 4.2
 
-[BUTTON: ASSOCIATE'S → 4.1.1]  
-[BUTTON: BACHELOR'S → 4.1.2]  
-[BUTTON: MASTER'S → 4.1.3]  
-[BUTTON: MBA → 4.1.4]  
-[BUTTON: MINOR → 4.1.5]  
-[BUTTON: J.D. → 4.3.1]  
-[BUTTON: NON-J.D. → 4.3.2]  
-[BUTTON: VIEW DEGREE PROGRAMS → 4]  
+## IV. DEGREE PROGRAMS PATHWAY
 
----
+### BUILD YOUR ACADEMIC PATHWAY.
+
+RIAH Pathway's Degree Programs connect eligible students with structured academic study, applicable professional preparation, experiential opportunities, student support and career development.
+
+| Degree Option | Typical Structure | Academic Direction | Destination |
+|---|---|---|---|
+| Associate's | 2 Years | General Education and School Core | 4.1.1 |
+| Bachelor's | 4 Years | General Education, School Core, Major and Upper-Division Curriculum | 4.1.2 |
+| Master's | Program dependent | Graduate discipline preparation | 4.1.3 |
+| MBA | 1 Year typical | Graduate management preparation | 4.1.4 |
+| Minor | Program dependent | Discipline-specific coursework | 4.1.5 |
+| J.D. | Applicable program structure | Legal education subject to accreditation and authorization | 4.3.1 |
+| Non-J.D. Bar License | Jurisdiction dependent | State-specific legal study and supervision | 4.3.2 |
+
+[FLOW — GENERAL EDUCATION → SCHOOL CORE → MAJOR CURRICULUM → UPPER-DIVISION CURRICULUM → PROFESSIONAL REVIEW → EXPERIENTIAL CONNECTION → CAREER PATHWAY]
+
+Eligible transfer and alternative credit may apply to approved Year 1 and Year 2 requirements. Year 3 and Year 4 remain RIAH-controlled under the applicable curriculum structure.
+
+**[BUTTON — EXPLORE DEGREE PROGRAMS →]** → 4  
+**[BUTTON — VIEW DEGREE PATHWAY →]** → 4.1  
+**[BUTTON — EXPLORE SCHOOLS →]** → 4.2  
+**[BUTTON — EXPLORE LAW PATHWAY →]** → 4.3  
+**[BUTTON — VIEW ACADEMIC STRUCTURE →]** → 11.2  
+**[BUTTON — VIEW TUITION →]** → 13
 
 ## V. SCHOOLS
 
-[IMAGE: four school cards with icons]
+### EXPLORE BY SCHOOL.
 
-### Four Specialized Schools
+| School | Academic Direction | Degree Programs Route | Curriculum Route |
+|---|---|---|---|
+| School of Business | Accounting, Business Management, Entrepreneurship and Finance | 4.2.1 | 11.3 |
+| School of Homeland Security | Governance, Risk and Compliance, Intelligence, Physical Security and Private Investigation | 4.2.2 | 11.4 |
+| School of Law | Criminal Justice, J.D., Non-J.D. and legal studies | 4.2.3 | 11.6 |
+| School of Technology | Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development and Software Engineering | 4.2.4 | 11.5 |
 
-School of Business; School of Homeland Security; School of Law; School of Technology. Each school connects its academic content, experiential opportunities, curriculum and applicable credentials.
+[FLOW — SCHOOL → ACADEMIC PREPARATION → EXPERIENTIAL OPPORTUNITY → PROFESSIONAL DEVELOPMENT]
 
-[BUTTON: SCHOOL OF BUSINESS → 4.2.1]  
-[BUTTON: SCHOOL OF HOMELAND SECURITY → 4.2.2]  
-[BUTTON: SCHOOL OF LAW → 4.2.3]  
-[BUTTON: SCHOOL OF TECHNOLOGY → 4.2.4]  
+**[BUTTON — SCHOOL OF BUSINESS →]** → 4.2.1  
+**[BUTTON — SCHOOL OF HOMELAND SECURITY →]** → 4.2.2  
+**[BUTTON — SCHOOL OF LAW →]** → 4.2.3  
+**[BUTTON — SCHOOL OF TECHNOLOGY →]** → 4.2.4  
+**[BUTTON — EXPLORE EXPERIENTIAL BY SCHOOL →]** → 5.2  
+**[BUTTON — VIEW CURRICULUM →]** → 11
 
----
+[IMAGE — FOUR-SCHOOL ACADEMIC ECOSYSTEM]
 
 ## VI. LAW PATHWAY
 
-[ICON: legal education and supervised professional work]
+### MULTIPLE LEGAL EDUCATION ROUTES. CLEAR REQUIREMENTS.
 
-### J.D. and Non-J.D.
+| Law Route | Purpose | Destination |
+|---|---|---|
+| J.D. Pathway | Formal J.D. education governed by authorization and accreditation | 4.3.1 |
+| Non-J.D. Bar License Pathway | Jurisdiction-specific legal study and supervision | 4.3.2 |
+| Law Experiential | Applied legal work and supervision | 5.2.3 |
+| Bar Review | State bar examination preparation | 10 |
+| California Baby Bar | First-Year Law Students' Examination preparation | 10.4 |
 
-Explore J.D. and California non-J.D. routes, legal supervision, bar-review and California Baby Bar preparation where applicable. Do not represent enrollment as bar eligibility without state-specific verification.
+RIAH does not award a non-ABA J.D. Where academic curriculum is completed before applicable provisional or full ABA approval becomes effective, J.D. conferral remains deferred under the controlling policy.
 
-[BUTTON: J.D. PATHWAY → 4.3.1]  
-[BUTTON: NON-J.D. PATHWAY → 4.3.2]  
-[BUTTON: BAR REVIEW → 10]  
-[BUTTON: LAW CURRICULUM → 11.6]  
+Non-J.D. pathways are jurisdiction-specific and may require approved legal study, supervision, documentation, examinations and other authority requirements. Completion does not guarantee bar admission or licensure.
 
----
+**[BUTTON — EXPLORE LAW PATHWAY →]** → 4.3  
+**[BUTTON — EXPLORE J.D. →]** → 4.3.1  
+**[BUTTON — EXPLORE NON-J.D. →]** → 4.3.2  
+**[BUTTON — EXPLORE LAW EXPERIENTIAL →]** → 5.2.3  
+**[BUTTON — VIEW BAR REVIEW →]** → 10  
+**[BUTTON — VIEW ACCREDITATION AND AUTHORIZATION →]** → 16
 
-## VII. EXPERIENTIAL
+[IMAGE — LAW STUDENTS, ATTORNEYS AND LEGAL PROFESSIONALS]
 
-[IMAGE: participant → supervisor → manager → reviewer → quality control → completion]
+## VII. EXPERIENTIAL PATHWAY
 
-### Real Work. Human Supervision.
+### LEARN BY DOING REAL WORK INSIDE A STRUCTURED SUPPORT SYSTEM.
 
-Apprentice: 1 Month; Intern: 3 Months; Associate: 1 Year; Senior Associate: 1 Year; Manager: 1 Year; Executive: 1 Year. Levels are non-sequential and depend on qualifications, relevant experience, available placements and organizational needs. Capacity-based selection applies.
+RIAH Pathway's Experiential program connects eligible participants with applied professional work, human supervision, management, review, performance milestones and professional development.
 
-[BUTTON: APPRENTICE → 5.1.1]  
-[BUTTON: INTERN → 5.1.2]  
-[BUTTON: ASSOCIATE → 5.1.3]  
-[BUTTON: SENIOR ASSOCIATE → 5.1.4]  
-[BUTTON: MANAGER → 5.1.5]  
-[BUTTON: EXECUTIVE → 5.1.6]  
-[BUTTON: EXPERIENTIAL PROCESS → 5.3]  
-[BUTTON: INTERNAL PLACEMENT → 5.4]  
-[BUTTON: EXTERNAL PLACEMENT → 5.5]  
+[FLOW — ORGANIZATIONAL NEED → ASSIGNMENT → PARTICIPANT WORK → SUPERVISOR → MANAGER → REVIEWER → QUALITY CONTROL → COMPLETION EVIDENCE]
 
----
+| Duration | Experiential Level | Current Qualification and Experience Requirement |
+|---|---|---|
+| **1 Month** | **Apprentice** | Foundational coursework and prerequisites; zero or little prior relevant experience. |
+| **3 Months** | **Intern** | Applicable academic preparation and coursework; developing relevant experience. |
+| **1 Year** | **Associate** | Associate-level or college-level foundation and major preparation or approved equivalent; qualifying relevant experience. |
+| **1 Year** | **Senior Associate** | Academic and major preparation plus at least 1 year of relevant experience. |
+| **1 Year** | **Manager** | Academic and professional preparation plus at least 2 years of relevant experience; readiness for oversight and management work. |
+| **1 Year** | **Executive** | Academic and professional preparation plus prior manager-level experience; readiness for executive responsibilities. |
 
-## VIII. ENTREPRENEURSHIP
+Experiential levels are qualification-based placement options, not a mandatory sequential ladder. Placement depends on preparation, prerequisites, experience, competency, role scope, capacity and organizational need.
 
-[IMAGE: two business pools — startup and small business]
+| Level | Duration | Destination |
+|---|---|---|
+| Apprentice | 1 Month | 5.1.1 |
+| Intern | 3 Months | 5.1.2 |
+| Associate | 1 Year | 5.1.3 |
+| Senior Associate | 1 Year | 5.1.4 |
+| Manager | 1 Year | 5.1.5 |
+| Executive | 1 Year | 5.1.6 |
 
-### Build, Recover and Grow
+| School | Destination |
+|---|---|
+| Business | 5.2.1 |
+| Homeland Security | 5.2.2 |
+| Law | 5.2.3 |
+| Technology | 5.2.4 |
 
-Startup Entrepreneurship: Apprentice Startup 1 Month; New Startup 12 Weeks; One-Year Startup 12 Weeks; Growth Startup 16 Weeks. Small Business Entrepreneurship: Apprentice Small Business 1 Month; New Small Business 12 Weeks; Established Small Business 12 Weeks; Recovery & Growth 16 Weeks. Professional team, milestones, capstone and extended services apply.
+[CARD — INTERNAL PLACEMENT] Applied work within eligible RIAH operations.  
+**[BUTTON — EXPLORE INTERNAL PLACEMENT →]** → 5.4
 
-[BUTTON: STARTUP ENTREPRENEURSHIP → 6.2]  
-[BUTTON: SMALL BUSINESS ENTREPRENEURSHIP → 6.3]  
-[BUTTON: ENTREPRENEURSHIP CURRICULUM → 11.10]  
-[BUTTON: EXTENDED SERVICES → 15.5]  
-[BUTTON: ENTREPRENEURSHIP ADMISSIONS → 6.8]  
+[CARD — EXTERNAL PLACEMENT] Applied work with approved employers and partners.  
+**[BUTTON — EXPLORE EXTERNAL PLACEMENT →]** → 5.5
 
----
+| Capacity Area | Planning Structure |
+|---|---|
+| Annual Experiential Planning Capacity | 1,000 |
+| Fall Start | 500 |
+| Spring Start | 500 |
+| Business Allocation | 250 |
+| Homeland Security Allocation | 250 |
+| Law Allocation | 250 |
+| Technology Allocation | 250 |
 
-## IX. HIGH SCHOOL
+Capacity is planning, not guaranteed availability. Eligibility and qualification do not guarantee placement. Experiential completion does not automatically satisfy academic completion requirements unless expressly integrated.
 
-[IMAGE: diploma route, dual enrollment and academic advising]
+[FLOW — PARTICIPANT → SUPERVISOR → MANAGER → REVIEWER → QUALITY CONTROL → COMPLETION]
 
-### High School Diploma Pathway
+**[BUTTON — EXPLORE EXPERIENTIAL →]** → 5  
+**[BUTTON — EXPLORE BY LEVEL AND DURATION →]** → 5.1  
+**[BUTTON — EXPLORE BY SCHOOL →]** → 5.2  
+**[BUTTON — VIEW LEARNING PROCESS →]** → 5.3  
+**[BUTTON — EXPLORE INTERNAL PLACEMENT →]** → 5.4  
+**[BUTTON — EXPLORE EXTERNAL PLACEMENT →]** → 5.5  
+**[BUTTON — START EXPERIENTIAL PRE-ADMISSIONS →]** → 12.1.3  
+**[BUTTON — VIEW EXPERIENTIAL CURRICULUM →]** → 11.9
 
-Eighth-to-ninth grade entry requires an eighth-grade GPA of at least 3.0; grade 11+ transfer requires two completed high school years and a cumulative GPA of at least 3.0. Others may finish their existing diploma with optional dual enrollment. No internal diploma-to-GED transfer.
+[IMAGE — HUMAN-LED EXPERIENTIAL EDUCATION]
 
-[BUTTON: HIGH SCHOOL DIPLOMA → 7.1]  
-[BUTTON: DIPLOMA PATHWAY → 7.2]  
-[BUTTON: HIGH SCHOOL ADMISSIONS → 7.4]  
-[BUTTON: HIGH SCHOOL CURRICULUM → 11.7]  
+## VIII. ENTREPRENEURSHIP PATHWAY
 
----
+### BUILD, DEVELOP AND GROW A REAL BUSINESS.
 
-## X. GED/HSE
+RIAH Pathway's Entrepreneurship program supports eligible startup founders and small-business owners through structured learning, professional guidance, business implementation and milestone-based development.
 
-[IMAGE: qualifying GED/HSE preparation with optional college-credit connection]
+| Business Pool | Level | Duration | Destination |
+|---|---|---|---|
+| Startup Entrepreneurship | Apprentice Startup | 1 Month | 6.2.1 |
+| Startup Entrepreneurship | New Startup | 12 Weeks | 6.2.2 |
+| Startup Entrepreneurship | One-Year Startup | 12 Weeks | 6.2.3 |
+| Startup Entrepreneurship | Growth Startup | 16 Weeks | 6.2.4 |
+| Small Business Entrepreneurship | Apprentice Small Business | 1 Month | 6.3.1 |
+| Small Business Entrepreneurship | New Small Business | 12 Weeks | 6.3.2 |
+| Small Business Entrepreneurship | Established Small Business | 12 Weeks | 6.3.3 |
+| Small Business Entrepreneurship | Small Business Recovery and Growth | 16 Weeks | 6.3.4 |
 
-### GED/HSE Preparation
+[FLOW — BUSINESS ASSESSMENT → CURRICULUM → PROFESSIONAL GUIDANCE → IMPLEMENTATION → MILESTONES → CAPSTONE]
 
-For eligible pre-launch high-school dropouts with no diploma or GED, two completed high school academic years, and at least 80% attendance in each year. Excludes enrolled diploma students, post-launch dropouts and ineligible grade levels. Optional 12 concurrent college credits, subject to requirements.
+Learning may cover business models, market research, financial planning, operations, marketing, customer acquisition, technology, cybersecurity, recovery, stabilization, growth and expansion. Professional support may include managers, accountants, CPAs, cybersecurity specialists, technology professionals and approved independent affiliates.
 
-[BUTTON: GED/HSE OVERVIEW → 8.1]  
-[BUTTON: GED/HSE ELIGIBILITY → 8.2]  
-[BUTTON: GED/HSE ADMISSIONS → 8.4]  
-[BUTTON: GED/HSE CURRICULUM → 11.8]  
+**[BUTTON — EXPLORE ENTREPRENEURSHIP →]** → 6  
+**[BUTTON — EXPLORE STARTUP ENTREPRENEURSHIP →]** → 6.2  
+**[BUTTON — EXPLORE SMALL BUSINESS ENTREPRENEURSHIP →]** → 6.3  
+**[BUTTON — VIEW ENTREPRENEURSHIP CURRICULUM →]** → 11.10  
+**[BUTTON — VIEW ENTREPRENEURSHIP ADMISSIONS →]** → 12  
+**[BUTTON — VIEW ENTREPRENEURSHIP TUITION →]** → 13  
+**[BUTTON — EXPLORE ENTREPRENEURSHIP SERVICES →]** → 15.4  
+**[BUTTON — EXPLORE EXTENDED SERVICES →]** → 15.5  
+**[BUTTON — EXPLORE PARTNERSHIPS →]** → 17.3
 
----
+[IMAGE — ENTREPRENEURS DEVELOPING STARTUPS AND SMALL BUSINESSES]
 
-## XI. CERTIFICATION REVIEW
+## IX. HIGH SCHOOL PATHWAY
 
-[ICON: certificate and practice assessments]
+### BUILD THE FOUNDATION AND THE NEXT STEP.
 
-### Prepare for Professional Certification
+RIAH Pathway's High School program connects eligible students with secondary education, academic preparation, college-level opportunities and future educational pathways.
 
-Business, Homeland Security and Technology review pathways. Basic, Standard and Premium packages are distinct; review preparation does not itself grant certification.
+The High School Diploma pathway is designed for eligible students entering from eighth grade into ninth grade with an eighth-grade GPA of at least 3.0, or eligible transfer applicants entering at grade 11 or above after completing two high school academic years with a cumulative GPA of at least 3.0. Other students may explore approved college dual-enrollment opportunities while completing their existing school's diploma.
 
-[BUTTON: BUSINESS CERTIFICATION → 9.3]  
-[BUTTON: HOMELAND SECURITY CERTIFICATION → 9.4]  
-[BUTTON: TECHNOLOGY CERTIFICATION → 9.5]  
-[BUTTON: BASIC PACKAGE → 9.6]  
-[BUTTON: STANDARD PACKAGE → 9.7]  
-[BUTTON: PREMIUM PACKAGE → 9.8]  
+| Program Component | Description | Destination |
+|---|---|---|
+| High School Diploma Program | Diploma eligibility and requirements | 7.1 |
+| High School Diploma Pathway | Academic progression | 7.2 |
+| High School Curriculum | Secondary curriculum | 7.3 and 11.7 |
+| High School Admissions | Eligibility and application | 7.4 and 12 |
+| Authorization and Recognition | Institutional and state requirements | 7.5 and 16 |
 
----
+[FLOW — ELIGIBILITY → ADMISSIONS → SECONDARY CURRICULUM → DUAL ENROLLMENT → COMPLETION → NEXT PATHWAY]
 
-## XII. BAR REVIEW
+**[BUTTON — EXPLORE HIGH SCHOOL →]** → 7  
+**[BUTTON — VIEW HIGH SCHOOL DIPLOMA PROGRAM →]** → 7.1  
+**[BUTTON — VIEW HIGH SCHOOL CURRICULUM →]** → 11.7  
+**[BUTTON — VIEW HIGH SCHOOL ADMISSIONS →]** → 12.1.4  
+**[BUTTON — EXPLORE DEGREE PROGRAMS →]** → 4
 
-[IMAGE: national state selection map and California Baby Bar module]
+[IMAGE — HIGH SCHOOL STUDENTS AND EDUCATORS]
 
-### Bar Review and Baby Bar
+## X. GED and HSE PATHWAY
 
-Fifty-state review framework, state-specific modules, California Baby Bar, and Basic, Standard and Premium options. Verify current eligibility and exam rules with the applicable state authority.
+### COMPLETE THE CREDENTIAL. KEEP BUILDING THE PATHWAY.
 
-[BUTTON: 50-STATE BAR REVIEW → 10.2]  
-[BUTTON: STATE MODULES → 10.3]  
-[BUTTON: CALIFORNIA BABY BAR → 10.4]  
-[BUTTON: BASIC BAR REVIEW → 10.5]  
-[BUTTON: STANDARD BAR REVIEW → 10.6]  
-[BUTTON: PREMIUM BAR REVIEW → 10.7]  
+RIAH Pathway's GED and HSE program connects eligible participants with academic preparation, readiness development, support and concurrent college-credit opportunities.
 
----
+The current pathway is limited to eligible pre-launch high school dropouts who have not earned a diploma or GED and HSE credential and completed at least two high school academic years with at least 80% attendance in each year. It is not the internal transfer route for enrolled RIAH High School Diploma students.
+
+| Program Component | Description | Destination |
+|---|---|---|
+| GED and HSE Program | Eligibility and structure | 8.1 |
+| GED and HSE Pathway | Academic and credential progression | 8.2 |
+| Curriculum and Preparation | Preparation and assessments | 8.3 and 11.8 |
+| Admissions | Eligibility and application | 8.4 and 12.1.5 |
+| Concurrent College Credit | Up to 12 eligible concurrent college credits | Applicable program |
+
+[FLOW — ELIGIBILITY → PREPARATION → ASSESSMENTS → OFFICIAL GED and HSE CREDENTIAL → COLLEGE CREDIT → DEGREE PATHWAY]
+
+The official credential remains separate from RIAH academic-credit review.
+
+**[BUTTON — EXPLORE GED and HSE →]** → 8  
+**[BUTTON — VIEW GED and HSE PROGRAM →]** → 8.1  
+**[BUTTON — VIEW GED and HSE CURRICULUM →]** → 11.8  
+**[BUTTON — VIEW GED and HSE ADMISSIONS →]** → 12.1.5  
+**[BUTTON — EXPLORE DEGREE PROGRAMS →]** → 4
+
+[IMAGE — GED and HSE STUDENT PREPARING FOR ACADEMIC PROGRESSION]
+
+## XI. CERTIFICATION REVIEW PATHWAY
+
+### PREPARE FOR THE NEXT PROFESSIONAL MILESTONE.
+
+RIAH Pathway provides professional certification review aligned with academic schools, professional fields and external credential requirements. Preparation may include instruction, study materials, assessments, simulations and guidance.
+
+| Area | Description | Destination |
+|---|---|---|
+| Certification Review | Overview | 9.1 |
+| Certification Mapping | Academic and credential alignment | 9.2 |
+| School of Business | Business certification preparation | 9.3 |
+| School of Homeland Security | Homeland Security preparation | 9.4 |
+| School of Technology | Technology and cybersecurity preparation | 9.5 |
+| Basic | Basic package | 9.6 |
+| Standard | Standard package | 9.7 |
+| Premium | Premium package | 9.8 |
+
+[FLOW — SELECT CERTIFICATION → ELIGIBILITY → PACKAGE → PREPARATION → PRACTICE → EXTERNAL CERTIFICATION]
+
+Completing a RIAH review course does not award an external certification.
+
+**[BUTTON — EXPLORE CERTIFICATION REVIEW →]** → 9  
+**[BUTTON — VIEW CERTIFICATION MAPPING →]** → 9.2  
+**[BUTTON — BUSINESS CERTIFICATIONS →]** → 9.3  
+**[BUTTON — HOMELAND SECURITY CERTIFICATIONS →]** → 9.4  
+**[BUTTON — TECHNOLOGY CERTIFICATIONS →]** → 9.5  
+**[BUTTON — COMPARE REVIEW PACKAGES →]** → 9.6–9.8  
+**[BUTTON — VIEW CREDENTIAL CURRICULUM →]** → 11.11  
+**[BUTTON — EXPLORE PRODUCTS →]** → 15
+
+[IMAGE — PROFESSIONAL CERTIFICATION STUDY MATERIALS]
+
+## XII. BAR REVIEW PATHWAY
+
+### PREPARE FOR THE APPLICABLE BAR EXAMINATION.
+
+RIAH Pathway's Bar Review program connects eligible learners with structured examination preparation, state-specific modules, practice assessments and review resources.
+
+| Review Component | Description | Destination |
+|---|---|---|
+| Bar Review | Overview | 10.1 |
+| 50-State Bar Review | General coverage | 10.2 |
+| State Modules | Jurisdiction-specific content | 10.3 |
+| California Baby Bar | First-Year Law Students' Examination | 10.4 |
+| Basic | Basic package | 10.5 |
+| Standard | Standard package | 10.6 |
+| Premium | Premium package | 10.7 |
+
+[FLOW — SELECT JURISDICTION → REQUIREMENTS → PACKAGE → PREPARATION → PRACTICE → EXTERNAL EXAMINATION]
+
+Review does not guarantee examination success, admission or licensure.
+
+**[BUTTON — EXPLORE BAR REVIEW →]** → 10  
+**[BUTTON — EXPLORE 50-STATE BAR REVIEW →]** → 10.2  
+**[BUTTON — EXPLORE STATE MODULES →]** → 10.3  
+**[BUTTON — EXPLORE CALIFORNIA BABY BAR →]** → 10.4  
+**[BUTTON — COMPARE BAR REVIEW PACKAGES →]** → 10.5–10.7  
+**[BUTTON — EXPLORE LAW PATHWAY →]** → 4.3  
+**[BUTTON — VIEW BAR REVIEW PRODUCTS →]** → 15
+
+[IMAGE — LEGAL EXAMINATION PREPARATION]
 
 ## XIII. TRANSFER AND ALTERNATIVE CREDIT
 
-[IMAGE: transfer kit → review → acceptance → onboarding → school/cohort]
+### BRING ELIGIBLE LEARNING WITH YOU.
 
-### Continue Your Existing Pathway
+| Curriculum Area | Transfer and Alternative Credit |
+|---|---|
+| General Education and Eligible Year 1 | Eligible where approved |
+| School Core and Eligible Year 2 | Eligible where approved |
+| Year 3 | RIAH-controlled |
+| Year 4 | RIAH-controlled |
 
-Transfer evaluation for eligible prior high school, GED, associate, bachelor, J.D. and non-J.D. study; transfer kits and the same welcome/orientation flow. Credit acceptance and placement depend on documented review.
+The established $500 Complete Transfer Fee applies under the controlling admissions and tuition policy. Receiving institutions independently determine whether to accept RIAH credit.
 
-[BUTTON: TRANSFER STUDENTS → 12.7]  
-[BUTTON: APPLICATION → 12.2]  
-[BUTTON: TUITION AND FEES → 13.3]  
+[FLOW — PRIOR EDUCATION → DOCUMENTATION → REVIEW → APPROVED CREDIT → REMAINING CURRICULUM → PROGRESSION]
 
----
+**[BUTTON — START PRE-ADMISSIONS →]** → 12.1  
+**[BUTTON — VIEW APPLICATION REQUIREMENTS →]** → 12.2  
+**[BUTTON — VIEW ACADEMIC STRUCTURE →]** → 11.2  
+**[BUTTON — VIEW TUITION AND FEES →]** → 13
 
-## XIV. COMPARE AND CHOOSE
+## XIV. COMPARE AND CHOOSE YOUR PATHWAY
 
-[ICON: side-by-side pathway comparison]
+### START WITH WHERE YOU ARE. BUILD TOWARD WHERE YOU WANT TO GO.
 
-### Find the Best-Fit Pathway
+| Decision Point | Available Direction |
+|---|---|
+| Current Status | High School student, GED and HSE applicant, college student, graduate, professional, entrepreneur |
+| Education Goal | Diploma, Associate's, Bachelor's, Master's, MBA, J.D., Non-J.D. |
+| School | Business, Homeland Security, Law, Technology |
+| Major | School-specific major |
+| Experience Goal | Experiential participation |
+| Experiential Level | Apprentice, Intern, Associate, Senior Associate, Manager, Executive |
+| Experience Background | Little or no experience through manager-level experience |
+| Entrepreneurship Goal | Startup, small business, recovery or growth |
+| Credential Goal | Certification Review or Bar Review |
+| Transfer Status | Prior academic or alternative credit |
+| Career Direction | Professional field |
+| Funding Need | Tuition, scholarships, grants, stipends, reimbursement |
 
-Compare program purpose, eligibility, duration, credential type, supervision, cost, placement capacity, academic prerequisites and next steps without implying a guaranteed outcome.
+[FLOW — WHERE ARE YOU NOW? → GOAL → FIELD → EXPERIENCE → BUSINESS → CREDENTIAL → CAREER → MATCHING PATHWAYS]
 
-[BUTTON: COMPARE DEGREE PROGRAMS → 4]  
-[BUTTON: COMPARE EXPERIENTIAL LEVELS → 5.1]  
-[BUTTON: COMPARE ENTREPRENEURSHIP → 6]  
-[BUTTON: VIEW ADMISSIONS → 12]  
+**[BUTTON — START PRE-ADMISSIONS →]** → 12.1  
+**[BUTTON — EXPLORE DEGREE PROGRAMS →]** → 4  
+**[BUTTON — EXPLORE EXPERIENTIAL →]** → 5  
+**[BUTTON — EXPLORE ENTREPRENEURSHIP →]** → 6  
+**[BUTTON — COMPARE TUITION →]** → 13  
+**[BUTTON — CONTACT RIAH PATHWAY →]** → 20
 
----
+[IMAGE — INTERACTIVE PATHWAY COMPARISON INTERFACE]
 
-## XV. TUITION AND FUNDING
+## XV. TUITION AND PRICE YOUR PATHWAY
 
-[ICON: transparent pricing and funding]
+### UNDERSTAND THE COST BEFORE YOU COMMIT.
 
-### Plan Your Costs
+Detailed pricing, fees, funding, reimbursement, discounts and combination pricing belong to 13 — Tuition.
 
-Program-specific tuition, deposits, application fees, payment options, reimbursement eligibility, funding and the pricing calculator. Eligibility and reimbursement conditions must be shown clearly.
+| Phase | Pricing Relationship |
+|---|---|
+| Beta | 25% of applicable standard baseline |
+| Pre-Accreditation | 50% |
+| Post-Accreditation | 100% |
 
-[BUTTON: TUITION OVERVIEW → 13]  
-[BUTTON: FEES → 13.3]  
-[BUTTON: FUNDING → 13.4]  
-[BUTTON: REIMBURSEMENT → 13.5]  
-[BUTTON: PRICING CALCULATOR → 13.7]  
+The Pricing Engine should account for Degree Programs, Experiential, Entrepreneurship, Certification Review, Bar Review, Non-J.D., Transfer, Products, Add-Ons, Combination Pricing, Funding, Fees and Payment Rules. Experiential pricing uses level and duration; Entrepreneurship pricing uses pool, level and duration.
 
----
+**[BUTTON — VIEW TUITION →]** → 13  
+**[BUTTON — VIEW TUITION AND FEES →]** → 13.3  
+**[BUTTON — VIEW FUNDING →]** → 13.4  
+**[BUTTON — VIEW REIMBURSEMENT →]** → 13.5  
+**[BUTTON — USE PRICING CALCULATOR ENGINE →]** → 13.7  
+**[BUTTON — EXPLORE DONATIONS AND STUDENT SUPPORT →]** → 14
 
-## XVI. HUMAN-SUPPORTED EXPERIENCE
+[IMAGE — PATHWAY PRICING CALCULATOR INTERFACE]
 
-[IMAGE: orientation cohort community supervisor and faculty support]
+## XVI. HUMAN-SUPPORTED PATHWAY EXPERIENCE
 
-### People Support Every Stage
+### TECHNOLOGY CONNECTS THE EXPERIENCE. PEOPLE SUPPORT THE STUDENT.
 
-Admissions, enrollment, one-week orientation, academic support, school/cohort community, assigned supervisors for experiential participants, active learning and graduation.
+| Student Need | Platform or Structure |
+|---|---|
+| Admissions and Enrollment | Classe365 |
+| Onboarding and Student Services | SuiteDash |
+| Learning Management | LearnWorlds |
+| Tutoring | Tutor.com |
+| Proctored Assessments | ProctorU |
+| Student Recognition | Merit Pages |
+| Official Transcripts | Parchment |
+| Enrollment and Degree Verification | National Student Clearinghouse |
+| Orientation | Virtual orientation |
+| Community | Cohort and school platforms |
+| Human Support | Faculty, advisors, supervisors and student-support professionals |
 
-[BUTTON: PRE-ADMISSIONS → 12.1]  
-[BUTTON: ACCEPTANCE AND ENROLLMENT → 12.3]  
-[BUTTON: ONBOARDING → 12.4]  
-[BUTTON: GRADUATION AND ALUMNI → 12.5]  
+[FLOW — APPLICATION → ACCEPTANCE → ENROLLMENT → ONBOARDING → ORIENTATION → LEARNING AND EXPERIENCE → COMPLETION → NEXT PATHWAY]
 
----
+**[BUTTON — VIEW ADMISSIONS →]** → 12  
+**[BUTTON — VIEW ACCEPTANCE AND ENROLLMENT →]** → 12.3  
+**[BUTTON — VIEW ONBOARDING AND STUDENT EXPERIENCE →]** → 12.4  
+**[BUTTON — EXPLORE STUDENT LIFE →]** → 17.2  
+**[BUTTON — VIEW RESOURCES →]** → 18
+
+[IMAGE — FACULTY AND STUDENT SUPPORT]
 
 ## XVII. HUMAN-LED EXPERIENTIAL EDUCATION
 
-[IMAGE: human review and quality-control checkpoints]
+### EXPERIENCE IS LED BY PEOPLE, NOT JUST PLATFORMS.
 
-### Work With Qualified People
+| School | Planning Capacity | Human Structure |
+|---|---|---|
+| Business | 250 | Dean + Supervisors + Managers + Reviewers |
+| Homeland Security | 250 | Dean + Supervisors + Managers + Reviewers |
+| Law | 250 | Dean + Supervisors + Managers + Reviewers |
+| Technology | 250 | Dean + Supervisors + Managers + Reviewers |
+| **Total** | **1,000** | Human-led experiential structure |
 
-Participant → supervisor → manager → reviewer → quality control → completion. Placements may be internal or external and are capacity-dependent.
+| Duration | Level | Qualification Direction |
+|---|---|---|
+| 1 Month | Apprentice | Zero or little relevant experience |
+| 3 Months | Intern | Developing relevant experience and preparation |
+| 1 Year | Associate | Academic preparation and relevant experience |
+| 1 Year | Senior Associate | At least 1 year relevant experience |
+| 1 Year | Manager | At least 2 years relevant experience |
+| 1 Year | Executive | Prior manager-level experience |
 
-[BUTTON: EXPERIENTIAL LEARNING PROCESS → 5.3]  
-[BUTTON: INTERNAL PLACEMENT → 5.4]  
-[BUTTON: EXTERNAL PLACEMENT → EXTERNAL PLACEMENT PARTNERS]  
+[FLOW — QUALIFICATION REVIEW → LEVEL PLACEMENT → ASSIGNMENT → SUPERVISION → MANAGEMENT → REVIEW → COMPLETION]
 
----
+**[BUTTON — EXPLORE EXPERIENTIAL →]** → 5  
+**[BUTTON — EXPLORE BY LEVEL AND DURATION →]** → 5.1  
+**[BUTTON — VIEW EXPERIENTIAL LEARNING PROCESS →]** → 5.3  
+**[BUTTON — EXPLORE INTERNAL PLACEMENT →]** → 5.4  
+**[BUTTON — EXPLORE EXTERNAL PLACEMENT →]** → 5.5  
+**[BUTTON — EXPLORE PARTNERSHIPS →]** → 17.3
 
-## XVIII. RIAH APP AND LEARNING SYSTEMS
+[IMAGE — STUDENTS WORKING WITH PROFESSIONAL SUPERVISORS]
 
-[IMAGE: application onboarding LMS community and verifiable credentials]
+## XVIII. RIAH APP — CONNECTED PATHWAY EXPERIENCE
 
-### Connected Digital Experience
+### YOUR PATHWAY. CONNECTED.
 
-Applications, onboarding, LMS, virtual orientation, cohort communication, portfolio/credential records and privacy-aware workflows. Platform access follows acceptance, enrollment and activation.
+The RIAH Pathway App is being developed to connect academic, experiential, entrepreneurship, credential, career, communication, resource and milestone experiences.
 
-[BUTTON: START APPLICATION → CLASSE365 APPLICATION]  
-[BUTTON: ONBOARDING → 12.4]  
-[BUTTON: CURRICULUM → 11]  
+[FLOW — EXPLORE → LEARN → EXPERIENCE → EARN → ADVANCE]
 
----
+| App Area | Purpose |
+|---|---|
+| Program Progress | View pathway progression |
+| Academic Milestones | Track academic requirements |
+| Experiential Milestones | Track experiential progress |
+| Entrepreneurship Milestones | Track business development |
+| Credential Preparation | Track review preparation |
+| Career Readiness | Connect progress with career preparation |
+| Opportunities | Surface applicable opportunities |
+| Next Actions | Display upcoming actions |
+| Messages | Connected communication |
+| Resources | Access pathway resources |
+
+[IMAGE — CONCEPTUAL RIAH APP MY JOURNEY SCREEN]
+
+Conceptual functionality remains subject to development and testing.
 
 ## XIX. STUDENT SUPPORT
 
-[ICON: academic guidance and student services]
+### SUPPORT THROUGHOUT THE PATHWAY.
 
-### Support Across the Journey
+| Support Area | Description | Destination |
+|---|---|---|
+| Academic Support | Academic questions and progression | 18 |
+| Tutoring | Academic tutoring | 18 |
+| Writing Support | Writing assistance | 18 |
+| Technical Support | Student systems | 20 |
+| Student Account Support | Account questions | 20 |
+| Accessibility Support | Accessibility requests | 20 |
+| Academic Continuity | Continuation support | 12 and 18 |
+| Testing and Preparation | Assessments and review | 18 |
+| Career Support | Professional opportunities | 17 |
+| Community | Student life | 17.2 |
 
-Academic and experiential support, tutoring/proctoring as available, accommodations and policy information, student life, resources and general inquiries.
+**[BUTTON — VIEW STUDENT RESOURCES →]** → 18  
+**[BUTTON — EXPLORE STUDENT LIFE →]** → 17.2  
+**[BUTTON — VIEW POLICIES →]** → 18.7  
+**[BUTTON — VIEW PROCEDURES →]** → 18.8  
+**[BUTTON — VIEW GUIDELINES →]** → 18.9  
+**[BUTTON — CONTACT SUPPORT →]** → 20
 
-[BUTTON: STUDENT LIFE → 17.2]  
-[BUTTON: RESOURCES → 18]  
-[BUTTON: POLICIES → 18.7]  
-[BUTTON: CONTACT → 20]  
+[IMAGE — STUDENT SUPPORT PROFESSIONALS AND LEARNERS]
 
----
+## XX. PATHWAY FAQ PREVIEW
 
-## XX. PATHWAY FAQ
+| Question | Answer or Destination |
+|---|---|
+| What pathways are available? | Degree Programs, Experiential, Entrepreneurship, High School, GED and HSE, Certification Review and Bar Review — 3 |
+| How do I choose a pathway? | Pathway Finder — Section XIV |
+| Can I transfer college credit? | Admissions and Curriculum — 12 and 11 |
+| Can I participate in Experiential? | Subject to qualifications and capacity — 5 |
+| What Experiential levels are available? | Apprentice, Intern, Associate, Senior Associate, Manager and Executive — 5.1 |
+| Must I start as Apprentice? | No, qualification-based placement — 5 |
+| Is placement guaranteed? | No — 5 |
+| Can I start or grow a business? | Entrepreneurship — 6 |
+| How does Certification Review work? | Certification Review — 9 |
+| How does Bar Review work? | Bar Review — 10 |
+| How do J.D. and Non-J.D. differ? | Law Pathway — 4.3 |
+| Can High School students dual enroll? | High School — 7 |
+| Can GED and HSE students earn college credit? | GED and HSE — 8 |
+| Where is tuition? | Tuition — 13 |
+| Where is accreditation status? | Accreditation and Authorization — 16 |
 
-[ICON: question marks and route arrows]
+**[BUTTON — VIEW ALL FAQs →]** → 19
 
-### Common Questions
+## XXI. PATHWAY RESOURCES
 
-Eligibility, program fit, academic requirements, transfer credit, costs, state authorization, credential pathways and available support.
+| Resource | Destination |
+|---|---|
+| Degree Program Information | 4 |
+| Experiential Information | 5 |
+| Entrepreneurship Information | 6 |
+| High School Information | 7 |
+| GED and HSE Information | 8 |
+| Certification Review | 9 |
+| Bar Review | 10 |
+| Curriculum | 11 |
+| Admissions | 12 |
+| Tuition | 13 |
+| Donations | 14 |
+| Products and Services | 15 |
+| Accreditation and Authorization | 16 |
+| Student Life and Partnerships | 17 |
+| Resources | 18 |
+| Policies | 18.7 |
+| Procedures | 18.8 |
+| Guidelines | 18.9 |
+| FAQ | 19 |
+| Contact | 20 |
 
-[BUTTON: ALL FAQS → 19]  
-[BUTTON: TUITION FAQ → 19.4]  
-[BUTTON: ACCREDITATION FAQ → 19.5]  
-
----
-
-## XXI. RESOURCES AND DOWNLOADS
-
-[IMAGE: brochure guide and QR code placeholders]
-
-### Explore Before You Apply
-
-Pathway-specific guides, program overviews, transfer information, eligibility rules, curriculum references, tuition resources and accreditation status. Each download has one authoritative owner.
-
-[BUTTON: RESOURCES → 18]  
-[BUTTON: CURRICULUM → 11]  
-[BUTTON: ACCREDITATION STATUS → 16.5]  
-[BUTTON: DOWNLOAD PATHWAY GUIDE → DOWNLOAD: PATHWAY GUIDE]  
-
----
+**[BUTTON — VIEW RESOURCES →]** → 18  
+**[BUTTON — VIEW POLICIES →]** → 18.7  
+**[BUTTON — VIEW PROCEDURES →]** → 18.8  
+**[BUTTON — VIEW GUIDELINES →]** → 18.9  
+**[BUTTON — VIEW ACCREDITATION AND AUTHORIZATION →]** → 16  
+**[BUTTON — VIEW FAQ →]** → 19
 
 ## XXII. FINAL CALL TO ACTION
 
-[IMAGE: four-school pathway collage with gold crown]
+### YOUR NEXT STEP STARTS WITH THE RIGHT PATHWAY.
 
-### Your Next Step Starts Here
+Explore academic, experiential, entrepreneurship, professional and career opportunities. Understand the requirements for your route and begin the appropriate admissions process.
 
-Select the pathway that matches your goals, review eligibility and costs, then begin the appropriate admissions process.
+[IMAGE — STUDENTS, PROFESSIONALS, ENTREPRENEURS AND EDUCATORS CONNECTED THROUGH THE RIAH PATHWAY ECOSYSTEM]
 
-[BUTTON: APPLY NOW → 12.2]  
-[BUTTON: EXPLORE ALL PATHWAYS → 3]  
-[BUTTON: ASK A QUESTION → 20.7]  
+**[BUTTON — EXPLORE PATHWAYS →]** → 3  
+**[BUTTON — EXPLORE DEGREE PROGRAMS →]** → 4  
+**[BUTTON — EXPLORE EXPERIENTIAL →]** → 5  
+**[BUTTON — EXPLORE ENTREPRENEURSHIP →]** → 6  
+**[BUTTON — START PRE-ADMISSIONS →]** → 12.1  
+**[BUTTON — APPLY NOW →]** → 12.2  
+**[BUTTON — VIEW TUITION →]** → 13  
+**[BUTTON — REQUEST INFORMATION →]** → 20.7  
+**[BUTTON — CONTACT RIAH PATHWAY →]** → 20
 
----
+## XXIII. COMPLETE BUTTONS AND CTA IMPLEMENTATION TABLE
 
-
-<a id="pathway-navigation"></a>
-
-## XXII-A. ADDITIONAL CROSS-PAGE PATHWAY ACTIONS
-
-[ICON: cross-page pathway navigation and school-specific routing]
-
-These buttons connect to the authoritative destination pages. Unfinished destination wireframes remain unchanged.
-
-[BUTTON: DEGREE PROGRAM PATHWAY → 4.1]  
-[BUTTON: SCHOOLS BY DEGREE → 4.2]  
-[BUTTON: LAW DEGREE PATHWAY → 4.3]  
-[BUTTON: EXPERIENTIAL BY SCHOOL → 5.2]  
-[BUTTON: BUSINESS EXPERIENTIAL → 5.2.1]  
-[BUTTON: HOMELAND SECURITY EXPERIENTIAL → 5.2.2]  
-[BUTTON: LAW EXPERIENTIAL → 5.2.3]  
-[BUTTON: TECHNOLOGY EXPERIENTIAL → 5.2.4]  
-[BUTTON: APPRENTICE STARTUP → 6.2.1]  
-[BUTTON: NEW STARTUP → 6.2.2]  
-[BUTTON: ONE-YEAR STARTUP → 6.2.3]  
-[BUTTON: GROWTH STARTUP → 6.2.4]  
-[BUTTON: APPRENTICE SMALL BUSINESS → 6.3.1]  
-[BUTTON: NEW SMALL BUSINESS → 6.3.2]  
-[BUTTON: ESTABLISHED SMALL BUSINESS → 6.3.3]  
-[BUTTON: SMALL BUSINESS RECOVERY AND GROWTH → 6.3.4]  
-[BUTTON: EXPERIENTIAL CURRICULUM → 11.9]  
-[BUTTON: CREDENTIAL CURRICULUM → 11.11]  
-[BUTTON: CURRICULUM ARCHITECTURE → 11.12]  
-[BUTTON: JUSTICE-IMPACTED SERVICES → 15.3]  
-[BUTTON: ENTREPRENEURSHIP PRODUCTS AND SERVICES → 15.4]  
-[BUTTON: PARTNERSHIPS → 17.3]  
-[BUTTON: FOUNDATION AND SCHOLARSHIP SUPPORT → 14.1]  
-
----
-
-## XXIII. COMPLETE BUTTONS AND CTA IMPLEMENTATION DIRECTORY
-
-| BUTTON ID | WIREFRAME SECTION | BUTTON / CTA TEXT | ROUTE / DESTINATION | TYPE |
+| ID | Section | Button and CTA Label | Destination | Type |
 |---|---|---|---|---|
-| 3-B001 | I | EXPLORE PATHWAYS | #pathway-navigation | INTERNAL ANCHOR |
-| 3-B002 | I | APPLY NOW | 12.2 | INTERNAL |
-| 3-B003 | II | HOW RIAH PATHWAY WORKS | 12.6 | INTERNAL |
-| 3-B004 | II | VIEW ADMISSIONS | 12 | INTERNAL |
-| 3-B005 | III | DEGREE PROGRAMS | 4 | INTERNAL |
-| 3-B006 | III | EXPERIENTIAL | 5 | INTERNAL |
-| 3-B007 | III | HIGH SCHOOL | 7 | INTERNAL |
-| 3-B008 | III | GED/HSE | 8 | INTERNAL |
-| 3-B009 | III | CERTIFICATION REVIEW | 9 | INTERNAL |
-| 3-B010 | III | BAR REVIEW | 10 | INTERNAL |
-| 3-B011 | III | EXPLORE SCHOOLS | 4.2 | INTERNAL |
-| 3-B012 | IV | ASSOCIATE'S | 4.1.1 | INTERNAL |
-| 3-B013 | IV | BACHELOR'S | 4.1.2 | INTERNAL |
-| 3-B014 | IV | MASTER'S | 4.1.3 | INTERNAL |
-| 3-B015 | IV | MBA | 4.1.4 | INTERNAL |
-| 3-B016 | IV | MINOR | 4.1.5 | INTERNAL |
-| 3-B017 | IV | J.D. | 4.3.1 | INTERNAL |
-| 3-B018 | IV | NON-J.D. | 4.3.2 | INTERNAL |
-| 3-B019 | IV | VIEW DEGREE PROGRAMS | 4 | INTERNAL |
-| 3-B020 | V | SCHOOL OF BUSINESS | 4.2.1 | INTERNAL |
-| 3-B021 | V | SCHOOL OF HOMELAND SECURITY | 4.2.2 | INTERNAL |
-| 3-B022 | V | SCHOOL OF LAW | 4.2.3 | INTERNAL |
-| 3-B023 | V | SCHOOL OF TECHNOLOGY | 4.2.4 | INTERNAL |
-| 3-B024 | VI | J.D. PATHWAY | 4.3.1 | INTERNAL |
-| 3-B025 | VI | NON-J.D. PATHWAY | 4.3.2 | INTERNAL |
-| 3-B026 | VI | BAR REVIEW | 10 | INTERNAL |
-| 3-B027 | VI | LAW CURRICULUM | 11.6 | INTERNAL |
-| 3-B028 | VII | APPRENTICE | 5.1.1 | INTERNAL |
-| 3-B029 | VII | INTERN | 5.1.2 | INTERNAL |
-| 3-B030 | VII | ASSOCIATE | 5.1.3 | INTERNAL |
-| 3-B031 | VII | SENIOR ASSOCIATE | 5.1.4 | INTERNAL |
-| 3-B032 | VII | MANAGER | 5.1.5 | INTERNAL |
-| 3-B033 | VII | EXECUTIVE | 5.1.6 | INTERNAL |
-| 3-B034 | VII | EXPERIENTIAL PROCESS | 5.3 | INTERNAL |
-| 3-B035 | VII | INTERNAL PLACEMENT | 5.4 | INTERNAL |
-| 3-B036 | VII | EXTERNAL PLACEMENT | 5.5 | INTERNAL |
-| 3-B037 | VIII | STARTUP ENTREPRENEURSHIP | 6.2 | INTERNAL |
-| 3-B038 | VIII | SMALL BUSINESS ENTREPRENEURSHIP | 6.3 | INTERNAL |
-| 3-B039 | VIII | ENTREPRENEURSHIP CURRICULUM | 11.10 | INTERNAL |
-| 3-B040 | VIII | EXTENDED SERVICES | 15.5 | INTERNAL |
-| 3-B041 | VIII | ENTREPRENEURSHIP ADMISSIONS | 6.8 | INTERNAL |
-| 3-B042 | IX | HIGH SCHOOL DIPLOMA | 7.1 | INTERNAL |
-| 3-B043 | IX | DIPLOMA PATHWAY | 7.2 | INTERNAL |
-| 3-B044 | IX | HIGH SCHOOL ADMISSIONS | 7.4 | INTERNAL |
-| 3-B045 | IX | HIGH SCHOOL CURRICULUM | 11.7 | INTERNAL |
-| 3-B046 | X | GED/HSE OVERVIEW | 8.1 | INTERNAL |
-| 3-B047 | X | GED/HSE ELIGIBILITY | 8.2 | INTERNAL |
-| 3-B048 | X | GED/HSE ADMISSIONS | 8.4 | INTERNAL |
-| 3-B049 | X | GED/HSE CURRICULUM | 11.8 | INTERNAL |
-| 3-B050 | XI | BUSINESS CERTIFICATION | 9.3 | INTERNAL |
-| 3-B051 | XI | HOMELAND SECURITY CERTIFICATION | 9.4 | INTERNAL |
-| 3-B052 | XI | TECHNOLOGY CERTIFICATION | 9.5 | INTERNAL |
-| 3-B053 | XI | BASIC PACKAGE | 9.6 | INTERNAL |
-| 3-B054 | XI | STANDARD PACKAGE | 9.7 | INTERNAL |
-| 3-B055 | XI | PREMIUM PACKAGE | 9.8 | INTERNAL |
-| 3-B056 | XII | 50-STATE BAR REVIEW | 10.2 | INTERNAL |
-| 3-B057 | XII | STATE MODULES | 10.3 | INTERNAL |
-| 3-B058 | XII | CALIFORNIA BABY BAR | 10.4 | INTERNAL |
-| 3-B059 | XII | BASIC BAR REVIEW | 10.5 | INTERNAL |
-| 3-B060 | XII | STANDARD BAR REVIEW | 10.6 | INTERNAL |
-| 3-B061 | XII | PREMIUM BAR REVIEW | 10.7 | INTERNAL |
-| 3-B062 | XIII | TRANSFER STUDENTS | 12.7 | INTERNAL |
-| 3-B063 | XIII | APPLICATION | 12.2 | INTERNAL |
-| 3-B064 | XIII | TUITION AND FEES | 13.3 | INTERNAL |
-| 3-B065 | XIV | COMPARE DEGREE PROGRAMS | 4 | INTERNAL |
-| 3-B066 | XIV | COMPARE EXPERIENTIAL LEVELS | 5.1 | INTERNAL |
-| 3-B067 | XIV | COMPARE ENTREPRENEURSHIP | 6 | INTERNAL |
-| 3-B068 | XIV | VIEW ADMISSIONS | 12 | INTERNAL |
-| 3-B069 | XV | TUITION OVERVIEW | 13 | INTERNAL |
-| 3-B070 | XV | FEES | 13.3 | INTERNAL |
-| 3-B071 | XV | FUNDING | 13.4 | INTERNAL |
-| 3-B072 | XV | REIMBURSEMENT | 13.5 | INTERNAL |
-| 3-B073 | XV | PRICING CALCULATOR | 13.7 | INTERNAL |
-| 3-B074 | XVI | PRE-ADMISSIONS | 12.1 | INTERNAL |
-| 3-B075 | XVI | ACCEPTANCE AND ENROLLMENT | 12.3 | INTERNAL |
-| 3-B076 | XVI | ONBOARDING | 12.4 | INTERNAL |
-| 3-B077 | XVI | GRADUATION AND ALUMNI | 12.5 | INTERNAL |
-| 3-B078 | XVII | EXPERIENTIAL LEARNING PROCESS | 5.3 | INTERNAL |
-| 3-B079 | XVII | INTERNAL PLACEMENT | 5.4 | INTERNAL |
-| 3-B080 | XVII | EXTERNAL PLACEMENT | EXTERNAL PLACEMENT PARTNERS | EXTERNAL / DOWNLOAD |
-| 3-B081 | XVIII | START APPLICATION | CLASSE365 APPLICATION | EXTERNAL / DOWNLOAD |
-| 3-B082 | XVIII | ONBOARDING | 12.4 | INTERNAL |
-| 3-B083 | XVIII | CURRICULUM | 11 | INTERNAL |
-| 3-B084 | XIX | STUDENT LIFE | 17.2 | INTERNAL |
-| 3-B085 | XIX | RESOURCES | 18 | INTERNAL |
-| 3-B086 | XIX | POLICIES | 18.7 | INTERNAL |
-| 3-B087 | XIX | CONTACT | 20 | INTERNAL |
-| 3-B088 | XX | ALL FAQS | 19 | INTERNAL |
-| 3-B089 | XX | TUITION FAQ | 19.4 | INTERNAL |
-| 3-B090 | XX | ACCREDITATION FAQ | 19.5 | INTERNAL |
-| 3-B091 | XXI | RESOURCES | 18 | INTERNAL |
-| 3-B092 | XXI | CURRICULUM | 11 | INTERNAL |
-| 3-B093 | XXI | ACCREDITATION STATUS | 16.5 | INTERNAL |
-| 3-B094 | XXI | DOWNLOAD PATHWAY GUIDE | DOWNLOAD: PATHWAY GUIDE | EXTERNAL / DOWNLOAD |
-| 3-B095 | XXII | APPLY NOW | 12.2 | INTERNAL |
-| 3-B096 | XXII | EXPLORE ALL PATHWAYS | 3 | INTERNAL |
-| 3-B097 | XXII | ASK A QUESTION | 20.7 | INTERNAL |
-
-| 3-B098 | XXII-A | DEGREE PROGRAM PATHWAY | 4.1 | INTERNAL |
-| 3-B099 | XXII-A | SCHOOLS BY DEGREE | 4.2 | INTERNAL |
-| 3-B100 | XXII-A | LAW DEGREE PATHWAY | 4.3 | INTERNAL |
-| 3-B101 | XXII-A | EXPERIENTIAL BY SCHOOL | 5.2 | INTERNAL |
-| 3-B102 | XXII-A | BUSINESS EXPERIENTIAL | 5.2.1 | INTERNAL |
-| 3-B103 | XXII-A | HOMELAND SECURITY EXPERIENTIAL | 5.2.2 | INTERNAL |
-| 3-B104 | XXII-A | LAW EXPERIENTIAL | 5.2.3 | INTERNAL |
-| 3-B105 | XXII-A | TECHNOLOGY EXPERIENTIAL | 5.2.4 | INTERNAL |
-| 3-B106 | XXII-A | APPRENTICE STARTUP | 6.2.1 | INTERNAL |
-| 3-B107 | XXII-A | NEW STARTUP | 6.2.2 | INTERNAL |
-| 3-B108 | XXII-A | ONE-YEAR STARTUP | 6.2.3 | INTERNAL |
-| 3-B109 | XXII-A | GROWTH STARTUP | 6.2.4 | INTERNAL |
-| 3-B110 | XXII-A | APPRENTICE SMALL BUSINESS | 6.3.1 | INTERNAL |
-| 3-B111 | XXII-A | NEW SMALL BUSINESS | 6.3.2 | INTERNAL |
-| 3-B112 | XXII-A | ESTABLISHED SMALL BUSINESS | 6.3.3 | INTERNAL |
-| 3-B113 | XXII-A | SMALL BUSINESS RECOVERY AND GROWTH | 6.3.4 | INTERNAL |
-| 3-B114 | XXII-A | EXPERIENTIAL CURRICULUM | 11.9 | INTERNAL |
-| 3-B115 | XXII-A | CREDENTIAL CURRICULUM | 11.11 | INTERNAL |
-| 3-B116 | XXII-A | CURRICULUM ARCHITECTURE | 11.12 | INTERNAL |
-| 3-B117 | XXII-A | JUSTICE-IMPACTED SERVICES | 15.3 | INTERNAL |
-| 3-B118 | XXII-A | ENTREPRENEURSHIP PRODUCTS AND SERVICES | 15.4 | INTERNAL |
-| 3-B119 | XXII-A | PARTNERSHIPS | 17.3 | INTERNAL |
-| 3-B120 | XXII-A | FOUNDATION AND SCHOLARSHIP SUPPORT | 14.1 | INTERNAL |
+| 3-B001 | I | EXPLORE PATHWAYS | 3, Section III | Internal |
+| 3-B002 | I | START PRE-ADMISSIONS | 12.1 | Internal |
+| 3-B003 | I | VIEW ADMISSIONS | 12 | Internal |
+| 3-B004 | I | VIEW TUITION | 13 | Internal |
+| 3-B005 | III | EXPLORE DEGREE PROGRAMS | 4 | Internal |
+| 3-B006 | III | EXPLORE EXPERIENTIAL | 5 | Internal |
+| 3-B007 | III | EXPLORE HIGH SCHOOL | 7 | Internal |
+| 3-B008 | III | EXPLORE GED and HSE | 8 | Internal |
+| 3-B009 | III | EXPLORE CERTIFICATION REVIEW | 9 | Internal |
+| 3-B010 | III | EXPLORE BAR REVIEW | 10 | Internal |
+| 3-B011 | III | EXPLORE SCHOOLS | 4.2 | Internal |
+| 3-B012 | IV | EXPLORE DEGREE PROGRAMS | 4 | Internal |
+| 3-B013 | IV | VIEW DEGREE PATHWAY | 4.1 | Internal |
+| 3-B014 | IV | EXPLORE SCHOOLS | 4.2 | Internal |
+| 3-B015 | IV | EXPLORE LAW PATHWAY | 4.3 | Internal |
+| 3-B016 | IV | VIEW ACADEMIC STRUCTURE | 11.2 | Internal |
+| 3-B017 | IV | VIEW TUITION | 13 | Internal |
+| 3-B018 | V | SCHOOL OF BUSINESS | 4.2.1 | Internal |
+| 3-B019 | V | SCHOOL OF HOMELAND SECURITY | 4.2.2 | Internal |
+| 3-B020 | V | SCHOOL OF LAW | 4.2.3 | Internal |
+| 3-B021 | V | SCHOOL OF TECHNOLOGY | 4.2.4 | Internal |
+| 3-B022 | V | EXPLORE EXPERIENTIAL BY SCHOOL | 5.2 | Internal |
+| 3-B023 | V | VIEW CURRICULUM | 11 | Internal |
+| 3-B024 | VI | EXPLORE LAW PATHWAY | 4.3 | Internal |
+| 3-B025 | VI | EXPLORE J.D. | 4.3.1 | Internal |
+| 3-B026 | VI | EXPLORE NON-J.D. | 4.3.2 | Internal |
+| 3-B027 | VI | EXPLORE LAW EXPERIENTIAL | 5.2.3 | Internal |
+| 3-B028 | VI | VIEW BAR REVIEW | 10 | Internal |
+| 3-B029 | VI | VIEW ACCREDITATION AND AUTHORIZATION | 16 | Internal |
+| 3-B030 | VII | EXPLORE EXPERIENTIAL | 5 | Internal |
+| 3-B031 | VII | EXPLORE BY LEVEL AND DURATION | 5.1 | Internal |
+| 3-B032 | VII | EXPLORE BY SCHOOL | 5.2 | Internal |
+| 3-B033 | VII | VIEW LEARNING PROCESS | 5.3 | Internal |
+| 3-B034 | VII | EXPLORE INTERNAL PLACEMENT | 5.4 | Internal |
+| 3-B035 | VII | EXPLORE EXTERNAL PLACEMENT | 5.5 | Internal |
+| 3-B036 | VII | START EXPERIENTIAL PRE-ADMISSIONS | 12.1.3 | Internal |
+| 3-B037 | VII | VIEW EXPERIENTIAL CURRICULUM | 11.9 | Internal |
+| 3-B038 | VIII | EXPLORE ENTREPRENEURSHIP | 6 | Internal |
+| 3-B039 | VIII | EXPLORE STARTUP ENTREPRENEURSHIP | 6.2 | Internal |
+| 3-B040 | VIII | EXPLORE SMALL BUSINESS ENTREPRENEURSHIP | 6.3 | Internal |
+| 3-B041 | VIII | VIEW ENTREPRENEURSHIP CURRICULUM | 11.10 | Internal |
+| 3-B042 | VIII | VIEW ENTREPRENEURSHIP ADMISSIONS | 12 | Internal |
+| 3-B043 | VIII | VIEW ENTREPRENEURSHIP TUITION | 13 | Internal |
+| 3-B044 | VIII | EXPLORE ENTREPRENEURSHIP SERVICES | 15.4 | Internal |
+| 3-B045 | VIII | EXPLORE EXTENDED SERVICES | 15.5 | Internal |
+| 3-B046 | VIII | EXPLORE PARTNERSHIPS | 17.3 | Internal |
+| 3-B047 | IX | EXPLORE HIGH SCHOOL | 7 | Internal |
+| 3-B048 | IX | VIEW HIGH SCHOOL DIPLOMA PROGRAM | 7.1 | Internal |
+| 3-B049 | IX | VIEW HIGH SCHOOL CURRICULUM | 11.7 | Internal |
+| 3-B050 | IX | VIEW HIGH SCHOOL ADMISSIONS | 12.1.4 | Internal |
+| 3-B051 | IX | EXPLORE DEGREE PROGRAMS | 4 | Internal |
+| 3-B052 | X | EXPLORE GED and HSE | 8 | Internal |
+| 3-B053 | X | VIEW GED and HSE PROGRAM | 8.1 | Internal |
+| 3-B054 | X | VIEW GED and HSE CURRICULUM | 11.8 | Internal |
+| 3-B055 | X | VIEW GED and HSE ADMISSIONS | 12.1.5 | Internal |
+| 3-B056 | X | EXPLORE DEGREE PROGRAMS | 4 | Internal |
+| 3-B057 | XI | EXPLORE CERTIFICATION REVIEW | 9 | Internal |
+| 3-B058 | XI | VIEW CERTIFICATION MAPPING | 9.2 | Internal |
+| 3-B059 | XI | BUSINESS CERTIFICATIONS | 9.3 | Internal |
+| 3-B060 | XI | HOMELAND SECURITY CERTIFICATIONS | 9.4 | Internal |
+| 3-B061 | XI | TECHNOLOGY CERTIFICATIONS | 9.5 | Internal |
+| 3-B062 | XI | COMPARE REVIEW PACKAGES | 9.6–9.8 | Internal |
+| 3-B063 | XI | VIEW CREDENTIAL CURRICULUM | 11.11 | Internal |
+| 3-B064 | XI | EXPLORE PRODUCTS | 15 | Internal |
+| 3-B065 | XII | EXPLORE BAR REVIEW | 10 | Internal |
+| 3-B066 | XII | EXPLORE 50-STATE BAR REVIEW | 10.2 | Internal |
+| 3-B067 | XII | EXPLORE STATE MODULES | 10.3 | Internal |
+| 3-B068 | XII | EXPLORE CALIFORNIA BABY BAR | 10.4 | Internal |
+| 3-B069 | XII | COMPARE BAR REVIEW PACKAGES | 10.5–10.7 | Internal |
+| 3-B070 | XII | EXPLORE LAW PATHWAY | 4.3 | Internal |
+| 3-B071 | XII | VIEW BAR REVIEW PRODUCTS | 15 | Internal |
+| 3-B072 | XIII | START PRE-ADMISSIONS | 12.1 | Internal |
+| 3-B073 | XIII | VIEW APPLICATION REQUIREMENTS | 12.2 | Internal |
+| 3-B074 | XIII | VIEW ACADEMIC STRUCTURE | 11.2 | Internal |
+| 3-B075 | XIII | VIEW TUITION AND FEES | 13 | Internal |
+| 3-B076 | XIV | START PRE-ADMISSIONS | 12.1 | Internal |
+| 3-B077 | XIV | EXPLORE DEGREE PROGRAMS | 4 | Internal |
+| 3-B078 | XIV | EXPLORE EXPERIENTIAL | 5 | Internal |
+| 3-B079 | XIV | EXPLORE ENTREPRENEURSHIP | 6 | Internal |
+| 3-B080 | XIV | COMPARE TUITION | 13 | Internal |
+| 3-B081 | XIV | CONTACT RIAH PATHWAY | 20 | Internal |
+| 3-B082 | XV | VIEW TUITION | 13 | Internal |
+| 3-B083 | XV | VIEW TUITION AND FEES | 13.3 | Internal |
+| 3-B084 | XV | VIEW FUNDING | 13.4 | Internal |
+| 3-B085 | XV | VIEW REIMBURSEMENT | 13.5 | Internal |
+| 3-B086 | XV | USE PRICING CALCULATOR ENGINE | 13.7 | Internal |
+| 3-B087 | XV | EXPLORE DONATIONS AND STUDENT SUPPORT | 14 | Internal |
+| 3-B088 | XVI | VIEW ADMISSIONS | 12 | Internal |
+| 3-B089 | XVI | VIEW ACCEPTANCE AND ENROLLMENT | 12.3 | Internal |
+| 3-B090 | XVI | VIEW ONBOARDING AND STUDENT EXPERIENCE | 12.4 | Internal |
+| 3-B091 | XVI | EXPLORE STUDENT LIFE | 17.2 | Internal |
+| 3-B092 | XVI | VIEW RESOURCES | 18 | Internal |
+| 3-B093 | XVII | EXPLORE EXPERIENTIAL | 5 | Internal |
+| 3-B094 | XVII | EXPLORE BY LEVEL AND DURATION | 5.1 | Internal |
+| 3-B095 | XVII | VIEW EXPERIENTIAL LEARNING PROCESS | 5.3 | Internal |
+| 3-B096 | XVII | EXPLORE INTERNAL PLACEMENT | 5.4 | Internal |
+| 3-B097 | XVII | EXPLORE EXTERNAL PLACEMENT | 5.5 | Internal |
+| 3-B098 | XVII | EXPLORE PARTNERSHIPS | 17.3 | Internal |
+| 3-B099 | XIX | VIEW STUDENT RESOURCES | 18 | Internal |
+| 3-B100 | XIX | EXPLORE STUDENT LIFE | 17.2 | Internal |
+| 3-B101 | XIX | VIEW POLICIES | 18.7 | Internal |
+| 3-B102 | XIX | VIEW PROCEDURES | 18.8 | Internal |
+| 3-B103 | XIX | VIEW GUIDELINES | 18.9 | Internal |
+| 3-B104 | XIX | CONTACT SUPPORT | 20 | Internal |
+| 3-B105 | XX | VIEW ALL FAQs | 19 | Internal |
+| 3-B106 | XXI | VIEW RESOURCES | 18 | Internal |
+| 3-B107 | XXI | VIEW POLICIES | 18.7 | Internal |
+| 3-B108 | XXI | VIEW PROCEDURES | 18.8 | Internal |
+| 3-B109 | XXI | VIEW GUIDELINES | 18.9 | Internal |
+| 3-B110 | XXI | VIEW ACCREDITATION AND AUTHORIZATION | 16 | Internal |
+| 3-B111 | XXI | VIEW FAQ | 19 | Internal |
+| 3-B112 | XXII | EXPLORE PATHWAYS | 3 | Internal |
+| 3-B113 | XXII | EXPLORE DEGREE PROGRAMS | 4 | Internal |
+| 3-B114 | XXII | EXPLORE EXPERIENTIAL | 5 | Internal |
+| 3-B115 | XXII | EXPLORE ENTREPRENEURSHIP | 6 | Internal |
+| 3-B116 | XXII | START PRE-ADMISSIONS | 12.1 | Internal |
+| 3-B117 | XXII | APPLY NOW | 12.2 | Internal and Application |
+| 3-B118 | XXII | VIEW TUITION | 13 | Internal |
+| 3-B119 | XXII | REQUEST INFORMATION | 20.7 | Internal and Form |
+| 3-B120 | XXII | CONTACT RIAH PATHWAY | 20 | Internal |
 
 ## XXIV. EXTERNAL LINKS AND ENDPOINTS
 
-| ID | PLATFORM / LINK | IMPLEMENTATION CONTROL |
+| ID | Platform or Endpoint | Purpose | Routing |
+|---|---|---|---|
+| 3-L01 | Classe365 | Admissions and applications | 12.2 → Verified external application endpoint |
+| 3-L02 | RIAH Pathway Inquiry Form | Information requests | 20.7 → Verified form endpoint |
+| 3-L03 | SuiteDash | Onboarding and student services | Authenticated student-service access |
+| 3-L04 | LearnWorlds | Learning Management System | Authenticated learning access |
+| 3-L05 | Shopify | Products and purchases | 15 → Verified checkout |
+| 3-L06 | Tutor.com | Tutoring | Student-service integration |
+| 3-L07 | ProctorU | Proctored assessments | Assessment integration |
+| 3-L08 | Merit Pages | Student recognition | Recognition integration |
+| 3-L09 | Parchment | Official transcripts | Transcript integration |
+| 3-L10 | National Student Clearinghouse | Enrollment and degree verification | Verification integration |
+| 3-L11 | Approved External Certification Bodies | Certification requirements and exams | 9 → Official credential provider |
+| 3-L12 | Applicable State Bar Authorities | Bar admission and exam requirements | 10 → Jurisdiction |
+| 3-L13 | Approved External Placement Partners | Experiential opportunities | 5.5 → Verified partner |
+| 3-L14 | Approved Entrepreneurship Affiliates | Professional services | 15.5 and 17.3 → Verified affiliate |
+
+**EXTERNAL ENDPOINT CONTROL:** Verify production links before publication; do not invent URLs.
+
+## XXV. DOWNLOADS TABLE
+
+| ID | Download | Primary Website Ownership | Pathway Page Treatment |
+|---|---|---|---|
+| 3-D01 | General Pathway Guide | 3 and 18 | Route to owning page when finalized |
+| 3-D02 | Degree Programs Guide | 4 | Route to owning page when finalized |
+| 3-D03 | Schools and Majors Guide | 4 and 11 | Route to owning page when finalized |
+| 3-D04 | Experiential Guide | 5 | Route to owning page when finalized |
+| 3-D05 | Experiential Level Requirements | 5.1 | Route to owning page when finalized |
+| 3-D06 | Entrepreneurship Guide | 6 | Route to owning page when finalized |
+| 3-D07 | High School Guide | 7 | Route to owning page when finalized |
+| 3-D08 | GED and HSE Guide | 8 | Route to owning page when finalized |
+| 3-D09 | Certification Review Guide | 9 | Route to owning page when finalized |
+| 3-D10 | Bar Review Guide | 10 | Route to owning page when finalized |
+| 3-D11 | Curriculum Guide | 11 | Route to owning page when finalized |
+| 3-D12 | Admissions Guide | 12 | Route to owning page when finalized |
+| 3-D13 | Tuition and Pricing Guide | 13 | Route to owning page when finalized |
+| 3-D14 | Consumer Information | 16 and 18 | Route to owning page when finalized |
+| 3-D15 | Public Policies | 18.7 | Route to owning page when finalized |
+| 3-D16 | Procedures | 18.8 | Route to owning page when finalized |
+| 3-D17 | Guidelines | 18.9 | Route to owning page when finalized |
+
+## XXVI. MEDIA AND VISUAL ASSETS
+
+| ID | Section | Asset | Type |
+|---|---|---|---|
+| 3-M01 | I | RIAH Pathway Ecosystem | Hero Image |
+| 3-M02 | I | Find Your RIAH Pathway | Hero Video |
+| 3-M03 | II | Connected Pathway Flow | Diagram |
+| 3-M04 | III | Degree Programs | Card Image |
+| 3-M05 | III | Experiential | Card Image |
+| 3-M06 | III | High School | Card Image |
+| 3-M07 | III | GED and HSE | Card Image |
+| 3-M08 | III | Certification Review | Card Image |
+| 3-M09 | III | Bar Review | Card Image |
+| 3-M10 | III | Schools | Card Image |
+| 3-M11 | IV | Academic Pathway Flow | Diagram |
+| 3-M12 | V | Four-School Academic Ecosystem | Image |
+| 3-M13 | VI | Law Students and Legal Professionals | Image |
+| 3-M14 | VII | Experiential Level Model | Diagram |
+| 3-M15 | VII | Experiential Operating Model | Diagram |
+| 3-M16 | VIII | Startup and Small Business Development | Image |
+| 3-M17 | IX | High School Students and Educators | Image |
+| 3-M18 | X | GED and HSE Preparation | Image |
+| 3-M19 | XI | Certification Preparation | Image |
+| 3-M20 | XII | Bar Examination Preparation | Image |
+| 3-M21 | XIII | Transfer Credit Flow | Diagram |
+| 3-M22 | XIV | Pathway Comparison Interface | UI Concept |
+| 3-M23 | XV | Pricing Calculator | UI Concept |
+| 3-M24 | XVI | Faculty and Student Support | Image |
+| 3-M25 | XVII | Professional Experiential Supervision | Image |
+| 3-M26 | XVIII | RIAH App — My Journey | UI Concept |
+| 3-M27 | XIX | Student Support Professionals | Image |
+| 3-M28 | XXII | RIAH Pathway Community | Final CTA Image |
+
+## XXVII. INTERNAL ROUTING DIRECTORY — WEBSITE PAGES 1–20
+
+| Main Page | Page Name | Pathway Connection |
 |---|---|---|
-| 3-L01 | CLASSE365 APPLICATION | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L02 | RIAH INQUIRY FORM | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L03 | SUITEDASH ONBOARDING | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L04 | LEARNWORLDS LMS | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L05 | SHOPIFY PRODUCTS | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L06 | TUTOR.COM SUPPORT | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L07 | PROCTORU PROCTORING | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L08 | MERIT PAGES | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L09 | PARCHMENT | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L10 | NATIONAL STUDENT CLEARINGHOUSE | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L11 | CERTIFICATION AUTHORITIES | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L12 | STATE BAR AUTHORITIES | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L13 | EXTERNAL PLACEMENT PARTNERS | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
-| 3-L14 | ENTREPRENEURSHIP PROFESSIONAL AFFILIATES | VERIFY APPROVED PRODUCTION URL, ACCESS PERMISSIONS, ELIGIBILITY AND PRIVACY BEFORE LAUNCH |
+| **1** | Home | Home website destination |
+| **2** | About | About website destination |
+| **3** | Pathway | Pathway website destination |
+| **4** | Degree Programs | Degree Programs website destination |
+| **5** | Experiential | Experiential website destination |
+| **6** | Entrepreneurship | Entrepreneurship website destination |
+| **7** | High School | High School website destination |
+| **8** | GED and HSE | GED and HSE website destination |
+| **9** | Certification Review | Certification Review website destination |
+| **10** | Bar Review | Bar Review website destination |
+| **11** | Curriculum | Curriculum website destination |
+| **12** | Admissions | Admissions website destination |
+| **13** | Tuition | Tuition website destination |
+| **14** | Donations | Donations website destination |
+| **15** | Products | Products website destination |
+| **16** | Accreditation and Authorization | Accreditation and Authorization website destination |
+| **17** | Join Us | Join Us website destination |
+| **18** | Resources | Resources website destination |
+| **19** | FAQ | FAQ website destination |
+| **20** | Contact | Contact website destination |
 
-## XXV. DOWNLOADS DIRECTORY
+## XXVIII. FINAL IMPLEMENTATION CONTROL
 
-| ID | DOWNLOAD PLACEHOLDER | SOURCE / OWNER |
-|---|---|---|
-| 3-D01 | [DOWNLOAD: PATHWAY GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D02 | [DOWNLOAD: DEGREE PROGRAM GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D03 | [DOWNLOAD: EXPERIENTIAL LEVELS GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D04 | [DOWNLOAD: ENTREPRENEURSHIP GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D05 | [DOWNLOAD: HIGH SCHOOL GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D06 | [DOWNLOAD: GED/HSE ELIGIBILITY GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D07 | [DOWNLOAD: CERTIFICATION REVIEW GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D08 | [DOWNLOAD: BAR REVIEW GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D09 | [DOWNLOAD: SCHOOLS GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D10 | [DOWNLOAD: TRANSFER STUDENT GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D11 | [DOWNLOAD: TUITION AND FEES GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D12 | [DOWNLOAD: ADMISSIONS GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D13 | [DOWNLOAD: ORIENTATION GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D14 | [DOWNLOAD: CURRICULUM OVERVIEW] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D15 | [DOWNLOAD: ACCREDITATION AND AUTHORIZATION GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D16 | [DOWNLOAD: PARTNERSHIP GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
-| 3-D17 | [DOWNLOAD: STUDENT SUPPORT GUIDE] | CANONICAL OWNER PAGE / VERIFIED ASSET REQUIRED; DO NOT DUPLICATE FILE |
+The Pathway page is the combined exploration and routing hub for the 20-page RIAH Pathway website. Detailed content remains on corresponding primary pages and subpages.
 
-## XXVI. IMAGES, ICONS, AND MEDIA ASSETS
-
-| ID | VISUAL PLACEHOLDER | IMPLEMENTATION |
-|---|---|---|
-| 3-M01 | [IMAGE / ICON: PATHWAY HERO MAP] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M02 | [IMAGE / ICON: GOLD CROWN BRAND MARK] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M03 | [IMAGE / ICON: SEVEN PATHWAY CARDS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M04 | [IMAGE / ICON: ACADEMIC CREDENTIAL LADDER] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M05 | [IMAGE / ICON: FOUR SCHOOL CARDS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M06 | [IMAGE / ICON: LAW PATHWAY FLOW] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M07 | [IMAGE / ICON: EXPERIENTIAL SIX LEVELS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M08 | [IMAGE / ICON: EXPERIENTIAL SUPERVISION FLOW] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M09 | [IMAGE / ICON: STARTUP ENTREPRENEURSHIP] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M10 | [IMAGE / ICON: SMALL BUSINESS ENTREPRENEURSHIP] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M11 | [IMAGE / ICON: HIGH SCHOOL DIPLOMA FLOW] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M12 | [IMAGE / ICON: GED/HSE ELIGIBILITY FLOW] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M13 | [IMAGE / ICON: CERTIFICATION REVIEW THREE TIERS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M14 | [IMAGE / ICON: BAR REVIEW STATE MAP] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M15 | [IMAGE / ICON: CALIFORNIA BABY BAR] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M16 | [IMAGE / ICON: TRANSFER STUDENT JOURNEY] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M17 | [IMAGE / ICON: COMPARISON ICON] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M18 | [IMAGE / ICON: TUITION CALCULATOR] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M19 | [IMAGE / ICON: FINANCIAL SUPPORT ICON] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M20 | [IMAGE / ICON: ADMISSIONS JOURNEY] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M21 | [IMAGE / ICON: ORIENTATION COHORT] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M22 | [IMAGE / ICON: HUMAN SUPERVISION CHECKPOINTS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M23 | [IMAGE / ICON: APP AND LMS FLOW] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M24 | [IMAGE / ICON: STUDENT SUPPORT ICONS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M25 | [IMAGE / ICON: FAQ ICONS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M26 | [IMAGE / ICON: RESOURCES DOWNLOADS] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M27 | [IMAGE / ICON: QR CODE TO MAIN WEBSITE] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-| 3-M28 | [IMAGE / ICON: FINAL PATHWAY CTA COLLAGE] | RED / BLACK / WHITE; GOLD CROWN WHERE APPLICABLE; ALT TEXT AND RESPONSIVE VARIANTS |
-
-## XXVII. INTERNAL ROUTING DIRECTORY — ALL 20 MAIN PAGES
-
-| PAGE | DESTINATION |
+| Pathway Section | Destination |
 |---|---|
-| 1 | HOME |
-| 2 | ABOUT |
-| 3 | PATHWAY |
-| 4 | DEGREE PROGRAMS |
-| 5 | EXPERIENTIAL |
-| 6 | ENTREPRENEURSHIP |
-| 7 | HIGH SCHOOL |
-| 8 | GED/HSE |
-| 9 | CERTIFICATION REVIEW |
-| 10 | BAR REVIEW |
-| 11 | CURRICULUM |
-| 12 | ADMISSIONS |
-| 13 | TUITION |
-| 14 | DONATIONS |
-| 15 | PRODUCTS AND SERVICES |
-| 16 | ACCREDITATION AND AUTHORIZATION |
-| 17 | JOIN US |
-| 18 | RESOURCES |
-| 19 | FAQ |
-| 20 | CONTACT |
+| 3.1 — Degree Programs | 4 |
+| 3.2 — Experiential | 5 |
+| 3.3 — High School | 7 |
+| 3.4 — GED and HSE | 8 |
+| 3.5 — Certification Review | 9 |
+| 3.6 — Bar Review | 10 |
+| 3.7 — Schools | 4.2 |
 
-## XXVIII. IMPLEMENTATION AND CROSS-PAGE ROUTING CONTROLS
+Entrepreneurship is its own primary website page at **6 — Entrepreneurship**.
 
-1. NO SHARED GLOBAL HEADER OR FOOTER IN PAGE 3 WIREFRAME.
-2. KEEP EXISTING PAGE 1–20 SITEMAP HIERARCHY AUTHORITATIVE.
-3. DO NOT DUPLICATE CONTENT OWNED BY ANOTHER PAGE; LINK TO ITS AUTHORITATIVE ROUTE.
-4. KEEP UNBUILT FOLDERS AND THEIR SITEMAP ENTRIES UNCHANGED.
-5. USE ONE CANONICAL DESTINATION FOR EACH ACTIONABLE BUTTON; NEVER DEPLOY A ROUTE RANGE AS A CLICK TARGET.
-6. VERIFY EXTERNAL ENDPOINTS BEFORE PUBLICATION.
-7. DISPLAY ACCREDITATION, AUTHORIZATION, BAR ELIGIBILITY, AND CERTIFICATION STATUS ACCURATELY.
-8. SHOW ELIGIBILITY BEFORE APPLICATION FOR HIGH SCHOOL AND GED/HSE.
-9. EXPERIENTIAL LEVELS ARE NON-SEQUENTIAL AND CAPACITY-DEPENDENT.
-10. APPRENTICE IS 1 MONTH; INTERN 3 MONTHS; ASSOCIATE, SENIOR ASSOCIATE, MANAGER, EXECUTIVE EACH 1 YEAR.
-11. KEEP DEGREE, EXPERIENTIAL, ENTREPRENEURSHIP, HIGH SCHOOL, GED/HSE, CERTIFICATION AND BAR REVIEW DISTINCT.
-12. KEEP HUMAN SUPERVISION AND QUALITY CONTROL VISIBLE.
-13. ROUTE ADMISSIONS TO PAGE 12 AND TUITION TO PAGE 13.
-14. ROUTE DOWNLOADS TO THEIR CANONICAL OWNERS; NO DUPLICATE ASSET STORAGE.
-15. USE ACCESSIBLE IMAGE DESCRIPTIONS AND BUTTON LABELS.
-16. VERIFY STATE-SPECIFIC PROGRAM RESTRICTIONS.
-17. PRESERVE ORIGINAL PAGE 3 CONTENT WHEN ADDING CROSS-PAGE REFERENCES.
-18. NO GUARANTEED PLACEMENT OR CREDENTIAL OUTCOMES WITHOUT VERIFIED TERMS.
-19. ALL PLACEHOLDER LINKS MUST BE RESOLVED BEFORE LAUNCH.
-20. RECONCILE THIS PAGE'S CTA DIRECTORY WITH THE WEBSITE MASTER ROUTING FILE.
+| Duration | Experiential Level |
+|---|---|
+| 1 Month | Apprentice |
+| 3 Months | Intern |
+| 1 Year | Associate |
+| 1 Year | Senior Associate |
+| 1 Year | Manager |
+| 1 Year | Executive |
 
-### CROSS-PAGE ADDITIONAL ROUTES (DO NOT REPLACE EXISTING PAGE 3 CONTENT)
+Experiential placement remains qualification-based, experience-aligned, capacity-dependent, human-supervised and role-specific.
 
-| SITEMAP REFERENCE | LABEL | TARGET |
-|---|---|---|
-| 3.1 | DEGREE PROGRAMS | 4 |
-| 3.2 | EXPERIENTIAL | 5 |
-| 3.3 | HIGH SCHOOL | 7 |
-| 3.4 | GED/HSE | 8 |
-| 3.5 | CERTIFICATION REVIEW | 9 |
-| 3.6 | BAR REVIEW | 10 |
-| 3.7 | SCHOOLS | 4.2 |
-| 6.1 | ENTREPRENEURSHIP OVERVIEW | 6 |
-| 6.2.1 | APPRENTICE STARTUP | 6.2.1 |
-| 6.2.2 | NEW STARTUP | 6.2.2 |
-| 6.2.3 | ONE-YEAR STARTUP | 6.2.3 |
-| 6.2.4 | GROWTH STARTUP | 6.2.4 |
-| 6.3.1 | APPRENTICE SMALL BUSINESS | 6.3.1 |
-| 6.3.2 | NEW SMALL BUSINESS | 6.3.2 |
-| 6.3.3 | ESTABLISHED SMALL BUSINESS | 6.3.3 |
-| 6.3.4 | RECOVERY AND GROWTH | 6.3.4 |
-| 5.2 | EXPERIENTIAL BY SCHOOL | 5.2 |
-| 5.2.1 | BUSINESS EXPERIENTIAL | 5.2.1 |
-| 5.2.2 | HOMELAND SECURITY EXPERIENTIAL | 5.2.2 |
-| 5.2.3 | LAW EXPERIENTIAL | 5.2.3 |
-| 5.2.4 | TECHNOLOGY EXPERIENTIAL | 5.2.4 |
-| 11.9 | EXPERIENTIAL CURRICULUM | 11.9 |
-| 11.11 | CREDENTIAL CURRICULUM | 11.11 |
-| 11.12 | CURRICULUM ARCHITECTURE | 11.12 |
-| 15.3 | JUSTICE-IMPACTED SERVICES | 15.3 |
-| 15.4 | ENTREPRENEURSHIP PRODUCTS AND SERVICES | 15.4 |
-| 17.3 | PARTNERSHIPS | 17.3 |
-| 14.1 | FOUNDATION | 14.1 |
-| 14.2 | ACCREDITATION SUPPORT | 14.2 |
-| 14.3 | STATE AUTHORIZATION SUPPORT | 14.3 |
+### Implementation Requirements
+
+1. Route every CTA to its corresponding destination in the 20-page sitemap.
+2. Keep detailed degrees under Page 4.
+3. Keep detailed experiential content under Page 5.
+4. Keep detailed entrepreneurship content under Page 6.
+5. Keep High School and GED and HSE under Pages 7 and 8.
+6. Keep Certification Review and Bar Review under Pages 9 and 10.
+7. Keep detailed curriculum under Page 11.
+8. Keep application and enrollment processes under Page 12.
+9. Keep tuition and pricing under Page 13.
+10. Keep purchasing and professional services under Page 15.
+11. Keep accreditation disclosures under Page 16.
+12. Keep partnerships and student life under Page 17.
+13. Keep policies, procedures and guidelines under Page 18.
+14. Keep complete FAQ under Page 19.
+15. Keep contact and information requests under Page 20.
+16. Use verified external endpoints.
+17. Preserve image, icon, video, diagram, download, button and CTA placeholders.
+18. Maintain approved Pathway hierarchy and program requirements.
+19. Use shared header and footer when finalized.
+20. Maintain consistency with the approved Website Draft sitemap and wireframes.
+
+**END — 3 PATHWAY MAIN PAGE WIREFRAME**
