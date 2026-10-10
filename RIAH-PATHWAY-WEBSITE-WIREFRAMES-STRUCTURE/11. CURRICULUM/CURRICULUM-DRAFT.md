@@ -205,6 +205,11 @@ Program Completion
 
 [IMAGE — RIAH PATHWAY CURRICULUM JOURNEY]
 
+
+[IMAGE — CURRICULUM HERO VIDEO POSTER — Accessible static cover showing General Education → School Core → Major Curriculum → Upper-Division Curriculum → Applicable Certification Review → Applicable Experiential Integration → Capstone → Completion.]
+
+[ICON — ROUTE / ACADEMIC PROGRESSION — Visually connects curriculum stages.]
+
 ---
 
 # III. CURRICULUM NAVIGATION AND DIRECTORY
@@ -220,6 +225,35 @@ Program Completion
 The Curriculum page contains ten sitemap-numbered curriculum categories. The nine named institutional schools are listed below and integrated into the existing categories; no additional sitemap numbers are invented.
 
 Each category displays its applicable curriculum content directly within the Curriculum website section.
+
+
+### CURRICULUM ON-PAGE NAVIGATION
+
+[ICON — MAP / CURRICULUM OVERVIEW]
+
+[ICON — LAYERS / ACADEMIC STRUCTURE]
+
+[ON-PAGE LINK — 11.1 ACADEMIC STRUCTURE → SECTION IV: ACADEMIC STRUCTURE AND DEGREE LEVELS]
+
+[ON-PAGE LINK — 11.2 SCHOOL OF BUSINESS → SECTION VI: SCHOOL OF BUSINESS CURRICULUM]
+
+[ON-PAGE LINK — 11.3 SCHOOL OF HOMELAND SECURITY → SECTION VII: SCHOOL OF HOMELAND SECURITY CURRICULUM]
+
+[ON-PAGE LINK — 11.4 SCHOOL OF TECHNOLOGY → SECTION VIII: SCHOOL OF TECHNOLOGY CURRICULUM]
+
+[ON-PAGE LINK — 11.5 SCHOOL OF LAW → SECTION IX: SCHOOL OF LAW CURRICULUM]
+
+[ON-PAGE LINK — 11.6 HIGH SCHOOL → SECTION XI: HIGH SCHOOL DIPLOMA]
+
+[ON-PAGE LINK — 11.7 GED/HSE → SECTION XI: GED/HSE PREPARATION]
+
+[ON-PAGE LINK — 11.8 EXPERIENTIAL → SECTION XX: EXPERIENTIAL CURRICULUM]
+
+[ON-PAGE LINK — 11.9 CERTIFICATION & REVIEW → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
+
+[ON-PAGE LINK — 11.10 CURRICULUM ARCHITECTURE → SECTION XXIV: CURRICULUM ARCHITECTURE]
+
+The on-page links navigate to existing Curriculum content without creating additional main pages, changing the approved 20-page sitemap, or routing users to a duplicate Curriculum landing page.
 
 The navigation cards identify the corresponding curriculum structure.
 
@@ -452,6 +486,17 @@ PROFESSIONAL INTEGRATION
 - Capstones.
 - Professional Supervision.
 
+
+### CORE ACADEMIC CURRICULUM PROGRESSION
+
+[ICON — ROUTE / SEQUENTIAL ACADEMIC PROGRESSION]
+
+[FLOW — GENERAL EDUCATION → APPLICABLE SCHOOL CORE → YEAR 3 MAJOR ADMISSION → YEAR 3 MAJOR → YEAR 4 MAJOR → APPLICABLE PROGRAM CAPSTONE → PROGRAM COMPLETION]
+
+Students advance into applicable Year 3 major coursework only after the foundational requirements established for their major have been completed or otherwise satisfied. The existing School Core prerequisite sequence remains attached to each course.
+
+[ON-PAGE LINK — VIEW GENERAL EDUCATION AND SCHOOL CORE → SECTION V: GENERAL EDUCATION AND SCHOOL CORE CURRICULUM]
+
 ### DEGREE PATHWAYS
 
 | Academic Level | Curriculum Structure | Typical Duration | External Website Routing |
@@ -480,6 +525,23 @@ Minor admission requires completion of the first required minor course and its a
 
 For example, a Computer Science minor applicant must satisfy College Algebra and Principles of Computer Science before the applicable minor admission gateway.
 
+
+### MINOR COURSE-LEVEL AND APPLIED-LEARNING STRUCTURE
+
+[ICON — LAYERS / MINOR CURRICULUM]
+
+- Objective Assessment (OA) — according to the controlling minor course record.
+- Performance Assessment (PA) — according to the controlling minor course record.
+- Project — generally reserved for the culminating applied-learning or capstone course where established.
+- Capstone — the designated culminating minor course or courses.
+- Applied Build — applicable culminating course where established.
+- Supervision — applicable designated minor capstone courses under the controlling supervision standard.
+- Experiential — where established by the particular minor and course record.
+
+[FLOW — MINOR ENTRY → FOUNDATIONAL MINOR COURSE → SEQUENTIAL DISCIPLINE COURSEWORK → APPLIED LEARNING → DESIGNATED APPLIED-LEARNING CAPSTONE → MINOR COMPLETE]
+
+Exact prerequisites, software, certification-review mapping, projects, experiential eligibility, capstone status, applied-build requirements, and supervision are determined by the approved minor-level course curriculum. This overview does not expand supervision to non-designated courses or replace the existing capstone supervision-hours standard.
+
 ### BACHELOR'S CURRICULUM
 
 **General Education:** 30 credits.
@@ -493,6 +555,21 @@ For example, a Computer Science minor applicant must satisfy College Algebra and
 Students must satisfy applicable General Education and School Core requirements before Year 3 admission.
 
 Year 3 and Year 4 major coursework remains RIAH-controlled.
+
+
+### YEAR 3 AND YEAR 4 MAJOR ARCHITECTURE
+
+[ICON — LAYERS / UPPER-DIVISION CURRICULUM]
+
+**Year 3:** Applicable 3xxx-level coursework establishes the home-major disciplinary foundation and normally accounts for 30 major credits. Course-level OA, PA, professional software, certification mapping and progression, projects, selected experiential eligibility, and one-month internal ecosystem experience follow each approved course record.
+
+**Year 3 project and capstone controls:** Standalone projects, capstones, applied builds, and professional supervision are not automatically assigned to every Year 3 course; each applies only when expressly established in the controlling course or pathway curriculum.
+
+[FLOW — YEAR 3 MAJOR → DISCIPLINARY FOUNDATION → REQUIRED COURSE ASSESSMENTS → SEQUENTIAL MAJOR KNOWLEDGE → YEAR 4 ADMISSION]
+
+**Year 4:** Applicable advanced major coursework continues the sequence for 30 additional credits and concludes with the designated culminating capstone requirements.
+
+[ON-PAGE LINK — VIEW CAPSTONE REQUIREMENTS → SECTION XXII: CAPSTONE ARCHITECTURE]
 
 ### MASTER'S AND MBA
 
@@ -578,6 +655,9 @@ Historical developments, institutions, events, and historical analysis.
 **PHI 1010 — Philosophy**
 
 Philosophical reasoning, ethics, logic, argument analysis, and major philosophical questions.
+
+
+**PHI 1010 instructional mapping:** Philosophy remains a required General Education course. The uploaded curriculum wireframe identifies a gap in the mapped Edmentum Philosophy courseware; RIAH additional curriculum and other approved resources supply the applicable instructional coverage without removing PHI 1010 or changing its course identity.
 
 **PSY 1010 — Psychology**
 
@@ -1868,6 +1948,13 @@ The RIAH Pathway High School Diploma curriculum includes:
 - Applicable projects.
 - Applicable midterm and final examinations.
 
+
+### SECONDARY COURSEWARE AND ASSESSMENT MAPPING
+
+[ICON — DIPLOMA / SECONDARY EDUCATION]
+
+Edmentum courseware is mapped into applicable High School Diploma courses as an instructional resource, while the RIAH course curriculum controls additional assignments, state components, assessments, and progression. Proctored objective assessments, performance assessments, or both apply according to the approved high-school course record; the curriculum's controlling assessment requirements are not replaced by the instructional provider.
+
 ### HIGH SCHOOL LEARNING STRUCTURE
 
 Edmentum Instructional Curriculum
@@ -1987,6 +2074,9 @@ Program Completion
 Applicable Official Examination
 
 Completion of preparation does not itself award the official GED/HSE credential.
+
+
+Official GED or HiSET examination and credential issuance remain separate from RIAH's internal GED/HSE preparatory curriculum and program completion.
 
 [BUTTON — GED/HSE PROGRAM → INTERNAL: 8.1 GED/HSE PROGRAM]
 
@@ -2223,6 +2313,15 @@ RIAH's proprietary curriculum is not an external alternative-credit source.
 
 External credits must be submitted within the applicable initial admissions and transfer-evaluation window.
 
+
+Sophia Learning, StraighterLine, and similar approved providers remain external alternative-credit sources; their offerings are not embedded RIAH coursework.
+
+Once the applicable enrollment and transfer-evaluation cutoff has passed, additional outside transfer or alternative credit is not added unless the controlling pathway expressly permits it. The established course-equivalency, prerequisite, program-specific, and maximum-transfer restrictions continue to apply.
+
+[ICON — ARROWS / TRANSFER-CREDIT EVALUATION]
+
+[BUTTON — PRE-ADMISSIONS AND TRANSFER REVIEW → INTERNAL: 12.1 PRE-ADMISSIONS]
+
 Bachelor's Years 3 and 4 remain RIAH-controlled.
 
 Accepted foundational transfer credit changes the number of remaining RIAH courses and the student's entry point.
@@ -2405,6 +2504,11 @@ Acceleration does not remove:
 - Payment requirements.
 - Mandatory duration requirements.
 - External credentialing requirements.
+
+
+Acceleration changes academic pacing, not curriculum obligations. Applicable simulations, assigned curriculum products and learning-resource controls, experiential experience requirements, and approved course-level supervision remain in force when a student progresses faster.
+
+[ICON — FAST FORWARD / ACADEMIC ACCELERATION]
 
 ### ACCELERATION FLOW
 
@@ -2623,6 +2727,13 @@ Applicable Capstone
 
 RIAH Pathway maintains its own experiential curriculum, professional assignments, assessment requirements, placement structure, and supervision standards.
 
+
+Experiential participation is governed by the applicable eligibility, cohort selection, available capacity, placement approval, academic or professional readiness, timing, and assigned supervision requirements.
+
+[ICON — BRIEFCASE / APPLIED PROFESSIONAL EXPERIENCE]
+
+The current experiential levels below supersede older duration-based groupings; only the current Apprentice, Intern, Associate, Senior Associate, Manager, and Executive structure is used for program navigation.
+
 ### EXPERIENTIAL LEVELS
 
 | Level | Duration | Related Website Destination |
@@ -2766,6 +2877,11 @@ Applied Knowledge and Professional Skills
 
 This experience is separate from the longer selective Experiential Program.
 
+
+[ICON — USERS / MAJOR-ALIGNED PROFESSIONAL TEAM]
+
+[FLOW — MAJOR + SKILLS DEVELOPED + CURRICULUM PROGRESS + STUDENT READINESS + TEAM READINESS + RIAH ECOSYSTEM AVAILABILITY → MAJOR-ALIGNED TEAM → ONE-MONTH INTERNAL EXPERIENCE → APPLIED KNOWLEDGE AND SKILLS]
+
 [BUTTON — INTERNAL EXPERIENTIAL PLACEMENT → INTERNAL: 5.4 INTERNAL PLACEMENT]
 
 [BUTTON — STUDENT LIFE → INTERNAL: 17.2 STUDENT LIFE]
@@ -2805,6 +2921,11 @@ Applicable majors and academic programs conclude with designated capstone requir
 The controlling curriculum identifies twenty hours of supervision across applicable capstone courses, with two hours per course.
 
 Industry-professional supervision applies to the designated Bachelor's Year 4, Master's, MBA, and Minor capstone courses.
+
+
+The assigned supervisor is a qualified professional connected to the applicable field or major and provides the required meetings, direction, review, and feedback for the designated course. Faster academic progression does not waive the controlling supervision requirement or the existing hours allocation.
+
+[ICON — FLAG / CAPSTONE COMPLETION]
 
 ### MINOR CAPSTONES
 
@@ -2873,6 +2994,9 @@ The J.D. and Non-J.D. pathways remain separate programs while utilizing the appl
 The academic and jurisdictional requirements surrounding shared legal content differ by pathway.
 
 Applicable supervision, legal-study documentation, examination requirements, and state rules remain controlling.
+
+
+RIAH does not substitute a general J.D. supervision policy for the jurisdiction-specific study and supervision requirements that govern a Non-J.D. law pathway. External licensing eligibility and examinations remain independently governed by the applicable jurisdiction.
 
 ### LAW CURRICULUM RELATIONSHIP
 
@@ -3518,6 +3642,11 @@ Established course numbers, titles, credits, prerequisites, software, assessment
 
 Superseded requirements must not be restored from older drafts.
 
+
+Course numbering, names, credit values, prerequisites, software, assessment design, certification-review mapping, projects, experiential eligibility, capstone status, applied-build requirements, and supervision attach to the approved course record unless a current controlling source explicitly states otherwise. A high-level wireframe does not supersede these records.
+
+[ICON — BLUEPRINT / CURRICULUM CONTROL]
+
 ---
 
 # XXXI. MEDIA, DOWNLOADS, AND VISUAL ASSET DIRECTORY
@@ -3554,6 +3683,9 @@ Superseded requirements must not be restored from older drafts.
 | 24 | Image | Student Journey | Admissions |
 | 25 | Image | Accreditation Documentation | Accreditation |
 | 26 | Image | Academic Graduation | Final CTA |
+
+
+| 27 | Image | Curriculum Hero Video Poster — static, accessible academic journey | Hero |
 
 ### ICON INVENTORY
 
@@ -3599,6 +3731,37 @@ Superseded requirements must not be restored from older drafts.
 
 [ICON — DIGITAL LEARNING]
 
+
+[ICON — ROUTE / ACADEMIC PROGRESSION]
+
+[ICON — MAP / CURRICULUM OVERVIEW]
+
+[ICON — LAYERS / ACADEMIC STRUCTURE]
+
+[ICON — DIPLOMA / SECONDARY EDUCATION]
+
+[ICON — CHECKLIST / ASSESSMENT]
+
+[ICON — CLIPBOARD / PLACEMENT]
+
+[ICON — STAIRS / DEVELOPMENTAL PROGRESSION]
+
+[ICON — ARROWS / TRANSFER CREDIT]
+
+[ICON — FAST FORWARD / ACCELERATION]
+
+[ICON — TOOLS / APPLIED BUILD]
+
+[ICON — BRIEFCASE / APPLIED LEARNING]
+
+[ICON — USERS / MAJOR-ALIGNED TEAM]
+
+[ICON — FLAG / CAPSTONE]
+
+[ICON — BOOK + LAPTOP / CURRICULUM PRODUCTS AND LMS]
+
+[ICON — CROWN / FINAL CURRICULUM CALL TO ACTION]
+
 ### PUBLIC DOWNLOADS
 
 [DOWNLOAD — DEGREE PROGRAMS GUIDE → APPROVED PDF ASSET]
@@ -3642,6 +3805,9 @@ Superseded requirements must not be restored from older drafts.
 
 Restricted materials are not public website downloads.
 
+
+**Curriculum wireframe integration download audit:** No additional downloads are introduced by the supplied curriculum wireframe. Existing approved guide placeholders and their product and program routes remain unchanged. Curriculum-level information stays on the appropriate existing website sections; living institutional policies, procedures, guidelines, and applicable disclosures use the approved Resources routing rather than creating redundant downloadable curriculum files.
+
 ---
 
 # XXXII. COMBINED CTA, BUTTONS, LINKS, AND ROUTING CHART
@@ -3649,6 +3815,24 @@ Restricted materials are not public website downloads.
 [SECTION BACKGROUND — WHITE]
 
 ## WEBSITE ROUTING DIRECTORY
+
+
+### CURRICULUM ON-PAGE ANCHOR ROUTING
+
+| Navigation Label | Existing Curriculum Section | Destination Type |
+|---|---|---|
+| 11.1 Academic Structure | IV. Academic Structure and Degree Levels | On-Page Anchor |
+| 11.2 School of Business | VI. School of Business Curriculum | On-Page Anchor |
+| 11.3 School of Homeland Security | VII. School of Homeland Security Curriculum | On-Page Anchor |
+| 11.4 School of Technology | VIII. School of Technology Curriculum | On-Page Anchor |
+| 11.5 School of Law | IX. School of Law Curriculum | On-Page Anchor |
+| 11.6 High School | XI. High School Diploma | On-Page Anchor |
+| 11.7 GED/HSE | XI. GED/HSE Preparation | On-Page Anchor |
+| 11.8 Experiential | XX. Experiential Curriculum | On-Page Anchor |
+| 11.9 Certification & Review | XVIII. Certification and Review Integration | On-Page Anchor |
+| 11.10 Curriculum Architecture | XXIV. Curriculum Architecture | On-Page Anchor |
+
+The navigation links reference existing sections; they do not create a replacement sitemap, add a Curriculum self-link, or change existing cross-page CTA destinations.
 
 ### PRIMARY CTA ROUTING
 
