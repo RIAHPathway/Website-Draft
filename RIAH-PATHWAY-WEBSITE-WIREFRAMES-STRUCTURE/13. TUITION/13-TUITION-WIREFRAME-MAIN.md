@@ -488,7 +488,15 @@ Participating independent attorney assistance: $125 for an agreed eligible matte
 
 ---
 
-## 13.26 — BUTTONS, CTAS, LINKS, DOWNLOADS AND MEDIA TABLES
+## 13.26 — SERVICE PRICING, BUTTONS, CTAS, LINKS, DOWNLOADS AND CROSS-PAGE ROUTING
+### Entrepreneurship and Extended Services — Approved Service Pricing
+
+- **Startup Launch:** 12 weeks; $5,000 standard tuition or $3,750 upfront after the 25% Entrepreneurship-only reduction; three full-price monthly installments; $500 enrollment deposit credited toward tuition; $0 application fee.
+- **Small Business Recovery & Growth:** 16 weeks; $10,000 standard tuition or $7,500 upfront; four full-price monthly installments; $500 tuition-credit deposit; $0 application fee.
+- **Extended Services:** $49 business-paid intake/coordination; $99 affiliate-paid recruitment/vetting; $50 affiliate-paid qualified connection; independent firms set their own professional fees.
+- **Law Community Initiative / Justice-Impacted Community Services:** $125 participating independent attorney assistance, separate voluntary $25 Foundation contribution, and actual jurisdiction-specific court costs where applicable. RIAH does not guarantee record relief.
+- **Cross-Page Routing:** Entrepreneurship 6 and 15.4; Extended Services 15.5; Law Community Initiative 15.3; Tuition 13.11 and 13.13; Foundation 14; Partnerships 17.3; Admissions 12; Contact 20.
+
 
 | Section | Type | Label / Asset | Destination / Notes |
 |---|---|---|---|
