@@ -787,3 +787,12 @@ Nine download categories; individual state guide count pending verified legal co
 
 # LEGAL IMPLEMENTATION
 Confirm jurisdiction-specific state laws and current court fees; licensed partner law firms; voluntary partner attorney acceptance; compliant $125 legal fee and optional $25 VRS-designated Foundation contribution routed through 14 / Donations (no prohibited referral payments or fee sharing); foundation aid eligibility, charitable receipt treatment, 501(c)(3) status and nonprofit restrictions; secure consent-based intake; attorney-client engagement terms; official citations; no guaranteed outcomes. **All proposed state guides, fees and legal-service workflows require jurisdiction-specific attorney verification before publication.**
+
+
+## RELATED CURRICULUM ROUTING — APPROVED PAGE 11
+
+[BUTTON — ENTREPRENEURSHIP CURRICULUM → INTERNAL: 11.10]
+
+[BUTTON — CREDENTIAL CURRICULUM → INTERNAL: 11.11]
+
+[BUTTON — CURRICULUM ARCHITECTURE → INTERNAL: 11.12]

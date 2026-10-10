@@ -1,0 +1,44 @@
+<!-- Original complete Roman-numeral section extracted verbatim from CURRICULUM-DRAFT.md. -->
+**CURRENT WEBSITE ROUTE:** 11.1 CURRICULUM MAIN
+
+[MAIN CURRICULUM WIREFRAME](../11-CURRICULUM-WIREFRAME-MAIN.md) · [CURRICULUM ROUTING](../11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+
+# XXVIII. FINAL CURRICULUM CALL TO ACTION
+
+[SECTION BACKGROUND — RED, BLACK, AND GOLD]
+
+[IMAGE — Students completing academic work, professional projects, and graduation milestones.]
+
+[ICON — CROWN]
+
+## BUILD YOUR PATHWAY FROM FOUNDATION TO APPLICATION
+
+Explore the academic requirements, learning software, assessments, projects, and professional opportunities associated with your selected program.
+
+**Your Education. Your Experience. Your Future.**
+
+Structured education, supervised professional experience, real-business implementation and credential preparation connect through RIAH Pathway.
+
+[BUTTON — EXPLORE ENTREPRENEURSHIP → INTERNAL: 6 ENTREPRENEURSHIP]
+
+[BUTTON — EXPLORE CERTIFICATION REVIEW → INTERNAL: 9 CERTIFICATION REVIEW]
+
+[BUTTON — EXPLORE BAR REVIEW → INTERNAL: 10 BAR REVIEW]
+
+### FINAL ACTIONS
+
+[BUTTON — EXPLORE DEGREE PROGRAMS → INTERNAL: 4 DEGREE PROGRAMS]
+
+[BUTTON — EXPLORE EXPERIENTIAL → INTERNAL: 5 EXPERIENTIAL]
+
+[BUTTON — VIEW ADMISSIONS → INTERNAL: 12 ADMISSIONS]
+
+[BUTTON — CALCULATE TUITION → INTERNAL: 13.7 PRICING CALCULATOR ENGINE]
+
+[BUTTON — EXPLORE PRODUCTS → INTERNAL: 15 PRODUCTS]
+
+[BUTTON — APPLY NOW → INTERNAL: 12.2.2 APPLICATION]
+
+[BUTTON — GET STARTED → INTERNAL: 20.7 GENERAL INQUIRIES]
+
+---

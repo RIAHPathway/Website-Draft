@@ -198,83 +198,199 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - 10.6 — Standard
 - 10.7 — Premium 
 
-### 11 — CURRICULUM — MAIN PAGE WIREFRAME — `Curriculum-Wireframe-Main.md`
-- 11.1 — Academic Structure — `12.1-Academic-Structure-Wireframe.md`
-      - 11.1.1 — Majors
-      - 11.1.2 — Minors
-      - 11.1.3 — Associate's
-      - 11.1.4 — Bachelor's
-      - 11.1.5 — Master's
-      - 11.1.6 — MBA
-      - 11.1.7 - JD
-      - 11.1.8 - Non-JD
-  - 11.1.9 — General Education Curriculum
-  - 11.1.10 — School Core Curriculum
-  - 11.1.11 — Major Curriculum
-  - 11.1.12 — Upper-Division Curriculum
-  - 11.1.13 — Minor Curriculum
-  - 11.1.14 — Master's Curriculum
-  - 11.1.15 — MBA Curriculum
-- 11.2 — School of Business — `12.2-School-Of-Business-Wireframe.md`
-  - 11.2.1 — Curriculum
-  - 11.2.2 — Business Core
-  - 11.2.3 — Accounting
-  - 11.2.4 — Business Management
-  - 11.2.5 — Entrepreneurship
-  - 11.2.6 — Finance
-- 11.3 — School of Homeland Security — `12.3-School-Of-Homeland-Security-Wireframe.md`
-  - 11.3.1 — Curriculum
-  - 11.3.2 — Homeland Security Core
-  - 11.3.3 — Governance, Risk & Compliance (GRC)
-  - 11.3.4 — Intelligence
-  - 11.3.5 — Physical Security
-  - 11.3.6 — Private Investigator
-- 11.4 — School of Technology — `12.4-School-Of-Technology-Wireframe.md`
-  - 11.4.1 — Curriculum
-  - 11.4.2 — Technology Core
-  - 11.4.3 — Computer Science
-  - 11.4.4 — Cybersecurity
-  - 11.4.5 — Data Analytics
-  - 11.4.6 — Data Science
-  - 11.4.7 — Information Systems
-  - 11.4.8 — Program Management
-  - 11.4.9 — Project Management
-  - 11.4.10 — Software Development
-  - 11.4.11 — Software Engineering
-- 11.5 — School of Law — `12.5-School-Of-Law-Wireframe.md`
-  - 11.5.1 — Curriculum
-  - 11.5.2 — Law Core
-  - 11.5.3 — Criminal Justice
-  - 11.5.4 — J.D.
-  - 11.5.5 — Non-J.D. Bar License
-  - 11.5.6 — Bar Review
-- 11.6 — High School — `12.6-High-School-Wireframe.md`
-  - 11.6.1 — Curriculum
-  - 11.6.2 — High School Diploma
-- 11.7 — GED/HSE — `12.7-GED-HSE-Wireframe.md`
-  - 11.7.1 — Curriculum
-  - 11.7.2 — GED/HSE
-- 11.8 — Experiential — `12.8-Experiential-Wireframe.md`
-  - 11.8.1 — Curriculum
-  - 11.8.2 — Apprentice — 1 Month
-  - 11.8.3 — Intern — 3 Months
-  - 11.8.4 — Associate — 1 Year
-  - 11.8.5 — Senior Associate — 1 Year
-  - 11.8.6 — Manager — 1 Year
-  - 11.8.7 — Executive — 1 Year
-- 11.9 — Certification & Review — `12.9-Certification-And-Review-Wireframe.md`
-  - 11.9.1 — Curriculum
-  - 11.9.2 — Certification Review
-    - 11.9.3.1 — Certification Mapping
-  - 11.9.3 — Bar Review
-- 11.10 — Curriculum Architecture — `11.10-Curriculum-Architecture-Wireframe.md`
-  - 11.10.1 — Course Numbering
-  - 11.10.2 — Prerequisites
-  - 11.10.3 — Certification Mapping
-  - 11.10.4 — Assessment
-  - 11.10.5 — Projects
-  - 11.10.6 — Capstones
-  - 11.10.7 — Experiential Integration
+### 11 — CURRICULUM — MAIN PAGE WIREFRAME — [`11-CURRICULUM-WIREFRAME-MAIN.md`](11.%20CURRICULUM/11-CURRICULUM-WIREFRAME-MAIN.md)
+- 11.1 — Curriculum Main — [`11-CURRICULUM-WIREFRAME-MAIN.md`](11.%20CURRICULUM/11-CURRICULUM-WIREFRAME-MAIN.md)
+- 11.2 — ACADEMIC STRUCTURE — [`11.2-ACADEMIC-STRUCTURE-WIREFRAME.md`](11.%20CURRICULUM/11.2-ACADEMIC-STRUCTURE-WIREFRAME.md)
+  - 11.2.1 — Majors
+  - 11.2.2 — Minors
+  - 11.2.3 — General Education
+  - 11.2.4 — School Core
+  - 11.2.5 — Major Curriculum
+  - 11.2.6 — Upper-Division Curriculum
+  - 11.2.7 — Minor Curriculum
+  - 11.2.8 — Master's Curriculum
+  - 11.2.9 — MBA Curriculum
+  - 11.2.10 — Degree Pathway Structure
+- 11.3 — SCHOOL OF BUSINESS — [`11.3-SCHOOL-OF-BUSINESS-WIREFRAME.md`](11.%20CURRICULUM/11.3-SCHOOL-OF-BUSINESS-WIREFRAME.md)
+  - 11.3.1 — Business Overview
+  - 11.3.2 — Business Curriculum
+  - 11.3.3 — Business Core
+  - 11.3.4 — Accounting
+  - 11.3.5 — Business Management
+  - 11.3.6 — Entrepreneurship Major
+  - 11.3.7 — Finance
+- 11.4 — SCHOOL OF HOMELAND SECURITY — [`11.4-SCHOOL-OF-HOMELAND-SECURITY-WIREFRAME.md`](11.%20CURRICULUM/11.4-SCHOOL-OF-HOMELAND-SECURITY-WIREFRAME.md)
+  - 11.4.1 — Homeland Security Overview
+  - 11.4.2 — Homeland Security Curriculum
+  - 11.4.3 — Homeland Security Core
+  - 11.4.4 — Governance, Risk & Compliance
+  - 11.4.5 — Intelligence
+  - 11.4.6 — Physical Security
+  - 11.4.7 — Private Investigator
+- 11.5 — SCHOOL OF TECHNOLOGY — [`11.5-SCHOOL-OF-TECHNOLOGY-WIREFRAME.md`](11.%20CURRICULUM/11.5-SCHOOL-OF-TECHNOLOGY-WIREFRAME.md)
+  - 11.5.1 — Technology Overview
+  - 11.5.2 — Technology Curriculum
+  - 11.5.3 — Technology Core
+  - 11.5.4 — Computer Science
+  - 11.5.5 — Cybersecurity
+  - 11.5.6 — Data Analytics
+  - 11.5.7 — Data Science
+  - 11.5.8 — Information Systems
+  - 11.5.9 — Program Management
+  - 11.5.10 — Project Management
+  - 11.5.11 — Software Development
+  - 11.5.12 — Software Engineering
+- 11.6 — SCHOOL OF LAW — [`11.6-SCHOOL-OF-LAW-WIREFRAME.md`](11.%20CURRICULUM/11.6-SCHOOL-OF-LAW-WIREFRAME.md)
+  - 11.6.1 — Law Overview
+  - 11.6.2 — Law Curriculum
+  - 11.6.3 — Law Core
+  - 11.6.4 — Criminal Justice
+  - 11.6.5 — J.D.
+  - 11.6.6 — Non-J.D.
+  - 11.6.7 — Bar Review
+- 11.7 — HIGH SCHOOL — [`11.7-HIGH-SCHOOL-WIREFRAME.md`](11.%20CURRICULUM/11.7-HIGH-SCHOOL-WIREFRAME.md)
+  - 11.7.1 — High School Overview
+  - 11.7.2 — High School Curriculum
+  - 11.7.3 — High School Diploma
+  - 11.7.4 — Courseware
+  - 11.7.5 — Assessments
+  - 11.7.6 — Academic Progression
+- 11.8 — GED/HSE — [`11.8-GED-HSE-WIREFRAME.md`](11.%20CURRICULUM/11.8-GED-HSE-WIREFRAME.md)
+  - 11.8.1 — GED/HSE Overview
+  - 11.8.2 — GED/HSE Curriculum
+  - 11.8.3 — GED/HSE Preparation
+  - 11.8.4 — Courseware
+  - 11.8.5 — Assessments
+  - 11.8.6 — Academic Progression
+- 11.9 — EXPERIENTIAL CURRICULUM — [`11.9-EXPERIENTIAL-CURRICULUM-WIREFRAME.md`](11.%20CURRICULUM/11.9-EXPERIENTIAL-CURRICULUM-WIREFRAME.md)
+  - 11.9.1 — Experiential Overview
+  - 11.9.2 — Experiential Curriculum
+  - 11.9.3 — Apprentice — 1 Month
+  - 11.9.4 — Intern — 3 Months
+  - 11.9.5 — Associate — 1 Year
+  - 11.9.6 — Senior Associate — 1 Year
+  - 11.9.7 — Manager — 1 Year
+  - 11.9.8 — Executive — 1 Year
+  - 11.9.9 — Experiential Curriculum by School
+  - 11.9.10 — Experiential Curriculum Flow
+  - 11.9.11 — Faculty and Supervision
+  - 11.9.12 — Internal Professional Placements
+  - 11.9.13 — External Employer and Professional Partners
+- 11.10 — ENTREPRENEURSHIP CURRICULUM — [`11.10-ENTREPRENEURSHIP-CURRICULUM-WIREFRAME.md`](11.%20CURRICULUM/11.10-ENTREPRENEURSHIP-CURRICULUM-WIREFRAME.md)
+  - 11.10.1 — Entrepreneurship Overview
+    - 11.10.1 A — Entrepreneurship Experiential Introduction
+    - 11.10.1 B — Two Entrepreneurship Pools
+    - 11.10.1 C — Eight Entrepreneurship Levels
+    - 11.10.1 D — Entrepreneurship Curriculum
+    - 11.10.1 E — Real Business Development
+    - 11.10.1 F — Entrepreneurship Professional Team
+    - 11.10.1 G — Independent Affiliate Partnerships
+  - 11.10.2 — Startup Entrepreneurship
+    - 11.10.2 A — Apprentice Startup — 1 Month
+    - 11.10.2 B — New Startup — 12 Weeks
+    - 11.10.2 C — One-Year Startup — 12 Weeks
+    - 11.10.2 D — Growth Startup — 16 Weeks
+  - 11.10.3 — Small Business Entrepreneurship
+    - 11.10.3 A — Apprentice Small Business — 1 Month
+    - 11.10.3 B — New Small Business — 12 Weeks
+    - 11.10.3 C — Established Small Business — 12 Weeks
+    - 11.10.3 D — Small Business Recovery & Growth — 16 Weeks
+  - 11.10.4 — Entrepreneurship Curriculum Collections
+    - 11.10.4 A — Apprentice Startup Collection
+    - 11.10.4 B — New Startup Collection
+    - 11.10.4 C — One-Year Startup Collection
+    - 11.10.4 D — Growth Startup Collection
+    - 11.10.4 E — Apprentice Small Business Collection
+    - 11.10.4 F — New Small Business Collection
+    - 11.10.4 G — Established Small Business Collection
+    - 11.10.4 H — Small Business Recovery & Growth Collection
+  - 11.10.5 — Entrepreneurship Learning and Implementation
+    - 11.10.5 A — Business Model Development
+    - 11.10.5 B — Market Research
+    - 11.10.5 C — Financial Planning
+    - 11.10.5 D — Business Operations
+    - 11.10.5 E — Marketing and Customer Acquisition
+    - 11.10.5 F — Technology and Cybersecurity
+    - 11.10.5 G — Business Recovery and Stabilization
+    - 11.10.5 H — Growth and Expansion
+    - 11.10.5 I — Business Milestones
+    - 11.10.5 J — Business Capstone
+  - 11.10.6 — Entrepreneurship Professionals and Partnerships
+    - 11.10.6 A — Entrepreneurship Experiential Managers
+    - 11.10.6 B — Business Professionals
+    - 11.10.6 C — CPAs and Accountants
+    - 11.10.6 D — Cybersecurity Professionals
+    - 11.10.6 E — Technology Professionals
+    - 11.10.6 F — Independent CPA and Accounting Firms
+    - 11.10.6 G — Managed Security Service Providers
+    - 11.10.6 H — Software and Development Firms
+    - 11.10.6 I — Independent Law Firms
+    - 11.10.6 J — Other Approved Professional Partners
+  - 11.10.7 — Entrepreneurship Delivery
+    - 11.10.7 A — Remote
+    - 11.10.7 B — Hybrid
+    - 11.10.7 C — Approved On-Site
+    - 11.10.7 D — Concurrent Coursework and Business Implementation
+  - 11.10.8 — Entrepreneurship Admissions
+    - 11.10.8 A — Spring Cohort
+    - 11.10.8 B — Fall Cohort
+    - 11.10.8 C — Startup Eligibility
+    - 11.10.8 D — Small Business Verification
+    - 11.10.8 E — Business Assessment
+    - 11.10.8 F — Application and Enrollment
+    - 11.10.8 G — Orientation
+  - 11.10.9 — Entrepreneurship Tuition
+    - 11.10.9 A — Startup Launch — 12 Weeks — $5,000
+    - 11.10.9 B — Small Business Recovery & Growth — 16 Weeks — $10,000
+    - 11.10.9 C — $75 Application Fee
+    - 11.10.9 D — $500 Enrollment Deposit Credited Toward Tuition
+    - 11.10.9 E — Upfront Payment — 25% Discount
+    - 11.10.9 F — Monthly Payment Options
+    - 11.10.9 G — Payment-Pause Requirements
+    - 11.10.9 H — Cancellation and Unused Prepaid Tuition
+    - 11.10.9 I — Additional Level Pricing Subject to Approval
+  - 11.10.10 — Entrepreneurship Assessments
+    - 11.10.10 A — Business Readiness Assessment
+    - 11.10.10 B — Curriculum Assessments
+    - 11.10.10 C — Applied Business Projects
+    - 11.10.10 D — Business Milestones
+    - 11.10.10 E — Business Capstone
+    - 11.10.10 F — Completion Requirements
+    - 11.10.10 G — Entrepreneurship Completion Certificate
+  - 11.10.11 — Extended Services and Affiliate Connections
+    - 11.10.11 A — Independent Business Intake
+    - 11.10.11 B — Professional Needs Assessment
+    - 11.10.11 C — Affiliate Vetting
+    - 11.10.11 D — Qualified Professional Matching
+    - 11.10.11 E — Business Affiliate Introductions
+    - 11.10.11 F — Separate Professional Agreements
+    - 11.10.11 G — Extended Services Pricing
+    - 11.10.11 H — Entrepreneurship Enrollment Not Required
+- 11.11 — CREDENTIAL CURRICULUM — [`11.11-CREDENTIAL-WIREFRAME.md`](11.%20CURRICULUM/11.11-CREDENTIAL-WIREFRAME.md)
+  - 11.11.1 — Credential Overview
+  - 11.11.2 — Credential Curriculum
+  - 11.11.3 — Certification Review
+  - 11.11.4 — Certification Mapping
+  - 11.11.5 — Bar Review
+  - 11.11.6 — State-Specific Bar Modules
+  - 11.11.7 — California Baby Bar
+  - 11.11.8 — Credential Assessments
+  - 11.11.9 — Credential Products
+  - 11.11.10 — Credential Pricing
+- 11.12 — CURRICULUM ARCHITECTURE — [`11.12-CURRICULUM-ARCHITECTURE-WIREFRAME.md`](11.%20CURRICULUM/11.12-CURRICULUM-ARCHITECTURE-WIREFRAME.md)
+  - 11.12.1 — Curriculum Architecture Overview
+  - 11.12.2 — Course Numbering
+  - 11.12.3 — Prerequisites
+  - 11.12.4 — Certification and Credential Mapping
+  - 11.12.5 — Assessments
+  - 11.12.6 — Projects
+  - 11.12.7 — Capstones
+  - 11.12.8 — Experiential Integration
+  - 11.12.9 — Entrepreneurship Integration
+  - 11.12.10 — Faculty and Professional Supervision
+
+- Curriculum CTA, Buttons and Links — [`11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`](11.%20CURRICULUM/11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- Roman Numeral Source Sections I–XXXIII — `11. CURRICULUM/ROMAN-NUMERAL-SECTIONS/` (source-preserving modules; not separate website pages)
 
 ### 12 — ADMISSIONS — MAIN PAGE WIREFRAME — [`ADMISSIONS-WIREFRAME-MAIN.md`](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)
 - **12 — Admissions main wireframe:** [`ADMISSIONS-WIREFRAME-MAIN.md`](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md)

@@ -434,8 +434,8 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 ## 04 ⚙️ ADMISSIONS REVIEW & EXPERIENTIAL SELECTION
 **Delivery:** Digital.
 
-![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-01.mmd)
 
 **Schools:** School of Business; School of Technology; School of Homeland Security; School of Law.
 **Experiential selection:** Do not describe a general selection interview. Selection is automated and blind under applicable eligibility and capacity rules.
@@ -492,8 +492,8 @@ This is a working website wireframe; unfinalized product mockups remain concepts
 
 **Optional transcript/transfer credit services:** $50 evaluation plus $50 processing ($100 combined when both apply), only where needed and not already included in the student's published allocation. **Experiential allocations:** Estimated $500–$1,500 by applicable program, without any separate education-deposit or application fee. Existing seat-confirmation and welcome-kit timelines apply.
 
-![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-02.mmd)
 
 **Welcome Kit restriction:** The full Welcome Kit is not shipped until the applicable Student Resource Allocation Fee has been paid.
 **Experiential capacity/deadline rule:** Accepted experiential applicants must pay by the first resource allocation deadline or forfeit their reserved seat.  
@@ -549,8 +549,8 @@ Training includes expectations, materials, placements and introductions to assig
 ## 10 👥 COHORT, SCHOOL & COMMUNITY
 **Delivery:** Digital + Physical + Community.
 
-![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-03.mmd)
 
 **Experience:** Human camaraderie, student-to-student engagement, school identity, group activities, shared cohort progress, student support.
 | Receive | Items Received |
@@ -627,8 +627,8 @@ Accreditation or Title IV participation must not be represented as already appro
 
 **Application — $0 (free to apply)**  
 
-![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
-[Mermaid source](IMAGES/11-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
+![12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.svg)
+[Mermaid source](IMAGES/12-ADMISSIONS-WIREFRAMES-CTA-LINKS-ROUTING-FLOW-04.mmd)
 
 ## 🌐 PUBLIC WEBSITE FLOW — ADMISSIONS
 

@@ -264,7 +264,7 @@ Program Completion
 
 [TEXT]
 
-The Curriculum page contains ten sitemap-numbered curriculum categories. The nine named institutional schools are listed below and integrated into the existing categories; no additional sitemap numbers are invented.
+The Curriculum page contains twelve approved curriculum sitemap entries. The nine named institutional schools are listed below and integrated into the existing categories; no additional sitemap numbers are invented.
 
 Each category displays its applicable curriculum content directly within the Curriculum website section.
 
@@ -275,29 +275,29 @@ Each category displays its applicable curriculum content directly within the Cur
 
 [ICON — LAYERS / ACADEMIC STRUCTURE]
 
-[ON-PAGE LINK — 11.1 ACADEMIC STRUCTURE → SECTION IV: ACADEMIC STRUCTURE AND DEGREE LEVELS]
+[ON-PAGE LINK — 11.2 ACADEMIC STRUCTURE → SECTION IV: ACADEMIC STRUCTURE AND DEGREE LEVELS]
 
-[ON-PAGE LINK — 11.2 SCHOOL OF BUSINESS → SECTION VI: SCHOOL OF BUSINESS CURRICULUM]
+[ON-PAGE LINK — 11.3 SCHOOL OF BUSINESS → SECTION VI: SCHOOL OF BUSINESS CURRICULUM]
 
-[ON-PAGE LINK — 11.3 SCHOOL OF HOMELAND SECURITY → SECTION VII: SCHOOL OF HOMELAND SECURITY CURRICULUM]
+[ON-PAGE LINK — 11.4 SCHOOL OF HOMELAND SECURITY → SECTION VII: SCHOOL OF HOMELAND SECURITY CURRICULUM]
 
-[ON-PAGE LINK — 11.4 SCHOOL OF TECHNOLOGY → SECTION VIII: SCHOOL OF TECHNOLOGY CURRICULUM]
+[ON-PAGE LINK — 11.5 SCHOOL OF TECHNOLOGY → SECTION VIII: SCHOOL OF TECHNOLOGY CURRICULUM]
 
-[ON-PAGE LINK — 11.5 SCHOOL OF LAW → SECTION IX: SCHOOL OF LAW CURRICULUM]
+[ON-PAGE LINK — 11.6 SCHOOL OF LAW → SECTION IX: SCHOOL OF LAW CURRICULUM]
 
-[ON-PAGE LINK — 11.6 HIGH SCHOOL → SECTION XI: HIGH SCHOOL DIPLOMA]
+[ON-PAGE LINK — 11.7 HIGH SCHOOL → SECTION XI: HIGH SCHOOL DIPLOMA]
 
-[ON-PAGE LINK — 11.7 GED/HSE → SECTION XI: GED/HSE PREPARATION]
+[ON-PAGE LINK — 11.8 GED/HSE → SECTION XI: GED/HSE PREPARATION]
 
-[ON-PAGE LINK — 11.8 EXPERIENTIAL → SECTION XX: EXPERIENTIAL CURRICULUM]
+[ON-PAGE LINK — 11.9 EXPERIENTIAL → SECTION XX: EXPERIENTIAL CURRICULUM]
 
-[ON-PAGE LINK — 11.9 CREDENTIAL → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
+[ON-PAGE LINK — 11.11 CREDENTIAL → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
 
-[ON-PAGE LINK — 11.10 CURRICULUM ARCHITECTURE → SECTION XXIV: CURRICULUM ARCHITECTURE]
+[ON-PAGE LINK — 11.12 CURRICULUM ARCHITECTURE → SECTION XXIV: CURRICULUM ARCHITECTURE]
 
 ### SPECIALIZED CONTENT WITHIN EXISTING CURRICULUM CATEGORIES
 
-[ON-PAGE LINK — ENTREPRENEURSHIP CURRICULUM → SECTION X: SCHOOL OF ENTREPRENEURSHIP CURRICULUM]
+[ON-PAGE LINK — 11.10 ENTREPRENEURSHIP CURRICULUM → SECTION X: SCHOOL OF ENTREPRENEURSHIP CURRICULUM]
 
 [ON-PAGE LINK — CREDENTIAL → SECTION XVIII: CERTIFICATION AND REVIEW INTEGRATION]
 
@@ -305,7 +305,7 @@ Each category displays its applicable curriculum content directly within the Cur
 
 [ON-PAGE LINK — INDIVIDUAL COURSE RECORDS → SECTION XXV: CURRICULUM CONTROL AND COURSE-LEVEL DETAIL]
 
-These are on-page links, not additional 11.11 or 11.12 destinations. The authoritative repository sitemap uses Curriculum sections 11.1–11.10.
+These are on-page links, not additional 11.11 or 11.12 destinations. The authoritative repository sitemap uses Curriculum sections 11.1–11.12.
 
 The on-page links navigate to existing Curriculum content without creating additional main pages, changing the approved 20-page sitemap, or routing users to a duplicate Curriculum landing page.
 
@@ -313,7 +313,7 @@ The navigation cards identify the corresponding curriculum structure.
 
 They are not additional buttons directing users back to the page they are already viewing.
 
-### 11.1 — ACADEMIC STRUCTURE
+### 11.2 — ACADEMIC STRUCTURE
 
 [ICON — ACADEMIC STRUCTURE]
 
@@ -333,7 +333,7 @@ They are not additional buttons directing users back to the page they are alread
 - Upper-Division Curriculum.
 - Graduate Curriculum.
 
-### 11.2 — SCHOOL OF BUSINESS
+### 11.3 — SCHOOL OF BUSINESS
 
 [ICON — BUSINESS]
 
@@ -346,7 +346,7 @@ They are not additional buttons directing users back to the page they are alread
 - Entrepreneurship (School of Business academic major; separate from School of Entrepreneurship program on Page 6).
 - Finance.
 
-### 11.3 — SCHOOL OF HOMELAND SECURITY
+### 11.4 — SCHOOL OF HOMELAND SECURITY
 
 [ICON — HOMELAND SECURITY]
 
@@ -359,7 +359,7 @@ They are not additional buttons directing users back to the page they are alread
 - Physical Security.
 - Private Investigator.
 
-### 11.4 — SCHOOL OF TECHNOLOGY
+### 11.5 — SCHOOL OF TECHNOLOGY
 
 [ICON — TECHNOLOGY]
 
@@ -377,7 +377,7 @@ They are not additional buttons directing users back to the page they are alread
 - Software Development.
 - Software Engineering.
 
-### 11.5 — SCHOOL OF LAW
+### 11.6 — SCHOOL OF LAW
 
 [ICON — LAW]
 
@@ -390,7 +390,7 @@ They are not additional buttons directing users back to the page they are alread
 - Non-J.D. Bar License.
 - Bar Review.
 
-### 11.6 — HIGH SCHOOL
+### 11.7 — HIGH SCHOOL
 
 [ICON — HIGH SCHOOL]
 
@@ -401,7 +401,7 @@ They are not additional buttons directing users back to the page they are alread
 - Regular High School.
 - Dual Enrollment.
 
-### 11.7 — GED/HSE
+### 11.8 — GED/HSE
 
 [ICON — GED]
 
@@ -411,7 +411,7 @@ They are not additional buttons directing users back to the page they are alread
 - GED/HSE Preparation.
 - Concurrent College Credits.
 
-### 11.8 — EXPERIENTIAL
+### 11.9 — EXPERIENTIAL
 
 [ICON — PROFESSIONAL EXPERIENCE]
 
@@ -425,7 +425,7 @@ They are not additional buttons directing users back to the page they are alread
 - Manager.
 - Executive.
 
-### 11.9 — CERTIFICATION & REVIEW
+### 11.11 — CREDENTIAL CURRICULUM
 
 [ICON — CERTIFICATE]
 
@@ -436,7 +436,15 @@ They are not additional buttons directing users back to the page they are alread
 - Certification Mapping.
 - Bar Review.
 
-### 11.10 — CURRICULUM ARCHITECTURE
+### 11.10 — ENTREPRENEURSHIP CURRICULUM
+
+[ICON — ENTREPRENEURSHIP]
+
+[ON-PAGE LINK — ENTREPRENEURSHIP CURRICULUM → SECTION X: SCHOOL OF ENTREPRENEURSHIP CURRICULUM]
+
+[BUTTON — ENTREPRENEURSHIP PROGRAM → INTERNAL: 6]
+
+### 11.12 — CURRICULUM ARCHITECTURE
 
 [ICON — BLUEPRINT]
 
@@ -454,14 +462,14 @@ They are not additional buttons directing users back to the page they are alread
 
 [SECTION CARD — NINE RIAH PATHWAY SCHOOLS]
 
-- **School of Business** — Business Core, accounting, management, entrepreneurship major, and finance: 11.2; 4.2.1.
-- **School of Technology** — Technology Core and technology majors: 11.4; 4.2.4.
-- **School of Law** — Law Core, criminal justice, J.D., non-J.D., and review: 11.5; 4.2.3.
-- **School of Homeland Security** — Homeland Security Core and aligned majors: 11.3; 4.2.2.
-- **School of GED** — GED/HSE preparation and applicable concurrent college credits: 11.7; 8.
-- **School of Diploma** — High School Diploma, approved transfer entry, and dual enrollment: 11.6; 7.
-- **School of Credential** — Certification Review and Bar Review, including applicable professional certification preparation, state-specific Bar Review modules, and California Baby Bar preparation: 11.9; 9; 10.
-- **School of Experiential** — Six professional experiential levels, curriculum, supervision, and projects: 11.8; 5.
+- **School of Business** — Business Core, accounting, management, entrepreneurship major, and finance: 11.3; 4.2.1.
+- **School of Technology** — Technology Core and technology majors: 11.5; 4.2.4.
+- **School of Law** — Law Core, criminal justice, J.D., non-J.D., and review: 11.6; 4.2.3.
+- **School of Homeland Security** — Homeland Security Core and aligned majors: 11.4; 4.2.2.
+- **School of GED** — GED/HSE preparation and applicable concurrent college credits: 11.8; 8.
+- **School of Diploma** — High School Diploma, approved transfer entry, and dual enrollment: 11.7; 7.
+- **School of Credential** — Certification Review and Bar Review, including applicable professional certification preparation, state-specific Bar Review modules, and California Baby Bar preparation: 11.11; 9; 10.
+- **School of Experiential** — Six professional experiential levels, curriculum, supervision, and projects: 11.9; 5.
 - **School of Entrepreneurship** — Separate eight-level Startup and Small Business entrepreneurship program: dedicated Roman-numeral curriculum section; 6.
 
 [ICON — CREDENTIAL]
@@ -3886,7 +3894,7 @@ RIAH Pathway protected curriculum intellectual property resides within approved 
 - Certification-And-Review-Wireframe.md
 - Curriculum-Architecture-Wireframe.md
 - School of Entrepreneurship content — integrated into the existing CURRICULUM-DRAFT.md Roman-numeral curriculum structure, routed to Page 6.
-- Nine named schools — integrated as an unnumbered directory without changing sitemap 11.1–11.10.
+- Nine named schools — integrated as an unnumbered directory without changing sitemap 11.1–11.12.
 - Curriculum-CTA-Buttons-Links-Routing.md
 - IMAGES
 - DOWNLOADS
@@ -4134,16 +4142,16 @@ Restricted materials are not public website downloads.
 
 | Navigation Label | Existing Curriculum Section | Destination Type |
 |---|---|---|
-| 11.1 Academic Structure | IV. Academic Structure and Degree Levels | On-Page Anchor |
-| 11.2 School of Business | VI. School of Business Curriculum | On-Page Anchor |
-| 11.3 School of Homeland Security | VII. School of Homeland Security Curriculum | On-Page Anchor |
-| 11.4 School of Technology | VIII. School of Technology Curriculum | On-Page Anchor |
-| 11.5 School of Law | IX. School of Law Curriculum | On-Page Anchor |
-| 11.6 High School | XI. High School Diploma | On-Page Anchor |
-| 11.7 GED/HSE | XI. GED/HSE Preparation | On-Page Anchor |
-| 11.8 Experiential | XX. Experiential Curriculum | On-Page Anchor |
-| 11.9 Credential | XVIII. Certification and Review Integration | On-Page Anchor |
-| 11.10 Curriculum Architecture | XXIV. Curriculum Architecture | On-Page Anchor |
+| 11.2 Academic Structure | IV. Academic Structure and Degree Levels | On-Page Anchor |
+| 11.3 School of Business | VI. School of Business Curriculum | On-Page Anchor |
+| 11.4 School of Homeland Security | VII. School of Homeland Security Curriculum | On-Page Anchor |
+| 11.5 School of Technology | VIII. School of Technology Curriculum | On-Page Anchor |
+| 11.6 School of Law | IX. School of Law Curriculum | On-Page Anchor |
+| 11.7 High School | XI. High School Diploma | On-Page Anchor |
+| 11.8 GED/HSE | XI. GED/HSE Preparation | On-Page Anchor |
+| 11.9 Experiential | XX. Experiential Curriculum | On-Page Anchor |
+| 11.11 Credential | XVIII. Certification and Review Integration | On-Page Anchor |
+| 11.12 Curriculum Architecture | XXIV. Curriculum Architecture | On-Page Anchor |
 
 The navigation links reference existing sections; they do not create a replacement sitemap, add a Curriculum self-link, or change existing cross-page CTA destinations.
 
@@ -4151,23 +4159,23 @@ The navigation links reference existing sections; they do not create a replaceme
 
 | Requested Curriculum Area | Existing Approved Route | Interaction |
 |---|---|---|
-| Academic Structure | 11.1 | On-Page |
-| School of Business | 11.2 | On-Page |
-| School of Homeland Security | 11.3 | On-Page |
-| School of Technology | 11.4 | On-Page |
-| School of Law | 11.5 | On-Page |
-| High School Curriculum | 11.6 | On-Page |
-| GED/HSE Curriculum | 11.7 | On-Page |
-| Professional Experiential Curriculum | 11.8 | On-Page |
-| Credential / Certification / Bar Review Curriculum | 11.9 | On-Page |
-| Curriculum Architecture | 11.10 | On-Page |
+| Academic Structure | 11.2 | On-Page |
+| School of Business | 11.3 | On-Page |
+| School of Homeland Security | 11.4 | On-Page |
+| School of Technology | 11.5 | On-Page |
+| School of Law | 11.6 | On-Page |
+| High School Curriculum | 11.7 | On-Page |
+| GED/HSE Curriculum | 11.8 | On-Page |
+| Professional Experiential Curriculum | 11.9 | On-Page |
+| Credential / Certification / Bar Review Curriculum | 11.11 | On-Page |
+| Curriculum Architecture | 11.12 | On-Page |
 | Entrepreneurship Curriculum | Existing Roman Numeral X; 6 Entrepreneurship | On-Page / Internal |
 | Entrepreneurship Pricing | 6.9 | Internal |
 | Entrepreneurship Payment Terms | 6.10 | Internal |
 | Extended Services | 15.5 | Internal |
 | Affiliate Partnerships | 17.3 | Internal |
 
-Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing because the separately checked GitHub website sitemap currently defines Curriculum 11.1–11.10. Their applicable content is integrated above without replacing the existing approved navigation.
+Newly proposed numbers 11.11 and 11.12 are not inserted into the live routing because the separately checked GitHub website sitemap currently defines Curriculum 11.1–11.12. Their applicable content is integrated above without replacing the existing approved navigation.
 
 ### PRIMARY CTA ROUTING
 
@@ -4508,27 +4516,35 @@ Buttons route to the applicable related website section, admissions pathway, pro
 
 ---
 
-## APPROVED CURRICULUM SITEMAP IMPLEMENTATION — 11.1 THROUGH 11.12
+## CURRENT APPROVED CURRICULUM ROUTING — 11.1–11.12
 
-The definitive website sitemap supersedes the previous 11.1–11.10 Curriculum numbering still retained above as historical source. This is an additive routing crosswalk; the original curriculum content, course records, and Roman numeral sections are preserved exactly.
+**Website Main Page:** 11 — CURRICULUM. This hierarchy supersedes earlier internal 11.1–11.12 labels without changing the existing source draft.
 
-| Canonical Number | Curriculum Content | Approved Wireframe |
+| Number | Heading | Markdown |
 |---|---|---|
-| 11.1 | Curriculum Main | `11-CURRICULUM-WIREFRAME-MAIN.md` |
-| 11.2 | ACADEMIC STRUCTURE | `11.2-ACADEMIC-STRUCTURE-WIREFRAME.md` |
-| 11.3 | SCHOOL OF BUSINESS | `11.3-SCHOOL-OF-BUSINESS-WIREFRAME.md` |
-| 11.4 | SCHOOL OF HOMELAND SECURITY | `11.4-SCHOOL-OF-HOMELAND-SECURITY-WIREFRAME.md` |
-| 11.5 | SCHOOL OF TECHNOLOGY | `11.5-SCHOOL-OF-TECHNOLOGY-WIREFRAME.md` |
-| 11.6 | SCHOOL OF LAW | `11.6-SCHOOL-OF-LAW-WIREFRAME.md` |
-| 11.7 | HIGH SCHOOL | `11.7-HIGH-SCHOOL-WIREFRAME.md` |
-| 11.8 | GED/HSE | `11.8-GED-HSE-WIREFRAME.md` |
-| 11.9 | EXPERIENTIAL CURRICULUM | `11.9-EXPERIENTIAL-CURRICULUM-WIREFRAME.md` |
-| 11.10 | ENTREPRENEURSHIP CURRICULUM | `11.10-ENTREPRENEURSHIP-CURRICULUM-WIREFRAME.md` |
-| 11.11 | CREDENTIAL CURRICULUM | `11.11-CREDENTIAL-WIREFRAME.md` |
-| 11.12 | CURRICULUM ARCHITECTURE | `11.12-CURRICULUM-ARCHITECTURE-WIREFRAME.md` |
-
-[BUTTON — MAIN CURRICULUM WIREFRAME → INTERNAL: 11]
-
-[BUTTON — COMBINED CURRICULUM ROUTING → INTERNAL: 11]
+| 11.1 | CURRICULUM MAIN | [11-CURRICULUM-WIREFRAME-MAIN.md](11-CURRICULUM-WIREFRAME-MAIN.md) |
+| 11.2 | ACADEMIC STRUCTURE | [11.2-ACADEMIC-STRUCTURE-WIREFRAME.md](11.2-ACADEMIC-STRUCTURE-WIREFRAME.md) |
+| 11.3 | SCHOOL OF BUSINESS | [11.3-SCHOOL-OF-BUSINESS-WIREFRAME.md](11.3-SCHOOL-OF-BUSINESS-WIREFRAME.md) |
+| 11.4 | SCHOOL OF HOMELAND SECURITY | [11.4-SCHOOL-OF-HOMELAND-SECURITY-WIREFRAME.md](11.4-SCHOOL-OF-HOMELAND-SECURITY-WIREFRAME.md) |
+| 11.5 | SCHOOL OF TECHNOLOGY | [11.5-SCHOOL-OF-TECHNOLOGY-WIREFRAME.md](11.5-SCHOOL-OF-TECHNOLOGY-WIREFRAME.md) |
+| 11.6 | SCHOOL OF LAW | [11.6-SCHOOL-OF-LAW-WIREFRAME.md](11.6-SCHOOL-OF-LAW-WIREFRAME.md) |
+| 11.7 | HIGH SCHOOL | [11.7-HIGH-SCHOOL-WIREFRAME.md](11.7-HIGH-SCHOOL-WIREFRAME.md) |
+| 11.8 | GED/HSE | [11.8-GED-HSE-WIREFRAME.md](11.8-GED-HSE-WIREFRAME.md) |
+| 11.9 | EXPERIENTIAL CURRICULUM | [11.9-EXPERIENTIAL-CURRICULUM-WIREFRAME.md](11.9-EXPERIENTIAL-CURRICULUM-WIREFRAME.md) |
+| 11.10 | ENTREPRENEURSHIP CURRICULUM | [11.10-ENTREPRENEURSHIP-CURRICULUM-WIREFRAME.md](11.10-ENTREPRENEURSHIP-CURRICULUM-WIREFRAME.md) |
+| 11.11 | CREDENTIAL CURRICULUM | [11.11-CREDENTIAL-WIREFRAME.md](11.11-CREDENTIAL-WIREFRAME.md) |
+| 11.12 | CURRICULUM ARCHITECTURE | [11.12-CURRICULUM-ARCHITECTURE-WIREFRAME.md](11.12-CURRICULUM-ARCHITECTURE-WIREFRAME.md) |
 
 [BUTTON — APPLY NOW → INTERNAL: 12 ADMISSIONS]
+
+[BUTTON — EXPLORE PATHWAYS → INTERNAL: 3 PATHWAY]
+
+[BUTTON — RETURN TO CURRICULUM HOME → INTERNAL: 11 CURRICULUM]
+
+## ROMAN NUMERAL SECTION DOCUMENTATION
+
+The main wireframe preserves all 33 approved Roman numeral sections (I–XXXIII), including the original course tables and requirements. Each section also has a corresponding source-preserving Markdown module in [ROMAN-NUMERAL-SECTIONS](ROMAN-NUMERAL-SECTIONS/).
+
+## CURRICULUM INTERNAL ROUTING
+
+[CURRICULUM CTA, BUTTONS, LINKS AND ROUTING](11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)

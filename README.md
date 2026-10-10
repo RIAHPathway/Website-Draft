@@ -335,7 +335,7 @@ The completed **Join Us** wireframe family provides a visual example of how RIAH
 
 The main Join Us wireframe introduces the complete participation ecosystem and routes students, professionals, organizations, employers, partners, faculty, employees, governance participants, contributors, and Ambassadors into the appropriate RIAH Pathway experience. It connects education pathways, Student Life, Experiential, partnerships, Join Our Team, and Ambassadors from one central page.
 
-![17.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-I-WIREFRAME-DESIGN.png)
+![17.1 Join Us Wireframe Main](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/17.1-I-WIREFRAME-DESIGN.png)
 
 ## 17.2 — Student Life Wireframe
 
@@ -343,7 +343,7 @@ The main Join Us wireframe introduces the complete participation ecosystem and r
 
 The Student Life wireframe organizes the student-facing community experience around institutional identity, organizations, honor societies, Greek Life, community, Ambassadors, events, benefits, student recognition, career services, opportunities, and connection across the RIAH Pathway schools.
 
-![17.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-II-WIREFRAME-DESIGN.png)
+![17.2 Student Life Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/17.1-II-WIREFRAME-DESIGN.png)
 
 ## 17.3 — Partnerships Wireframe
 
@@ -351,7 +351,7 @@ The Student Life wireframe organizes the student-facing community experience aro
 
 The Partnerships wireframe routes educational and professional organizations into the RIAH Pathway partnership ecosystem, including law firms, courts, schools, colleges, universities, professional firms, training and certification providers, startups, small businesses, entrepreneurship ventures, and employers.
 
-![17.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-III-WIREFRAME-DESIGN.png)
+![17.3 Partnerships Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/17.1-III-WIREFRAME-DESIGN.png)
 
 ## 17.4 — Join Our Team Wireframe
 
@@ -359,7 +359,7 @@ The Partnerships wireframe routes educational and professional organizations int
 
 The Join Our Team wireframe presents the phased team-building structure for executive leadership, governance, academic faculty, experiential professionals, technical professionals, credential professionals, legal professionals, career resources, and the Beta Core Team while routing candidates to the appropriate opportunities and application pathways.
 
-![17.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-IV-WIREFRAME-DESIGN.png)
+![17.4 Join Our Team Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/17.1-IV-WIREFRAME-DESIGN.png)
 
 ## 17.5 — Ambassadors Wireframe
 
@@ -367,7 +367,7 @@ The Join Our Team wireframe presents the phased team-building structure for exec
 
 The Ambassadors wireframe presents the RIAH Pathway Ambassador structure for Substitute Teachers, Rideshare participants, Delivery participants, Content Creators, and GitHub Contributors, with routing to each Ambassador type and its applicable participation and benefits resources.
 
-![17.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/16.1-V-WIREFRAME-DESIGN.png)
+![17.5 Ambassadors Wireframe](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/17-JOIN-US/IMAGES/17.1-V-WIREFRAME-DESIGN.png)
 
 ---
 
@@ -614,3 +614,22 @@ Public GitHub development does not make private curriculum, internal systems, co
 ---
 
 # 👑RIAH Pathway.
+
+
+## CURRICULUM WIREFRAMES — APPROVED 11.1–11.12
+
+- 11.1 — [CURRICULUM MAIN](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11-CURRICULUM-WIREFRAME-MAIN.md)
+- 11.2 — [ACADEMIC STRUCTURE](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.2-ACADEMIC-STRUCTURE-WIREFRAME.md)
+- 11.3 — [SCHOOL OF BUSINESS](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.3-SCHOOL-OF-BUSINESS-WIREFRAME.md)
+- 11.4 — [SCHOOL OF HOMELAND SECURITY](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.4-SCHOOL-OF-HOMELAND-SECURITY-WIREFRAME.md)
+- 11.5 — [SCHOOL OF TECHNOLOGY](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.5-SCHOOL-OF-TECHNOLOGY-WIREFRAME.md)
+- 11.6 — [SCHOOL OF LAW](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.6-SCHOOL-OF-LAW-WIREFRAME.md)
+- 11.7 — [HIGH SCHOOL](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.7-HIGH-SCHOOL-WIREFRAME.md)
+- 11.8 — [GED/HSE](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.8-GED-HSE-WIREFRAME.md)
+- 11.9 — [EXPERIENTIAL CURRICULUM](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.9-EXPERIENTIAL-CURRICULUM-WIREFRAME.md)
+- 11.10 — [ENTREPRENEURSHIP CURRICULUM](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.10-ENTREPRENEURSHIP-CURRICULUM-WIREFRAME.md)
+- 11.11 — [CREDENTIAL CURRICULUM](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.11-CREDENTIAL-WIREFRAME.md)
+- 11.12 — [CURRICULUM ARCHITECTURE](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11.12-CURRICULUM-ARCHITECTURE-WIREFRAME.md)
+
+- [CURRICULUM COMBINED CTA, BUTTONS, LINKS AND ROUTING](./RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11.%20CURRICULUM/11-CURRICULUM-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
+- Roman numeral source modules I–XXXIII: `RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE/11. CURRICULUM/ROMAN-NUMERAL-SECTIONS/`.
