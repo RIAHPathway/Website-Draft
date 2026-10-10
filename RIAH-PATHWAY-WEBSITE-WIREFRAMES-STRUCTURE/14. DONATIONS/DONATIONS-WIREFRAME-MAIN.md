@@ -983,6 +983,8 @@ Applicable raised • allocated • spent • awarded • remaining • status
 
 **[BUTTON 14-B64 — EXPERIENTIAL → 5]**
 
+**[BUTTON 14-B117 — ENTREPRENEURSHIP → 6]**
+
 **[BUTTON 14-B65 — HIGH SCHOOL → 7]**
 
 **[BUTTON 14-B66 — GED/HSE → 8]**
@@ -1620,6 +1622,7 @@ The Donations wireframe incorporates applicable content and routing from the cur
 | 14-B114 | Button | Accreditation & Authorization | Accreditation & Authorization | 16 |
 | 14-B115 | Button | Resources | Resources | 18 |
 | 14-B116 | Button | FAQ | FAQ | 19 |
+| 14-B117 | Button | Entrepreneurship | Entrepreneurship | 6 |
 
 ---
 
