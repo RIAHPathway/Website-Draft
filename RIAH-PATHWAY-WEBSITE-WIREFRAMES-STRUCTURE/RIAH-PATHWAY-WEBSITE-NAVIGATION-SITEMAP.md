@@ -636,7 +636,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **Donation media inventory:** one hero video; institutional/community hero image; Foundation image; governance diagram; scholarship/grant/stipend icons and infographics; accreditation image; U.S. + D.C. authorization map; donation transparency dashboard; donor-named fund cards; donation flow; community-impact flow; final CTA image.
 - **Current donation disclosures:** restricted-fund controls; student award eligibility and availability; donor-recipient selection separation; no purchase or guarantee of accreditation or authorization; actual status language controls; tax treatment reflects actual Foundation/IRS status; protected donor information remains private.
 - **Main Donations flow:** Hero → Community Support → Foundation → Governance → Support Areas → Scholarships → Grants → Stipends → Funding Pools → Donor/External Funding → Named Funds → Recipient Selection → Contributor Benefits → Reimbursement → Accreditation Support → State Authorization Support → Transparency → Donation Flow → Fund Impact → Student/Community Routing → Other Support → Resources → Disclosures → Donations Directory → Related Pages → Final CTA → Giving Options → Justice-Impacted Community Support Connection → Donation Questions/Support Routing.
-- **Donation button / CTA inventory:** 14-B01 through 14-B116 are fully mapped in the combined CTA routing Markdown.
+- **Donation button / CTA inventory:** 14-B01 through 14-B117 are fully mapped in the combined CTA routing Markdown.
 - **Donation download inventory:** 14-D01 through 14-D02.
 - **Donation external-link inventory:** 14-L01 through 14-L03 plus the configured production donation platform.
 - **Donation folder:** 14. DONATIONS now contains the main wireframe and combined CTA/routing Markdown using uppercase dash-separated filenames.
@@ -648,8 +648,8 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 - **15.4 — Entrepreneurship Program:** Startup Launch (12 weeks; **$5,000**) and Small Business Recovery & Growth (16 weeks; **$10,000**) with Spring/Fall cohorts; remote, hybrid and on-site entrepreneurship work; concurrent coursework, Experiential professionals and independently contracted professional affiliates.
 - **15.4 — Payment Options:** Pay **upfront / save 25%**: Startup **$3,750**, Small Business **$7,500**; or **monthly at full tuition**: 3 Startup or 4 Small Business installments. Existing $500 enrollment deposit is credited toward either plan. Nonpayment pauses courses/program until paid. Upfront cancellation is allowed anytime; delivered/used program periods are earned revenue and unused prepaid tuition refunded. See [Tuition & Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md).
 - **15.5 — Extended Services — Business Affiliate Connections:** Startup and verified-small-business matching with vetted MSSPs, CPA/accounting firms, development firms and law firms. Business intake **$49**; affiliate recruitment/vetting **$99** and qualified connection **$50** (affiliate-paid).
-- **14 wireframe, images and CTAs:** [Main Products & Services wireframe](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md) includes SECTION 16A and SECTION 16B, their [IMAGE PLACEHOLDER], [ICON], [FLOW] and [BUTTON] specifications, fee tables and routing audit. No 14 image binaries are yet published; image references are placeholders, not broken URLs.
-- **Related records:** [Admissions 11](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 17.3](17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
+- **15 wireframe, images and CTAs:** [Main Products & Services wireframe](15.%20PRODUCTS-AND-SERVICES/15-PRODUCTS-AND-SERVICES-WIREFRAME-MAIN.md) includes SECTION 16A and SECTION 16B, their [IMAGE PLACEHOLDER], [ICON], [FLOW] and [BUTTON] specifications, fee tables and routing audit. No 15 image binaries are yet published; image references are placeholders, not broken URLs.
+- **Related records:** [Admissions 12](12.%20ADMISSIONS/ADMISSIONS-WIREFRAME-MAIN.md), [Tuition and Fees](../RIAH-PATHWAY-TUITION-PRICING-FEES-STRUCTURE/RIAH-PATHWAY-TUITION-PRICING-FEES.md), [Partnerships 17.3](17-JOIN-US/17.3-PARTNERSHIPS-WIREFRAME.md) and [Experiential Structure](../RIAH-PATHWAY-EXPERIENTIAL-STRUCTURE/EXPERIENTIAL-STRUCTURE.md).
 
 ### 16 — ACCREDITATION & AUTHORIZATION — MAIN PAGE WIREFRAME — `Accreditation-And-Authorization-Wireframe-Main.md`
 - **16 — CTA, buttons, links, downloads and media routing:** [`16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md`](16.%20ACCREDITATION%20%26%20AUTHORIZATION/16-ACCREDITATION-COMBINED-CTA-BUTTONS-LINKS-ROUTING.md)
@@ -661,7 +661,7 @@ Learn more about me on GitHub and LinkedIn, or connect with me through social me
 
 ### 17 — JOIN US — MAIN PAGE WIREFRAME — [`17.1-JOIN-US-WIREFRAME-MAIN.md`](17-JOIN-US/17.1-JOIN-US-WIREFRAME-MAIN.md)
 - **17.1 — Join Us main wireframe:** [`17.1-JOIN-US-WIREFRAME-MAIN.md`](17-JOIN-US/17.1-JOIN-US-WIREFRAME-MAIN.md)
-- **16 — CTA, links & routing directory:** [`17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md`](17-JOIN-US/17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md)
+- **17 — CTA, links & routing directory:** [`17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md`](17-JOIN-US/17-JOIN-US-WIREFRAMES-CTA-LINKS-ROUTING.md)
 - 17.2 — Student Life — [`17.2-STUDENT-LIFE-WIREFRAME.md`](17-JOIN-US/17.2-STUDENT-LIFE-WIREFRAME.md)
   - 17.2.1 — Institutional Identity
   - 17.2.2 — RIAH Pathway Goat
