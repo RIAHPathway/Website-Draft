@@ -6,8 +6,6 @@
 
 **One Crown. Nine Schools. One Dynasty.**
 
-## Institutional Concept
-
 RIAH Pathway — The Legacy Realm integrates academic education, experiential learning, professional credentials, entrepreneurship, student services, financial assistance, and community through an original crown-centered digital experience. Nine schools retain official academic identities and corresponding ceremonial houses. Students join subhouse communities called Legacy Circles. The RIAH Pathway Foundation (proposed 501(c)(3), subject to approval) supports eligible scholarships, stipends, grants, and donations; separately administered student financing remains subject to applicable laws. Students progress through objective and performance assessments and academic capstones with applicable human-panel evaluation and supervision.
 
 ## Key
