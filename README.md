@@ -5,7 +5,7 @@
 **RIAH Pathway** is a connected ecosystem integrating education, real work experience, certifications, products, people, software and mobile app.
 
 ### Pre-Accreditation
-> RIAH Pathway is in its **pre-accreditation stage (not yet accredited)** and plans to seek applicable program accreditation and recognition, including **ABA, ACCSC, ABET, ACJS, NSA**, AACSB, ACCI, ACET, CAEL, IACET.
+> RIAH Pathway is in its **pre-accreditation stage (not yet accredited)** and plans to seek applicable program accreditation and recognition, including **ABA, ACCSC, ABET, ACJS, NSA, AACSB, ACCI, ACET, CAEL, IACET**.
 
 ### Website
 > The website launches **by November 2026**; look at the RIAH Pathway [Website Wireframes & Structure](https://github.com/RIAHPathway/Website-Draft/tree/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE) folder for information being revised and finalized. **Tuition, fees, and internal/external pricing** for beta pre-accreditation and post-accreditation will be finalized and published during website launch.
