@@ -36,7 +36,7 @@
   </tbody>
 </table>
 
-<p align="center"><strong>👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker** is building and leading RIAH Pathway.</strong></p>
+<p align="center"><strong>👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker is building and leading RIAH Pathway.</strong></p>
 
 <p align="center"><img src="https://github.com/mariahdominiquerucker.png" width="210" alt="Mariah Dominique Rucker — Founder, CEO and Chairman" /></p>
 
