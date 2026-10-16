@@ -5,7 +5,6 @@ RIAH Pathway has documented and monitored the development of its ecosystem since
 
 **👑 Repository:** [Website-Draft](https://github.com/RIAHPathway/Website-Draft)  
 **👑 Legacy Bot:** [Legacy Bot README](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/README.md)  
-**👑 Legacy Bot Run:** [Legacy Bot Run](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md)  
 **⚖️ License:** [Website License](https://github.com/RIAHPathway/Website-Draft/blob/main/LICENSE.md)
 
 ---
