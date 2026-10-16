@@ -13,7 +13,7 @@ Students encounter the Legacy Realm through a distinctive welcome journey, an or
 
 **Each student's primary house corresponds to their enrolled school or program.** Within that house, students may join smaller **Legacy Circles**, serving as subhouses organized around academic majors, professional interests, community activities, or shared goals.
 
-The **RIAH Pathway Foundation**, through its proposed **Treasury of Opportunity**, supports eligible students through scholarships, stipends, grants, and donations. Its **Legacy Funding Vaults** provide named recognition for contributors and sponsors, while proposed student-financing arrangements remain separately administered under applicable requirements.
+The **RIAH Pathway Foundation** is the separate proposed **501(c)(3) charitable organization**, subject to applicable approval. Within **RIAH Pathway — The Legacy Realm**, the proposed **Treasury of Opportunity** is the student-facing financial-assistance experience for scholarships, stipends, grants, and donor-supported opportunities. Its **Legacy Funding Vaults** are themed categories and recognition spaces, not the legal foundation, bank accounts, or lending institutions. Any actual funds and proposed financing arrangements must be administered by the appropriate authorized entities.
 
 RIAH's academic progression connects **objective and performance assessments** with **academic capstones**, applicable human-panel evaluation, and professional supervision.
 
@@ -62,7 +62,7 @@ The Legacy Realm enhances belonging and institutional identity without replacing
 | V. 🎓 | General Education and Legacy Studies |
 | VI. 📚 | Educational Pathways and Curriculum |
 | VII. 🤝 | Experiential Education and Guilds |
-| VIII. 💰 | Foundation, Scholarships, and Financial Assistance |
+| VIII. 💰 | Treasury of Opportunity, Foundation, and Financial Assistance |
 | IX. 🧮 | Tuition, Pricing, and Student Financing |
 | X. 🏰 | Digital Campus and Student Services |
 | XI. 🎭 | Student Life and Traditions |
@@ -329,16 +329,16 @@ Real supervised work, qualified professionals, and documented academic requireme
 
 ---
 
-# VIII. 💰 FOUNDATION, SCHOLARSHIPS, AND FINANCIAL ASSISTANCE
+# VIII. 💰 TREASURY OF OPPORTUNITY, FOUNDATION, AND FINANCIAL ASSISTANCE
 
-**RIAH Pathway Foundation** is a proposed **501(c)(3)** foundation, subject to approval. Vaults are funding and recognition structures, not banks; lending remains separate and subject to authorization.
+**RIAH Pathway Foundation** refers exclusively to the separate proposed **501(c)(3) charitable organization**, subject to approval. **Treasury of Opportunity** refers exclusively to the proposed financial-assistance area within **RIAH Pathway — The Legacy Realm**. The Treasury may present scholarships, grants, stipends, donations, and eligible assistance opportunities; it is **not** the foundation itself. Legacy Funding Vaults are themed funding categories and recognition spaces, not banks or legal entities. Actual fund custody, disbursement, and any lending remain with appropriately authorized entities.
 
 | # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | RIAH Pathway Foundation — Treasury of Opportunity | Charitable assistance for eligible students. |
+| 1 | **Treasury of Opportunity — RIAH Pathway Legacy Realm** | Proposed student-facing financial-assistance hub within the Legacy Realm; distinct from the legal foundation. |
 | 2 | Legacy Funding Vaults | Named donor, sponsor, scholarship, grant, and stipend recognition. |
 | 3 | Legacy Scholarship Vaults | Named scholarship funds and awards. |
-| 4 | RIAH Pathway Foundation — 501(c)(3) | Charitable foundation subject to tax-exempt recognition. |
+| 4 | **RIAH Pathway Foundation — Proposed 501(c)(3)** | Separate charitable legal organization, subject to formation and tax-exempt recognition; not the Treasury of Opportunity. |
 | 5 | Legacy Grant Vaults | Named educational grants. |
 | 6 | Legacy Stipend Vaults | Named student stipend programs. |
 | 7 | Legacy Donor Vaults — Hall of Giving | Donor recognition subject to privacy and consent. |
@@ -353,7 +353,7 @@ All real charges, payments, and obligations are in U.S. dollars.
 
 | # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | RIAH Pathway Foundation — Treasury of Opportunity | Foundation assistance gateway. |
+| 1 | **Treasury of Opportunity — Legacy Realm** | Proposed financial-assistance gateway displaying eligible opportunities; separate from the RIAH Pathway Foundation. |
 | 2 | Legacy Funding Vaults | Named funding opportunities and recognition. |
 | 3 | RIAH Tuition Calculator | Actual tuition, credit, and payment calculations in USD. |
 | 4 | RIAH Pricing Engine | Conditional tuition pricing logic. |
@@ -511,8 +511,8 @@ The complete journey links real enrollment, materials, house assignment, academi
 | 10 | Student Communities | **Legacy Circles / Circle Sanctuaries** | Cross-school student communities and their dedicated gathering spaces. |
 | 11 | Community Assignment | **Crown of Destiny / Ceremony of Belonging** | Original student welcome and house-assignment ceremony. |
 | 12 | General Education | **Legacy Studies** | General education studies and foundational academic coursework. |
-| 13 | Foundation | **RIAH Pathway Foundation — Treasury of Opportunity** | Proposed charitable foundation and its scholarship, grant, and donor-support identity. |
-| 14 | Funding Vaults | **Legacy Funding Vaults** | Organized named funds and opportunities within the foundation's proposed funding framework. |
+| 13 | Foundation | **RIAH Pathway Foundation** | Separate proposed 501(c)(3) charitable organization, subject to approval; distinct from the Legacy Realm Treasury of Opportunity. |
+| 14 | Funding Vaults | **Legacy Funding Vaults** | Themed scholarship, grant, stipend, and donor-recognition categories within the Legacy Realm's Treasury of Opportunity; not the legal foundation or bank accounts. |
 | 15 | Scholarships | **Legacy Scholarship Vaults / Legacy Scholarship Fund** | Scholarship funds and awards supporting eligible students. |
 | 16 | Grants | **Legacy Grant Vaults / Grants of Opportunity** | Grant funds and awards for eligible educational purposes. |
 | 17 | Stipends | **Legacy Stipend Vaults / Legacy Stipend Awards** | Student stipends and related financial support, subject to eligibility and applicable rules. |
