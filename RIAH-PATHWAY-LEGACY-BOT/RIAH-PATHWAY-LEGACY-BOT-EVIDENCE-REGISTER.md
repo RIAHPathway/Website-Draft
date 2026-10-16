@@ -16,4 +16,17 @@ The findings below reflect the October 15, 2026 public-source sample recorded in
 | RIAH-LEGACY-2026-008 | 🎓 BOT 4 | [Federal Student Aid — Work-Study](https://studentaid.gov/understand-aid/types/work-study) | Federal Work-Study provides eligible students with part-time employment to help meet educational expenses. | 77–78, 130–140 | October 15, 2026 | 🟢 General work-linked educational financial assistance; not equivalent to the complete RIAH reimbursement structure. |
 | RIAH-LEGACY-2026-009 | 📣 BOT 3 | Public employer, recruitment, and partnership information referenced in the examined source pages | Public-facing marketing, training, and employer relationships were identifiable; a comprehensive independent backlink/social-media audit was not completed. | 20, 22, 40–44, 141–143 | October 15, 2026 | 🟢 No independently verified qualifying Tier from this limited review. |
 
+## RUN V — OCTOBER 16, 2026
+
+New source observations dated October 16, 2026. Older source publications are not newly created features.
+
+| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
+|---|---|---|---|---|---|---|
+| RIAH-LEGACY-2026-010 | BOT 1 / BOT 2 / BOT 4 | [Riipen employers](https://help.riipen.com/en/articles/7321556-how-employers-use-riipen) | Employer-educator matching, real company projects, collaboration, recruitment. | 1–2, 20–26, 80, 141–143 | October 16, 2026 | 🟢 Not the full six-level RIAH model. |
+| RIAH-LEGACY-2026-011 | BOT 2 / BOT 4 | [Riipen learners](https://help.riipen.com/en/articles/7321557-how-learners-use-riipen) | Project ratings, academic credit options, paid projects, skill portfolios. | 47, 53–58, 77–84 | October 16, 2026 | 🟢 RIAH-specific capstone panel not established. |
+| RIAH-LEGACY-2026-012 | BOT 1 / BOT 4 | [Forage](https://www.theforage.com/) | Free self-paced job simulations with model answers and certificates. | 45, 47, 79, 141–143 | October 16, 2026 | 🟢 Simulated tasks, not RIAH-required supervised professional work. |
+| RIAH-LEGACY-2026-013 | BOT 3 | [Handshake institutional marketing](https://support.joinhandshake.com/hc/en-us/articles/360004186033-Promote-Handshake-at-Your-Institution) | Public marketing toolkit, social assets and student-employer outreach. | 20, 22, 141–143 | October 16, 2026 | 🟢 Does not demonstrate RIAH full ecosystem. |
+| RIAH-LEGACY-2026-014 | BOT 5 / BOT 2 | [Open edX GitHub organization](https://github.com/openedx) | Public open-source LMS/CMS repository organization and project documentation. | 45, 100–102, 109 | October 16, 2026 | 🟢 Related to prior record 007; not proof of code derivation. |
+| RIAH-LEGACY-2026-015 | BOT 3 / BOT 1 | [Handshake employer-school connections](https://support.joinhandshake.com/hc/en-us/articles/115007120087-How-Employers-Connect-with-Schools) | Employer approval, jobs, events and student messaging. | 20, 22, 141–143 | October 16, 2026 | 🟢 No evidence of exact RIAH integrated system. |
+
 **Related run:** [Legacy Bot Run](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md)
