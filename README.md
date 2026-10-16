@@ -4,7 +4,14 @@
 
 **RIAH Pathway** is a connected ecosystem integrating education, real work experience, certifications, products, people, software and mobile app.
 
-> **Schools, accreditation & website:** RIAH Pathway is in its **pre-accreditation stage (not yet accredited)** and plans to seek applicable state authorization and program accreditation/recognition, including **ABA, ACCSC, ABET, NSA**, and other relevant bodies. Expansion is planned across **all 50 states and D.C.**. The website is targeted for launch **by the end of October 2026**. See the [Website Wireframes & Structure](https://github.com/RIAHPathway/Website-Draft/tree/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE) folder for information being revised and finalized. **Tuition, fees, and internal/external pricing** for beta pre-accreditation and post-accreditation will be finalized and published at website launch. Beta cohort applications open November 2026 with launch planned for Spring 2027. All curriculum and experientials are 100% remote and proctored with industry professionals from CPA's to Judges to Engineers, except external placements which are either remote, hybrid, or onsite depending partner employers. Details on the curriculum, tuition, fees, and up to 50% tuition reimbursement with 10% guaranteed will be forthcoming on the website. 
+### Pre-Accreditation
+> RIAH Pathway is in its **pre-accreditation stage (not yet accredited)** and plans to seek applicable program accreditation and recognition, including **ABA, ACCSC, ABET, ACJS, NSA**, AACSB, ACCI, ACET, CAEL, IACET.
+
+### Website
+> The website launches **by November 2026**; look at the RIAH Pathway [Website Wireframes & Structure](https://github.com/RIAHPathway/Website-Draft/tree/main/RIAH-PATHWAY-WEBSITE-WIREFRAMES-STRUCTURE) folder for information being revised and finalized. **Tuition, fees, and internal/external pricing** for beta pre-accreditation and post-accreditation will be finalized and published during website launch.
+
+### Beta Cohort
+> Beta cohort applications open November 2026 with launch planned for Spring 2027. All curriculum for educational pathways, review courses, experientials, and entrepreneurial are 100% remote and proctored with industry professionals from CPA's to Judges to Engineers, except external placements which are either remote, hybrid, or onsite depending partner employers. Details on the curriculum, tuition, fees, and up to 50% tuition reimbursement with 10% guaranteed will be forthcoming on the website. 
 
 **👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker** is building and leading RIAH Pathway.
 
