@@ -1,0 +1,411 @@
+# 👑 RIAH PATHWAY — UNIFIED LEGACY BOT
+# CONTROLLING INSTRUCTIONS AND DAILY RUN LOG
+
+RIAH Pathway has documented and monitored the development of its ecosystem since its initial concept creation in **June 2025**, including its innovations, architecture, and intellectual-property interests. We welcome fair competition, independent innovation, and genuine partnerships while reserving the right to protect our copyrights, trademarks, patents where applicable, and other legally protected interests. We pursue documented concerns diligently, including same-day legal action when appropriate and supported by evidence. We welcome collaboration, but we do not authorize the unlawful appropriation or misuse of protected work.
+
+**👑 Repository:** [Website-Draft](https://github.com/RIAHPathway/Website-Draft)  
+**👑 Legacy Bot:** [Legacy Bot README](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/README.md)  
+**👑 Legacy Bot Run:** [Legacy Bot Run](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md)  
+**⚖️ License:** [Website License](https://github.com/RIAHPathway/Website-Draft/blob/main/LICENSE.md)
+
+---
+
+# PART I — 👑 CONTROLLING BOT INSTRUCTIONS
+
+## I. 👑 PURPOSE AND RULES
+
+1. Operate one Unified Legacy Bot combining the five original public monitoring domains.
+2. Monitor RIAH Pathway's ecosystem development and document evidence supporting legitimate intellectual-property, copyright, trademark, patent, and business interests.
+3. Recognize independent development, lawful competition, innovation, collaboration, and educational partnerships.
+4. Do not infer copying, infringement, unauthorized access, unlawful conduct, or intent from similarities.
+5. Compare documented functionality, distinguishing complete integrated architecture from names, labels, isolated features, and unsupported assumptions.
+6. Distinguish RIAH Pathway's documented and planned components from independently verified operational services.
+
+## II. BOT 1 — 🌐 SEARCH ENGINES, WEBSITES AND SEO
+
+Search and compare publicly available:
+
+- Website architecture, navigation, sitemaps, and SEO.
+- Educational pathways and academic programs.
+- Colleges, universities, and degree programs.
+- Admissions and enrollment.
+- Experiential learning and professional development.
+- Academic curricula and assessments.
+- Tuition, payment plans, and reimbursement.
+- Professional certification preparation.
+- Bar Review and Baby Bar Review.
+- High-school partnerships, dual enrollment, and GED/HSE programs.
+- Educational products and student services.
+- Employer partnerships and career pathways.
+- Organizational structures and integrated ecosystems.
+- Publicly indexed materials and documentation.
+
+## III. BOT 2 — 💻 APPLICATIONS, SOFTWARE AND TECHNOLOGY
+
+Search and compare publicly available:
+
+- Apple App Store and Google Play applications.
+- Education and career applications.
+- Learning-management systems.
+- Educational assessments and proctoring.
+- Student records and academic progress tracking.
+- Professional supervision and review software.
+- Internship and Experiential management platforms.
+- AI-supported educational tools.
+- Cloud systems and automation.
+- Azure and other public cloud integrations.
+- APIs and publicly documented software connections.
+- Digital certificates and verification.
+- Tuition processing and student payment technology.
+- Public educational software repositories.
+- Integrated education-to-career technology.
+
+## IV. BOT 3 — 📣 SOCIAL MEDIA, BACKLINKS AND MARKETING
+
+Search and compare publicly available:
+
+- Social-media profiles and posts.
+- Public marketing campaigns.
+- Advertisements and promotional materials.
+- Backlinks and referring websites.
+- Public radio and podcast references.
+- Public employment advertisements.
+- LinkedIn and other accessible professional listings.
+- Employer partnership announcements.
+- Student recruitment and outreach.
+- Ambassador, affiliate, and contributor programs.
+- Professional-development campaigns.
+- Public organizational announcements.
+- Educational and workforce partnerships.
+- Publicly documented contributor benefits.
+- Integrated ecosystem marketing.
+
+## V. BOT 4 — 🎓 EDUCATION, EXPERIENTIAL, TUITION AND BENEFITS
+
+Search and compare publicly available:
+
+- Traditional schools, colleges, and universities.
+- Community colleges.
+- Traditional high-school and CTE programs.
+- High-school partnerships and dual enrollment.
+- GED/HSE preparation.
+- Associate, bachelor's, master's, MBA, and applicable law pathways.
+- Traditional Experiential programs.
+- Standalone Experiential programs.
+- Apprenticeships and internships.
+- Professional supervision and mentorship.
+- Real workplace assignments.
+- Educational curricula and assessments.
+- Experiential Collections and Capstones.
+- Professional certification preparation.
+- Bar Review and Baby Bar Review.
+- Educational textbooks, workbooks, journals, and study products.
+- Tuition, financing, payment plans, and reimbursement.
+- Work-study grants and employer tuition benefits.
+- Career development and employer placements.
+- Integrated education-to-career ecosystems.
+
+## VI. BOT 5 — 📂 GITHUB, DOCUMENTATION AND CONTRIBUTORS
+
+Search and compare publicly available:
+
+- GitHub repositories.
+- Public source-code files.
+- Repository README documentation.
+- Repository structure and directories.
+- Commits and release histories.
+- Contributors and maintainers.
+- Public issues and pull requests.
+- Public licenses.
+- Educational software documentation.
+- Contributor and affiliate programs.
+- Published architecture diagrams.
+- Website and application source files.
+- Public integration documentation.
+- Public educational tools and APIs.
+- Documented software-development activity.
+- Complete publicly documented ecosystem architectures.
+
+---
+
+# PART II — 📊 DAILY RUN LOG
+
+# 👑 RIAH PATHWAY — UNIFIED LEGACY BOT
+## RUN IV — OCTOBER 15, 2026
+### UPDATED EVIDENCE REGISTER AND COMPARISON
+
+## VII. 🔑 EVIDENCE AND TIER KEY
+
+| Symbol | Definition |
+|---|---|
+| 👑 | RIAH Pathway's documented and planned ecosystem |
+| ✅ | Feature included in the reference model or supported within the examined category |
+| ❌ | Exact feature not established in the sampled reference category; not worldwide absence |
+| 🔴 Tier 1 | Complete corresponding integrated ecosystem independently verified |
+| 🟡 Tier 2 | Two or more complete distinctive components integrated in one outside ecosystem |
+| 🟣 Tier 3 | One complete distinctive component independently verified |
+| 🟢 Green | Common features, partial similarities, or insufficient evidence |
+| 📊 | Six historical Experiential comparison categories and eight additional market categories |
+| 🔍 | Historical reference-model comparisons are distinguished from individually verified public evidence |
+| 📚 | Specific source findings and verification limitations are documented in Section XI |
+
+# VIII. 📊 COMPLETE 150-CATEGORY COMPARISON
+
+
+### VIII.1. 👥 Real Professional Work and Human Supervision
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1. 💼 Actual real-world professional work | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 2. 🏗️ Work can contribute to actual organizational operations or deliverables | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 3. 🚫 Simulation cannot substitute for required Experiential work | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 4. 👔 Real human Manager | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 5. 👥 Real human professional Supervisor | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 6. 🔎 Dedicated real human Reviewer role | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 7. 🧑‍💼 Defined Manager + Supervisor + Reviewer structure | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 8. 🤖 AI cannot replace required human professional supervision | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 9. 🤝 Direct interaction with actual professionals | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 10. 👥 Participation on actual professional teams | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 11. 📅 Participation in actual professional meetings | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 12. 🧾 Applicable access to CPAs as real professionals | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 13. ⚖️ Applicable access to attorneys as real professionals | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 14. 🏛️ Applicable interaction with judges through approved placements | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 15. 💻 Applicable engineers and technology professionals | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 16. 🛡️ Applicable cybersecurity/security professionals | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 17. 👥 Dedicated internal Experiential Managers, Supervisors and Reviewers | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 18. 🌐 Internal team and qualified JD/Non-JD supervision with on-demand professional support | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+
+### VIII.2. 🏢 Internal and External Placement Infrastructure
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 19. 🏢 Own internal multi-entity placement infrastructure | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 20. 🤝 External employer placement capability | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 21. 🏠 Not exclusively dependent on external employers for placement infrastructure | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 22. 📈 External capacity expandable through vetted employers | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 23. 👤 External placement requires actual people | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 24. 🧑‍🏫 External placement requires professional supervision | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 25. 📋 External placement requires actual assignments | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 26. 🏭 External placement requires work inside actual employer operations | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 27. 🏢 Can provide placement through its own operating ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 28. ⚖️ Law-firm placements | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 29. 🏛️ Court placements | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 30. 🧾 CPA-firm placements | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 31. 💹 Finance/accounting employer placements | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 32. 🛡️ MSSP placements | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 33. 🔴 Authorized real red-team work through applicable placement | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 34. 🔵 Authorized real blue-team work through applicable placement | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 35. 🟣 Authorized real purple-team work through applicable placement | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 36. 🛡️ Real GRC work through applicable professional placement | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 37. 🔍 Real compliance and audit-support work through applicable placement | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 38. 💻 Development-firm placements | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 39. 🔐 Security-firm placements | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 40. ❤️ Nonprofit placements | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 41. 🚀 Startup placements | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 42. 🏪 Small-business placements | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 43. 🏙️ Corporate placements | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 44. 🏛️ Government-agency placements where permitted | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+
+
+### VIII.3. 📝 Curriculum, Assessment and Performance
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 45. 🌐 100% online supporting Experiential curriculum | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| 46. 🔄 Online curriculum runs concurrently with required real applied placement work | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 47. 🧠 Formal learning integrated with applied professional experience | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 48. 📝 Weekly proctored Experiential assessments as a structural requirement | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 49. 🔎 Weekly assessment identifies student development needs | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 50. 🎯 Assessment can inform subsequent real-work assignments | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 51. 📊 Weekly planning with Manager + Supervisor + Reviewer | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 52. 📋 Applied assignments adjusted according to development needs | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 53. 📈 Documented professional performance | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 54. 💬 Feedback from actual workplace professionals | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 55. 🏗️ Consequential-work responsibilities formally documented | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 56. 📦 Operational deliverables documented | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 57. 📅 Weekly objectives and activity documented | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 58. 🏅 Professional competencies documented | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ |
+
+
+### VIII.4. 🪜 Six-Level Experiential Pathway
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 59. 🌱 Apprentice — defined 1-month level | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 60. 🎓 Intern — defined 3-month level; separate 6-month option where offered | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 61. 💼 Associate — defined 1-year Experiential level | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 62. 📈 Senior Associate — defined 1-year Experiential level | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 63. 👔 Manager — defined 1-year Experiential level | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 64. 👑 Executive — defined 1-year Experiential level | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 65. 🪜 Unified six-level Apprentice → Executive Experiential structure | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 66. ⏫ Verified prior experience can permit placement at a higher Experiential level | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 67. 🎓 Bachelor's Year-4 one-month Experiential guarantee for eligible students | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 68. 🎓 Master's/MBA eligible one-month guarantee framework | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 69. ⚖️ JD/Non-JD eligible one-month guarantee framework subject to applicable rules | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 70. 🏁 Guarantee tied to designated Milestones Guide requirement | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+
+### VIII.5. 🌍 Placement Formats and Degree Integration
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 71. 🏠 Remote placement capability | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 72. 🔄 Hybrid placement capability | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 73. 🏢 On-site placement capability | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 74. 🌍 International Online structure | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 75. 👥 International Online participant receives real human professional supervision | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 76. 🌎 International Online Experiential requires real work rather than simulation | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 77. 💵 Paid U.S. placement where terms and law permit | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 78. 📄 Unpaid U.S. placement where terms and law permit | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 79. 🧭 Standalone Experiential pathway | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 80. 🔗 Education + Experiential integration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 81. 🎓 Bachelor's + Experiential integration | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 82. 🎓 Master's/MBA + Experiential integration | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 83. ⚖️ JD/Non-JD + Experiential architecture | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 84. 🏫 Potential college-credit structure | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ |
+| 85. 1️⃣ Defined Apprentice potential credit structure — 1 credit | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 86. 3️⃣ Defined Intern potential credit structure — 3 credits | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 87. 6️⃣ Defined Associate–Executive potential credit structure — 6 credits per level | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+
+### VIII.6. 🎓 Experiential Collections and Human-Reviewed Capstones
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 88. 📚 Experiential Collection included with Experiential curriculum | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 89. 🎓 Experiential Capstone Collection included with Experiential | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 90. 🧩 Experiential Capstone integrated into the Experiential curriculum | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 91. 👥 Experiential Capstone receives real human supervision | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 92. 🧑‍🏫 Capstone supervision provided in addition to supervision of applied Experiential work | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 93. 🧑‍⚖️ Human panel review of applicable Experiential Capstone | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 94. 🏢 Employer review/input for applicable Experiential Capstone | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 95. 🤝 Peer review/input for applicable Experiential Capstone | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 96. 👩‍🏫 Faculty/professional review for applicable Experiential Capstone | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 97. 🔎 Reviewer evaluation for applicable Experiential Capstone | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 98. 🔗 Experiential Capstone uses applicable review structures comparable to education pathway capstones | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 99. 📋 Capstone performance and completion documented within Experiential record | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+
+### VIII.7. 📱 Proprietary Technology and Educational Products
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 100. 📱 Own proprietary mobile application integrated into the ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| 101. 💻 Own proprietary software integrated into the ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| 102. 🔗 Proprietary application + software connected across education, Experiential, and ecosystem functions | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 103. 📕 Experiential textbook component | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 104. 📘 Experiential workbook component | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 105. 📓 Experiential journal component | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 106. 📅 Experiential planner component | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 107. 📚 Integrated physical and select digital educational products | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 108. 🛍️ Integrated textbooks, workbooks, journals, planners, review guides, study guides, and flashcards | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 109. 💻 LMS curriculum integrated into Experiential architecture | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+
+
+### VIII.8. 🏅 Certification, Bar Review and Services
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 110. 🏅 Integrated professional Certification Review Courses | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ |
+| 111. 💼 School of Business certification-review integration | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| 112. 💻 School of Technology certification-review integration | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| 113. 🛡️ School of Homeland Security certification-review integration | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 114. 📊 Project and Program Management certification-review integration | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| 115. 🔐 Cybersecurity certification-review integration | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| 116. ☁️ Microsoft Azure certification-review pathway integration | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ |
+| 117. ⚖️ Integrated Bar Review | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ |
+| 118. 🇺🇸 Bar Review structure covering all 50 states with applicable state module | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 119. ⚖️ Integrated California Baby Bar Review | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 120. 🧭 Mentoring integrated as an ecosystem service | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 121. 🗣️ Coaching integrated as an ecosystem service | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ |
+| 122. 👥 Professional supervision available as an integrated service | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 123. 🔗 Products + services + education + Experiential integrated within one ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+
+### VIII.9. 🛡️ Real-Work Governance and Learning Alignment
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 124. 🎯 Weekly learning objectives directly connected to real work | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 125. 📋 Weekly educational assignments connected to actual placement work | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 126. 🏗️ Real consequential work explicitly required alongside Experiential Collection | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 127. 🛡️ Governance and quality control before consequential work is released or implemented | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 128. ✍️ Student authority expressly limited for regulated/sign-off functions | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 129. ⚖️ Professional-scope restrictions incorporated into placement governance | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+
+
+### VIII.10. 💰 Tuition, Payments and Reimbursement
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 130. 💰 Apprentice Experiential tuition — current published pricing policy controls | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 131. 💰 Intern Experiential tuition — duration-based current pricing policy controls | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 132. 💰 Associate–Executive Experiential tuition — current published pricing policy controls | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 133. 💳 Upfront Experiential payment option | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| 134. 📆 Monthly Experiential payment option | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| 135. 📚 Course-based broader education payment option where applicable | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 136. 🗓️ Semester payment structure where applicable | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 137. 🏦 Internal financing/loan pathway where applicable | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 138. 💸 Up to 50% tuition reimbursement for eligible tuition payments under applicable terms | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 139. 🎓 Guaranteed 10% tuition reimbursement upon graduation under applicable terms | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 140. 🧾 Combined eligible reimbursement architecture: up to 50% + guaranteed 10% at graduation | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+
+### VIII.11. 👑 Career and Fully Integrated Ecosystem
+
+| Categories | RIAH Pathway | Traditional Law Experiential | Traditional Business Experiential | Traditional Technology Experiential | Traditional Homeland Security Experiential | AI-Agent Experiential | Simulated / Project-Based | Traditional Universities / Colleges | Traditional Community Colleges | Traditional High Schools / CTE | Traditional GED / HSE | Standalone Experiential | Certification Review | Bar Review / Exam Prep | Apps / LMS / Software |
+|---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 141. 💼 Documented professional experience | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 142. 🤝 Employer exposure through actual placement | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ |
+| 143. 🚀 Career connection without falsely guaranteeing permanent employment | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| 144. 🌐 Real work + human professionals + curriculum + assessment + placement + documentation in one defined architecture | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 145. 🎓 Experiential curriculum + Experiential Collection + supervised Experiential Capstone integrated with real work | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 146. 👥 Real-work supervision + separate applicable human capstone supervision and review | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 147. 📱 Proprietary technology + education + real work + human supervision integrated into one ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 148. 🏅 Certification reviews + Bar Review + products + services integrated with the broader pathway | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 149. 🏢 Own internal placement infrastructure + scalable external placement network | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 150. 👑 Education + Experiential + collections + supervised capstone + proprietary technology + products + services + certification preparation + placement + pricing + payment + reimbursement integrated into the broader ecosystem | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+
+## IX. 🔍 PUBLIC EVIDENCE REVIEW
+
+Public-source review identified documented examples of employer-supported education, professional training, real workplace assignments, tuition credits, bar-examination preparation, and online learning platforms.
+
+The examined examples demonstrate overlapping individual functions within established education and workforce markets. They do not, on the evidence examined, establish a complete corresponding RIAH Pathway ecosystem. The 150-category comparison retains its historical reference-model assumptions; source-specific findings appear in the evidence register below. See [Year Up United](https://www.yearup.org/job-training).
+
+## X. ⚖️ TIER CLASSIFICATION
+
+**🔴 Tier 1:** A complete corresponding integrated ecosystem independently verified within one identifiable outside organization or system.
+
+**🟡 Tier 2:** Two or more complete distinctive components independently verified as integrated within one identifiable outside system.
+
+**🟣 Tier 3:** One complete distinctive component independently verified within one identifiable outside system.
+
+**🟢 Green:** Common market functionality, partial similarity, or evidence insufficient to establish a qualifying Tier.
+
+## XI. 📂 EVIDENCE REGISTER
+
+| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
+|---|---|---|---|---|---|---|
+| RIAH-LEGACY-2026-001 | 🌐 BOT 1 / 🎓 BOT 4 | [Ohio Work-Based Learning](https://education.ohio.gov/Topics/Career-Tech/Work-Based-Learning) | Public work-based learning framework involving education and employer participation. | 20–26, 47, 80, 124–125 | October 15, 2026 | 🟢 Conventional education/employer structure; no qualifying Tier established. |
+| RIAH-LEGACY-2026-002 | 🎓 BOT 4 | [Ohio Schools and Educators](https://education.ohio.gov/Topics/Career-Tech/Work-Based-Learning/Work-Based-Learning-for-Schools-and-Educators) | Learning agreements, employer guidelines, worksite evaluation resources, orientation, and portfolio materials. | 24, 53–58, 84, 124–129 | October 15, 2026 | 🟢 Documented work-based learning and portfolio practices; no qualifying Tier established. |
+| RIAH-LEGACY-2026-003 | 🌐 BOT 1 / 🎓 BOT 4 | [Year Up United](https://www.yearup.org/job-training) | Technical and professional training integrated with access to internships and career placement support. | 1–2, 20, 47, 80, 141–143 | October 15, 2026 | 🟢 Multiple conventional career-development functions; complete distinctive RIAH architecture not established. |
+| RIAH-LEGACY-2026-004 | 🌐 BOT 1 / 🎓 BOT 4 | [Forkaia — Work-Study Grants](https://forkaia.com/work-study) | Real work inside portfolio companies connected to task-based tuition credits. | 1–2, 19–27, 130–140 | October 15, 2026 | 🟢 Material overlap in work-linked educational benefits; RIAH's exact six-level and reimbursement architecture not established by this source. |
+| RIAH-LEGACY-2026-005 | 🌐 BOT 1 / 🎓 BOT 4 | [Themis Bar Review](https://www.themisbar.com/pass-the-bar-exam) | Online bar preparation and personalized grading by a dedicated attorney essay grader. | 53, 110, 117, 120–121 | October 15, 2026 | 🟢 Human-reviewed examination preparation; complete integrated RIAH ecosystem not established. |
+| RIAH-LEGACY-2026-006 | 💻 BOT 2 | [Open edX Platform Features](https://openedx.org/platform/features/) | Online learning, content management, assessments, learner progress analytics, credentials, and integrations. | 45, 49, 53, 57–58, 100–102, 109 | October 15, 2026 | 🟢 Broad educational technology capabilities; no complete qualifying distinctive Experiential architecture established. |
+| RIAH-LEGACY-2026-007 | 📂 BOT 5 / 💻 BOT 2 | [Open edX GitHub Repository](https://github.com/openedx/openedx-platform) | Publicly documented LMS/CMS source code, licensing, contribution procedures, and development activity. | 100–102, 109 | October 15, 2026 | 🟢 Public educational software; full RIAH ecosystem correspondence not established. |
+| RIAH-LEGACY-2026-008 | 🎓 BOT 4 | [Federal Student Aid — Work-Study](https://studentaid.gov/understand-aid/types/work-study) | Federal Work-Study provides eligible students with part-time employment to help meet educational expenses. | 77–78, 130–140 | October 15, 2026 | 🟢 General work-linked educational financial assistance; not equivalent to the complete RIAH reimbursement structure. |
+| RIAH-LEGACY-2026-009 | 📣 BOT 3 | Public employer, recruitment, and partnership information referenced in the examined source pages | Public-facing marketing, training, and employer relationships were identifiable; a comprehensive independent backlink/social-media audit was not completed. | 20, 22, 40–44, 141–143 | October 15, 2026 | 🟢 No independently verified qualifying Tier from this limited review. |
+
+## XII. 👑 FINAL TIER RESULTS
+
+| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
+|---|:---:|:---:|:---:|
+| BOT 1 — 🌐 Websites, Search Engines and SEO | 0 | 0 | 0 |
+| BOT 2 — 💻 Applications, Software and Technology | 0 | 0 | 0 |
+| BOT 3 — 📣 Social Media, Backlinks and Marketing | 0 | 0 | 0 |
+| BOT 4 — 🎓 Education, Experiential, Tuition and Benefits | 0 | 0 | 0 |
+| BOT 5 — 📂 GitHub, Documentation and Contributors | 0 | 0 | 0 |
+| **Unique Fully Qualified Outside Entities in Examined Sources** | **0** | **0** | **0** |
+
+👑 **RIAH Pathway.**
