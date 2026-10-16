@@ -1,6 +1,6 @@
 <h1 align="center">👑 RIAH Pathway — Legacy Bot</h1>
 
-Unified monitoring of public websites, software, marketing, education, and GitHub activity. 
+<p align="center">Unified monitoring of public websites, software, marketing, education, and GitHub activity.</p>
 
 <table align="center">
   <thead>
