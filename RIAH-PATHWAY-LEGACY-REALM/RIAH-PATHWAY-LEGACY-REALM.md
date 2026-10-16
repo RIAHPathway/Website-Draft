@@ -1,595 +1,873 @@
-# 👑 RIAH PATHWAY — LEGACY REALM
+# 👑 RIAH PATHWAY — THE LEGACY REALM
+## Institutional & Educational Ecosystem
+### Master Implementation and Naming Register
 
 **Education. Experience. Certifications. Opportunity. Career. Legacy.**
 
 **One Crown. Nine Schools. One Dynasty.**
 
-RIAH Pathway — Legacy Realm integrates academic education, experiential learning, professional credentials, entrepreneurship, student services, financial assistance, and community through an original crown-centered digital experience. Nine schools retain official academic identities and corresponding ceremonial houses. Students join subhouse communities called Legacy Circles. The RIAH Pathway Foundation (proposed 501(c)(3), subject to approval) supports eligible scholarships, stipends, grants, and donations; separately administered student financing remains subject to applicable laws. Students progress through objective and performance assessments and academic capstones with applicable human-panel evaluation and supervision.
+---
 
-## Key
+## 👑 INSTITUTIONAL CONCEPT
 
-| Symbol | Meaning |
+**RIAH Pathway — The Legacy Realm** brings together academic education, professional experience, credential preparation, entrepreneurship, student services, financial assistance, and community through an original, crown-centered digital experience.
+
+The institution's **nine schools** retain their official educational identities while participating in the ceremonial traditions of the **Nine Houses of Legacy**, including the **House of Justice**, representing the **School of Law**.
+
+Students encounter the Legacy Realm through a distinctive welcome journey, an original acceptance package, ceremonial robes, commemorative crown-handled wands, digital gathering spaces, community traditions, and achievement recognition.
+
+**Each student's primary house corresponds to their enrolled school or program.** Within that house, students may join smaller **Legacy Circles**, serving as subhouses organized around academic majors, professional interests, community activities, or shared goals.
+
+The **RIAH Pathway Foundation**, through its proposed **Treasury of Opportunity**, supports eligible students through scholarships, stipends, grants, and donations. Its **Legacy Funding Vaults** provide named recognition for contributors and sponsors, while proposed student-financing arrangements remain separately administered under applicable requirements.
+
+RIAH's academic progression connects **objective and performance assessments** with **academic capstones**, applicable human-panel evaluation, and professional supervision.
+
+The **School of Credential** provides Professional Certification Review and Bar Review preparation, supported by the proposed **Chamber of Credentials**, **Guild of Credentials**, and **Justice Review Chamber**.
+
+The **Legacy Learning Collections** organize textbooks, workbooks, journals, flashcards, study guides, and review guides. The **Scholar's Supply Hall** provides a proposed purchasing and preparation experience for required educational materials, laptops, and approved technology accessories.
+
+The **Crown Collection** and other original merchandise collections extend the institution's identity through commemorative and educational products.
+
+The Legacy Realm enhances belonging and institutional identity without replacing official educational structures, academic standards, student records, governance, or regulatory requirements.
+
+---
+
+## 🔑 KEY
+
+| Emoji | Meaning |
 |---|---|
-| 👑 | Institution and leadership |
-| 🏰 | Digital campus |
-| ✨ | Proposed ceremonial experience |
-| 🎓 | Curriculum |
-| 📚 | Learning resources |
-| 🤝 | Experiential education |
-| 💰 | Foundation and funding |
-| 🛡️ | Governance |
-| 🏆 | Assessments |
-| 🕯️ | Alumni and heritage |
-| 📜 | Admissions |
-| 🚪 | Student journey |
-| 🧮 | Tuition |
-| 🎖️ | Credentials |
-| 🎁 | Collectibles |
-| 💻 | Technology |
-| 🛍️ | Supplies |
-| 🏠 | Houses and subhouses |
+| 👑 | Institutional identity and leadership |
+| 🏰 | Digital campus and environment |
+| ✨ | Original themed student experience |
+| 🎓 | Academic education and curriculum |
+| 📚 | Knowledge, learning, and educational materials |
+| 🤝 | Community, mentorship, and experiential education |
+| 💰 | Foundation, tuition, and student financing |
+| 🛡️ | Governance, compliance, and protection |
+| 🏆 | Assessments, achievements, and recognition |
+| 🕯️ | Memorials, alumni, and institutional heritage |
+| 📜 | Admissions, identity, and communications |
+| 🚪 | Student onboarding and progression |
+| 🧮 | Tuition calculation and pricing |
+| 🎖️ | Certifications, credentials, and professional preparation |
+| 🎁 | Educational collections, merchandise, and commemorative items |
+| 💻 | Laptops, software, and student technology |
+| 🛍️ | Educational purchasing and student supplies |
+| 🏠 | Primary houses and community subhouses |
+| 🔎 | Proposed concept requiring final approval |
 
-## Index
+## 📑 INDEX
 
-| Section | Title |
+| Roman Numeral | Section |
 |---|---|
-| I | Institution and Governance |
-| II | The Nine Schools |
-| III | Student Communities, Houses, and Subhouses |
-| IV | Admissions and Welcome Experience |
-| V | General Education and Legacy Studies |
-| VI | Educational Pathways and Curriculum |
-| VII | Experiential Education and Guilds |
-| VIII | Foundation, Scholarships, and Financial Assistance |
-| IX | Tuition, Pricing, and Student Financing |
-| X | Digital Campus and Student Services |
-| XI | Student Life and Traditions |
-| XII | Assessments and Achievements |
-| XIII | Graduation, Alumni, and Heritage |
-| XIV | Accreditation, Licensing, and Governance |
-| XV | Complete Student Journey — Interest to Alumni |
-| XVI | Institutional Naming Register |
-| XVII | Certifications, Bar Review, and Professional Credentials |
-| XVIII | Educational Materials and Learning Collections |
-| XIX | Collectibles, Merchandise, and Legacy Keepsakes |
-| XX | Student Enrollment, Acceptance, Supplies, House Assignment, and Alumni Process |
+| I. 👑 | Institution and Governance |
+| II. 🏰 | The Nine Schools |
+| III. ✨ | Student Communities, Houses, and Subhouses |
+| IV. 📜 | Admissions and Welcome Experience |
+| V. 🎓 | General Education and Legacy Studies |
+| VI. 📚 | Educational Pathways and Curriculum |
+| VII. 🤝 | Experiential Education and Guilds |
+| VIII. 💰 | Foundation, Scholarships, and Financial Assistance |
+| IX. 🧮 | Tuition, Pricing, and Student Financing |
+| X. 🏰 | Digital Campus and Student Services |
+| XI. 🎭 | Student Life and Traditions |
+| XII. 🏆 | Assessments and Achievements |
+| XIII. 🕯️ | Graduation, Alumni, and Heritage |
+| XIV. 🛡️ | Accreditation, Licensing, and Governance |
+| XV. 🚪 | Complete Student Journey — Interest to Alumni |
+| XVI. 👑 | Institutional Naming Register |
+| XVII. 🎖️ | Certifications, Bar Review, and Professional Credentials |
+| XVIII. 📚 | Educational Materials and Learning Collections |
+| XIX. 🎁 | Collectibles, Merchandise, and Legacy Keepsakes |
+| XX. 📜 | Student Enrollment, Acceptance, Supplies, House Assignment, and Alumni Process |
 
-# I. 👑 Institution and Governance
+---
+# I. 👑 INSTITUTION AND GOVERNANCE
+
+RIAH Pathway's institutional experience is centered on **The Legacy Realm**, with the **Ministry of Legacy** representing central administration. Official leadership positions remain separate and retain their organizational responsibilities.
 
 | # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | The Legacy Realm | Integrated educational ecosystem |
-| 2 | RIAH Pathway — The Legacy Realm | Institutional experience identity |
-| 3 | Legacy Castle | Digital campus |
-| 4 | Ministry of Legacy | Central administration ceremonial identity |
-| 5 | Minister of Legacy — Chairwoman & CEO | Ceremonial title for the Chairwoman/CEO |
-| 6 | President | Separate official institutional leader |
-| 7 | RIAH Governing Board | Governance and oversight |
-| 8 | RIAH Ph.D. Faculty and Adjunct Faculty | Faculty-led instruction and review |
-| 9 | Deans of the Nine Schools | Academic leadership |
-| 10 | Legacy Stewards | Student leadership |
-| 11 | Student Government President | Student representation |
-| 12 | Keeper of Knowledge | Library services identity |
-| 13 | Keeper of the Castle | Digital operations identity |
-| 14 | Office of Accreditation and Authorization | Regulatory planning |
-| 15 | Council of Institutional Excellence | Proposed quality review identity |
+| 1 | **The Legacy Realm** | The complete RIAH ecosystem connecting education, experience, credentials, products, technology, and community. |
+| 2 | **RIAH Pathway — The Legacy Realm** | Institutional identity and original student experience. |
+| 3 | **Legacy Castle** ✨ | Proposed digital campus experience incorporating academic and student services. |
+| 4 | **Ministry of Legacy** ✨ | Proposed identity for central administration. |
+| 5 | **Minister of Legacy — Chairwoman & CEO** ✨ | Ceremonial title associated with the Chairwoman/CEO position. |
+| 6 | **President** | Separate institutional leadership position. |
+| 7 | **RIAH Governing Board** | Institutional governance, accountability, and oversight. |
+| 8 | **RIAH Ph.D. Faculty and Adjunct Faculty** | Qualified faculty responsible for curriculum supervision, review, instruction, and applicable academic development. |
+| 9 | **Deans of the Nine Schools** | Academic leadership for RIAH's schools. |
+| 10 | **Legacy Stewards** ✨ | Proposed student leadership and community-service representatives. |
+| 11 | **Student Government President** | Student government leadership and representation. |
+| 12 | **Keeper of Knowledge** ✨ | Proposed experience-layer identity for academic library services. |
+| 13 | **Keeper of the Castle** ✨ | Proposed identity for digital campus operations and maintenance. |
+| 14 | **Office of Accreditation and Authorization** | Academic compliance, state authorization, and accreditation preparation. |
+| 15 | **Council of Institutional Excellence** ✨ | Proposed name for institutional review and continuous improvement functions. |
 
-# II. 🏰 The Nine Schools
+---
 
-| # | Official School | Ceremonial House | Programs |
+# II. 🏰 THE NINE SCHOOLS
+
+RIAH Pathway's nine schools retain their official academic and program identities. Each school also has a proposed **House of Legacy** identity for ceremonial activities, student belonging, recognition, and community participation.
+
+**The House of Justice represents the School of Law.** The house name does not replace the school's official name.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | **House of Justice — School of Law** ✨ | Criminal Justice, J.D., and Non-J.D. pathways. House of Justice is the ceremonial and community identity; School of Law remains the academic school. |
+| 2 | **House of Innovation — School of Technology** ✨ | Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, and software-related programs. |
+| 3 | **House of Experience — School of Experiential** ✨ | Supervised professional development from Apprentice through Executive. |
+| 4 | **House of Enterprise — School of Entrepreneurship** ✨ | Startup development and small-business pathways. |
+| 5 | **House of Leadership — School of Business** ✨ | Accounting, Finance, Entrepreneurship, Business Management, and MBA pathways. |
+| 6 | **House of Guardians — School of Homeland Security** ✨ | Intelligence, Physical Security, Investigations, and Governance, Risk, and Compliance. |
+| 7 | **House of Foundations — School of GED** ✨ | GED/HSE preparation and applicable embedded general education college coursework. |
+| 8 | **House of Opportunity — High School Partnerships** ✨ | Partner-school participation and eligible dual enrollment. |
+| 9 | **House of Mastery — School of Credential** ✨ | Professional Certification Review and Bar Review. |
+
+### II.1 — Academic Schools and House Identities
+
+| # | Official RIAH School or Program | Legacy House Identity | Primary Purpose |
 |---|---|---|---|
-| 1 | School of Law | House of Justice | Criminal Justice; J.D.; Non-J.D. |
-| 2 | School of Technology | House of Innovation | Computing, cybersecurity, data, software, information systems, program and project management |
-| 3 | School of Experiential | House of Experience | Apprentice through Executive |
-| 4 | School of Entrepreneurship | House of Enterprise | Startup through Small Business |
-| 5 | School of Business | House of Leadership | Accounting, Finance, Entrepreneurship, Business Management, MBA |
-| 6 | School of Homeland Security | House of Guardians | Intelligence, Physical Security, GRC, Private Investigations |
-| 7 | School of GED | House of Foundations | GED/HSE |
-| 8 | High School Partnerships | House of Opportunity | Partner-school programs and eligible dual enrollment |
-| 9 | School of Credential | House of Mastery | Certification Review and Bar Review |
+| 1 | School of Law | **House of Justice** ⚖️ | Legal education, Criminal Justice, J.D., and Non-J.D. pathways |
+| 2 | School of Technology | **House of Innovation** 💻 | Technology, computing, data, and software programs |
+| 3 | School of Experiential | **House of Experience** 🤝 | Supervised experiential education |
+| 4 | School of Entrepreneurship | **House of Enterprise** 💼 | Entrepreneurship and startup development |
+| 5 | School of Business | **House of Leadership** 👑 | Business, accounting, finance, management, and MBA education |
+| 6 | School of Homeland Security | **House of Guardians** 🛡️ | Intelligence, security, investigations, and compliance |
+| 7 | School of GED | **House of Foundations** 🎓 | GED/HSE preparation |
+| 8 | High School Partnerships | **House of Opportunity** 📚 | Partner-school education and dual enrollment |
+| 9 | School of Credential | **House of Mastery** 🎖️ | Professional certification and Bar Review |
 
-**Primary House = enrolled school or program.** Houses are ceremonial identities, not substitutes for official school names.
+### II.2 — Primary House Assignment
 
-# III. ✨ Student Communities, Houses, and Subhouses
+Each student's primary house corresponds to their enrolled school or program.
 
-| # | Name | Implementation |
+| # | Enrolled School or Program | Assigned Primary House |
 |---|---|---|
-| 1 | Crown of Destiny | Introduces school house and eligible subhouses |
-| 2 | Ceremony of Belonging | Virtual school-house welcome |
-| 3 | Legacy Circles | Community subhouses based on majors and interests |
-| 4 | Circle Sanctuaries | Digital subhouse spaces |
-| 5 | Circle Guides | Community mentors |
-| 6 | Legacy Merit Points | Nonacademic engagement recognition |
-| 7 | Crown of Community Excellence | Annual recognition |
-| 8 | Legacy Spirits | Memorial recognition |
-| 9 | Legacy Stewards | Student community leaders |
+| 1 | School of Law | **House of Justice** |
+| 2 | School of Technology | **House of Innovation** |
+| 3 | School of Experiential | **House of Experience** |
+| 4 | School of Entrepreneurship | **House of Enterprise** |
+| 5 | School of Business | **House of Leadership** |
+| 6 | School of Homeland Security | **House of Guardians** |
+| 7 | School of GED | **House of Foundations** |
+| 8 | High School Partnerships | **House of Opportunity** |
+| 9 | School of Credential | **House of Mastery** |
 
-| Primary House | Illustrative Subhouses |
-|---|---|
-| House of Justice | Criminal Justice Circle; Legal Research Circle; Legal Studies Circle |
-| House of Innovation | Cybersecurity Circle; Software Circle; Data Circle; Information Systems Circle |
-| House of Experience | Apprentice Circle; Professional Development Circle; Leadership Circle |
-| House of Enterprise | Startup Circle; Small Business Circle; Innovation Circle |
-| House of Leadership | Accounting Circle; Finance Circle; Management Circle; Entrepreneurship Circle |
-| House of Guardians | Intelligence Circle; Physical Security Circle; Compliance Circle; Investigations Circle |
-| House of Foundations | GED Achievement Circle; Academic Preparation Circle |
-| House of Opportunity | Dual Enrollment Circle; College Readiness Circle |
-| House of Mastery | Certification Review Circle; Bar Review Circle |
+Students participating in multiple programs retain their primary academic or program designation, with additional affiliations recorded where applicable.
 
-# IV. 📜 Admissions and Welcome Experience
+---
 
-| # | Name | Implementation |
+# III. ✨ STUDENT COMMUNITIES, HOUSES, AND SUBHOUSES
+
+The Legacy Realm community experience promotes belonging, leadership, recognition, and student engagement through original digital and ceremonial experiences.
+
+**Primary houses correspond to RIAH's nine schools. Subhouses correspond to Legacy Circles within those houses.**
+
+| # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | Letter of Legacy | Ceremonial acceptance letter after official approval |
-| 2 | RIAH Crown Seal | Original red crown branding |
-| 3 | Robes of Legacy | Optional ceremonial attire |
-| 4 | Crown Wands | Original commemorative gold crown-handled wands |
-| 5 | Gateway of Legacy | Digital entry experience |
-| 6 | Legacy Passage | Guided onboarding |
-| 7 | Ceremony of Belonging | Primary house and subhouse introduction |
-| 8 | Scholar's Legacy Kit | Welcome materials |
-| 9 | Legacy Messenger | Official communication identity |
-| 10 | RIAH Student Portal | Actual student access |
+| 1 | **Crown of Destiny** ✨ | Proposed interactive experience confirming a student's primary school house and introducing available community subhouses. |
+| 2 | **Ceremony of Belonging** ✨ | Proposed virtual ceremony welcoming students into their primary houses and selected Legacy Circles. |
+| 3 | **Legacy Circles — Community Subhouses** 🏠 | Smaller communities within the nine houses, organized around majors, professional interests, activities, and shared goals. |
+| 4 | **Circle Sanctuaries** ✨ | Digital gathering spaces for individual community subhouses. |
+| 5 | **Circle Guides** ✨ | Proposed mentors and community coordinators. |
+| 6 | **Legacy Merit Points** ✨ | Optional recognition for service, engagement, and participation. |
+| 7 | **Crown of Community Excellence** ✨ | Proposed annual recognition for student-community achievements. |
+| 8 | **Legacy Spirits** 🕯️ | Memorial recognition of deceased students, faculty, alumni, and contributors. |
+| 9 | **Legacy Stewards** ✨ | Student representatives supporting house and subhouse participation. |
 
-Acceptance proceeds through application approval, official acceptance, account activation, program confirmation, academic materials selection, Scholar's Supply Hall, welcome kit, orientation, house ceremony, subhouse selection, and academic launch.
+### III.1 — House and Subhouse Structure
 
-# V. 🎓 General Education and Legacy Studies
-
-The four professional schools contain **18 undergraduate major areas**: Law (1), Business (4), Technology (9), and Homeland Security (4). J.D., Non-J.D., and MBA are additional pathways.
-
-| # | Legacy Studies Discipline | School and Applicable Majors |
-|---|---|---|
-| 1 | Cybersecurity and Digital Protection | Technology—Cybersecurity; Homeland Security—GRC |
-| 2 | Software Systems and Development | Technology—Software Development, Software Engineering, Computer Science, Information Systems |
-| 3 | Business Innovation and Development | Business—Entrepreneurship, Business Management |
-| 4 | Data Science and Applied Analytics | Technology—Data Science, Data Analytics |
-| 5 | Organizational Growth and Management | Business—Business Management, Entrepreneurship |
-| 6 | Legal History and Justice Studies | Law—Criminal Justice, J.D., Non-J.D. |
-| 7 | Scientific Computing and Data Interpretation | Technology—Computer Science, Data Science, Data Analytics |
-| 8 | Financial and Quantitative Analysis | Business—Accounting, Finance; Technology—Data Analytics, Data Science |
-| 9 | Strategic Intelligence and Forecasting | Homeland Security—Intelligence, GRC; Technology—Data Analytics |
-| 10 | Legal Research and Information Analysis | Law—Criminal Justice, J.D., Non-J.D.; Technology—Information Systems |
-| 11 | Professional Leadership and Development | Business—Business Management; Technology—Program Management, Project Management; Experiential |
-| 12 | Society, Governance, and Public Institutions | Law—Criminal Justice; Homeland Security—Intelligence, GRC |
-| 13 | Applied Professional Practice | Experiential supporting four professional schools |
-| 14 | Technology Innovation and Enterprise Development | Technology—Computer Science, Software Development, Software Engineering; Business—Entrepreneurship |
-| 15 | Accounting and Financial Management | Business—Accounting, Finance |
-| 16 | Computer and Information Systems | Technology—Computer Science, Information Systems, Software Development, Software Engineering, Program Management, Project Management |
-| 17 | Business Administration and Enterprise Leadership | Business—Business Management, Entrepreneurship, Accounting, Finance |
-| 18 | Law, Justice, and Legal Studies | Law—Criminal Justice, J.D., Non-J.D. |
-
-## V.2 — All 18 Majors
-
-| # | School | Major | Applicable Legacy Studies |
+| # | Community Level | Identity | Assignment |
 |---|---|---|---|
-| 1 | Law | Criminal Justice | Legal History and Justice Studies; Society, Governance, and Public Institutions; Law, Justice, and Legal Studies |
-| 2 | Business | Accounting | Financial and Quantitative Analysis; Accounting and Financial Management |
-| 3 | Business | Finance | Financial and Quantitative Analysis; Accounting and Financial Management |
-| 4 | Business | Entrepreneurship | Business Innovation and Development; Organizational Growth and Management; Business Administration and Enterprise Leadership |
-| 5 | Business | Business Management | Organizational Growth and Management; Professional Leadership and Development; Business Administration and Enterprise Leadership |
-| 6 | Technology | Computer Science | Software Systems and Development; Scientific Computing and Data Interpretation; Computer and Information Systems |
-| 7 | Technology | Cybersecurity | Cybersecurity and Digital Protection; Computer and Information Systems |
-| 8 | Technology | Data Analytics | Data Science and Applied Analytics; Financial and Quantitative Analysis; Strategic Intelligence and Forecasting |
-| 9 | Technology | Data Science | Data Science and Applied Analytics; Scientific Computing and Data Interpretation; Financial and Quantitative Analysis |
-| 10 | Technology | Information Systems | Software Systems and Development; Legal Research and Information Analysis; Computer and Information Systems |
-| 11 | Technology | Program Management | Professional Leadership and Development; Computer and Information Systems |
-| 12 | Technology | Project Management | Professional Leadership and Development; Computer and Information Systems |
-| 13 | Technology | Software Development | Software Systems and Development; Technology Innovation and Enterprise Development |
-| 14 | Technology | Software Engineering | Software Systems and Development; Technology Innovation and Enterprise Development; Computer and Information Systems |
-| 15 | Homeland Security | Intelligence | Strategic Intelligence and Forecasting; Society, Governance, and Public Institutions |
-| 16 | Homeland Security | Physical Security | Applied Professional Practice; Society, Governance, and Public Institutions |
-| 17 | Homeland Security | Governance, Risk and Compliance | Cybersecurity and Digital Protection; Strategic Intelligence and Forecasting; Society, Governance, and Public Institutions |
-| 18 | Homeland Security | Private Investigations | Legal Research and Information Analysis; Law, Justice, and Legal Studies; Applied Professional Practice |
+| 1 | Institution | **The Legacy Realm** | All RIAH students |
+| 2 | Primary House | **Nine Houses of Legacy** | Based on enrolled school or program |
+| 3 | Community Subhouse | **Legacy Circles** | Based on major, interests, activities, or community preferences |
+| 4 | Subhouse Gathering Space | **Circle Sanctuaries** | Digital community spaces |
+| 5 | Subhouse Leadership | **Circle Guides and Legacy Stewards** | Approved mentors and student representatives |
+| 6 | Recognition | **Legacy Merit Points** | Optional participation and service recognition |
+| 7 | Annual Recognition | **Crown of Community Excellence** | House and subhouse community achievements |
 
-These thematic alignments do not replace approved course requirements.
+### III.2 — Illustrative Subhouse Communities
 
-# VI. 📚 Educational Pathways and Curriculum
-
-| # | Name | Implementation |
+| # | Primary House | Potential Legacy Circles |
 |---|---|---|
-| 1 | Legacy Academy | Foundational preparation |
-| 2 | Legacy Studies | General Education and School Core |
-| 3 | Objective and Performance Assessments | Knowledge and applied competency |
-| 4 | Academic Capstones | Culminating projects with applicable human-panel review and supervision |
-| 5 | Chamber of Professional Destiny | Academic and career exploration |
-| 6 | School of GED | GED/HSE and eligible embedded coursework |
-| 7 | High School Partnerships | Partner-school programs and dual enrollment |
-| 8 | Associate Pathways | Planned associate education |
-| 9 | Bachelor's Pathways | Planned bachelor's education |
-| 10 | Graduate Pathways | Planned master's and MBA |
-| 11 | Justice Pathways | J.D. and Non-J.D., subject to requirements |
-| 12 | School of Credential | Certification Review and Bar Review |
+| 1 | House of Justice | Criminal Justice Circle; Legal Research Circle; Legal Studies Circle |
+| 2 | House of Innovation | Cybersecurity Circle; Software Circle; Data Circle; Information Systems Circle |
+| 3 | House of Experience | Apprentice Circle; Professional Development Circle; Leadership Circle |
+| 4 | House of Enterprise | Startup Circle; Small Business Circle; Innovation Circle |
+| 5 | House of Leadership | Accounting Circle; Finance Circle; Management Circle; Entrepreneurship Circle |
+| 6 | House of Guardians | Intelligence Circle; Physical Security Circle; Compliance Circle; Investigations Circle |
+| 7 | House of Foundations | GED Achievement Circle; Academic Preparation Circle |
+| 8 | House of Opportunity | Dual Enrollment Circle; College Readiness Circle |
+| 9 | House of Mastery | Certification Review Circle; Bar Review Circle |
 
-# VII. 🤝 Experiential Education and Guilds
+**Community Rule:** The primary house is determined by the student's actual enrolled school or program. Subhouse participation does not change enrollment, academic records, curriculum requirements, or degree pathways.
 
-| # | Name | Implementation |
+---
+
+# IV. 📜 ADMISSIONS AND THE WELCOME EXPERIENCE
+
+The Legacy Realm experience begins after a student satisfies RIAH's actual admissions requirements. The ceremonial package enhances onboarding without replacing official admission documents.
+
+| # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | Legacy Guardians | Homeland Security professional learning |
-| 2 | Guardian Division | Related experiential functions |
-| 3 | Guild of Applied Mastery | Practical skills development |
-| 4 | Council of Legacy | Service leadership |
-| 5 | Guild Apprenticeships | Supervised professional development |
-| 6 | Enterprise Guild | Entrepreneurship and innovation |
-| 7 | Guild of Experience | Apprentice through Executive |
-| 8 | Professional Guild Chambers | Remote supervised workspaces |
-| 9 | Guild of Credentials | Certification and Bar Review support |
-| 10 | Council of Guides | Academic and career mentorship |
+| 1 | **Letter of Legacy** ✨ | Specially designed acceptance letter issued following actual admission approval. |
+| 2 | **RIAH Crown Seal** 👑 | Original red crown-based institutional branding. |
+| 3 | **Robes of Legacy** ✨ | Proposed ceremonial robes using RIAH's black, red, gold, and white palette. |
+| 4 | **Crown Wands** ✨ | Original commemorative wands with gold crown-shaped handles. |
+| 5 | **Gateway of Legacy** ✨ | Proposed original digital entry experience before student portal access. |
+| 6 | **Legacy Passage** ✨ | Guided onboarding journey introducing the institution and platform. |
+| 7 | **Ceremony of Belonging** ✨ | Optional community introduction following enrollment. |
+| 8 | **Scholar's Legacy Kit** ✨ | Proposed welcome package containing relevant institutional materials and ceremonial items. |
+| 9 | **Legacy Messenger** ✨ | Proposed themed identity for official student communications. |
+| 10 | **RIAH Student Portal** | Actual student access to coursework, records, services, and community features. |
 
-# VIII. 💰 Foundation, Scholarships, and Financial Assistance
-
-The **RIAH Pathway Foundation** is proposed as a 501(c)(3), subject to recognition and approval. Charitable assistance and regulated lending are distinct.
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | RIAH Pathway Foundation — Treasury of Opportunity | Central charitable foundation identity |
-| 2 | Legacy Funding Vaults | Named funds and sponsor recognition |
-| 3 | Legacy Scholarship Vaults | Named scholarship opportunities |
-| 4 | RIAH Pathway Foundation — 501(c)(3) | Proposed status, subject to approval |
-| 5 | Legacy Grant Vaults | Named grants |
-| 6 | Legacy Stipend Vaults | Named stipends |
-| 7 | Legacy Donor Vaults — Hall of Giving | Consented donor recognition |
-| 8 | Legacy Student Loan Vaults | Proposed named loan-support initiatives, separately administered where authorized |
-| 9 | Legacy Funding Registry | Records of approved funds and contributors |
-
-# IX. 🧮 Tuition, Pricing, and Student Financing
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | Treasury of Opportunity | Foundation assistance |
-| 2 | Legacy Funding Vaults | Named awards and contributions |
-| 3 | RIAH Tuition Calculator | Actual USD tuition calculations |
-| 4 | RIAH Pricing Engine | Official pricing logic |
-| 5 | Chamber of Tuition Options | Published payment plans and eligible options |
-| 6 | RIAH Student Loan Program — Legacy Student Financing | Proposed financing subject to applicable law |
-| 7 | Legacy Rewards Ledger | Eligible rewards and reimbursements |
-| 8 | Legacy Currency Experience | Fictional display only; actual finances in USD |
-
-# X. 🏰 Digital Campus and Student Services
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | Legacy Castle | Digital campus |
-| 2 | Grand Hall of Legacy | Ceremonies and gatherings |
-| 3 | Grand Library of Knowledge | Library resources |
-| 4 | Vault of Advanced Knowledge | Restricted advanced resources |
-| 5 | Chamber of Possibilities | Personalized resource discovery |
-| 6 | Chamber of Restoration | Student and technology support, not medical care |
-| 7 | Messenger Tower | Notifications |
-| 8 | Hall of Achievement | Recognition |
-| 9 | Presidential Tower | President's office identity |
-| 10 | Legacy Commons | Collaboration |
-| 11 | Guild Chambers | Experiential workspaces |
-| 12 | Chamber of Credentials | Certification and Bar Review |
-| 13 | Scholar's Supply Hall | Textbooks, workbooks, laptops, software, supplies |
-| 14 | Technology Preparation Chamber | Device specifications and readiness |
-
-# XI. 🎭 Student Life and Traditions
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | Crown of Community Excellence | Community recognition |
-| 2 | Festival of the Nine Schools | Academic and service events |
-| 3 | Feast of Beginnings | Welcome |
-| 4 | Feast of Achievement | Recognition |
-| 5 | Legacy Gala | Formal celebration |
-| 6 | Legacy Stewards | Student representatives |
-| 7 | Legacy Societies | Student organizations |
-| 8 | Council of Community Service | Outreach |
-| 9 | Hall of Professional Pathways | Careers and networking |
-| 10 | Legacy Student Council | Student governance |
-
-# XII. 🏆 Assessments and Achievements
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | Objective and Performance Assessments | Knowledge and applied competency |
-| 2 | Academic Capstones | Culminating projects with applicable human panel and supervision |
-| 3 | Performance Assessments | Practical skills |
-| 4 | Legacy Merit Points | Nonacademic engagement |
-| 5 | Honors of Legacy | Academic and service recognition |
-| 6 | Hall of Achievement | Digital recognition |
-| 7 | Academic Capstones — Mastery Projects | Required culminating demonstrations |
-| 8 | Chronicle of Experience | Supervised participation records |
-| 9 | Chronicle of Achievement | Student portfolio |
-| 10 | Living Legacy Crown | Milestone recognition |
-
-# XIII. 🕯️ Graduation, Alumni, and Heritage
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | Grand Ascension | Graduation ceremony |
-| 2 | Legacy Society | Alumni network |
-| 3 | Legacy Mentors | Alumni mentorship |
-| 4 | Chronicles of Legacy | Institutional archive |
-| 5 | Legacy Spirits | Memorial recognition |
-| 6 | Hall of Eternal Legacy | Heritage and remembrance |
-| 7 | Official Graduation and Degree Conferral | Actual authorized credential issuance |
-| 8 | Lifelong Legacy Pathways | Continuing education |
-
-# XIV. 🛡️ Accreditation, Licensing, and Governance
-
-| # | Name | Implementation |
-|---|---|---|
-| 1 | RIAH Governing Board | Governance |
-| 2 | Ministry of Legacy | Administration identity |
-| 3 | Council of Institutional Review | Internal review |
-| 4 | Accreditation and Authorization | Pre-accreditation and authorization planning |
-| 5 | RIAH Proprietary License | Repository licensing |
-| 6 | Unified Legacy Bot | Monitoring and evidence |
-| 7 | RIAH Website Draft | Website development records |
-
-# XV. 🚪 Complete Student Journey — Interest to Alumni
+### IV.1 — Acceptance Letter and Student Preparation
 
 | # | Stage | RIAH Implementation |
 |---|---|---|
-| 1 | Discover the Legacy Realm | Interest and research |
-| 2 | Explore the Nine Schools | Program exploration |
-| 3 | Submit an Application | Admissions documents |
-| 4 | Receive the Letter of Legacy | Official approval and ceremonial letter |
-| 5 | Confirm Enrollment | Enrollment and financing |
-| 6 | Visit the Scholar's Supply Hall | Learning materials and laptops |
-| 7 | Prepare for the Legacy Journey | Technology and welcome kit |
-| 8 | Enter the Gateway of Legacy | Portal activation |
-| 9 | Complete the Legacy Passage | Orientation |
-| 10 | Attend the Ceremony of Belonging | School-based primary house |
-| 11 | Discover Legacy Circles | Community subhouses |
-| 12 | Begin Legacy Studies | Coursework |
-| 13 | Enter the Guilds of Experience | Supervised learning |
-| 14 | Complete Objective and Performance Assessments | Academic competency |
-| 15 | Complete Academic Capstones | Human-panel review and supervision as applicable |
-| 16 | Enter the Chamber of Credentials | Certification and Bar Review |
-| 17 | Celebrate the Grand Ascension | Graduation |
-| 18 | Enter the Legacy Society | Alumni |
-| 19 | Continue Lifelong Legacy Pathways | Continuing development |
+| 1 | Application Approval | Admissions confirms eligibility and applicable program requirements. |
+| 2 | Official Acceptance | Student receives official admissions confirmation and the **Letter of Legacy**. |
+| 3 | Student Identity | Student receives applicable account-activation instructions and institutional identification. |
+| 4 | Program Confirmation | Student confirms their school, program, major, and enrollment requirements. |
+| 5 | Academic Preparation | Student receives an approved list of required textbooks, workbooks, software, laptop specifications, and other materials. |
+| 6 | Scholar's Supply Hall | Student accesses the proposed educational purchasing and preparation experience. |
+| 7 | Legacy Welcome Collection | Student may receive or purchase eligible ceremonial and welcome items. |
+| 8 | Digital Orientation | Student enters the **Gateway of Legacy** and completes the **Legacy Passage**. |
+| 9 | House Ceremony | Student attends the **Ceremony of Belonging** and enters the house associated with their school. |
+| 10 | Subhouse Introduction | Student explores or joins eligible **Legacy Circles**. |
+| 11 | Academic Launch | Student begins coursework and receives access to applicable educational services. |
 
-# XVI. 👑 Institutional Naming Register
+---
 
-| # | Component | Name |
+# V. 🎓 GENERAL EDUCATION AND LEGACY STUDIES
+
+RIAH Pathway’s four primary professional schools include **School of Law, School of Business, School of Technology, and School of Homeland Security**. The 18 undergraduate major areas are Criminal Justice; Accounting, Finance, Entrepreneurship, Business Management; Computer Science, Cybersecurity, Data Analytics, Data Science, Information Systems, Program Management, Project Management, Software Development, Software Engineering; Intelligence, Physical Security, Governance, Risk and Compliance, and Private Investigations. J.D., Non-J.D., and MBA pathways are additional program designations.
+
+| # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | Ecosystem | The Legacy Realm |
-| 2 | Institution | RIAH Pathway — The Legacy Realm |
-| 3 | Administration | Ministry of Legacy |
-| 4 | Chairwoman/CEO | Minister of Legacy — Chairwoman & CEO |
-| 5 | President | President |
-| 6 | Board | RIAH Governing Board |
-| 7 | Digital campus | Legacy Castle |
-| 8 | Schools and houses | Nine Schools / Nine Houses of Legacy |
-| 9 | Law house | House of Justice |
-| 10 | Communities | Legacy Circles / Circle Sanctuaries |
-| 11 | House introduction | Crown of Destiny / Ceremony of Belonging |
-| 12 | General Education | Legacy Studies |
-| 13 | Foundation | RIAH Pathway Foundation — Treasury of Opportunity |
-| 14 | Named funds | Legacy Funding Vaults |
-| 15 | Scholarships | Legacy Scholarship Vaults |
-| 16 | Grants | Legacy Grant Vaults |
-| 17 | Stipends | Legacy Stipend Vaults |
-| 18 | Donations | Legacy Donor Vaults / Hall of Giving |
-| 19 | Loan support | Legacy Student Loan Vaults |
-| 20 | Funding records | Legacy Funding Registry |
-| 21 | Tuition | RIAH Tuition Calculator |
-| 22 | Pricing | RIAH Pricing Engine / Chamber of Tuition Options |
-| 23 | Financing | RIAH Student Loan Program / Legacy Student Financing |
-| 24 | Symbolic currency | Legacy Currency Experience |
-| 25 | Knowledge tests | Objective Assessments |
-| 26 | Applied tests | Performance Assessments |
-| 27 | Capstones | Academic Capstones / Mastery Projects |
-| 28 | Experiential | Guild of Experience / Guild of Applied Mastery |
-| 29 | Mentorship | Council of Guides |
-| 30 | Support | Chamber of Restoration |
-| 31 | Library | Grand Library of Knowledge |
-| 32 | Advanced resources | Vault of Advanced Knowledge |
-| 33 | Student leaders | Legacy Stewards |
-| 34 | Acceptance | Letter of Legacy |
-| 35 | Onboarding | Gateway of Legacy / Legacy Passage |
-| 36 | Robes | Robes of Legacy |
-| 37 | Commemorative wands | Crown Wands |
-| 38 | Wand design | Gold crown-shaped handles |
-| 39 | Student portfolio | Chronicle of Achievement |
-| 40 | Milestones | Living Legacy Crown |
-| 41 | Community award | Crown of Community Excellence |
-| 42 | Festival | Festival of the Nine Schools |
-| 43 | Graduation | Grand Ascension |
-| 44 | Alumni | Legacy Society |
-| 45 | Memorial | Hall of Eternal Legacy |
-| 46 | Archives | Chronicles of Legacy |
-| 47 | Certifications | Chamber of Credentials / Guild of Credentials |
-| 48 | Bar Review | Justice Review Chamber |
-| 49 | Credential records | Chronicle of Credentials |
-| 50 | Learning materials | Legacy Learning Collections |
-| 51 | Textbooks | Legacy Textbook Collection |
-| 52 | Workbooks | Legacy Practice Collection |
-| 53 | Journals | Legacy Journals |
-| 54 | Flashcards | Legacy Knowledge Cards |
-| 55 | Study guides | Legacy Study Collection |
-| 56 | Review guides | Legacy Review Collection |
-| 57 | Learning library | Hall of Learning Collections / Scholar's Vault |
-| 58 | Collectibles | Crown Collection |
-| 59 | Welcome | Scholar's Legacy Kit |
-| 60 | Keepsakes | Legacy Keepsakes |
-| 61 | Supplies | Scholar's Supply Hall |
-| 62 | Technology | Technology Preparation Chamber |
-| 63 | Primary house | Nine Houses of Legacy |
-| 64 | Subhouses | Legacy Circles |
-| 65 | Community spaces | Circle Sanctuaries |
-| 66 | House ceremony | Ceremony of Belonging |
-| 67 | Enrollment journey | Legacy Passage |
-| 68 | Lifelong journey | Lifelong Legacy Pathways |
+| 1 | Cybersecurity and Digital Protection | Cybersecurity and Governance, Risk and Compliance: digital protection and threat identification. |
+| 2 | Software Systems and Development | Software Development, Software Engineering, Computer Science, and Information Systems. |
+| 3 | Business Innovation and Development | Entrepreneurship and Business Management. |
+| 4 | Data Science and Applied Analytics | Data Science and Data Analytics. |
+| 5 | Organizational Growth and Management | Business Management and Entrepreneurship. |
+| 6 | Legal History and Justice Studies | Criminal Justice, J.D., and Non-J.D. pathways. |
+| 7 | Scientific Computing and Data Interpretation | Computer Science, Data Science, and Data Analytics. |
+| 8 | Financial and Quantitative Analysis | Accounting, Finance, Data Analytics, and Data Science. |
+| 9 | Strategic Intelligence and Forecasting | Intelligence, Governance, Risk and Compliance, and Data Analytics. |
+| 10 | Legal Research and Information Analysis | Criminal Justice, J.D., Non-J.D., and Information Systems. |
+| 11 | Professional Leadership and Development | Business Management, Program Management, Project Management, and experiential education. |
+| 12 | Society, Governance, and Public Institutions | Criminal Justice, Intelligence, and Governance, Risk and Compliance. |
+| 13 | Applied Professional Practice | Supervised professional projects and experiential assignments. |
+| 14 | Technology Innovation and Enterprise Development | Computer Science, Software Development, Software Engineering, and Entrepreneurship. |
+| 15 | Accounting and Financial Management | Accounting and Finance. |
+| 16 | Computer and Information Systems | Computer Science, Information Systems, software, and technical projects. |
+| 17 | Business Administration and Enterprise Leadership | Business Management, Entrepreneurship, Accounting, and Finance. |
+| 18 | Law, Justice, and Legal Studies | Criminal Justice, J.D., and Non-J.D. pathways. |
 
-# XVII. 🎖️ Certifications, Bar Review, and Professional Credentials
+---
+### V.2 — School and Major Alignment
 
-| # | Name | Implementation |
+| # | RIAH School | Major | Applicable Legacy Studies Disciplines |
+|---|---|---|---|
+| 1 | School of Law | Criminal Justice | Legal History and Justice Studies; Law, Justice, and Legal Studies |
+| 2 | School of Business | Accounting | Financial and Quantitative Analysis; Accounting and Financial Management |
+| 3 | School of Business | Finance | Financial and Quantitative Analysis; Accounting and Financial Management |
+| 4 | School of Business | Entrepreneurship | Business Innovation and Development; Organizational Growth and Management |
+| 5 | School of Business | Business Management | Organizational Growth and Management; Professional Leadership and Development |
+| 6 | School of Technology | Computer Science | Software Systems and Development; Scientific Computing and Data Interpretation |
+| 7 | School of Technology | Cybersecurity | Cybersecurity and Digital Protection |
+| 8 | School of Technology | Data Analytics | Data Science and Applied Analytics; Strategic Intelligence and Forecasting |
+| 9 | School of Technology | Data Science | Data Science and Applied Analytics; Scientific Computing and Data Interpretation |
+| 10 | School of Technology | Information Systems | Computer and Information Systems; Legal Research and Information Analysis |
+| 11 | School of Technology | Program Management | Professional Leadership and Development; Computer and Information Systems |
+| 12 | School of Technology | Project Management | Professional Leadership and Development; Computer and Information Systems |
+| 13 | School of Technology | Software Development | Software Systems and Development; Technology Innovation and Enterprise Development |
+| 14 | School of Technology | Software Engineering | Software Systems and Development; Technology Innovation and Enterprise Development |
+| 15 | School of Homeland Security | Intelligence | Strategic Intelligence and Forecasting |
+| 16 | School of Homeland Security | Physical Security | Applied Professional Practice |
+| 17 | School of Homeland Security | Governance, Risk and Compliance | Cybersecurity and Digital Protection; Strategic Intelligence and Forecasting |
+| 18 | School of Homeland Security | Private Investigations | Legal Research and Information Analysis; Applied Professional Practice |
+
+**Curriculum Rule:** Thematic alignments are not newly approved courses or substitutes for official curriculum requirements.
+
+---
+
+# VI. 📚 EDUCATIONAL PATHWAYS AND CURRICULUM
+
+Educational progression includes GED/HSE, high-school partnerships, college and graduate education, law, and credentials.
+
+| # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | Chamber of Credentials | Certification and Bar Review resources |
-| 2 | Objective and Performance Assessments | Internal academic assessments |
-| 3 | Academic Capstones | Culminating projects |
-| 4 | Professional Certification Review | Preparation for external examinations |
-| 5 | Chronicle of Credentials | Institutional and verified external credentials |
-| 6 | Justice Review Chamber | Bar Review |
-| 7 | Guild of Credentials | Credential preparation identity |
-| 8 | Legacy Credentials | Certificates and verified certifications |
-| 9 | Credential Verification Registry | Records and verification |
+| 1 | Legacy Academy | Foundational onboarding and academic preparation. |
+| 2 | Legacy Studies | Themed presentation of applicable general education and school core. |
+| 3 | Objective and Performance Assessments | Objective knowledge assessment and applied performance evaluation. |
+| 4 | Academic Capstones | Culminating projects with applicable human-panel review and supervision. |
+| 5 | Chamber of Professional Destiny | Career and academic guidance. |
+| 6 | School of GED | GED/HSE preparation and eligible embedded college courses. |
+| 7 | High School Partnerships | Approved partnerships and dual enrollment. |
+| 8 | Associate Pathways | Planned associate-level education. |
+| 9 | Bachelor’s Pathways | Planned bachelor-level education. |
+| 10 | Graduate Pathways | Planned master’s and MBA education. |
+| 11 | Justice Pathways | J.D. and Non-J.D. pathways subject to requirements. |
+| 12 | School of Credential | Certification Review and Bar Review. |
 
-External certification and bar admission decisions remain with applicable authorities.
+---
 
-# XVIII. 📚 Educational Materials and Learning Collections
+# VII. 🤝 EXPERIENTIAL EDUCATION AND GUILDS
 
-| # | Name | Implementation |
+Real supervised work, qualified professionals, and documented academic requirements underpin the guild experience.
+
+| # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | Legacy Textbook Collection | Course textbooks |
-| 2 | Knowledge Volumes | Original instructional volumes |
-| 3 | Hall of Learning Collections | Central catalog |
-| 4 | Scholar's Vault | Access-controlled resources |
-| 5 | Legacy Practice Collection | Workbooks |
-| 6 | Legacy Journals | Journals and reflections |
-| 7 | Legacy Study Collection | Study and review materials |
-| 8 | Legacy Knowledge Cards | Flashcards |
-| 9 | Mastery Review Guides | Examination review |
-| 10 | Mastery Workbooks | Guided exercises |
-| 11 | Scholar's Collection | Bundled learning materials |
-| 12 | Scholar's Supply Hall | Approved materials and technology purchases |
-| 13 | Technology Preparation Chamber | Device and software guidance |
+| 1 | Legacy Guardians | Homeland Security professional learning. |
+| 2 | Guardian Division | Homeland Security experiential functions. |
+| 3 | Guild of Applied Mastery | Student practice and collaborative learning. |
+| 4 | Council of Legacy | Service-oriented leadership community. |
+| 5 | Guild Apprenticeships | Supervised professional development. |
+| 6 | Enterprise Guild | Entrepreneurship and business development. |
+| 7 | Guild of Experience | Six levels from Apprentice through Executive. |
+| 8 | Professional Guild Chambers | Remote supervised workspaces. |
+| 9 | Guild of Credentials | Certification and Bar Review support. |
+| 10 | Council of Guides | On-demand academic and professional coaching. |
 
-Materials apply to the School of Law, Business, Technology, Homeland Security, Experiential, Entrepreneurship, GED, High School Partnerships, and Credential according to program requirements.
+---
 
-# XIX. 🎁 Collectibles, Merchandise, and Legacy Keepsakes
+# VIII. 💰 FOUNDATION, SCHOLARSHIPS, AND FINANCIAL ASSISTANCE
 
-| # | Name | Implementation |
+**RIAH Pathway Foundation** is a proposed **501(c)(3)** foundation, subject to approval. Vaults are funding and recognition structures, not banks; lending remains separate and subject to authorization.
+
+| # | RIAH Pathway | RIAH Implementation |
 |---|---|---|
-| 1 | Nine Houses Collection | School-house merchandise |
-| 2 | Robes of Legacy | Ceremonial attire |
-| 3 | Crown Wand Collection | Original crown-handled commemorative items |
-| 4 | Legacy House Crests | Original crests |
-| 5 | Letter of Legacy | Ceremonial acceptance |
-| 6 | Scholar's Legacy Kit | Welcome items |
-| 7 | Legacy Achievement Cards | Original recognition cards |
-| 8 | Legacy House Apparel | Branded apparel |
-| 9 | Legacy Keepsakes | Commemorative merchandise |
-| 10 | Hall of Collectibles and Achievement | Digital showcase |
-| 11 | Legacy Learning Collections | Educational products |
-| 12 | Crown Collection | Signature crown-branded merchandise |
+| 1 | RIAH Pathway Foundation — Treasury of Opportunity | Charitable assistance for eligible students. |
+| 2 | Legacy Funding Vaults | Named donor, sponsor, scholarship, grant, and stipend recognition. |
+| 3 | Legacy Scholarship Vaults | Named scholarship funds and awards. |
+| 4 | RIAH Pathway Foundation — 501(c)(3) | Charitable foundation subject to tax-exempt recognition. |
+| 5 | Legacy Grant Vaults | Named educational grants. |
+| 6 | Legacy Stipend Vaults | Named student stipend programs. |
+| 7 | Legacy Donor Vaults — Hall of Giving | Donor recognition subject to privacy and consent. |
+| 8 | Legacy Student Loan Vaults | Proposed financing support; lending only where authorized. |
+| 9 | Legacy Funding Registry | Approved funding programs, contributors, and awards. |
 
-# XX. 📜 Student Enrollment, Acceptance, Supplies, House Assignment, and Alumni Process
+---
+
+# IX. 🧮 TUITION, PRICING, AND STUDENT FINANCING
+
+All real charges, payments, and obligations are in U.S. dollars.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | RIAH Pathway Foundation — Treasury of Opportunity | Foundation assistance gateway. |
+| 2 | Legacy Funding Vaults | Named funding opportunities and recognition. |
+| 3 | RIAH Tuition Calculator | Actual tuition, credit, and payment calculations in USD. |
+| 4 | RIAH Pricing Engine | Conditional tuition pricing logic. |
+| 5 | Chamber of Tuition Options | Published payment plans and options. |
+| 6 | RIAH Student Loan Program — Legacy Student Financing | Proposed financing where legally authorized. |
+| 7 | Legacy Rewards Ledger | Eligible rewards and reimbursements. |
+| 8 | Legacy Currency Experience | Optional symbolic visual units, never real balances. |
+
+---
+
+# X. 🏰 DIGITAL CAMPUS AND STUDENT SERVICES
+
+Original digital campus and navigation experiences.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Legacy Castle | Digital campus identity. |
+| 2 | Grand Hall of Legacy | Ceremonies and gatherings. |
+| 3 | Grand Library of Knowledge | Research and academic resources. |
+| 4 | Vault of Advanced Knowledge | Access-controlled advanced materials. |
+| 5 | Chamber of Possibilities | Personalized resource discovery. |
+| 6 | Chamber of Restoration | Technology and customer support, not medical services. |
+| 7 | Messenger Tower | Messaging and notifications. |
+| 8 | Hall of Achievement | Digital recognition. |
+| 9 | Presidential Tower | President’s office identity. |
+| 10 | Legacy Commons | Student community spaces. |
+| 11 | Guild Chambers | Supervised remote workspaces. |
+| 12 | Chamber of Credentials | Credential review resources. |
+| 13 | Scholar’s Supply Hall | Approved learning materials, laptops, and supplies. |
+| 14 | Technology Preparation Chamber | Device specifications, software, and technical readiness. |
+
+---
+
+# XI. 🎭 STUDENT LIFE AND TRADITIONS
+
+Student organizations, government, honor societies, Greek life, service, mentoring, events, and career development.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Crown of Community Excellence | Community recognition. |
+| 2 | Festival of the Nine Schools | Academic and service challenges. |
+| 3 | Feast of Beginnings | Virtual welcome event. |
+| 4 | Feast of Achievement | Academic recognition event. |
+| 5 | Legacy Gala | Formal institutional celebration. |
+| 6 | Legacy Stewards | Student representatives. |
+| 7 | Legacy Societies | Student organizations. |
+| 8 | Council of Community Service | Service coordination. |
+| 9 | Hall of Professional Pathways | Career fairs and networking. |
+| 10 | Legacy Student Council | Student government. |
+
+---
+
+# XII. 🏆 ASSESSMENTS AND ACHIEVEMENTS
+
+Objective assessments, performance assessments, and capstones are distinct; capstones include applicable human-panel evaluation and supervision.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Objective and Performance Assessments | Knowledge and practical competency. |
+| 2 | Academic Capstones | Culminating academic mastery and panel review. |
+| 3 | Performance Assessments | Applied competency demonstration. |
+| 4 | Legacy Merit Points | Optional nonacademic recognition. |
+| 5 | Honors of Legacy | Service and achievement awards. |
+| 6 | Hall of Achievement | Digital recognition displays. |
+| 7 | Academic Capstones — Mastery Projects | Projects, supervision, and applicable human-panel evaluation. |
+| 8 | Chronicle of Experience | Supervised experiential records. |
+| 9 | Chronicle of Achievement | Academic and credential portfolio. |
+| 10 | Living Legacy Crown | Visual milestone recognition. |
+
+---
+### XII.1 — RIAH Academic Assessment Alignment
+
+| # | RIAH Assessment | Academic Purpose |
+|---|---|---|
+| 1 | Objective Assessments | Knowledge and understanding |
+| 2 | Performance Assessments | Practical application and demonstrated skills |
+| 3 | Academic Capstones | Culminating mastery, applicable human-panel review and supervision |
+
+---
+
+# XIII. 🕯️ GRADUATION, ALUMNI, AND HERITAGE
+
+Graduation, alumni engagement, professional development, and remembrance.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Grand Ascension | Graduation ceremony identity. |
+| 2 | Legacy Society | Alumni network. |
+| 3 | Legacy Mentors | Alumni mentorship. |
+| 4 | Chronicles of Legacy | Institutional archives. |
+| 5 | Legacy Spirits | Memorial recognition. |
+| 6 | Hall of Eternal Legacy | Heritage and memorials. |
+| 7 | Official Graduation and Degree Conferral | Formal completion and authorized credential issuance. |
+| 8 | Lifelong Legacy Pathways | Continuing education and development. |
+
+---
+
+# XIV. 🛡️ ACCREDITATION, LICENSING, AND GOVERNANCE
+
+Regulatory terminology remains clear and separate from ceremonial branding.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | RIAH Governing Board | Institutional governance. |
+| 2 | Ministry of Legacy | Administrative identity. |
+| 3 | Council of Institutional Review | Internal review identity. |
+| 4 | Accreditation and Authorization | Pre-accreditation and authorization planning. |
+| 5 | RIAH Proprietary License | Repository licensing framework. |
+| 6 | Unified Legacy Bot | Monitoring and evidence documentation. |
+| 7 | RIAH Website Draft | Repository and website documentation. |
+
+---
+
+# XV. 🚪 COMPLETE STUDENT JOURNEY — INTEREST TO ALUMNI
+
+The complete journey links real enrollment, materials, house assignment, academics, graduation, and alumni participation.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Discover the Legacy Realm | Explore programs, tuition, and opportunities. |
+| 2 | Explore the Nine Schools | Select an eligible school and pathway. |
+| 3 | Submit an Application | Submit required admissions documents. |
+| 4 | Receive the Letter of Legacy | Receive approved acceptance and ceremonial letter. |
+| 5 | Confirm Enrollment | Complete enrollment and financial arrangements. |
+| 6 | Visit the Scholar’s Supply Hall | Review or purchase approved books, laptop, and software. |
+| 7 | Prepare for the Legacy Journey | Receive onboarding instructions and welcome items. |
+| 8 | Enter the Gateway of Legacy | Activate the student account. |
+| 9 | Complete the Legacy Passage | Complete orientation. |
+| 10 | Attend the Ceremony of Belonging | Enter primary house determined by school. |
+| 11 | Discover Legacy Circles | Join eligible community subhouses. |
+| 12 | Begin Legacy Studies | Start approved coursework. |
+| 13 | Enter the Guilds of Experience | Complete eligible supervised work. |
+| 14 | Complete Objective and Performance Assessments | Demonstrate knowledge and applied skills. |
+| 15 | Complete Academic Capstones | Complete projects, panels, and supervision. |
+| 16 | Enter the Chamber of Credentials | Pursue eligible credential preparation. |
+| 17 | Celebrate the Grand Ascension | Celebrate approved completion. |
+| 18 | Enter the Legacy Society | Join alumni network. |
+| 19 | Continue Lifelong Legacy Pathways | Continue education, mentoring, and career development. |
+
+---
+
+# XVI. 👑 INSTITUTIONAL NAMING REGISTER
+
+| # | Institutional Component | RIAH Naming Options | Intended Use |
+|---|---|---|---|
+| 1 | Ecosystem | **The Legacy Realm** | RIAH institutional naming and implementation register. |
+| 2 | Institution | **RIAH Pathway — The Legacy Realm** | RIAH institutional naming and implementation register. |
+| 3 | Central Administration | **Ministry of Legacy** | RIAH institutional naming and implementation register. |
+| 4 | Chairwoman and CEO | **Minister of Legacy / Chairwoman & CEO** | RIAH institutional naming and implementation register. |
+| 5 | President | **President** | RIAH institutional naming and implementation register. |
+| 6 | Governing Board | **RIAH Governing Board** | RIAH institutional naming and implementation register. |
+| 7 | Digital Campus | **Legacy Castle / Legacy Campus** | RIAH institutional naming and implementation register. |
+| 8 | Academic Schools | **Nine Schools / Nine Houses of Legacy** | RIAH institutional naming and implementation register. |
+| 9 | School of Law House | **House of Justice** | RIAH institutional naming and implementation register. |
+| 10 | Student Communities | **Legacy Circles / Circle Sanctuaries** | RIAH institutional naming and implementation register. |
+| 11 | Community Assignment | **Crown of Destiny / Ceremony of Belonging** | RIAH institutional naming and implementation register. |
+| 12 | General Education | **Legacy Studies** | RIAH institutional naming and implementation register. |
+| 13 | Foundation | **RIAH Pathway Foundation — Treasury of Opportunity** | RIAH institutional naming and implementation register. |
+| 14 | Funding Vaults | **Legacy Funding Vaults** | RIAH institutional naming and implementation register. |
+| 15 | Scholarships | **Legacy Scholarship Vaults / Legacy Scholarship Fund** | RIAH institutional naming and implementation register. |
+| 16 | Grants | **Legacy Grant Vaults / Grants of Opportunity** | RIAH institutional naming and implementation register. |
+| 17 | Stipends | **Legacy Stipend Vaults / Legacy Stipend Awards** | RIAH institutional naming and implementation register. |
+| 18 | Donations | **Legacy Donor Vaults / Hall of Giving** | RIAH institutional naming and implementation register. |
+| 19 | Student Loan Vaults | **Legacy Student Loan Vaults** | RIAH institutional naming and implementation register. |
+| 20 | Funding Records | **Legacy Funding Registry** | RIAH institutional naming and implementation register. |
+| 21 | Tuition Calculator | **RIAH Tuition Calculator** | RIAH institutional naming and implementation register. |
+| 22 | Pricing | **RIAH Pricing Engine / Chamber of Tuition Options** | RIAH institutional naming and implementation register. |
+| 23 | Student Financing | **RIAH Student Loan Program / Legacy Student Financing** | RIAH institutional naming and implementation register. |
+| 24 | Fictional Currency Experience | **Legacy Currency Experience** | RIAH institutional naming and implementation register. |
+| 25 | Objective Assessments | **Objective Assessments** | RIAH institutional naming and implementation register. |
+| 26 | Performance Assessments | **Performance Assessments** | RIAH institutional naming and implementation register. |
+| 27 | Academic Capstones | **Academic Capstones / Mastery Projects** | RIAH institutional naming and implementation register. |
+| 28 | Experiential Education | **Guilds of Experience / Guild of Applied Mastery** | RIAH institutional naming and implementation register. |
+| 29 | Professional Mentorship | **Council of Guides / Art of Guidance** | RIAH institutional naming and implementation register. |
+| 30 | Student Support | **Chamber of Restoration / Legacy Support Wing** | RIAH institutional naming and implementation register. |
+| 31 | Academic Library | **Grand Library of Knowledge / Knowledge Hall** | RIAH institutional naming and implementation register. |
+| 32 | Advanced Research | **Vault of Advanced Knowledge** | RIAH institutional naming and implementation register. |
+| 33 | Student Leadership | **Legacy Stewards** | RIAH institutional naming and implementation register. |
+| 34 | Admissions Letter | **Letter of Legacy / Legacy Letter** | RIAH institutional naming and implementation register. |
+| 35 | Onboarding | **Gateway of Legacy / Legacy Passage** | RIAH institutional naming and implementation register. |
+| 36 | Ceremonial Clothing | **Robes of Legacy** | RIAH institutional naming and implementation register. |
+| 37 | Commemorative Wand | **Crown Wand / Wand of Legacy** | RIAH institutional naming and implementation register. |
+| 38 | Wand Design | **Gold Crown-Shaped Handle** | RIAH institutional naming and implementation register. |
+| 39 | Student Portfolio | **Chronicle of Achievement** | RIAH institutional naming and implementation register. |
+| 40 | Student Recognition | **Living Legacy Crown** | RIAH institutional naming and implementation register. |
+| 41 | Annual Recognition | **Crown of Community Excellence** | RIAH institutional naming and implementation register. |
+| 42 | Institutional Festival | **Festival of the Nine Schools** | RIAH institutional naming and implementation register. |
+| 43 | Graduation | **Grand Ascension / Legacy Ascension** | RIAH institutional naming and implementation register. |
+| 44 | Alumni | **Legacy Society** | RIAH institutional naming and implementation register. |
+| 45 | Memorial Recognition | **Hall of Eternal Legacy / Legacy Memorial Hall** | RIAH institutional naming and implementation register. |
+| 46 | Institutional Archives | **Chronicles of Legacy** | RIAH institutional naming and implementation register. |
+| 47 | Certification Programs | **Chamber of Credentials / Guild of Credentials** | RIAH institutional naming and implementation register. |
+| 48 | Bar Review | **Justice Review Chamber / Chamber of Legal Mastery** | RIAH institutional naming and implementation register. |
+| 49 | Certifications and Credentials | **Legacy Credentials / Chronicle of Credentials** | RIAH institutional naming and implementation register. |
+| 50 | Educational Materials | **Legacy Learning Collections / Scholar’s Collection** | RIAH institutional naming and implementation register. |
+| 51 | Textbooks | **Legacy Textbook Collection / Knowledge Volumes** | RIAH institutional naming and implementation register. |
+| 52 | Workbooks | **Legacy Practice Collection / Mastery Workbooks** | RIAH institutional naming and implementation register. |
+| 53 | Journals | **Legacy Journals / Chronicles of Learning** | RIAH institutional naming and implementation register. |
+| 54 | Flashcards | **Legacy Knowledge Cards / Mastery Cards** | RIAH institutional naming and implementation register. |
+| 55 | Study Guides | **Legacy Study Collection / Scholar’s Guides** | RIAH institutional naming and implementation register. |
+| 56 | Review Guides | **Legacy Review Collection / Mastery Review Guides** | RIAH institutional naming and implementation register. |
+| 57 | Educational Resource Library | **Hall of Learning Collections / Scholar’s Vault** | RIAH institutional naming and implementation register. |
+| 58 | Collectibles | **Legacy Collectibles / Crown Collection** | RIAH institutional naming and implementation register. |
+| 59 | Student Welcome Collection | **Scholar’s Legacy Kit / Legacy Welcome Collection** | RIAH institutional naming and implementation register. |
+| 60 | Commemorative Merchandise | **Legacy Keepsakes / Hall of Keepsakes** | RIAH institutional naming and implementation register. |
+| 61 | Student Supplies | **Scholar’s Supply Hall** | RIAH institutional naming and implementation register. |
+| 62 | Technology Preparation | **Technology Preparation Chamber** | RIAH institutional naming and implementation register. |
+| 63 | Primary House Assignment | **Nine Houses of Legacy** | RIAH institutional naming and implementation register. |
+| 64 | Community Subhouses | **Legacy Circles** | RIAH institutional naming and implementation register. |
+| 65 | Subhouse Gathering Spaces | **Circle Sanctuaries** | RIAH institutional naming and implementation register. |
+| 66 | House Ceremony | **Ceremony of Belonging** | RIAH institutional naming and implementation register. |
+| 67 | Complete Enrollment Journey | **Legacy Passage** | RIAH institutional naming and implementation register. |
+| 68 | Lifelong Student Journey | **Lifelong Legacy Pathways** | RIAH institutional naming and implementation register. |
+
+---
+
+# XVII. 🎖️ CERTIFICATIONS, BAR REVIEW, AND PROFESSIONAL CREDENTIALS
+
+The **School of Credential** supports certification preparation and Bar Review. External issuers and licensing bodies retain authority.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Chamber of Credentials | Certification preparation and examination guidance. |
+| 2 | Objective and Performance Assessments | Institutional academic assessments distinct from external certifications. |
+| 3 | Academic Capstones | Culminating projects and applicable human-panel evaluation. |
+| 4 | Professional Certification Review | Preparation for professional certification exams. |
+| 5 | Chronicle of Credentials | Record of institutional and independently verified external credentials. |
+| 6 | Justice Review Chamber | Bar Review and legal exam resources. |
+| 7 | Guild of Credentials | Credential preparation community. |
+| 8 | Legacy Credentials | Certificates and verified external certifications with actual issuer identified. |
+| 9 | Credential Verification Registry | Verification of institutional and external credentials where available. |
+
+---
+### XVII.1 — Credential Pathways
+
+| # | Credential Category | RIAH Program | Legacy Realm Identity |
+|---|---|---|---|
+| 1 | Professional Certifications | Professional Certification Review | Chamber of Credentials |
+| 2 | Bar Examination Preparation | Bar Review | Justice Review Chamber |
+| 3 | Institutional Certificates | Applicable RIAH certificates | Legacy Credentials |
+| 4 | External Professional Certifications | Independent certification issuers | Chronicle of Credentials |
+| 5 | Academic Assessment Completion | Objective and Performance Assessments | Academic Achievement Record |
+| 6 | Academic Capstone Completion | Academic Capstones | Mastery Project Record |
+
+---
+
+# XVIII. 📚 EDUCATIONAL MATERIALS AND LEARNING COLLECTIONS
+
+Resources include textbooks, workbooks, journals, flashcards, study guides, review guides, and laptops.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Legacy Textbook Collection | Academic textbooks. |
+| 2 | Knowledge Volumes | Original instructional volumes. |
+| 3 | Hall of Learning Collections | Digital catalog. |
+| 4 | Scholar’s Vault | Controlled-access resources. |
+| 5 | Legacy Practice Collection | Guided practice and assignments. |
+| 6 | Legacy Journals | Academic reflections and notes. |
+| 7 | Legacy Study Collection | Exam preparation resources. |
+| 8 | Legacy Knowledge Cards | Original study flashcards. |
+| 9 | Mastery Review Guides | Certification and Bar Review resources. |
+| 10 | Mastery Workbooks | Guided workbooks. |
+| 11 | Scholar’s Collection | Bundled educational collections. |
+| 12 | Scholar’s Supply Hall | Purchasing and preparation for materials, devices, and software. |
+| 13 | Technology Preparation Chamber | Device requirements, software, and accessibility guidance. |
+
+---
+### XVIII.1 — RIAH Learning Collections
+
+| # | Educational Material | Proposed Collection Name | RIAH Implementation |
+|---|---|---|---|
+| 1 | Textbooks | Legacy Textbook Collection | Course books |
+| 2 | Workbooks | Legacy Practice Collection | Exercises and practice |
+| 3 | Journals | Legacy Journals | Learning records |
+| 4 | Flashcards | Legacy Knowledge Cards | Review cards |
+| 5 | Study Guides | Legacy Study Collection | Exam preparation |
+| 6 | Review Guides | Legacy Review Collection | Certification and Bar Review |
+| 7 | Digital Resources | Scholar’s Vault | Controlled-access materials |
+| 8 | Complete Collections | Scholar’s Collection | Program bundles |
+| 9 | Laptops and Technology | Technology Preparation Chamber | Device and software requirements |
+| 10 | Student Purchasing | Scholar’s Supply Hall | Approved materials and equipment |
+
+### XVIII.2 — Educational Materials by School
+
+| # | RIAH School | Applicable Materials |
+|---|---|---|
+| 1 | School of Law | Criminal Justice, legal research, and Bar Review resources |
+| 2 | School of Business | Accounting, Finance, Entrepreneurship, and Management resources |
+| 3 | School of Technology | Computer Science, Cybersecurity, data, software, and project resources |
+| 4 | School of Homeland Security | Intelligence, security, compliance, and investigations resources |
+| 5 | School of Experiential | Project journals and competency guides |
+| 6 | School of Entrepreneurship | Startup and business development workbooks |
+| 7 | School of GED | GED/HSE preparation resources |
+| 8 | High School Partnerships | Approved dual-enrollment materials |
+| 9 | School of Credential | Professional Certification Review and Bar Review resources |
+
+---
+
+# XIX. 🎁 COLLECTIBLES, MERCHANDISE, AND LEGACY KEEPSAKES
+
+Original products use the RIAH crown, nine houses, and red, black, white, and bright gold palette.
+
+| # | RIAH Pathway | RIAH Implementation |
+|---|---|---|
+| 1 | Nine Houses Collection | Original nine-house merchandise. |
+| 2 | Robes of Legacy | Ceremonial apparel. |
+| 3 | Crown Wand Collection | Commemorative crown-handled wands. |
+| 4 | Legacy House Crests | Original house crests. |
+| 5 | Letter of Legacy | Ceremonial acceptance package. |
+| 6 | Scholar’s Legacy Kit | Welcome materials and approved items. |
+| 7 | Legacy Achievement Cards | Original achievement and contributor cards. |
+| 8 | Legacy House Apparel | House scarves and apparel. |
+| 9 | Legacy Keepsakes | Institutional souvenirs. |
+| 10 | Hall of Collectibles and Achievement | Digital showcase of achievements and collectibles. |
+| 11 | Legacy Learning Collections | Educational products. |
+| 12 | Crown Collection | Signature crown merchandise. |
+
+---
+### XIX.1 — Legacy Collectible Categories
+
+| # | Category | Proposed Collection | Items |
+|---|---|---|---|
+| 1 | Ceremonial | Legacy Ceremony Collection | Robes and crown wands |
+| 2 | Nine Houses | Nine Houses Collection | House apparel and crests |
+| 3 | Admissions | Scholar’s Legacy Kit | Acceptance and welcome items |
+| 4 | Academic | Legacy Learning Collections | Books, guides, cards, and workbooks |
+| 5 | Recognition | Legacy Achievement Collection | Achievement cards and certificates |
+| 6 | Graduation | Grand Ascension Collection | Graduation keepsakes |
+| 7 | Alumni | Legacy Society Collection | Alumni merchandise |
+| 8 | Heritage | Chronicles of Legacy Collection | Institutional history items |
+| 9 | Signature Brand | Crown Collection | Crown-themed merchandise |
+
+---
+
+# XX. 📜 STUDENT ENROLLMENT, ACCEPTANCE, SUPPLIES, HOUSE ASSIGNMENT, AND ALUMNI PROCESS
 
 ## XX.1 — Complete Enrollment-to-Alumni Experience
 
-| # | Stage | Legacy Realm Experience | Operational Process |
+The Legacy Realm follows students from interest through admissions, enrollment, educational preparation, house assignment, academic progression, supervised professional experience, graduation, and alumni participation.
+
+| # | Student Stage | Legacy Realm Experience | RIAH Operational Process |
 |---|---|---|---|
-| 1 | Interest | Discover the Legacy Realm | Explore schools and programs |
-| 2 | School exploration | Explore the Nine Houses | Review official schools |
-| 3 | Program selection | Choose Your Legacy Pathway | Select eligible program |
-| 4 | Tuition planning | Chamber of Tuition Options | Review actual USD pricing |
-| 5 | Funding | Treasury of Opportunity | Review eligible funding |
-| 6 | Application | Legacy Application | Submit required documents |
-| 7 | Review | Admissions Review | Verify eligibility |
-| 8 | Acceptance | Letter of Legacy | Official admission and ceremonial letter |
-| 9 | Enrollment | Legacy Commitment | Confirm enrollment and finances |
-| 10 | Account | Gateway Invitation | Activate student account |
-| 11 | Supplies | Scholar's Supply Hall | Obtain required materials |
-| 12 | Technology | Technology Preparation Chamber | Prepare laptop and software |
-| 13 | Welcome | Scholar's Legacy Kit | Obtain approved welcome items |
-| 14 | Digital entry | Gateway of Legacy | Access platform |
-| 15 | Orientation | Legacy Passage | Complete onboarding |
-| 16 | Primary house | Ceremony of Belonging | Enter house tied to enrolled school |
-| 17 | Subhouse | Discover Your Legacy Circle | Join eligible community |
-| 18 | Community | Circle Sanctuary | Participate in community |
-| 19 | Academic launch | Legacy Studies | Begin coursework |
-| 20 | Library | Grand Library of Knowledge | Access academic resources |
-| 21 | Guidance | Council of Guides | Faculty and academic support |
-| 22 | Experience | Guild of Experience | Supervised professional assignments |
-| 23 | Objective assessment | Academic Knowledge Demonstration | Evaluate knowledge |
-| 24 | Performance assessment | Applied Competency Demonstration | Evaluate applied skills |
-| 25 | Capstone preparation | Mastery Project | Prepare required deliverables |
-| 26 | Capstone completion | Academic Capstone | Applicable human-panel review and supervision |
-| 27 | Credentials | Chamber of Credentials | Certification and Bar Review preparation |
-| 28 | Completion | Complete the Legacy Pathway | Verify requirements |
-| 29 | Graduation | Grand Ascension | Graduation ceremony |
-| 30 | Credential | Official Credential | Issue authorized award |
-| 31 | Alumni | Legacy Society | Alumni entry |
-| 32 | Careers | Professional Legacy | Networking and mentorship |
-| 33 | Lifelong learning | Lifelong Legacy Pathways | Continuing education |
-| 34 | Giving back | Build the Next Legacy | Mentorship and approved giving |
+| 1 | Interest | **Discover the Legacy Realm** | Explore schools, majors, tuition, and opportunities. |
+| 2 | School Exploration | **Explore the Nine Houses of Legacy** | Review official schools and programs. |
+| 3 | Program Selection | **Choose Your Legacy Pathway** | Select an eligible academic or credential pathway. |
+| 4 | Tuition Planning | **Visit the Chamber of Tuition Options** | Review tuition, payment plans, and aid. |
+| 5 | Funding Exploration | **Enter the Treasury of Opportunity** | Review eligible scholarships, grants, and stipends. |
+| 6 | Application | **Begin the Legacy Application** | Submit official application and documentation. |
+| 7 | Admissions Review | **Admissions Review and Verification** | Verify eligibility and program requirements. |
+| 8 | Acceptance | **Receive the Letter of Legacy** | Receive approved acceptance and ceremonial letter. |
+| 9 | Enrollment Confirmation | **Confirm the Legacy Commitment** | Complete enrollment documents and financial arrangements. |
+| 10 | Student Account | **Receive the Gateway Invitation** | Activate student account. |
+| 11 | Educational Supplies | **Enter the Scholar’s Supply Hall** | Review or purchase textbooks, workbooks, journals, and guides. |
+| 12 | Laptop Preparation | **Visit the Technology Preparation Chamber** | Confirm laptop, software, and technical readiness. |
+| 13 | Welcome Materials | **Receive the Scholar’s Legacy Kit** | Receive eligible welcome and ceremonial items. |
+| 14 | Digital Entry | **Enter the Gateway of Legacy** | Access authenticated student platform. |
+| 15 | Orientation | **Complete the Legacy Passage** | Complete applicable orientation. |
+| 16 | School House Assignment | **Attend the Ceremony of Belonging** | Welcome into primary house matching enrolled school. |
+| 17 | Community Subhouse Assignment | **Discover Your Legacy Circle** | Select eligible major- or interest-based Legacy Circles. |
+| 18 | Student Community | **Enter the Circle Sanctuary** | Access community spaces and mentors. |
+| 19 | Academic Launch | **Begin Legacy Studies** | Begin approved curriculum. |
+| 20 | Academic Resources | **Explore the Grand Library of Knowledge** | Access academic resources. |
+| 21 | Academic Guidance | **Meet the Council of Guides** | Access faculty and approved support. |
+| 22 | Experiential Education | **Enter the Guild of Experience** | Complete eligible supervised assignments. |
+| 23 | Objective Assessments | **Demonstrate Academic Knowledge** | Complete required objective assessments. |
+| 24 | Performance Assessments | **Demonstrate Applied Competency** | Complete required performance assessments. |
+| 25 | Capstone Preparation | **Prepare the Mastery Project** | Prepare capstone deliverables. |
+| 26 | Capstone Completion | **Complete the Academic Capstone** | Complete applicable capstone, panel, and supervision. |
+| 27 | Professional Credentials | **Enter the Chamber of Credentials** | Access eligible certification and Bar Review preparation. |
+| 28 | Academic Completion | **Complete the Legacy Pathway** | Verify all academic and program requirements. |
+| 29 | Graduation | **Celebrate the Grand Ascension** | Participate in graduation recognition. |
+| 30 | Official Credential | **Receive the Official Credential** | Receive applicable authorized credential. |
+| 31 | Alumni Entry | **Enter the Legacy Society** | Join alumni community. |
+| 32 | Career Development | **Continue the Professional Legacy** | Access networking and mentorship. |
+| 33 | Lifelong Learning | **Return Through Lifelong Legacy Pathways** | Pursue continuing education and credentials. |
+| 34 | Institutional Contribution | **Build the Next Legacy** | Optionally mentor, give, or support the institution. |
 
-## XX.2 — Letter of Legacy
+## XX.2 — The Letter of Legacy
 
-The ceremonial letter follows official admissions approval. It identifies the student, official school and program, corresponding primary house, enrollment steps, student account instructions, required supplies, orientation, ceremony invitation, and RIAH Crown Seal. It does not replace legally required enrollment documents.
-
-## XX.3 — Scholar's Supply Hall
-
-| # | Category | Purpose |
+| # | Component | RIAH Implementation |
 |---|---|---|
-| 1 | Textbooks | Required and optional course books |
-| 2 | Workbooks | Practice materials |
-| 3 | Journals | Academic and project records |
-| 4 | Flashcards | Study reinforcement |
-| 5 | Study guides | Program preparation |
-| 6 | Review guides | Certification, Bar Review, academic review |
-| 7 | Laptops | Published device options or specifications |
-| 8 | Software | Required and recommended applications |
-| 9 | Accessories | Approved peripherals |
-| 10 | Scholar's Legacy Kit | Welcome items |
-| 11 | House merchandise | Optional apparel and accessories |
-| 12 | Crown Collection | Optional commemorative items |
+| 1 | Official Acceptance | Issued after admissions approval. |
+| 2 | Student Identification | Student name and enrollment information. |
+| 3 | School Assignment | Official school or program. |
+| 4 | Primary House | Corresponding House of Legacy. |
+| 5 | Program Information | Selected program or pathway. |
+| 6 | Enrollment Instructions | Required next steps and deadlines. |
+| 7 | Student Portal | Approved account activation. |
+| 8 | Educational Supplies | Required materials and Scholar’s Supply Hall. |
+| 9 | Orientation | Legacy Passage instructions. |
+| 10 | Ceremony | Invitation to Ceremony of Belonging. |
+| 11 | Institutional Branding | RIAH Crown Seal and palette. |
+| 12 | Official Records | Separate from or clearly integrated with required legal documents. |
 
-Required materials must be clearly distinguished from optional merchandise, with prices, specifications, and permitted alternatives disclosed.
+## XX.3 — Scholar’s Supply Hall
+
+| # | Supply Category | RIAH Implementation |
+|---|---|---|
+| 1 | Textbooks | Required and optional course books. |
+| 2 | Workbooks | Practice and guided learning. |
+| 3 | Journals | Project and learning journals. |
+| 4 | Flashcards | Academic and exam study cards. |
+| 5 | Study Guides | Course and program guides. |
+| 6 | Review Guides | Certification and Bar Review resources. |
+| 7 | Laptops | Device options or minimum specifications. |
+| 8 | Software | Required applications and access. |
+| 9 | Technology Accessories | Peripherals and accessibility guidance. |
+| 10 | Scholar’s Legacy Kit | Eligible welcome and ceremonial materials. |
+| 11 | House Merchandise | Optional house merchandise. |
+| 12 | Crown Collection | Optional crown keepsakes. |
+
+**Purchasing Rule:** Clearly separate required materials from optional merchandise and disclose prices, specifications, and permitted alternatives.
 
 ## XX.4 — Technology Preparation Chamber
 
-Laptop specifications, supported operating systems, internet requirements, software, student portal access, learning platform navigation, accessibility resources, technical support, and academic readiness checks.
+| # | Preparation Area | RIAH Implementation |
+|---|---|---|
+| 1 | Laptop Requirements | Minimum and recommended specifications. |
+| 2 | Operating System | Supported systems. |
+| 3 | Internet Access | Connectivity expectations. |
+| 4 | Software | Required applications. |
+| 5 | Student Portal | Account activation. |
+| 6 | Learning Platform | Course access. |
+| 7 | Accessibility | Accommodations and accessibility resources. |
+| 8 | Technical Support | Technology assistance. |
+| 9 | Academic Readiness | Applicable readiness checks. |
 
 ## XX.5 — Ceremony of Belonging
 
-| # | Stage | Implementation |
+| # | Ceremony Stage | RIAH Implementation |
 |---|---|---|
-| 1 | Opening | Welcome to the Legacy Realm |
-| 2 | Introduction | Mission and Nine Schools |
-| 3 | Identity | Confirm enrolled school |
-| 4 | Crown of Destiny | Reveal corresponding primary house |
-| 5 | House welcome | Enter official school's house |
-| 6 | Leadership | Meet deans and mentors |
-| 7 | Community | Introduce Legacy Circles |
-| 8 | Subhouse | Explore eligible circles |
-| 9 | Sanctuary | Access community space |
-| 10 | Resources | Introduce academic and technology support |
-| 11 | Commitments | Review academic and community expectations |
-| 12 | Closing | Begin academic participation |
+| 1 | Opening | Welcome to RIAH Pathway — The Legacy Realm. |
+| 2 | Institutional Introduction | Mission and nine schools. |
+| 3 | Academic Identity | Official school confirmation. |
+| 4 | Crown of Destiny | Ceremonial reveal of corresponding primary house. |
+| 5 | House Welcome | Welcome to assigned house. |
+| 6 | House Leadership | Introduce deans, mentors, representatives. |
+| 7 | Community Introduction | Explain Legacy Circles. |
+| 8 | Subhouse Selection | Explore eligible communities. |
+| 9 | Circle Sanctuary | Introduce digital community spaces. |
+| 10 | Student Resources | Introduce academic and technical services. |
+| 11 | Student Commitments | Review policies and academic expectations. |
+| 12 | Closing | Transition into academic participation. |
 
-**Primary House = enrolled school or program. Community Subhouse = Legacy Circle.** The ceremony does not randomly change academic enrollment.
+### XX.5.1 — House Assignment Rule
+
+**Primary House = Enrolled School or Program**
+
+**Community Subhouse = Legacy Circle**
+
+School of Technology students enter **House of Innovation** and may join Cybersecurity, Software, Data, or other eligible circles. School of Law students enter **House of Justice** and may join legal or justice-related circles. The ceremony does not randomly determine academic enrollment.
 
 ## XX.6 — Academic Progression
 
-| # | Stage | Experience | Requirement |
+| # | Academic Stage | Legacy Realm Identity | RIAH Implementation |
 |---|---|---|---|
-| 1 | Orientation | Legacy Passage | Onboarding |
-| 2 | General Education | Legacy Studies | Applicable curriculum |
-| 3 | School Core | School Foundations | Core curriculum |
-| 4 | Major | Professional Disciplines | Major coursework |
-| 5 | Resources | Legacy Learning Collections | Approved materials |
-| 6 | Guidance | Council of Guides | Faculty support |
-| 7 | Experience | Guild of Experience | Supervised assignments |
-| 8 | Objective assessments | Knowledge Demonstration | Knowledge evaluation |
-| 9 | Performance assessments | Applied Competency Demonstration | Skills evaluation |
-| 10 | Capstones | Mastery Projects | Human-panel review and supervision where applicable |
-| 11 | Credentials | Chamber of Credentials | Review preparation |
-| 12 | Completion | Legacy Pathway | Verify requirements |
+| 1 | Orientation | Legacy Passage | Onboarding. |
+| 2 | General Education | Legacy Studies | Applicable general education. |
+| 3 | School Core | School Foundations | Required school core. |
+| 4 | Major Coursework | Professional Disciplines | Major coursework. |
+| 5 | Educational Resources | Legacy Learning Collections | Books, workbooks, and guides. |
+| 6 | Academic Guidance | Council of Guides | Faculty and academic support. |
+| 7 | Experiential Education | Guild of Experience | Supervised assignments. |
+| 8 | Objective Assessments | Academic Knowledge Demonstration | Objective knowledge assessment. |
+| 9 | Performance Assessments | Applied Competency Demonstration | Performance competency assessment. |
+| 10 | Capstones | Mastery Projects | Capstones, panel, and supervision. |
+| 11 | Professional Preparation | Chamber of Credentials | Certification and Bar Review. |
+| 12 | Academic Completion | Completion of the Legacy Pathway | Verify program requirements. |
 
 ## XX.7 — Grand Ascension and Alumni Entry
 
-| # | Stage | Implementation |
-|---|---|---|
-| 1 | Completion verification | Check academic and experiential requirements |
-| 2 | Graduation eligibility | Confirm eligibility |
-| 3 | Grand Ascension | Graduation celebration |
-| 4 | Credential issuance | Authorized official award |
-| 5 | Hall of Achievement | Recognition |
-| 6 | Legacy Society invitation | Alumni onboarding |
-| 7 | Legacy Society | Alumni community |
-| 8 | Legacy Mentors | Mentorship |
-| 9 | Lifelong Legacy Pathways | Continuing education |
-| 10 | Chronicles of Legacy | Institutional heritage |
-| 11 | Hall of Giving | Optional approved donations |
+| # | Stage | RIAH Pathway | RIAH Implementation |
+|---|---|---|---|
+| 1 | Completion Verification | Academic Completion Review | Verify all applicable requirements. |
+| 2 | Graduation Eligibility | Grand Ascension Eligibility | Confirm eligibility. |
+| 3 | Graduation Ceremony | Grand Ascension | Conduct graduation celebration. |
+| 4 | Credential Issuance | Official Credential | Issue applicable authorized awards. |
+| 5 | Achievement Recognition | Hall of Achievement | Recognize achievements. |
+| 6 | Alumni Invitation | Invitation to the Legacy Society | Invite eligible alumni. |
+| 7 | Alumni Community | Legacy Society | Networking and community. |
+| 8 | Professional Mentorship | Legacy Mentors | Approved mentoring. |
+| 9 | Continuing Education | Lifelong Legacy Pathways | Additional education and credentials. |
+| 10 | Institutional Heritage | Chronicles of Legacy | Preserve institutional history. |
+| 11 | Alumni Contributions | Hall of Giving | Optional approved giving and support. |
 
 ## XX.8 — Complete Journey Summary
 
-**Interest → Exploration → Application → Acceptance → Enrollment → Supplies → Technology → Welcome Kit → Gateway → Orientation → Primary House → Legacy Circles → Coursework → Library → Experiential Education → Objective and Performance Assessments → Academic Capstones → Credentials → Grand Ascension → Legacy Society → Lifelong Learning.**
+| # | Journey Phase | Primary Experience |
+|---|---|---|
+| 1 | Interest | Discover the Legacy Realm |
+| 2 | Exploration | Explore the Nine Schools |
+| 3 | Application | Begin the Legacy Application |
+| 4 | Acceptance | Receive the Letter of Legacy |
+| 5 | Enrollment | Confirm the Legacy Commitment |
+| 6 | Supplies | Enter the Scholar’s Supply Hall |
+| 7 | Technology | Visit the Technology Preparation Chamber |
+| 8 | Welcome | Receive the Scholar’s Legacy Kit |
+| 9 | Digital Entry | Enter the Gateway of Legacy |
+| 10 | Orientation | Complete the Legacy Passage |
+| 11 | Primary House | Attend the Ceremony of Belonging |
+| 12 | Community Subhouse | Discover Your Legacy Circle |
+| 13 | Academic Education | Begin Legacy Studies |
+| 14 | Academic Resources | Explore the Grand Library of Knowledge |
+| 15 | Experiential Education | Enter the Guild of Experience |
+| 16 | Assessments | Complete Objective and Performance Assessments |
+| 17 | Capstones | Complete the Mastery Project |
+| 18 | Credentials | Enter the Chamber of Credentials |
+| 19 | Graduation | Celebrate the Grand Ascension |
+| 20 | Alumni | Enter the Legacy Society |
+| 21 | Lifelong Learning | Continue Lifelong Legacy Pathways |
 
 👑 **RIAH Pathway — The Legacy Realm**
