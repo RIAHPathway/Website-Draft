@@ -1,6 +1,6 @@
 # 👑 RIAH PATHWAY — LEGACY BOT EVIDENCE REGISTER
 
-## RUN IV — OCTOBER 15, 2026
+## RUN I — OCTOBER 15, 2026
 
 The findings below reflect the October 15, 2026 public-source sample recorded in the Unified Legacy Bot run. A sampled-source comparison does not establish universal absence, exclusivity, copying, infringement, or wrongdoing.
 
@@ -16,7 +16,7 @@ The findings below reflect the October 15, 2026 public-source sample recorded in
 | RIAH-LEGACY-2026-008 | 🎓 BOT 4 | [Federal Student Aid — Work-Study](https://studentaid.gov/understand-aid/types/work-study) | Federal Work-Study provides eligible students with part-time employment to help meet educational expenses. | 77–78, 130–140 | October 15, 2026 | 🟢 General work-linked educational financial assistance; not equivalent to the complete RIAH reimbursement structure. |
 | RIAH-LEGACY-2026-009 | 📣 BOT 3 | Public employer, recruitment, and partnership information referenced in the examined source pages | Public-facing marketing, training, and employer relationships were identifiable; a comprehensive independent backlink/social-media audit was not completed. | 20, 22, 40–44, 141–143 | October 15, 2026 | 🟢 No independently verified qualifying Tier from this limited review. |
 
-## RUN V — OCTOBER 16, 2026
+## RUN II — OCTOBER 16, 2026
 
 New source observations dated October 16, 2026. Older source publications are not newly created features.
 
@@ -29,7 +29,7 @@ New source observations dated October 16, 2026. Older source publications are no
 | RIAH-LEGACY-2026-014 | BOT 5 / BOT 2 | [Open edX GitHub organization](https://github.com/openedx) | Public open-source LMS/CMS repository organization and project documentation. | 45, 100–102, 109 | October 16, 2026 | 🟢 Related to prior record 007; not proof of code derivation. |
 | RIAH-LEGACY-2026-015 | BOT 3 / BOT 1 | [Handshake employer-school connections](https://support.joinhandshake.com/hc/en-us/articles/115007120087-How-Employers-Connect-with-Schools) | Employer approval, jobs, events and student messaging. | 20, 22, 141–143 | October 16, 2026 | 🟢 No evidence of exact RIAH integrated system. |
 
-## RUN VI — OCTOBER 17, 2026
+## RUN III — OCTOBER 17, 2026
 
 Six first-party public-source observations dated October 17, 2026. Source publication dates may be older; earlier evidence and its original observation dates remain unchanged. This bounded review does not establish universal absence, infringement, copying or exclusivity.
 
