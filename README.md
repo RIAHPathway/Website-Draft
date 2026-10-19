@@ -38,8 +38,6 @@
 
 <p align="center"><strong>👤 Contributor/Founder/CEO/Chairman: Mariah Dominique Rucker is building and leading RIAH Pathway.</strong></p>
 
-<p align="center"><strong>Multidisciplinary Professional in Accounting, Cybersecurity, and Technology.</strong></p>
-
 <h3 align="center">⭐ One Link • Every Credential • Publicly Verifiable ⭐</h3>
 
 <p align="center"><strong><a href="https://linktr.ee/mariahrucker">Portfolio Hub</a></strong></p>
