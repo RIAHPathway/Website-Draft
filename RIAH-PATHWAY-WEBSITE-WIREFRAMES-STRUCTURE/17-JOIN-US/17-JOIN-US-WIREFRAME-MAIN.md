@@ -1353,7 +1353,7 @@ Applicants should choose the relevant opportunity, review its requirements, and 
 
 **[EXTERNAL LINK — SYMPLICITY CSM → Symplicity — institutional portal pending]**
 
-**[EXTERNAL LINK — GITHUB CONTRIBUTORS → https://github.com/RIAHPathway/Website-Draft]**
+**[EXTERNAL LINK — GITHUB CONTRIBUTORS → Pending url]**
 
 
 ### 17.24.1 — REVIEW. QUALIFY. APPLY. PARTICIPATE.
@@ -1493,8 +1493,6 @@ Contact RIAH Pathway for approved opportunities, partnership applications, stude
 
 **[INTERNAL LINK — ABOUT → 2]**
 
-
-
 ### 17.25.1 — CONNECT WITH RIAH PATHWAY.
 ### 17.25.2 — CONTACT CATEGORIES
 Admissions; Human Resources; Partnerships and Organizations; Technology and Support; Student Support; Products and Services; Ambassadors and Affiliates.
@@ -1537,4 +1535,3 @@ FIND YOUR PLACE IN THE DYNASTY. LEARN. EXPERIENCE. CONTRIBUTE. PARTNER. LEAD. ON
 **[BUTTON — LEARN MORE → 18 — Resources]**
 
 **[BUTTON — GET STARTED → 20 — Contact]**
-
