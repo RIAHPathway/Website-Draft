@@ -96,3 +96,17 @@ similarity.
 
 **Related run:** [Legacy Bot
 Run](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md)
+
+---
+
+## RUN X — OCTOBER 21, 2026
+
+| Evidence ID | Bot | Public Source | Evidence | Categories | Observation Date | Tier |
+|---|---|---|---|---|---|---|
+| RIAH-LEGACY-2026-046 | 🌐 BOT 1 / 💻 BOT 2 / 🎓 BOT 4 | [Practera](https://practera.com/what-is-practera/) | Industry projects, authoring, mentor applications, feedback and analytics. | 1–2, 20–26, 45, 53–58 | October 21, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-047 | 📣 BOT 3 / 🎓 BOT 4 | [Practera 2026 outreach](https://go.practera.com/imagineif2026) | 2026 employer-project marketing and educational partnerships. | 20–26, 40–44 | October 21, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-048 | 📣 BOT 3 / 💻 BOT 2 | [Symba SHRM21](https://symba.io/symba-at-shrm-2021/) | Historical internship management and curriculum marketing. | 20–26, 53–58 | October 21, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-049 | 🎓 BOT 4 | [Guild employee benefits](https://guild.com/careers/benefits) | Education benefits for employees. | 77–80, 130–140 | October 21, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-050 | 📂 BOT 5 / 💻 BOT 2 | [Practera SDK README](https://github.com/intersective/practera-sdk-ionic/blob/master/README.md) | Public Ionic and Angular SDK development documentation. | 100–102, 109 | October 21, 2026 | 🟢 Green |
+
+**Observation date:** October 21, 2026. These entries do not establish source release dates or wrongdoing.
