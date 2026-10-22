@@ -26,11 +26,11 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="./RIAH-PATHWAY-LEGACY-BOT-EVIDENCE-REGISTER.md">Evidence Register</a></td>
+      <td><a href="https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-EVIDENCE-REGISTER.md">Evidence Register</a></td>
       <td>Sources, dates, and documented findings.</td>
     </tr>
     <tr>
-      <td><a href="./RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md">Run Log</a></td>
+      <td><a href="https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-BOT/RIAH-PATHWAY-LEGACY-BOT-RUN-LOG.md">Run Log</a></td>
       <td>Scope, verification rules, reporting requirements, monitoring results and comparisons.</td>
     </tr>
   </tbody>
