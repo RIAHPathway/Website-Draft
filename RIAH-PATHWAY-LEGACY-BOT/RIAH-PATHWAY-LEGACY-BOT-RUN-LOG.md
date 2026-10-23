@@ -150,7 +150,7 @@ Search and compare publicly available:
 <a id="riah-legacy-run-2026-10-15"></a>
 
 ## RUN IV — OCTOBER 15, 2026
-### UPDATED EVIDENCE REGISTER AND COMPARISON
+### UPDATED COMPARISON
 
 ## VII. 🔑 EVIDENCE AND TIER KEY
 
@@ -401,30 +401,6 @@ The examined examples demonstrate overlapping individual functions within establ
 
 **🟢 Green:** Common market functionality, partial similarity, or evidence insufficient to establish a qualifying Tier.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-001 | 🌐 BOT 1 / 🎓 BOT 4 | [Ohio Work-Based Learning](https://education.ohio.gov/Topics/Career-Tech/Work-Based-Learning) | Public work-based learning framework involving education and employer participation. | 20–26, 47, 80, 124–125 | October 15, 2026 | 🟢 Conventional education/employer structure; no qualifying Tier established. |
-| RIAH-LEGACY-2026-002 | 🎓 BOT 4 | [Ohio Schools and Educators](https://education.ohio.gov/Topics/Career-Tech/Work-Based-Learning/Work-Based-Learning-for-Schools-and-Educators) | Learning agreements, employer guidelines, worksite evaluation resources, orientation, and portfolio materials. | 24, 53–58, 84, 124–129 | October 15, 2026 | 🟢 Documented work-based learning and portfolio practices; no qualifying Tier established. |
-| RIAH-LEGACY-2026-003 | 🌐 BOT 1 / 🎓 BOT 4 | [Year Up United](https://www.yearup.org/job-training) | Technical and professional training integrated with access to internships and career placement support. | 1–2, 20, 47, 80, 141–143 | October 15, 2026 | 🟢 Multiple conventional career-development functions; complete distinctive RIAH architecture not established. |
-| RIAH-LEGACY-2026-004 | 🌐 BOT 1 / 🎓 BOT 4 | [Forkaia — Work-Study Grants](https://forkaia.com/work-study) | Real work inside portfolio companies connected to task-based tuition credits. | 1–2, 19–27, 130–140 | October 15, 2026 | 🟢 Material overlap in work-linked educational benefits; RIAH's exact six-level and reimbursement architecture not established by this source. |
-| RIAH-LEGACY-2026-005 | 🌐 BOT 1 / 🎓 BOT 4 | [Themis Bar Review](https://www.themisbar.com/pass-the-bar-exam) | Online bar preparation and personalized grading by a dedicated attorney essay grader. | 53, 110, 117, 120–121 | October 15, 2026 | 🟢 Human-reviewed examination preparation; complete integrated RIAH ecosystem not established. |
-| RIAH-LEGACY-2026-006 | 💻 BOT 2 | [Open edX Platform Features](https://openedx.org/platform/features/) | Online learning, content management, assessments, learner progress analytics, credentials, and integrations. | 45, 49, 53, 57–58, 100–102, 109 | October 15, 2026 | 🟢 Broad educational technology capabilities; no complete qualifying distinctive Experiential architecture established. |
-| RIAH-LEGACY-2026-007 | 📂 BOT 5 / 💻 BOT 2 | [Open edX GitHub Repository](https://github.com/openedx/openedx-platform) | Publicly documented LMS/CMS source code, licensing, contribution procedures, and development activity. | 100–102, 109 | October 15, 2026 | 🟢 Public educational software; full RIAH ecosystem correspondence not established. |
-| RIAH-LEGACY-2026-008 | 🎓 BOT 4 | [Federal Student Aid — Work-Study](https://studentaid.gov/understand-aid/types/work-study) | Federal Work-Study provides eligible students with part-time employment to help meet educational expenses. | 77–78, 130–140 | October 15, 2026 | 🟢 General work-linked educational financial assistance; not equivalent to the complete RIAH reimbursement structure. |
-| RIAH-LEGACY-2026-009 | 📣 BOT 3 | Public employer, recruitment, and partnership information referenced in the examined source pages | Public-facing marketing, training, and employer relationships were identifiable; a comprehensive independent backlink/social-media audit was not completed. | 20, 22, 40–44, 141–143 | October 15, 2026 | 🟢 No independently verified qualifying Tier from this limited review. |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|:---:|:---:|:---:|
-| BOT 1 — 🌐 Websites, Search Engines and SEO | 0 | 0 | 0 |
-| BOT 2 — 💻 Applications, Software and Technology | 0 | 0 | 0 |
-| BOT 3 — 📣 Social Media, Backlinks and Marketing | 0 | 0 | 0 |
-| BOT 4 — 🎓 Education, Experiential, Tuition and Benefits | 0 | 0 | 0 |
-| BOT 5 — 📂 GitHub, Documentation and Contributors | 0 | 0 | 0 |
-| **Unique Fully Qualified Outside Entities in Examined Sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -677,27 +653,6 @@ Today's sampled first-party sources cover real employer projects and academic cr
 
 🔴 Tier 1: Fully verified same integrated architecture. 🟡 Tier 2: Two integrated complete distinctive components. 🟣 Tier 3: One verified complete distinctive component. 🟢 Green: common features or inadequate matching evidence. Historical comparison marks are not independent operational verification.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-010 | BOT 1 / BOT 2 / BOT 4 | [Riipen employers](https://help.riipen.com/en/articles/7321556-how-employers-use-riipen) | Employer-educator matching, real company projects, collaboration, recruitment. | 1–2, 20–26, 80, 141–143 | October 16, 2026 | 🟢 Not the full six-level RIAH model. |
-| RIAH-LEGACY-2026-011 | BOT 2 / BOT 4 | [Riipen learners](https://help.riipen.com/en/articles/7321557-how-learners-use-riipen) | Project ratings, academic credit options, paid projects, skill portfolios. | 47, 53–58, 77–84 | October 16, 2026 | 🟢 RIAH-specific capstone panel not established. |
-| RIAH-LEGACY-2026-012 | BOT 1 / BOT 4 | [Forage](https://www.theforage.com/) | Free self-paced job simulations with model answers and certificates. | 45, 47, 79, 141–143 | October 16, 2026 | 🟢 Simulated tasks, not RIAH-required supervised professional work. |
-| RIAH-LEGACY-2026-013 | BOT 3 | [Handshake institutional marketing](https://support.joinhandshake.com/hc/en-us/articles/360004186033-Promote-Handshake-at-Your-Institution) | Public marketing toolkit, social assets and student-employer outreach. | 20, 22, 141–143 | October 16, 2026 | 🟢 Does not demonstrate RIAH full ecosystem. |
-| RIAH-LEGACY-2026-014 | BOT 5 / BOT 2 | [Open edX GitHub organization](https://github.com/openedx) | Public open-source LMS/CMS repository organization and project documentation. | 45, 100–102, 109 | October 16, 2026 | 🟢 Related to prior record 007; not proof of code derivation. |
-| RIAH-LEGACY-2026-015 | BOT 3 / BOT 1 | [Handshake employer-school connections](https://support.joinhandshake.com/hc/en-us/articles/115007120087-How-Employers-Connect-with-Schools) | Employer approval, jobs, events and student messaging. | 20, 22, 141–143 | October 16, 2026 | 🟢 No evidence of exact RIAH integrated system. |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|:---:|:---:|:---:|
-| BOT 1 — Websites, Search Engines and SEO | 0 | 0 | 0 |
-| BOT 2 — Applications, Software and Technology | 0 | 0 | 0 |
-| BOT 3 — Social Media, Backlinks and Marketing | 0 | 0 | 0 |
-| BOT 4 — Education, Experiential, Tuition and Benefits | 0 | 0 | 0 |
-| BOT 5 — GitHub, Documentation and Contributors | 0 | 0 | 0 |
-| **Unique Fully Qualified Outside Entities in Examined Sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -960,27 +915,6 @@ Today's sampled first-party sources cover real employer projects and academic cr
 
 🔴 Tier 1: Fully verified same integrated architecture. 🟡 Tier 2: Two integrated complete distinctive components. 🟣 Tier 3: One verified complete distinctive component. 🟢 Green: common features or inadequate matching evidence. Historical comparison marks are not independent operational verification.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-016 | BOT 1 / BOT 4 | [Parker Dewey — Micro-Internships](https://www.parkerdewey.com/) | Paid short-term employer projects; candidates demonstrate work on actual professional deliverables and may be assessed for hiring. | 1–2, 20, 25–26, 47, 53, 56, 79, 141–143 | October 17, 2026 | 🟢 Paid work/recruitment overlap; no evidence of complete RIAH six-level and capstone-panel architecture. |
-| RIAH-LEGACY-2026-017 | BOT 1 / BOT 3 / BOT 4 | [Parker Dewey — University Partnerships](https://www.parkerdewey.com/universities) | Institutional partnerships advertise co-branded student/employer pages, presentations, and student engagement data. | 20, 22, 47, 79, 142–143 | October 17, 2026 | 🟢 Institutional outreach overlap; full RIAH architecture not established. |
-| RIAH-LEGACY-2026-018 | BOT 1 / BOT 4 | [Drexel — Engineering Co-op](https://drexel.edu/engineering/academics/experiential-learning-co-op/) | University-approved employer co-ops alternate six-month full-time work and coursework; undergraduate and graduate formats described. | 1–2, 20, 47, 80–82, 141–143 | October 17, 2026 | 🟢 Degree-linked real-work overlap; RIAH's distinct six-level/capstone combination not established. |
-| RIAH-LEGACY-2026-019 | BOT 2 | [Moodle — Official App Capabilities](https://support.moodle.com/support/solutions/articles/80000985017-what-can-i-do-with-the-moodle-app-) | Official support describes offline access, quizzes, files, notifications and learning progress in the Moodle App. | 45, 53, 57, 109 | October 17, 2026 | 🟢 General mobile LMS functions; not evidence of RIAH proprietary technology or full Experiential system. |
-| RIAH-LEGACY-2026-020 | BOT 5 / BOT 2 | [Moodle — Public GitHub Repository](https://github.com/moodle/moodle) | Official public mirror includes LMS source code, README, GPL-3.0 license and contribution documentation. | 100–102 (technology contrast), 109 | October 17, 2026 | 🟢 Open-source technology contrast only; no evidence of code derivation or copying. |
-| RIAH-LEGACY-2026-021 | BOT 3 | [Parker Dewey — LinkedIn Company Profile](https://www.linkedin.com/company/parker-dewey) | First-party public profile markets short-term professional projects for recruiting and assessing students, with institutional outreach posts. | 20, 22, 79, 142–143 | October 17, 2026 | 🟢 Marketing and recruitment overlap; no independently verified qualifying Tier. |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|:---:|:---:|:---:|
-| BOT 1 — Websites, Search Engines and SEO | 0 | 0 | 0 |
-| BOT 2 — Applications, Software and Technology | 0 | 0 | 0 |
-| BOT 3 — Social Media, Backlinks and Marketing | 0 | 0 | 0 |
-| BOT 4 — Education, Experiential, Tuition and Benefits | 0 | 0 | 0 |
-| BOT 5 — GitHub, Documentation and Contributors | 0 | 0 | 0 |
-| **Unique Fully Qualified Outside Entities in Examined Sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -1252,28 +1186,6 @@ Today's review identified **individual overlapping features and conventional int
 
 **🟢 Green:** Common market functionality, partial similarity, or evidence insufficient to establish a qualifying Tier.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-022 | 🌐 BOT 1 / 🎓 BOT 4 | [Parker Dewey — Employers](https://www.parkerdewey.com/companies) | Employer platform describes real paid projects, candidate profiles, workplace evaluation, structured project creation, and hiring feedback. | 1–2, 20–26, 53–54, 141–143 | October 18, 2026 | 🟢 Real-work and employer evaluation overlap; complete RIAH-specific integrated architecture not established. |
-| RIAH-LEGACY-2026-023 | 💻 BOT 2 | [Instructure — Canvas LMS Tiers](https://www.instructure.com/products/canvas-tiers) | Official product comparison documents course delivery, assessments, analytics, learner communications, and AI-assisted functionality. | 45, 49, 53, 57–58, 100–102, 109 | October 18, 2026 | 🟢 Broad LMS functionality; no qualifying integrated Experiential structure established. |
-| RIAH-LEGACY-2026-024 | 📣 BOT 3 | [Parker Dewey — Featured Employers](https://www.parkerdewey.com/featured-employers) | First-party marketing page promotes employer project opportunities and recruiting relationships across several industries. | 20, 22, 31, 41–43, 141–143 | October 18, 2026 | 🟢 Public employer marketing evidence; comprehensive social/backlink verification not performed. |
-| RIAH-LEGACY-2026-025 | 🎓 BOT 4 | [Parker Dewey — Institutional Employer Program](https://info.parkerdewey.com/employer/cmu) | First-party program explains short-term paid workplace projects, employer selection, work deliverables, and evaluation of professional performance. | 1–2, 20–26, 53–56, 77, 141–143 | October 18, 2026 | 🟢 Real work and assessment overlap; six-level Experiential and reimbursement combination not established. |
-| RIAH-LEGACY-2026-026 | 📂 BOT 5 / 💻 BOT 2 | [Instructure Canvas LMS — README](https://github.com/instructure/canvas-lms/blob/master/README.md) | Public README identifies Canvas as an open-source LMS released under AGPLv3 and references installation documentation. | 100–102, 109 | October 18, 2026 | 🟢 Documented educational software; no evidence of RIAH source access or derivation. |
-| RIAH-LEGACY-2026-027 | 📂 BOT 5 | [Instructure Canvas LMS — CONTRIBUTING](https://github.com/instructure/canvas-lms/blob/master/CONTRIBUTING.md) | Repository describes public issue reporting, pull-request contribution processes, and contributor agreement requirements. | 100–102, 109 | October 18, 2026 | 🟢 Public software-contribution governance; no qualifying RIAH-specific integrated component established. |
-| RIAH-LEGACY-2026-028 | 💻 BOT 2 | [Instructure — Canvas Mobile Features](https://community.instructure.com/en/kb/articles/388741-canvas-mobile-features) | Official feature comparison describes mobile coursework, submissions, assignment visibility, and platform differences between web, Android, and iOS. | 45, 53, 57, 100–102, 109 | October 18, 2026 | 🟢 Mobile educational functionality; no complete RIAH-specific Experiential architecture established. |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|:---:|:---:|:---:|
-| BOT 1 — 🌐 Websites, Search Engines and SEO | 0 | 0 | 0 |
-| BOT 2 — 💻 Applications, Software and Technology | 0 | 0 | 0 |
-| BOT 3 — 📣 Social Media, Backlinks and Marketing | 0 | 0 | 0 |
-| BOT 4 — 🎓 Education, Experiential, Tuition and Benefits | 0 | 0 | 0 |
-| BOT 5 — 📂 GitHub, Documentation and Contributors | 0 | 0 | 0 |
-| **Unique Fully Qualified Outside Entities in Examined Sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -1545,29 +1457,6 @@ No independently verified qualifying Tier 1, Tier 2, or Tier 3 match was establi
 
 **🟢 Green:** Common market functionality, partial similarity, or evidence insufficient to establish a qualifying Tier.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-029 | 🌐 BOT 1 / 🎓 BOT 4 | [Apprenticeship.gov — Registered Apprenticeship Programs](https://www.apprenticeship.gov/employers/registered-apprenticeship-program) | Registered Apprenticeship model combines paid work, structured workplace training, mentor support, related instruction and occupational credentials. | 1–2, 20–26, 47, 53–54, 59–65, 80, 124–125, 141–143 | October 19, 2026 | 🟢 Work-linked instruction and mentorship overlap; no verified corresponding six-level RIAH pathway. |
-| RIAH-LEGACY-2026-030 | 🌐 BOT 1 / 🎓 BOT 4 | [Apprenticeship.gov — Official Portal](https://www.apprenticeship.gov/) | Employer and career seeker information on apprenticeship programs, sponsor involvement, recruiting and workforce-development pathways. | 20–26, 40–44, 53–54, 141–143 | October 19, 2026 | 🟢 Public employment and program infrastructure; no qualifying complete distinctive RIAH component established. |
-| RIAH-LEGACY-2026-031 | 📣 BOT 3 | [Apprenticeship.gov — Public Outreach](https://www.apprenticeship.gov/) | Public program-awareness, employer outreach, and recruitment information noted in the October 19 draft; independent full backlink and social-platform audits not completed. | 20, 22, 40–44, 141–143 | October 19, 2026 | 🟢 Workforce-program promotion only; complete social and backlink review not established. |
-| RIAH-LEGACY-2026-032 | 💻 BOT 2 / 📂 BOT 5 | [Oppia — Learning Platform](https://www.oppia.org/) | Interactive educational explorations, learning by doing, learner feedback and community-authored digital lesson content. | 45, 47, 49, 53, 57–58, 100–102, 109 | October 19, 2026 | 🟢 Interactive digital education overlaps; no evidence of integrated employer-supervised RIAH pathway. |
-| RIAH-LEGACY-2026-033 | 💻 BOT 2 / 📂 BOT 5 | [Oppia — Public GitHub Repository](https://github.com/oppia/oppia) | Public educational software repository, source structure, issue and pull request workflows and documented open-source development. | 100–102, 109 | October 19, 2026 | 🟢 Public educational technology and contribution mechanisms; no evidence of RIAH code access or derivation. |
-| RIAH-LEGACY-2026-034 | 📂 BOT 5 | [Oppia — Contributor Documentation](https://github.com/oppia/oppia) | Open-source repository documentation provides participation pathways for contributors, maintainers and developers; exact file-level contributor terms not rechecked. | 100–102, 109 | October 19, 2026 | 🟢 Open-source contributor ecosystem; no complete RIAH-specific combination established. |
-| RIAH-LEGACY-2026-035 | 🎓 BOT 4 / 🌐 BOT 1 | [BARBRI — Official Bar Preparation](https://www.barbri.com/) | Commercial bar-exam preparation, legal study materials, learning schedules, feedback and exam-focused instruction described in the drafted October 19 review. | 53, 57–58, 110, 117–121 | October 19, 2026 | 🟢 Established bar review functions; full RIAH school, work placement and tuition-reimbursement integration not established. |
-| RIAH-LEGACY-2026-036 | 🎓 BOT 4 | [BARBRI — Bar Review Programs](https://www.barbri.com/bar-review/) | Adaptive bar study planning, legal instructional materials and reviewed essay practice described in the drafted October 19 review; current product specifics not independently rechecked here. | 49, 53, 57–58, 117–121 | October 19, 2026 | 🟢 Examination practice and feedback; no qualifying distinctive complete RIAH component verified. |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|:---:|:---:|:---:|
-| BOT 1 — 🌐 Websites, Search Engines and SEO | 0 | 0 | 0 |
-| BOT 2 — 💻 Applications, Software and Technology | 0 | 0 | 0 |
-| BOT 3 — 📣 Social Media, Backlinks and Marketing | 0 | 0 | 0 |
-| BOT 4 — 🎓 Education, Experiential, Tuition and Benefits | 0 | 0 | 0 |
-| BOT 5 — 📂 GitHub, Documentation and Contributors | 0 | 0 | 0 |
-| **Unique Fully Qualified Outside Entities in Examined Sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -1878,30 +1767,6 @@ within one identifiable outside system.
 **🟢 Green:** Common market functionality, partial similarity, or
 evidence insufficient to establish a qualifying Tier.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID          | Bot                            | Public Source                                                                                  | Documented Evidence                                                                                                                                                                               | Related Categories                    | Observation Date | Tier / Finding                                                                                                                                              |
-|----------------------|--------------------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------|------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| RIAH-LEGACY-2026-037 | 🌐 BOT 1 / 🎓 BOT 4            | [Practera — About Us](https://practera.com/about-us/)                                          | Practera describes a managed and self-service experiential learning ecosystem joining real industry projects, university programs, employer sourcing, human feedback, portfolios and analytics.   | 1–2, 20–26, 47, 53–58, 71–80, 141–143 | October 20, 2026 | 🟢 Strong overlap in common integrated work-based learning features; RIAH-specific six-level, human-panel capstone and tuition combination not established. |
-| RIAH-LEGACY-2026-038 | 💻 BOT 2 / 🎓 BOT 4            | [Practera — Platform Features](https://practera.com/platform-features/)                        | Customizable experiential workflows, 360-degree feedback, LMS/LTI connections, analytics, mobile-first interface and AI intervention assistance.                                                  | 45, 47, 49, 53–58, 100–102, 109       | October 20, 2026 | 🟢 Platform and review functionality verified; exact distinctive RIAH integrated architecture not verified.                                                 |
-| RIAH-LEGACY-2026-039 | 🎓 BOT 4 / 🌐 BOT 1            | [Practera — Educators](https://practera.com/practera-for-educators/)                           | Educator-facing program types include live team projects, internships, mentoring, simulated learning and skills credentialing.                                                                    | 20, 47, 53–58, 71–84, 109, 141–143    | October 20, 2026 | 🟢 Several experiential delivery formats; not the same as all RIAH categories.                                                                              |
-| RIAH-LEGACY-2026-040 | 📣 BOT 3                       | [Practera — LinkedIn Company Profile](https://www.linkedin.com/company/practera/)              | Public first-party profile and posts promote industry projects, university partnerships, learner employability and program case studies.                                                          | 20, 22, 40–44, 79, 141–143            | October 20, 2026 | 🟢 Public marketing and social content verified; no independent backlink inventory or qualifying distinctive RIAH component established.                    |
-| RIAH-LEGACY-2026-041 | 💻 BOT 2 / 🎓 BOT 4            | [Symba — Internship Program Resources](https://symba.io/sponsor-internship-program-resources/) | Internship management platform describes onboarding, project management, feedback loops, community, alumni engagement and metrics dashboards.                                                     | 20–26, 53–58, 79, 141–143             | October 20, 2026 | 🟢 Conventional internship management technology; exact RIAH-specific model not established.                                                                |
-| RIAH-LEGACY-2026-042 | 🎓 BOT 4 / 🌐 BOT 1            | [Guild — Guild Grow](https://guild.com/guild-grow)                                             | Employer-sponsored learning platform offers tuition-paid education, role-aligned pathways, coaching and career mobility; Guild contrasts upfront payment with traditional reimbursement.          | 77–80, 120–121, 130–140, 141–143      | October 20, 2026 | 🟢 Tuition assistance and career mobility overlap; no evidence of RIAH exact 50% + 10% reimbursement or six-level architecture.                             |
-| RIAH-LEGACY-2026-043 | 📂 BOT 5 / 💻 BOT 2            | [intersective — practera-app](https://github.com/intersective/practera-app)                    | Public Practera app repository has MIT license, Ionic/Angular/TypeScript development documentation and visible release history; latest returned commit September 30, 2026.                        | 100–102, 109                          | October 20, 2026 | 🟢 Public software code and development history; no evidence of RIAH source-code access, derivation or infringement.                                        |
-| RIAH-LEGACY-2026-044 | 📂 BOT 5 / 💻 BOT 2            | [intersective — practera-mcp-server](https://github.com/intersective/practera-mcp-server)      | Public MCP server README documents Practera GraphQL API integration, project authoring, assessments, reviews, import/export and project-brief search.                                             | 45, 49, 53, 57–58, 100–102, 109       | October 20, 2026 | 🟢 Public educational API and agent integration; no complete RIAH-specific integrated model established.                                                    |
-| RIAH-LEGACY-2026-045 | 🌐 BOT 1 / 📣 BOT 3 / 🎓 BOT 4 | [Practera — Employer Project Submission](https://practera.com/powering-your-organisation/)     | Employer-facing outreach invites real project briefs in market research, strategy, digital marketing, policy, technology and other domains; student teams produce feedback-reviewed deliverables. | 1–2, 20–26, 40–44, 53–56, 141–143     | October 20, 2026 | 🟢 Public employer acquisition and work-product model; no independently verified qualifying Tier.                                                           |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain                                                 | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|-----------------------------------------------------------------|:---------:|:---------:|:---------:|
-| BOT 1 — 🌐 Websites, Search Engines and SEO                     |     0     |     0     |     0     |
-| BOT 2 — 💻 Applications, Software and Technology                |     0     |     0     |     0     |
-| BOT 3 — 📣 Social Media, Backlinks and Marketing                |     0     |     0     |     0     |
-| BOT 4 — 🎓 Education, Experiential, Tuition and Benefits        |     0     |     0     |     0     |
-| BOT 5 — 📂 GitHub, Documentation and Contributors               |     0     |     0     |     0     |
-| **Unique Fully Qualified Outside Entities in Examined Sources** |   **0**   |   **0**   |   **0**   |
 
 👑 **RIAH Pathway.**
 
@@ -2153,26 +2018,6 @@ October 21, 2026: Five first-party public sources were examined across websites/
 
 Five 🟢 Green observations; 🔴 Tier 1: 0; 🟡 Tier 2: 0; 🟣 Tier 3: 0. The zero counts concern examined sources only. Similarity is not evidence of copying, infringement or misconduct.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Evidence | Categories | Observation Date | Tier |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-046 | 🌐 BOT 1 / 💻 BOT 2 / 🎓 BOT 4 | [Practera](https://practera.com/what-is-practera/) | Industry projects, authoring, mentor applications, feedback and analytics. | 1–2, 20–26, 45, 53–58 | October 21, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-047 | 📣 BOT 3 / 🎓 BOT 4 | [Practera 2026 outreach](https://go.practera.com/imagineif2026) | 2026 employer-project marketing and educational partnerships. | 20–26, 40–44 | October 21, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-048 | 📣 BOT 3 / 💻 BOT 2 | [Symba SHRM21](https://symba.io/symba-at-shrm-2021/) | Historical internship management and curriculum marketing. | 20–26, 53–58 | October 21, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-049 | 🎓 BOT 4 | [Guild employee benefits](https://guild.com/careers/benefits) | Education benefits for employees. | 77–80, 130–140 | October 21, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-050 | 📂 BOT 5 / 💻 BOT 2 | [Practera SDK README](https://github.com/intersective/practera-sdk-ionic/blob/master/README.md) | Public Ionic and Angular SDK development documentation. | 100–102, 109 | October 21, 2026 | 🟢 Green |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|---|---|---|
-| BOT 1 — Websites and SEO | 0 | 0 | 0 |
-| BOT 2 — Applications and Technology | 0 | 0 | 0 |
-| BOT 3 — Social Media and Marketing | 0 | 0 | 0 |
-| BOT 4 — Education and Benefits | 0 | 0 | 0 |
-| BOT 5 — GitHub and Contributors | 0 | 0 | 0 |
-| **Qualified entities in examined sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -2421,26 +2266,6 @@ The examined sources do not independently establish the complete integrated RIAH
 
 Five 🟢 Green observations; 🔴 Tier 1: 0; 🟡 Tier 2: 0; 🟣 Tier 3: 0. Findings apply only to examined sources.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Evidence | Categories | Observation Date | Tier |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-051 | 🌐 BOT 1 | [Canvas Career](https://www.instructure.com/canvas/canvas-career) | Skills-based career learning, role-aligned programs and analytics. | 45, 47, 53, 57–58 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-052 | 💻 BOT 2 | [Open edX Platform](https://github.com/openedx/openedx-platform) | Public LMS and course-authoring software; previously documented source revisited. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-053 | 📣 BOT 3 | [Canvas Career announcement](https://www.instructure.com/press-release/instructure-launches-canvas-career-skills-first-ai-powered-learning-experience) | Historical workforce-learning marketing; no comprehensive backlink audit. | 47, 79, 141–143 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-054 | 🎓 BOT 4 | [Registered Apprenticeship](https://www.apprenticeship.gov/employers/registered-apprenticeship-program) | Paid workplace experience, mentorship, instruction and credentials; historical source re-examined. | 1–2, 20–26, 47, 53–54, 59–65 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-055 | 📂 BOT 5 | [Kolibri GitHub](https://github.com/learningequality/kolibri) | Offline-first educational software, public repository and contributor documentation. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|---|---|---|
-| BOT 1 — Websites and SEO | 0 | 0 | 0 |
-| BOT 2 — Applications and Technology | 0 | 0 | 0 |
-| BOT 3 — Social Media and Marketing | 0 | 0 | 0 |
-| BOT 4 — Education and Benefits | 0 | 0 | 0 |
-| BOT 5 — GitHub and Contributors | 0 | 0 | 0 |
-| **Qualified entities in examined sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
 
@@ -2689,25 +2514,5 @@ The preserved 150-category matrix reflects historical reference-model comparison
 
 Five 🟢 Green observations; 🔴 Tier 1: 0; 🟡 Tier 2: 0; 🟣 Tier 3: 0. Findings concern examined sources only, not universal absence, uniqueness or wrongdoing.
 
-## XI. 📂 EVIDENCE REGISTER
-
-| Evidence ID | Bot | Public Source | Evidence | Categories | Observation Date | Tier |
-|---|---|---|---|---|---|---|
-| RIAH-LEGACY-2026-056 | 🌐 BOT 1 | [Riipen — Experiential Learning Platform](https://www.riipen.com/) | Public project-based learning platform connecting educators, employers and learners for real industry projects; public site features, not a comprehensive SEO audit. | 1–2, 20–26, 45, 47, 80 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-057 | 💻 BOT 2 | [Symba — Internship Program Resources](https://symba.io/sponsor-internship-program-resources/) | Intern onboarding, project management, feedback, alumni engagement and program dashboards documented in public product materials. | 20–26, 53–58, 100–102 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-058 | 📣 BOT 3 | [Riipen — September 2026 Webinar Recap](https://www.riipen.com/blog/2026-webinar-recap-between-commitment-and-capacity-five-moves-institutional-leaders-can-make-now) | Public September 29, 2026 marketing/educational outreach on scaling career-connected learning; no independent backlink or social engagement audit. | 20–26, 40–44, 141–143 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-059 | 🎓 BOT 4 | [Guild — Education Benefits FAQ](https://guild.com/faq) | Employer-funded education and tuition assistance facilitated with learning partners; direct assistance distinguished from traditional reimbursement. | 77–80, 130–140, 141–143 | October 23, 2026 | 🟢 Green |
-| RIAH-LEGACY-2026-060 | 📂 BOT 5 | [Moodle GitHub Repository](https://github.com/moodle/moodle) | Public open-source LMS repository, documentation, contributor and development materials; not evidence of RIAH source-code derivation. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
-
-## XII. 👑 FINAL TIER RESULTS
-
-| Research Domain | 🔴 Tier 1 | 🟡 Tier 2 | 🟣 Tier 3 |
-|---|---|---|---|
-| BOT 1 — Websites and SEO | 0 | 0 | 0 |
-| BOT 2 — Applications and Technology | 0 | 0 | 0 |
-| BOT 3 — Social Media and Marketing | 0 | 0 | 0 |
-| BOT 4 — Education and Benefits | 0 | 0 | 0 |
-| BOT 5 — GitHub and Contributors | 0 | 0 | 0 |
-| **Qualified entities in examined sources** | **0** | **0** | **0** |
 
 👑 **RIAH Pathway.**
