@@ -2016,8 +2016,18 @@ October 21, 2026: Five first-party public sources were examined across websites/
 
 ## X. ⚖️ TIER CLASSIFICATION
 
-Five 🟢 Green observations; 🔴 Tier 1: 0; 🟡 Tier 2: 0; 🟣 Tier 3: 0. The zero counts concern examined sources only. Similarity is not evidence of copying, infringement or misconduct.
+**🔴 Tier 1:** A complete corresponding integrated ecosystem
+independently verified within one identifiable outside organization or
+system.
 
+**🟡 Tier 2:** Two or more complete distinctive components independently
+verified as integrated within one identifiable outside system.
+
+**🟣 Tier 3:** One complete distinctive component independently verified
+within one identifiable outside system.
+
+**🟢 Green:** Common market functionality, partial similarity, or
+evidence insufficient to establish a qualifying Tier.
 
 👑 **RIAH Pathway.**
 
@@ -2264,8 +2274,18 @@ The examined sources do not independently establish the complete integrated RIAH
 
 ## X. ⚖️ TIER CLASSIFICATION
 
-Five 🟢 Green observations; 🔴 Tier 1: 0; 🟡 Tier 2: 0; 🟣 Tier 3: 0. Findings apply only to examined sources.
+**🔴 Tier 1:** A complete corresponding integrated ecosystem
+independently verified within one identifiable outside organization or
+system.
 
+**🟡 Tier 2:** Two or more complete distinctive components independently
+verified as integrated within one identifiable outside system.
+
+**🟣 Tier 3:** One complete distinctive component independently verified
+within one identifiable outside system.
+
+**🟢 Green:** Common market functionality, partial similarity, or
+evidence insufficient to establish a qualifying Tier.
 
 👑 **RIAH Pathway.**
 
@@ -2512,7 +2532,17 @@ The preserved 150-category matrix reflects historical reference-model comparison
 
 ## X. ⚖️ TIER CLASSIFICATION
 
-Five 🟢 Green observations; 🔴 Tier 1: 0; 🟡 Tier 2: 0; 🟣 Tier 3: 0. Findings concern examined sources only, not universal absence, uniqueness or wrongdoing.
+**🔴 Tier 1:** A complete corresponding integrated ecosystem
+independently verified within one identifiable outside organization or
+system.
 
+**🟡 Tier 2:** Two or more complete distinctive components independently
+verified as integrated within one identifiable outside system.
+
+**🟣 Tier 3:** One complete distinctive component independently verified
+within one identifiable outside system.
+
+**🟢 Green:** Common market functionality, partial similarity, or
+evidence insufficient to establish a qualifying Tier.
 
 👑 **RIAH Pathway.**
