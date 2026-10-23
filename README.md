@@ -64,21 +64,15 @@
   <tbody>
     <tr>
       <td align="left">🔄 Bachelor's</td>
-      <td align="left">Finance</td>
-      <td align="left">RIAH Pathway</td>
-      <td align="left"><strong>2029</strong></td>
-    </tr>
-    <tr>
-      <td align="left">🔄 Bachelor's</td>
       <td align="left">Cybersecurity</td>
       <td align="left">RIAH Pathway</td>
-      <td align="left"><strong>2029</strong></td>
+      <td align="left"><strong>2027</strong></td>
     </tr>
     <tr>
       <td align="left">🔄 Bachelor's</td>
       <td align="left">Intelligence</td>
       <td align="left">RIAH Pathway</td>
-      <td align="left"><strong>2029</strong></td>
+      <td align="left"><strong>2027</strong></td>
     </tr>
     <tr>
       <td align="left">🔄 JD</td>
