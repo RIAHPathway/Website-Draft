@@ -110,3 +110,15 @@ Run](https://github.com/RIAHPathway/Website-Draft/blob/main/RIAH-PATHWAY-LEGACY-
 | RIAH-LEGACY-2026-050 | 📂 BOT 5 / 💻 BOT 2 | [Practera SDK README](https://github.com/intersective/practera-sdk-ionic/blob/master/README.md) | Public Ionic and Angular SDK development documentation. | 100–102, 109 | October 21, 2026 | 🟢 Green |
 
 **Observation date:** October 21, 2026. These entries do not establish source release dates or wrongdoing.
+
+## RUN XI — OCTOBER 22, 2026
+
+Retrospective report; actual source observation date October 23, 2026. Historical re-examinations are not new releases.
+
+| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
+|---|---|---|---|---|---|---|
+| RIAH-LEGACY-2026-051 | 🌐 BOT 1 | [Canvas Career](https://www.instructure.com/canvas/canvas-career) | Skills-based career learning, role-aligned programs and analytics. | 45, 47, 53, 57–58 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-052 | 💻 BOT 2 | [Open edX Platform](https://github.com/openedx/openedx-platform) | Public LMS and course-authoring software; previously documented source revisited. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-053 | 📣 BOT 3 | [Canvas Career announcement](https://www.instructure.com/press-release/instructure-launches-canvas-career-skills-first-ai-powered-learning-experience) | Historical workforce-learning marketing; no comprehensive backlink audit. | 47, 79, 141–143 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-054 | 🎓 BOT 4 | [Registered Apprenticeship](https://www.apprenticeship.gov/employers/registered-apprenticeship-program) | Paid workplace experience, mentorship, instruction and credentials; historical source re-examined. | 1–2, 20–26, 47, 53–54, 59–65 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-055 | 📂 BOT 5 | [Kolibri GitHub](https://github.com/learningequality/kolibri) | Offline-first educational software, public repository and contributor documentation. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
