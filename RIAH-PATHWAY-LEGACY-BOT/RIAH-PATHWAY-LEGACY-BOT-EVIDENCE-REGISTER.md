@@ -122,3 +122,15 @@ Retrospective report; actual source observation date October 23, 2026. Historica
 | RIAH-LEGACY-2026-053 | 📣 BOT 3 | [Canvas Career announcement](https://www.instructure.com/press-release/instructure-launches-canvas-career-skills-first-ai-powered-learning-experience) | Historical workforce-learning marketing; no comprehensive backlink audit. | 47, 79, 141–143 | October 23, 2026 | 🟢 Green |
 | RIAH-LEGACY-2026-054 | 🎓 BOT 4 | [Registered Apprenticeship](https://www.apprenticeship.gov/employers/registered-apprenticeship-program) | Paid workplace experience, mentorship, instruction and credentials; historical source re-examined. | 1–2, 20–26, 47, 53–54, 59–65 | October 23, 2026 | 🟢 Green |
 | RIAH-LEGACY-2026-055 | 📂 BOT 5 | [Kolibri GitHub](https://github.com/learningequality/kolibri) | Offline-first educational software, public repository and contributor documentation. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
+
+## RUN XII — OCTOBER 23, 2026
+
+Public-source observations dated October 23, 2026; previously published source features are not claimed to be newly released.
+
+| Evidence ID | Bot | Public Source | Documented Evidence | Related Categories | Observation Date | Tier / Finding |
+|---|---|---|---|---|---|---|
+| RIAH-LEGACY-2026-056 | 🌐 BOT 1 | [Riipen — Experiential Learning Platform](https://www.riipen.com/) | Public project-based learning platform connecting educators, employers and learners for real industry projects; public site features, not a comprehensive SEO audit. | 1–2, 20–26, 45, 47, 80 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-057 | 💻 BOT 2 | [Symba — Internship Program Resources](https://symba.io/sponsor-internship-program-resources/) | Intern onboarding, project management, feedback, alumni engagement and program dashboards documented in public product materials. | 20–26, 53–58, 100–102 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-058 | 📣 BOT 3 | [Riipen — September 2026 Webinar Recap](https://www.riipen.com/blog/2026-webinar-recap-between-commitment-and-capacity-five-moves-institutional-leaders-can-make-now) | Public September 29, 2026 marketing/educational outreach on scaling career-connected learning; no independent backlink or social engagement audit. | 20–26, 40–44, 141–143 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-059 | 🎓 BOT 4 | [Guild — Education Benefits FAQ](https://guild.com/faq) | Employer-funded education and tuition assistance facilitated with learning partners; direct assistance distinguished from traditional reimbursement. | 77–80, 130–140, 141–143 | October 23, 2026 | 🟢 Green |
+| RIAH-LEGACY-2026-060 | 📂 BOT 5 | [Moodle GitHub Repository](https://github.com/moodle/moodle) | Public open-source LMS repository, documentation, contributor and development materials; not evidence of RIAH source-code derivation. | 45, 100–102, 109 | October 23, 2026 | 🟢 Green |
